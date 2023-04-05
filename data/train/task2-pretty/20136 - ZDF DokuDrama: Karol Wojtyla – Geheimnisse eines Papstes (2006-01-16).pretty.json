@@ -1,0 +1,440 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:4"
+            ],
+            "CueText": "laut",
+            "Form": "Indirect",
+            "Frame": [
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7"
+            ],
+            "FrameText": "laut Angaben des ZDFs",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:8",
+                "1:9",
+                "1:10",
+                "1:11",
+                "1:12",
+                "1:13",
+                "1:14",
+                "1:15",
+                "1:16",
+                "1:17",
+                "1:18",
+                "1:19",
+                "1:20",
+                "1:21",
+                "1:22"
+            ],
+            "MessageText": "Schwerpunkte des Filmes sollen die Jahre Karol Wojtylas während des Zweiten Weltkrieges und des Niederganges des kommunistischen Systems sein",
+            "STWR": "SW",
+            "Source": [
+                "1:5",
+                "1:6",
+                "1:7"
+            ],
+            "SourceText": "Angaben des ZDFs"
+        }
+    ],
+    "DocumentName": "20136 - ZDF DokuDrama: Karol Wojtyla – Geheimnisse eines Papstes (2006-01-16)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Das",
+                "Zweite",
+                "Deutsche",
+                "Fernsehen",
+                "dreht",
+                "ein",
+                "Doku-Drama",
+                "über",
+                "das",
+                "Leben",
+                "von",
+                "Papst",
+                "Johannes",
+                "Paul",
+                "II.",
+                ",",
+                "der",
+                "im",
+                "vergangenen",
+                "Jahr",
+                "verstorben",
+                "ist",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Schwerpunkte",
+                "des",
+                "Filmes",
+                "sollen",
+                "laut",
+                "Angaben",
+                "des",
+                "ZDFs",
+                "die",
+                "Jahre",
+                "Karol",
+                "Wojtylas",
+                "während",
+                "des",
+                "Zweiten",
+                "Weltkrieges",
+                "und",
+                "des",
+                "Niederganges",
+                "des",
+                "kommunistischen",
+                "Systems",
+                "sein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Als",
+                "Regisseur",
+                "verpflichtete",
+                "das",
+                "ZDF",
+                "Gero",
+                "von",
+                "Boehm",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Als",
+                "Hauptdarsteller",
+                "werden",
+                "David",
+                "Striesow",
+                "den",
+                "jungen",
+                "Wojtyla",
+                "und",
+                "Michael",
+                "Mendl",
+                "den",
+                "Papst",
+                "Johannes",
+                "Paul",
+                "II.",
+                "spielen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Striesow",
+                "ist",
+                "dem",
+                "Publikum",
+                "im",
+                "Deutschen",
+                "Fernsehen",
+                "als",
+                "Kommissar",
+                "bekannt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Er",
+                "spielt",
+                "diese",
+                "Rolle",
+                "in",
+                "der",
+                "Krimiserie",
+                "„",
+                "Bella",
+                "Block",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Cosma",
+                "Shiva",
+                "Hagen",
+                "spielt",
+                "seine",
+                "Freundin",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Der",
+                "Schauspieler",
+                "Mario",
+                "Adorf",
+                "spielt",
+                "die",
+                "Rolle",
+                "des",
+                "Peppino",
+                "Mancuso",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Dieser",
+                "war",
+                "dem",
+                "Papst",
+                "als",
+                "Gärtner",
+                "der",
+                "vatikanischen",
+                "Gärten",
+                "bei",
+                "seinen",
+                "Spaziergängen",
+                "begegnet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Zusätzlich",
+                "werden",
+                "wichtige",
+                "Persönlichkeiten",
+                "den",
+                "Lebensweg",
+                "des",
+                "Papstes",
+                "im",
+                "Film",
+                "kommentieren",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Dabei",
+                "kommen",
+                "verschiedene",
+                "Politiker",
+                "zu",
+                "Wort",
+                ":",
+                "Helmut",
+                "Kohl",
+                ",",
+                "Henry",
+                "Kissinger",
+                ",",
+                "Zbignew",
+                "Brzezinski",
+                ",",
+                "Wojtech",
+                "Jaruzelski",
+                ",",
+                "Michail",
+                "Sergejewitsch",
+                "Gorbatschow",
+                "und",
+                "Lech",
+                "Wałęsa",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Das",
+                "Privatleben",
+                "Karol",
+                "Wojtylas",
+                "wird",
+                "ebenfalls",
+                "dokumentiert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Hier",
+                "konnte",
+                "das",
+                "ZDF",
+                "Freunde",
+                "und",
+                "Verwandte",
+                "aus",
+                "Schul-",
+                "und",
+                "Theaterzeiten",
+                "des",
+                "jungen",
+                "Christen",
+                "engagieren",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Auch",
+                "seine",
+                "ehemalige",
+                "Freundin",
+                ",",
+                "die",
+                "Schauspielerin",
+                "Halina",
+                ",",
+                "kommt",
+                "zu",
+                "Wort",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Die",
+                "Dreharbeiten",
+                "begannen",
+                "am",
+                "Freitag",
+                ",",
+                "den",
+                "13.",
+                "Januar",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "Das",
+                "ZDF",
+                "dreht",
+                "den",
+                "Film",
+                "an",
+                "Originalschauplätzen",
+                "in",
+                "Polen",
+                "und",
+                "im",
+                "Vatikan",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 16,
+            "Tokens": [
+                "Auch",
+                "in",
+                "Deutschland",
+                "wird",
+                "gedreht",
+                ":"
+            ]
+        },
+        {
+            "SentenceId": 17,
+            "Tokens": [
+                "Am",
+                "19.",
+                "Januar",
+                "2006",
+                "siedelt",
+                "das",
+                "Drehteam",
+                "nach",
+                "Görlitz",
+                "um",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 18,
+            "Tokens": [
+                "Den",
+                "Namen",
+                "der",
+                "Fernsehsendung",
+                "gab",
+                "das",
+                "ZDF",
+                "auch",
+                "bereits",
+                "bekannt",
+                ":",
+                "„",
+                "Karol",
+                "Wojtyla",
+                "–",
+                "Geheimnisse",
+                "eines",
+                "Papstes",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 19,
+            "Tokens": [
+                "Der",
+                "Sendetermin",
+                "wird",
+                "im",
+                "Zusammenhang",
+                "mit",
+                "dem",
+                "ersten",
+                "Todestag",
+                "des",
+                "Papstes",
+                "liegen",
+                ",",
+                "das",
+                "genaue",
+                "Datum",
+                "ist",
+                "jedoch",
+                "noch",
+                "nicht",
+                "bekannt",
+                "."
+            ]
+        }
+    ]
+}

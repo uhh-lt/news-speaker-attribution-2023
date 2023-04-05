@@ -1,0 +1,398 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:8"
+            ],
+            "CueText": "verlangte",
+            "Form": "Indirect",
+            "Frame": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9"
+            ],
+            "FrameText": "Der Mann hinterließ einen Zettel in dem er verlangte ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:10",
+                "2:11",
+                "2:12",
+                "2:13",
+                "2:14",
+                "2:15",
+                "2:16",
+                "2:17"
+            ],
+            "MessageText": "dass weder Polizei noch Presse eingeschaltet werden sollten",
+            "STWR": "Writing",
+            "Source": [
+                "2:7"
+            ],
+            "SourceText": "er"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5"
+            ],
+            "MessageText": "Außerdem forderte er ein Lösegeld .",
+            "STWR": "Writing",
+            "Source": [
+                "3:2"
+            ],
+            "SourceText": "er"
+        }
+    ],
+    "DocumentName": "66171 - Brandenburg: Entführung einer Vierjährigen (2011-02-11)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Am",
+                "Donnerstag",
+                ",",
+                "dem",
+                "10.",
+                "Februar",
+                "2011",
+                "wurde",
+                "in",
+                "Kleinmachnow",
+                "ein",
+                "vierjähriges",
+                "Mädchen",
+                "entführt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Gegen",
+                "8:09",
+                "Uhr",
+                "wollte",
+                "eine",
+                "41-jährige",
+                "Steuerberaterin",
+                "ihre",
+                "Tochter",
+                "in",
+                "den",
+                "Kindergarten",
+                "bringen",
+                ",",
+                "als",
+                "plötzlich",
+                "ein",
+                "maskierter",
+                ",",
+                "mit",
+                "einer",
+                "Sichel",
+                "bewaffneter",
+                "Mann",
+                "vor",
+                "ihr",
+                "stand",
+                ",",
+                "der",
+                "ihr",
+                "ihre",
+                "Tochter",
+                "entriss",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Der",
+                "Mann",
+                "hinterließ",
+                "einen",
+                "Zettel",
+                "in",
+                "dem",
+                "er",
+                "verlangte",
+                ",",
+                "dass",
+                "weder",
+                "Polizei",
+                "noch",
+                "Presse",
+                "eingeschaltet",
+                "werden",
+                "sollten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Außerdem",
+                "forderte",
+                "er",
+                "ein",
+                "Lösegeld",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Mit",
+                "dem",
+                "Kind",
+                "stieg",
+                "der",
+                "Mann",
+                "in",
+                "einen",
+                "roten",
+                "Renault",
+                "Clio",
+                ",",
+                "der",
+                "ein",
+                "gestohlenes",
+                "tschechisches",
+                "Diplomatenkennzeichen",
+                "trug",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Der",
+                "Täter",
+                "wollte",
+                "sich",
+                "um",
+                "18.45",
+                "Uhr",
+                "wieder",
+                "melden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Nachdem",
+                "die",
+                "Steuerberaterin",
+                "die",
+                "Polizei",
+                "informiert",
+                "hatte",
+                ",",
+                "wurde",
+                "eine",
+                "400-köpfige",
+                "Sonderkommission",
+                "eingerichtet",
+                ",",
+                "um",
+                "das",
+                "Mädchen",
+                "zu",
+                "retten",
+                "und",
+                "den",
+                "Täter",
+                "festzunehmen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Nach",
+                "einem",
+                "Telefonkontakt",
+                "mit",
+                "dem",
+                "Täter",
+                "wurde",
+                "Lösegeld",
+                "in",
+                "der",
+                "Nähe",
+                "von",
+                "Fürstenwalde",
+                "übergeben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Gegen",
+                "21.28",
+                "Uhr",
+                "wurde",
+                "die",
+                "Vierjährige",
+                "in",
+                "der",
+                "Nähe",
+                "ihres",
+                "Wohnhauses",
+                "von",
+                "Nachbarn",
+                "entdeckt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Der",
+                "Täter",
+                "flüchtete",
+                "mit",
+                "einer",
+                "Geschwindigkeit",
+                "von",
+                "80",
+                "Kilometern",
+                "pro",
+                "Stunde",
+                "auf",
+                "dem",
+                "Standstreifen",
+                "über",
+                "die",
+                "BAB",
+                "12",
+                "zurück",
+                "nach",
+                "Kleinmachnow",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Die",
+                "Beamten",
+                "des",
+                "Sondereinsatzkommandos",
+                "nahmen",
+                "den",
+                "Täter",
+                "fest",
+                ",",
+                "nachdem",
+                "klar",
+                "war",
+                ",",
+                "dass",
+                "sich",
+                "das",
+                "Mädchen",
+                "in",
+                "Sicherheit",
+                "befand",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Im",
+                "Auto",
+                "fanden",
+                "die",
+                "Mitglieder",
+                "der",
+                "Sonderkommission",
+                "das",
+                "Lösegeld",
+                "und",
+                "die",
+                "Tatwaffe",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Die",
+                "Medien",
+                "wurden",
+                "von",
+                "der",
+                "Polizei",
+                "erst",
+                "nach",
+                "der",
+                "Festnahme",
+                "des",
+                "Mannes",
+                "informiert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Der",
+                "Täter",
+                "wird",
+                "sich",
+                "wegen",
+                "erpresserischen",
+                "Menschenraubs",
+                "(",
+                "§",
+                "239a",
+                "Strafgesetzbuch",
+                ")",
+                "verantworten",
+                "müssen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Ihm",
+                "droht",
+                "eine",
+                "Freiheitsstrafe",
+                "von",
+                "mindestens",
+                "fünf",
+                "Jahren",
+                "."
+            ]
+        }
+    ]
+}

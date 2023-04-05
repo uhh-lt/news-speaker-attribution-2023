@@ -1,0 +1,485 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8"
+            ],
+            "MessageText": "Verschiedene Länderparlamente fordern nun Konsequenzen aus diesen Affären .",
+            "STWR": "SW",
+            "Source": [
+                "2:0",
+                "2:1"
+            ],
+            "SourceText": "Verschiedene Länderparlamente"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "FreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10",
+                "3:11",
+                "3:12",
+                "3:13",
+                "3:14",
+                "3:15",
+                "3:16",
+                "3:17",
+                "3:18",
+                "3:19"
+            ],
+            "MessageText": "So sollen beispielsweise die Abgeordneten künftig nicht nur die Art der Nebeneinkünfte , sondern auch deren Höhe offenlegen müssen .",
+            "STWR": "SW",
+            "Source": [
+                "2:0",
+                "2:1"
+            ],
+            "SourceText": "Verschiedene Länderparlamente"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9"
+            ],
+            "MessageText": "Bayern möchte beispielsweise einheitliche Standards in allen Bundesländern einführen .",
+            "STWR": "SW",
+            "Source": [
+                "4:0"
+            ],
+            "SourceText": "Bayern"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6"
+            ],
+            "MessageText": "Bundestagspräsident Wolfgang Thierse fordert zusätzliche Offenlegungspflichten .",
+            "STWR": "SW",
+            "Source": [
+                "5:0",
+                "5:1",
+                "5:2"
+            ],
+            "SourceText": "Bundestagspräsident Wolfgang Thierse"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "8:0",
+                "8:1",
+                "8:3",
+                "8:4"
+            ],
+            "CueText": "Als Begründung heißt es",
+            "Form": "Indirect",
+            "Frame": [
+                "8:0",
+                "8:1",
+                "8:2",
+                "8:3",
+                "8:4",
+                "8:5"
+            ],
+            "FrameText": "Als Begründung dafür heißt es ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "8:6",
+                "8:7",
+                "8:8",
+                "8:9",
+                "8:10",
+                "8:11",
+                "8:12",
+                "8:13",
+                "8:14",
+                "8:15",
+                "8:16",
+                "8:17",
+                "8:18"
+            ],
+            "MessageText": "die bestehenden Gesetze seien völlig ausreichend , zum Teil sogar jetzt schon überzogen",
+            "STWR": "Speech",
+            "Source": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5"
+            ],
+            "SourceText": "Die Union sowie auch die FDP"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3",
+                "9:4",
+                "9:5",
+                "9:6",
+                "9:7",
+                "9:8",
+                "9:9",
+                "9:10",
+                "9:11",
+                "9:12",
+                "9:13",
+                "9:14",
+                "9:15",
+                "9:16",
+                "9:17",
+                "9:18",
+                "9:19",
+                "9:20",
+                "9:21",
+                "9:22",
+                "9:23",
+                "9:24"
+            ],
+            "MessageText": "Bundespräsident Horst Köhler möchte nun diese Debatte versachlichen , nimmt die Abgeordneten sogar in Schutz und warnt vor einer pauschalen Verurteilung wegen deren Nebentätigkeiten .",
+            "STWR": "SW",
+            "Source": [
+                "9:0",
+                "9:1",
+                "9:2"
+            ],
+            "SourceText": "Bundespräsident Horst Köhler"
+        }
+    ],
+    "DocumentName": "2668 - Bundespräsident Köhler warnt vor pauschaler Verurteilung deutscher Politiker (2005-01-10)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Vor",
+                "etwa",
+                "vier",
+                "Wochen",
+                "hat",
+                "die",
+                "Gehaltsaffäre",
+                "des",
+                "CDU-Politikers",
+                "Laurenz",
+                "Meyer",
+                "in",
+                "Deutschland",
+                "großes",
+                "Aufsehen",
+                "erregt",
+                "und",
+                "wurde",
+                "mit",
+                "seinem",
+                "Rücktritt",
+                "beendet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Anschließend",
+                "gerieten",
+                "zahlreiche",
+                "weitere",
+                "Politiker",
+                "und",
+                "Bundestagsabgeordnete",
+                "ins",
+                "Kreuzfeuer",
+                "der",
+                "Kritik",
+                "wegen",
+                "Gehaltszahlungen",
+                "deutscher",
+                "Unternehmen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Verschiedene",
+                "Länderparlamente",
+                "fordern",
+                "nun",
+                "Konsequenzen",
+                "aus",
+                "diesen",
+                "Affären",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "So",
+                "sollen",
+                "beispielsweise",
+                "die",
+                "Abgeordneten",
+                "künftig",
+                "nicht",
+                "nur",
+                "die",
+                "Art",
+                "der",
+                "Nebeneinkünfte",
+                ",",
+                "sondern",
+                "auch",
+                "deren",
+                "Höhe",
+                "offenlegen",
+                "müssen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Bayern",
+                "möchte",
+                "beispielsweise",
+                "einheitliche",
+                "Standards",
+                "in",
+                "allen",
+                "Bundesländern",
+                "einführen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Bundestagspräsident",
+                "Wolfgang",
+                "Thierse",
+                "fordert",
+                "zusätzliche",
+                "Offenlegungspflichten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Jetzt",
+                "regt",
+                "sich",
+                "Widerstand",
+                "gegen",
+                "diese",
+                "Bestrebungen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Die",
+                "Union",
+                "sowie",
+                "auch",
+                "die",
+                "FDP",
+                "sprechen",
+                "sich",
+                "offen",
+                "gegen",
+                "strengere",
+                "Regelungen",
+                "aus",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Als",
+                "Begründung",
+                "dafür",
+                "heißt",
+                "es",
+                ",",
+                "die",
+                "bestehenden",
+                "Gesetze",
+                "seien",
+                "völlig",
+                "ausreichend",
+                ",",
+                "zum",
+                "Teil",
+                "sogar",
+                "jetzt",
+                "schon",
+                "überzogen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Bundespräsident",
+                "Horst",
+                "Köhler",
+                "möchte",
+                "nun",
+                "diese",
+                "Debatte",
+                "versachlichen",
+                ",",
+                "nimmt",
+                "die",
+                "Abgeordneten",
+                "sogar",
+                "in",
+                "Schutz",
+                "und",
+                "warnt",
+                "vor",
+                "einer",
+                "pauschalen",
+                "Verurteilung",
+                "wegen",
+                "deren",
+                "Nebentätigkeiten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Mittlerweile",
+                "gelangten",
+                "weitere",
+                "Fälle",
+                "von",
+                "bisher",
+                "nicht",
+                "bekannten",
+                "Nebentätigkeiten",
+                "an",
+                "die",
+                "Öffentlichkeit",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Betroffen",
+                "sind",
+                "diesmal",
+                "Bundestagsabgeordnete",
+                "der",
+                "SPD",
+                "sowie",
+                "der",
+                "CDU",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "In",
+                "Dortmund",
+                "wird",
+                "derzeit",
+                "aufgrund",
+                "einer",
+                "privaten",
+                "Anzeige",
+                "die",
+                "Aufnahme",
+                "eines",
+                "Ermittlungsverfahrens",
+                "in",
+                "Sachen",
+                "Offenlegung",
+                "geprüft",
+                "."
+            ]
+        }
+    ]
+}

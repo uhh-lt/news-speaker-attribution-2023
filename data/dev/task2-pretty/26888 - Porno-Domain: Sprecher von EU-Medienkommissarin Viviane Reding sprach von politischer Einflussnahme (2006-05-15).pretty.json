@@ -1,0 +1,93 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Indirect",
+            "Frame": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8"
+            ],
+            "FrameText": "ICANN-Chef Paul Twomey hat diesen Vorwurf bereits zurückgewiesen ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:9",
+                "1:10",
+                "1:11",
+                "1:12",
+                "1:13"
+            ],
+            "MessageText": "da er jeder Grundlage entbehre",
+            "STWR": "SW",
+            "Source": [
+                "1:0",
+                "1:1",
+                "1:2"
+            ],
+            "SourceText": "ICANN-Chef Paul Twomey"
+        }
+    ],
+    "DocumentName": "26888 - Porno-Domain: Sprecher von EU-Medienkommissarin Viviane Reding sprach von politischer Einflussnahme (2006-05-15)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Ein",
+                "Sprecher",
+                "der",
+                "EU-Medienkommissarin",
+                "Viviane",
+                "Reding",
+                "erklärte",
+                "am",
+                "12.",
+                "Mai",
+                "im",
+                "Zusammenhang",
+                "mit",
+                "der",
+                "Ablehnung",
+                "der",
+                "Porno-Domain",
+                ".xxx",
+                "durch",
+                "die",
+                "ICANN",
+                "von",
+                "politischer",
+                "Einflussnahme",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "ICANN-Chef",
+                "Paul",
+                "Twomey",
+                "hat",
+                "diesen",
+                "Vorwurf",
+                "bereits",
+                "zurückgewiesen",
+                ",",
+                "da",
+                "er",
+                "jeder",
+                "Grundlage",
+                "entbehre",
+                "."
+            ]
+        }
+    ]
+}

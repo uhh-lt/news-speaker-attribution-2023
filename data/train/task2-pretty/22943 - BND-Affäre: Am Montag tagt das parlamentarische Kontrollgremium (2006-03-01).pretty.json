@@ -1,0 +1,744 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:2",
+                "2:14"
+            ],
+            "CueText": "hatte zurückgewiesen",
+            "Form": "Direct",
+            "Frame": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9",
+                "2:10",
+                "2:14",
+                "2:15"
+            ],
+            "FrameText": "Die Bundesregierung hatte den Bericht der New York Times umgehend als zurückgewiesen .",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:11",
+                "2:12",
+                "2:13"
+            ],
+            "MessageText": "„ falsch “",
+            "STWR": "Speech",
+            "Source": [
+                "2:0",
+                "2:1"
+            ],
+            "SourceText": "Die Bundesregierung"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "10:0",
+                "10:6"
+            ],
+            "CueText": "Von sprach",
+            "Form": "Direct",
+            "Frame": [
+                "10:0",
+                "10:1",
+                "10:6",
+                "10:7",
+                "10:8",
+                "10:9",
+                "10:10",
+                "10:11"
+            ],
+            "FrameText": "Von einer sprach der Grünen-Politiker Christian Ströbele .",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "10:2",
+                "10:3",
+                "10:4",
+                "10:5"
+            ],
+            "MessageText": "„ gezielten Indiskredition “",
+            "STWR": "Speech",
+            "Source": [
+                "10:7",
+                "10:8",
+                "10:9",
+                "10:10"
+            ],
+            "SourceText": "der Grünen-Politiker Christian Ströbele"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "11:2"
+            ],
+            "CueText": "nannte",
+            "Form": "Direct",
+            "Frame": [
+                "11:0",
+                "11:1",
+                "11:2",
+                "11:3",
+                "11:4",
+                "11:5"
+            ],
+            "FrameText": "SPD-Innenexperte Wiefelspütz nannte den Bericht eine",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "11:6",
+                "11:7",
+                "11:8"
+            ],
+            "MessageText": "„ Zeitungsente “",
+            "STWR": "Speech",
+            "Source": [
+                "11:0",
+                "11:1"
+            ],
+            "SourceText": "SPD-Innenexperte Wiefelspütz"
+        },
+        {
+            "Addr": [
+                "13:1",
+                "13:2"
+            ],
+            "AddrText": "Spiegel Online",
+            "Cue": [
+                "13:3"
+            ],
+            "CueText": "berichtete",
+            "Form": "Indirect",
+            "Frame": [
+                "13:0",
+                "13:1",
+                "13:2",
+                "13:3",
+                "13:4",
+                "13:5",
+                "13:6",
+                "13:7"
+            ],
+            "FrameText": "Gegenüber Spiegel Online berichtete Michael Gordon davon ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "13:8",
+                "13:9",
+                "13:10",
+                "13:11",
+                "13:12",
+                "13:13",
+                "13:14",
+                "13:15",
+                "13:16",
+                "13:17",
+                "13:18",
+                "13:19",
+                "13:20",
+                "13:21",
+                "13:22",
+                "13:23"
+            ],
+            "MessageText": "dass er den deutschen Regierungssprecher Wilhelm angerufen habe , um ihn nach den Fakten zu fragen",
+            "STWR": "Speech",
+            "Source": [
+                "13:4",
+                "13:5"
+            ],
+            "SourceText": "Michael Gordon"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "13:27"
+            ],
+            "CueText": "nach",
+            "Form": "Indirect",
+            "Frame": [
+                "13:27",
+                "13:28",
+                "13:29"
+            ],
+            "FrameText": "nach Aussagen Gordons",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "13:25",
+                "13:26",
+                "13:30",
+                "13:31",
+                "13:32",
+                "13:33"
+            ],
+            "MessageText": "worauf dieser keine Stellungnahme abgeben wollte",
+            "STWR": "Speech",
+            "Source": [
+                "13:28",
+                "13:29"
+            ],
+            "SourceText": "Aussagen Gordons"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "14:1"
+            ],
+            "CueText": "sagte",
+            "Form": "Indirect",
+            "Frame": [
+                "14:0",
+                "14:1",
+                "14:2",
+                "14:3",
+                "14:4"
+            ],
+            "FrameText": "Weiter sagte der Journalist ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "14:5",
+                "14:6",
+                "14:7",
+                "14:8",
+                "14:9",
+                "14:10",
+                "14:11",
+                "14:12",
+                "14:13",
+                "14:14",
+                "14:15",
+                "14:16",
+                "14:17",
+                "14:18",
+                "14:19",
+                "14:20",
+                "14:21"
+            ],
+            "MessageText": "er verstehe nicht , wie der Regierungssprecher in der Pressekonferenz behaupten konnte , der Bericht sei falsch",
+            "STWR": "Speech",
+            "Source": [
+                "14:2",
+                "14:3"
+            ],
+            "SourceText": "der Journalist"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "15:0"
+            ],
+            "CueText": "Laut",
+            "Form": "Indirect",
+            "Frame": [
+                "15:0",
+                "15:1",
+                "15:2"
+            ],
+            "FrameText": "Laut Michael Gordon",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "15:3",
+                "15:4",
+                "15:5",
+                "15:6",
+                "15:7",
+                "15:8",
+                "15:9",
+                "15:10",
+                "15:11",
+                "15:12",
+                "15:13",
+                "15:14",
+                "15:15",
+                "15:16",
+                "15:17",
+                "15:18",
+                "15:19"
+            ],
+            "MessageText": "kann höchstens die Studie des US-Militärs falsch sein , auf die er sich in seinem Bericht beruft",
+            "STWR": "Speech",
+            "Source": [
+                "15:1",
+                "15:2"
+            ],
+            "SourceText": "Michael Gordon"
+        }
+    ],
+    "DocumentName": "22943 - BND-Affäre: Am Montag tagt das parlamentarische Kontrollgremium (2006-03-01)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Nachdem",
+                "die",
+                "„",
+                "New",
+                "York",
+                "Times",
+                "“",
+                "am",
+                "Montag",
+                "neue",
+                "Verdachtsmomente",
+                "für",
+                "eine",
+                "Beteiligung",
+                "des",
+                "deutschen",
+                "Bundesnachrichtendienstes",
+                "(",
+                "BND",
+                ")",
+                "an",
+                "den",
+                "Kriegsplanungen",
+                "der",
+                "US-Truppen",
+                "im",
+                "Irak",
+                "präsentierte",
+                ",",
+                "wird",
+                "die",
+                "Diskussion",
+                "im",
+                "politischen",
+                "Raum",
+                "der",
+                "Bundeshauptstadt",
+                "wieder",
+                "neu",
+                "belebt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Zuvor",
+                "hatte",
+                "die",
+                "Vorlage",
+                "eines",
+                "Berichts",
+                "der",
+                "Bundesregierung",
+                "über",
+                "die",
+                "Aktivitäten",
+                "des",
+                "BND",
+                "im",
+                "Irak",
+                "für",
+                "eine",
+                "gewisse",
+                "Beruhigung",
+                "der",
+                "Debatte",
+                "gesorgt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Die",
+                "Bundesregierung",
+                "hatte",
+                "den",
+                "Bericht",
+                "der",
+                "New",
+                "York",
+                "Times",
+                "umgehend",
+                "als",
+                "„",
+                "falsch",
+                "“",
+                "zurückgewiesen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Die",
+                "Grünen",
+                "bezweifelten",
+                "jedoch",
+                "das",
+                "Dementi",
+                "der",
+                "Bundesregierung",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Ebenfalls",
+                "wiederbelebt",
+                "wurde",
+                "die",
+                "Diskussion",
+                "über",
+                "das",
+                "Für",
+                "und",
+                "Wider",
+                "eines",
+                "Untersuchungsausschusses",
+                "zu",
+                "diesem",
+                "Thema",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Die",
+                "Bundesregierung",
+                "hat",
+                "zunächst",
+                "für",
+                "Montag",
+                "zu",
+                "einer",
+                "Sondersitzung",
+                "des",
+                "zuständigen",
+                "Bundestagsausschusses",
+                "geladen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Danach",
+                "werden",
+                "die",
+                "Oppositionsparteien",
+                "über",
+                "die",
+                "Einberufung",
+                "eines",
+                "Untersuchungsausschusses",
+                "beraten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Die",
+                "drei",
+                "Oppositionsparteien",
+                "können",
+                "einen",
+                "solchen",
+                "Ausschuss",
+                "nur",
+                "gemeinsam",
+                "erreichen",
+                ",",
+                "da",
+                "25",
+                "Prozent",
+                "der",
+                "Mitglieder",
+                "des",
+                "Bundestages",
+                "für",
+                "einen",
+                "entsprechenden",
+                "Antrag",
+                "stimmen",
+                "müssten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Der",
+                "Bericht",
+                "der",
+                "New",
+                "York",
+                "Times",
+                "steht",
+                "dabei",
+                "ebenfalls",
+                "auf",
+                "dem",
+                "Prüfstand",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Politiker",
+                "mehrerer",
+                "Parteien",
+                "zweifelten",
+                "am",
+                "Wahrheitsgehalt",
+                "der",
+                "Berichte",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Von",
+                "einer",
+                "„",
+                "gezielten",
+                "Indiskredition",
+                "“",
+                "sprach",
+                "der",
+                "Grünen-Politiker",
+                "Christian",
+                "Ströbele",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "SPD-Innenexperte",
+                "Wiefelspütz",
+                "nannte",
+                "den",
+                "Bericht",
+                "eine",
+                "„",
+                "Zeitungsente",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Bill",
+                "Keller",
+                ",",
+                "der",
+                "Chefredakteur",
+                "der",
+                "„",
+                "New",
+                "York",
+                "Times",
+                "“",
+                ",",
+                "bekräftigt",
+                "in",
+                "einer",
+                "Stellungnahme",
+                "vom",
+                "27.02.2006",
+                "den",
+                "Bericht",
+                "von",
+                "Michael",
+                "Gordon",
+                "und",
+                "zitiert",
+                "noch",
+                "einmal",
+                "aus",
+                "der",
+                "geheimen",
+                "Studie",
+                "des",
+                "US-Militärs",
+                "über",
+                "die",
+                "irakische",
+                "Verteidigungsstrategie",
+                ",",
+                "die",
+                "aus",
+                "dem",
+                "Jahr",
+                "2005",
+                "stammt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Gegenüber",
+                "Spiegel",
+                "Online",
+                "berichtete",
+                "Michael",
+                "Gordon",
+                "davon",
+                ",",
+                "dass",
+                "er",
+                "den",
+                "deutschen",
+                "Regierungssprecher",
+                "Wilhelm",
+                "angerufen",
+                "habe",
+                ",",
+                "um",
+                "ihn",
+                "nach",
+                "den",
+                "Fakten",
+                "zu",
+                "fragen",
+                ",",
+                "worauf",
+                "dieser",
+                "nach",
+                "Aussagen",
+                "Gordons",
+                "keine",
+                "Stellungnahme",
+                "abgeben",
+                "wollte",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Weiter",
+                "sagte",
+                "der",
+                "Journalist",
+                ",",
+                "er",
+                "verstehe",
+                "nicht",
+                ",",
+                "wie",
+                "der",
+                "Regierungssprecher",
+                "in",
+                "der",
+                "Pressekonferenz",
+                "behaupten",
+                "konnte",
+                ",",
+                "der",
+                "Bericht",
+                "sei",
+                "falsch",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "Laut",
+                "Michael",
+                "Gordon",
+                "kann",
+                "höchstens",
+                "die",
+                "Studie",
+                "des",
+                "US-Militärs",
+                "falsch",
+                "sein",
+                ",",
+                "auf",
+                "die",
+                "er",
+                "sich",
+                "in",
+                "seinem",
+                "Bericht",
+                "beruft",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 16,
+            "Tokens": [
+                "Dies",
+                "hält",
+                "er",
+                "aber",
+                "aufgrund",
+                "vieler",
+                "Details",
+                "für",
+                "unwahrscheinlich",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 17,
+            "Tokens": [
+                "Michael",
+                "Gordon",
+                "ist",
+                "Militärexperte",
+                "der",
+                "„",
+                "New",
+                "York",
+                "Times",
+                "“",
+                "und",
+                "hat",
+                "in",
+                "letzter",
+                "Zeit",
+                "für",
+                "sein",
+                "Buch",
+                "„",
+                "Cobra",
+                "II",
+                "–",
+                "die",
+                "wirkliche",
+                "Geschichte",
+                "der",
+                "Invasion",
+                "und",
+                "der",
+                "Besetzung",
+                "Iraks",
+                "“",
+                "recherchiert",
+                "."
+            ]
+        }
+    ]
+}

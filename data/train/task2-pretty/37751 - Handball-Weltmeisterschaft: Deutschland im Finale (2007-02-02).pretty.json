@@ -1,0 +1,88 @@
+{
+    "Annotations": [],
+    "DocumentName": "37751 - Handball-Weltmeisterschaft: Deutschland im Finale (2007-02-02)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Die",
+                "deutsche",
+                "Handballnationalmannschaft",
+                "hat",
+                "in",
+                "einem",
+                "spannenden",
+                "Spiel",
+                "gegen",
+                "Frankreich",
+                "den",
+                "Einzug",
+                "ins",
+                "Finale",
+                "geschafft",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Der",
+                "Endstand",
+                "nach",
+                "zweimal",
+                "zehn",
+                "Minuten",
+                "Verlängerung",
+                "lautete",
+                "32:31."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Entscheidend",
+                "war",
+                "eine",
+                "Parade",
+                "des",
+                "deutschen",
+                "Torhüters",
+                "Fritz",
+                ",",
+                "der",
+                "den",
+                "letzten",
+                "Wurf",
+                "eines",
+                "Franzosen",
+                "parierte",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Gegner",
+                "der",
+                "deutschen",
+                "Mannschaft",
+                "im",
+                "Finale",
+                "ist",
+                "Polen",
+                ",",
+                "das",
+                "sein",
+                "Halbfinalspiel",
+                "gegen",
+                "Dänemark",
+                "nach",
+                "Verlängerung",
+                "mit",
+                "36:33",
+                "gewann",
+                "."
+            ]
+        }
+    ]
+}

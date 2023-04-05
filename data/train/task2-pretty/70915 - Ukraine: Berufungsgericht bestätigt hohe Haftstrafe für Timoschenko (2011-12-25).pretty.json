@@ -1,0 +1,368 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4",
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8",
+                "0:9",
+                "0:10",
+                "0:11",
+                "0:12",
+                "0:13",
+                "0:14"
+            ],
+            "MessageText": "Am Freitag hat ein Gericht das Urteil gegen die ehemalige Ministerpräsidentin Julia Timoschenko bestätigt .",
+            "STWR": "Speech",
+            "Source": [
+                "0:3",
+                "0:4"
+            ],
+            "SourceText": "ein Gericht"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "5:14",
+                "5:15",
+                "5:16",
+                "5:17",
+                "5:18",
+                "5:19"
+            ],
+            "MessageText": "Timoschenko bestreitet den Vorwurf bis heute und sieht , wie viele westliche Länder , politische Gründe für das Urteil .",
+            "STWR": "SW",
+            "Source": [
+                "5:0"
+            ],
+            "SourceText": "Timoschenko"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "11:8"
+            ],
+            "CueText": "sagte",
+            "Form": "Direct",
+            "Frame": [
+                "11:0",
+                "11:1",
+                "11:2",
+                "11:3",
+                "11:4",
+                "11:5",
+                "11:6",
+                "11:7",
+                "11:8",
+                "11:9",
+                "11:10",
+                "11:11"
+            ],
+            "FrameText": "Olexandr Olexandr Turtschynow , der Exstellvertreter von Timoschenko sagte über Janukowytsch :",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "11:12",
+                "11:13",
+                "11:14",
+                "11:15",
+                "11:16",
+                "11:17",
+                "11:18",
+                "11:19"
+            ],
+            "MessageText": "„ Jetzt ist er Diktator eines Verbrecherregimes “",
+            "STWR": "Speech",
+            "Source": [
+                "11:0",
+                "11:1",
+                "11:2",
+                "11:3",
+                "11:4",
+                "11:5",
+                "11:6",
+                "11:7"
+            ],
+            "SourceText": "Olexandr Olexandr Turtschynow , der Exstellvertreter von Timoschenko"
+        }
+    ],
+    "DocumentName": "70915 - Ukraine: Berufungsgericht bestätigt hohe Haftstrafe für Timoschenko (2011-12-25)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Am",
+                "Freitag",
+                "hat",
+                "ein",
+                "Gericht",
+                "das",
+                "Urteil",
+                "gegen",
+                "die",
+                "ehemalige",
+                "Ministerpräsidentin",
+                "Julia",
+                "Timoschenko",
+                "bestätigt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Sie",
+                "bleibt",
+                "daher",
+                "weiter",
+                "in",
+                "Strafhaft",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Timoschenko",
+                "war",
+                "von",
+                "Januar",
+                "bis",
+                "September",
+                "2005",
+                "und",
+                "von",
+                "Dezember",
+                "2007",
+                "bis",
+                "März",
+                "2010",
+                "Ministerpräsidentin",
+                "der",
+                "Ukraine",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Sie",
+                "wurde",
+                "zu",
+                "sieben",
+                "Jahren",
+                "Haft",
+                "wegen",
+                "Amtsmissbrauch",
+                "verurteilt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Es",
+                "ging",
+                "um",
+                "einen",
+                "Erdgasliefervertrag",
+                ",",
+                "der",
+                "mit",
+                "Russland",
+                "abgeschlossen",
+                "wurde",
+                ",",
+                "und",
+                "der",
+                "dem",
+                "Land",
+                "Ukraine",
+                "angeblich",
+                "einen",
+                "hohen",
+                "Schaden",
+                "verursacht",
+                "hat",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Timoschenko",
+                "bestreitet",
+                "den",
+                "Vorwurf",
+                "bis",
+                "heute",
+                "und",
+                "sieht",
+                ",",
+                "wie",
+                "viele",
+                "westliche",
+                "Länder",
+                ",",
+                "politische",
+                "Gründe",
+                "für",
+                "das",
+                "Urteil",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Die",
+                "Angeklagte",
+                "und",
+                "ihre",
+                "Anwälte",
+                "waren",
+                "bei",
+                "der",
+                "Verkündung",
+                "der",
+                "Entscheidung",
+                "des",
+                "Berufungsgerichtes",
+                "nicht",
+                "anwesend",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "In",
+                "der",
+                "Ukraine",
+                "hofft",
+                "Timoschenko",
+                "nicht",
+                "mehr",
+                "auf",
+                "Gerechtigkeit",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Sie",
+                "will",
+                "ihren",
+                "Fall",
+                "vor",
+                "den",
+                "Europäischen",
+                "Gerichtshof",
+                "für",
+                "Menschenrechte",
+                "in",
+                "Straßburg",
+                "bringen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Wiktor",
+                "Janukowytsch",
+                "ist",
+                "seit",
+                "dem",
+                "25.",
+                "Februar",
+                "2010",
+                "Ministerpräsident",
+                "der",
+                "Ukraine",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Gegen",
+                "ihn",
+                "wäre",
+                "Timoschneko",
+                "als",
+                "Spitzenkandidatin",
+                "im",
+                "Herbst",
+                "2012",
+                "angetreten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Olexandr",
+                "Olexandr",
+                "Turtschynow",
+                ",",
+                "der",
+                "Exstellvertreter",
+                "von",
+                "Timoschenko",
+                "sagte",
+                "über",
+                "Janukowytsch",
+                ":",
+                "„",
+                "Jetzt",
+                "ist",
+                "er",
+                "Diktator",
+                "eines",
+                "Verbrecherregimes",
+                "“",
+                "."
+            ]
+        }
+    ]
+}

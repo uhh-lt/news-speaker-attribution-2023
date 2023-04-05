@@ -1,0 +1,56 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4",
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8",
+                "0:9",
+                "0:10",
+                "0:11"
+            ],
+            "MessageText": "Edward Snowden hatt noch weitere Enthüllungen zum Spähprogramme der US-Geheimdienste angekündigt .",
+            "STWR": "SW",
+            "Source": [
+                "0:0",
+                "0:1"
+            ],
+            "SourceText": "Edward Snowden"
+        }
+    ],
+    "DocumentName": "75759 - Loeschcontainer-Prism-Spähprogramms (2013-06-18)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Edward",
+                "Snowden",
+                "hatt",
+                "noch",
+                "weitere",
+                "Enthüllungen",
+                "zum",
+                "Spähprogramme",
+                "der",
+                "US-Geheimdienste",
+                "angekündigt",
+                "."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,415 @@
+{
+    "Annotations": [
+        {
+            "Addr": [
+                "7:6"
+            ],
+            "AddrText": "Ligeti",
+            "Cue": [
+                "7:5",
+                "7:7"
+            ],
+            "CueText": "würdigte als",
+            "Form": "Direct",
+            "Frame": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7"
+            ],
+            "FrameText": "Der österreichische Bundeskanzler Wolfgang Schüssel würdigte Ligeti als",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11",
+                "7:12",
+                "7:13",
+                "7:14",
+                "7:15",
+                "7:16",
+                "7:17",
+                "7:18",
+                "7:19"
+            ],
+            "MessageText": "„ großen Österreicher in der Welt der Musik des 20. Jahrhunderts “",
+            "STWR": "SW",
+            "Source": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4"
+            ],
+            "SourceText": "Der österreichische Bundeskanzler Wolfgang Schüssel"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "8:2",
+                "8:5",
+                "8:12"
+            ],
+            "CueText": "werden als bezeichnet",
+            "Form": "Direct",
+            "Frame": [
+                "8:0",
+                "8:1",
+                "8:2",
+                "8:3",
+                "8:4",
+                "8:5",
+                "8:12"
+            ],
+            "FrameText": "Seine Werke werden von Musikkennern als bezeichnet",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "8:6",
+                "8:7",
+                "8:8",
+                "8:9",
+                "8:10",
+                "8:11"
+            ],
+            "MessageText": "„ Meilensteine in der Musikgeschichte “",
+            "STWR": "SW",
+            "Source": [
+                "8:4"
+            ],
+            "SourceText": "Musikkennern"
+        }
+    ],
+    "DocumentName": "28493 - Wien: Komponist György Ligeti gestorben (2006-06-15)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "György",
+                "Ligeti",
+                "ist",
+                "tot",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Der",
+                "Komponist",
+                "starb",
+                "am",
+                "vergangenen",
+                "Montagmorgen",
+                "in",
+                "der",
+                "österreichischen",
+                "Hauptstadt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Ligeti",
+                "war",
+                "seit",
+                "längerer",
+                "Zeit",
+                "schwer",
+                "krank",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Er",
+                "wurde",
+                "83",
+                "Jahre",
+                "alt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Der",
+                "am",
+                "28.",
+                "Mai",
+                "1923",
+                "in",
+                "Siebenbürgen",
+                "geborene",
+                "Künstler",
+                "emigrierte",
+                "1956",
+                "in",
+                "den",
+                "Westen",
+                "und",
+                "wohnte",
+                "abwechselnd",
+                "in",
+                "Wien",
+                "und",
+                "in",
+                "Hamburg",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Ligeti",
+                "galt",
+                "bereits",
+                "zu",
+                "Lebzeiten",
+                "als",
+                "einer",
+                "der",
+                "bedeutendsten",
+                "Komponisten",
+                "der",
+                "Jetztzeit",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Er",
+                "bekam",
+                "den",
+                "Titel",
+                "„",
+                "Schöpfer",
+                "der",
+                "Neuen",
+                "Musik",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Der",
+                "österreichische",
+                "Bundeskanzler",
+                "Wolfgang",
+                "Schüssel",
+                "würdigte",
+                "Ligeti",
+                "als",
+                "„",
+                "großen",
+                "Österreicher",
+                "in",
+                "der",
+                "Welt",
+                "der",
+                "Musik",
+                "des",
+                "20.",
+                "Jahrhunderts",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Seine",
+                "Werke",
+                "werden",
+                "von",
+                "Musikkennern",
+                "als",
+                "„",
+                "Meilensteine",
+                "in",
+                "der",
+                "Musikgeschichte",
+                "“",
+                "bezeichnet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Im",
+                "Jahr",
+                "2005",
+                "wurde",
+                "er",
+                "für",
+                "sein",
+                "Lebenswerk",
+                "mit",
+                "dem",
+                "Frankfurter",
+                "Musikpreis",
+                "geehrt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Bereits",
+                "damals",
+                "konnte",
+                "er",
+                "aus",
+                "gesundheitlichen",
+                "Gründen",
+                "den",
+                "Preis",
+                "nicht",
+                "mehr",
+                "persönlich",
+                "in",
+                "Empfang",
+                "nehmen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Des",
+                "Weiteren",
+                "erhielt",
+                "er",
+                "den",
+                "Polar",
+                "Music",
+                "Prize",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Die",
+                "österreichischen",
+                "Rundfunksender",
+                "ORF",
+                "und",
+                "Radio",
+                "Ö1",
+                "änderten",
+                "aus",
+                "Anlass",
+                "des",
+                "Todes",
+                "ihr",
+                "Programm",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Sein",
+                "erstes",
+                "großes",
+                "Werk",
+                "entstand",
+                "in",
+                "den",
+                "1970er",
+                "Jahren",
+                ":",
+                "„",
+                "Le",
+                "Grand",
+                "Macabre",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Kinofans",
+                "könnten",
+                "bereits",
+                "unbewusst",
+                "mit",
+                "Ligeti",
+                "zu",
+                "tun",
+                "gehabt",
+                "haben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "Der",
+                "Komponist",
+                "schrieb",
+                "einige",
+                "Titel",
+                "zu",
+                "Stanley",
+                "Kubricks",
+                "Film",
+                "„",
+                "2001",
+                ":",
+                "Odyssee",
+                "im",
+                "Weltraum",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 16,
+            "Tokens": [
+                "Er",
+                "selbst",
+                "war",
+                "Fan",
+                "der",
+                "Beatles",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 17,
+            "Tokens": [
+                "Beerdigt",
+                "wird",
+                "Ligeti",
+                "in",
+                "einem",
+                "Ehrengrab",
+                ",",
+                "das",
+                "die",
+                "Stadt",
+                "Wien",
+                "für",
+                "ihn",
+                "bereitstellt",
+                "."
+            ]
+        }
+    ]
+}

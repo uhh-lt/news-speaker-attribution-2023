@@ -1,0 +1,216 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "0:4",
+                "0:5"
+            ],
+            "CueText": "kommen Aufrufe",
+            "Form": "Indirect",
+            "Frame": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4",
+                "0:5",
+                "0:6"
+            ],
+            "FrameText": "Aus unterschiedlichen politischen Richtungen kommen Aufrufe ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "0:7",
+                "0:8",
+                "0:9",
+                "0:10",
+                "0:11",
+                "0:12",
+                "0:13",
+                "0:14",
+                "0:15",
+                "0:16",
+                "0:17",
+                "0:18"
+            ],
+            "MessageText": "an den Ostertagen für Frieden - insbesondere in Syrien - zu demonstrieren",
+            "STWR": "SW",
+            "Source": [
+                "0:1",
+                "0:2",
+                "0:3"
+            ],
+            "SourceText": "unterschiedlichen politischen Richtungen"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:1",
+                "4:7",
+                "4:8"
+            ],
+            "CueText": "war vorgeschlagen worden",
+            "Form": "Indirect",
+            "Frame": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9"
+            ],
+            "FrameText": "1997 war auf einer Konferenz in Aleppo vorgeschlagen worden ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:10",
+                "4:11",
+                "4:12",
+                "4:13",
+                "4:14",
+                "4:15",
+                "4:16",
+                "4:17"
+            ],
+            "MessageText": "Ostern weltweit immer am gleichen Tage zu feiern",
+            "STWR": "Speech",
+            "Source": [
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6"
+            ],
+            "SourceText": "auf einer Konferenz in Aleppo"
+        }
+    ],
+    "DocumentName": "80888 - Gibt es Frieden zu Ostern in Syrien? (2017-04-11)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Aus",
+                "unterschiedlichen",
+                "politischen",
+                "Richtungen",
+                "kommen",
+                "Aufrufe",
+                ",",
+                "an",
+                "den",
+                "Ostertagen",
+                "für",
+                "Frieden",
+                "-",
+                "insbesondere",
+                "in",
+                "Syrien",
+                "-",
+                "zu",
+                "demonstrieren",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Ostermärsche",
+                "sind",
+                "eine",
+                "von",
+                "pazifistischen",
+                "oder",
+                "antimilitaristischen",
+                "Motiven",
+                "getragene",
+                ",",
+                "in",
+                "Form",
+                "von",
+                "Demonstrationen",
+                "und",
+                "Kundgebungen",
+                "regelmäßig",
+                "jährlich",
+                "durchgeführte",
+                "politische",
+                "Ausdrucksform",
+                "der",
+                "Friedensbewegung",
+                "in",
+                "Deutschland",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Das",
+                "bessondere",
+                "in",
+                "diesem",
+                "Jahr",
+                "ist",
+                ",",
+                "dass",
+                "der",
+                "Ostertermin",
+                "der",
+                "Ostkirche",
+                "und",
+                "der",
+                "Westkirche",
+                "diesmal",
+                "auf",
+                "denselben",
+                "Tag",
+                "fallen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Zuletzt",
+                "war",
+                "das",
+                "2001",
+                "der",
+                "Fall",
+                "gewesen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "1997",
+                "war",
+                "auf",
+                "einer",
+                "Konferenz",
+                "in",
+                "Aleppo",
+                "vorgeschlagen",
+                "worden",
+                ",",
+                "Ostern",
+                "weltweit",
+                "immer",
+                "am",
+                "gleichen",
+                "Tage",
+                "zu",
+                "feiern",
+                "."
+            ]
+        }
+    ]
+}

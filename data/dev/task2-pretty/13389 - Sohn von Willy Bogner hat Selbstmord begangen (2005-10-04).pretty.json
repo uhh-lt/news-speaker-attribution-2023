@@ -1,0 +1,368 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:0"
+            ],
+            "CueText": "Demnach",
+            "Form": "Indirect",
+            "Frame": [
+                "2:0"
+            ],
+            "FrameText": "Demnach",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9"
+            ],
+            "MessageText": "hat der Sohn , Bernhard Bogner , Selbstmord begangen",
+            "STWR": "SW",
+            "Source": [
+                "2:0"
+            ],
+            "SourceText": "Demnach"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:2"
+            ],
+            "CueText": "sagte",
+            "Form": "Indirect",
+            "Frame": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3"
+            ],
+            "FrameText": "Der Staatsanwalt sagte ,",
+            "HasNested": true,
+            "IsNested": false,
+            "Message": [
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10",
+                "3:11",
+                "3:12",
+                "3:13"
+            ],
+            "MessageText": "der Sohn habe sich „ bewusst und gewollt stranguliert “",
+            "STWR": "Speech",
+            "Source": [
+                "3:0",
+                "3:1"
+            ],
+            "SourceText": "Der Staatsanwalt"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:2"
+            ],
+            "CueText": "sagte",
+            "Form": "Direct",
+            "Frame": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3"
+            ],
+            "FrameText": "Der Staatsanwalt sagte ,",
+            "HasNested": false,
+            "IsNested": true,
+            "Message": [
+                "3:8",
+                "3:9",
+                "3:10",
+                "3:11",
+                "3:12",
+                "3:13"
+            ],
+            "MessageText": "„ bewusst und gewollt stranguliert “",
+            "STWR": "Speech",
+            "Source": [
+                "3:0",
+                "3:1"
+            ],
+            "SourceText": "Der Staatsanwalt"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5"
+            ],
+            "MessageText": "Dies sei eindeutig nachzuweisen gewesen .",
+            "STWR": "Speech",
+            "Source": [
+                "3:0",
+                "3:1"
+            ],
+            "SourceText": "Der Staatsanwalt"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "5:4",
+                "5:6"
+            ],
+            "CueText": "teilten mit",
+            "Form": "Direct",
+            "Frame": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7"
+            ],
+            "FrameText": "Sonia und Willy Bogner teilten daraufhin mit :",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "5:14",
+                "5:15",
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:4",
+                "6:5",
+                "6:6",
+                "6:7",
+                "6:8",
+                "6:9",
+                "6:10",
+                "6:11",
+                "6:12",
+                "6:13",
+                "6:14",
+                "6:15",
+                "6:16",
+                "6:17",
+                "6:18",
+                "6:19",
+                "6:20",
+                "6:21",
+                "6:22"
+            ],
+            "MessageText": "„ Das erschüttert uns als Eltern sehr . Wir bitten darum , mit unserer großen Trauer und dem tiefen Schmerz um unseren geliebten Sohn weiterhin allein bleiben zu können . “",
+            "STWR": "SW",
+            "Source": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3"
+            ],
+            "SourceText": "Sonia und Willy Bogner"
+        }
+    ],
+    "DocumentName": "13389 - Sohn von Willy Bogner hat Selbstmord begangen (2005-10-04)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Am",
+                "Sonntagmorgen",
+                "wurde",
+                "in",
+                "München",
+                "der",
+                "Sohn",
+                "des",
+                "ehemaligen",
+                "Skistars",
+                "Willy",
+                "Bogner",
+                "tot",
+                "im",
+                "Haus",
+                "seiner",
+                "Adoptiveltern",
+                "aufgefunden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Heute",
+                "hat",
+                "die",
+                "Staatsanwaltschaft",
+                "München",
+                "I",
+                "ein",
+                "überraschendes",
+                "Ergebnis",
+                "der",
+                "Obduktion",
+                "der",
+                "Leiche",
+                "bekannt",
+                "gegeben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Demnach",
+                "hat",
+                "der",
+                "Sohn",
+                ",",
+                "Bernhard",
+                "Bogner",
+                ",",
+                "Selbstmord",
+                "begangen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Der",
+                "Staatsanwalt",
+                "sagte",
+                ",",
+                "der",
+                "Sohn",
+                "habe",
+                "sich",
+                "„",
+                "bewusst",
+                "und",
+                "gewollt",
+                "stranguliert",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Dies",
+                "sei",
+                "eindeutig",
+                "nachzuweisen",
+                "gewesen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Sonia",
+                "und",
+                "Willy",
+                "Bogner",
+                "teilten",
+                "daraufhin",
+                "mit",
+                ":",
+                "„",
+                "Das",
+                "erschüttert",
+                "uns",
+                "als",
+                "Eltern",
+                "sehr",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Wir",
+                "bitten",
+                "darum",
+                ",",
+                "mit",
+                "unserer",
+                "großen",
+                "Trauer",
+                "und",
+                "dem",
+                "tiefen",
+                "Schmerz",
+                "um",
+                "unseren",
+                "geliebten",
+                "Sohn",
+                "weiterhin",
+                "allein",
+                "bleiben",
+                "zu",
+                "können",
+                ".",
+                "“"
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Die",
+                "Beerdigung",
+                "des",
+                "Sohnes",
+                "findet",
+                "im",
+                "engsten",
+                "Familienkreis",
+                "statt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Die",
+                "Öffentlichkeit",
+                "wird",
+                "nicht",
+                "teilnehmen",
+                "dürfen",
+                "."
+            ]
+        }
+    ]
+}

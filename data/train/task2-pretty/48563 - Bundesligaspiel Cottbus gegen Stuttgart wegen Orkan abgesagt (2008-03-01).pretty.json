@@ -1,0 +1,254 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:8",
+                "3:9"
+            ],
+            "CueText": "sprach von",
+            "Form": "Direct",
+            "Frame": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10"
+            ],
+            "FrameText": "Lothar Nicht , Ordnungsdezernent der Stadt Cottbus , sprach von einer",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:11",
+                "3:12",
+                "3:13",
+                "3:14",
+                "3:15",
+                "3:16",
+                "3:17"
+            ],
+            "MessageText": "„ Gefahr für Leib und Leben “",
+            "STWR": "Speech",
+            "Source": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5",
+                "3:6"
+            ],
+            "SourceText": "Lothar Nicht , Ordnungsdezernent der Stadt Cottbus"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:4",
+                "6:5",
+                "6:6",
+                "6:7",
+                "6:8",
+                "6:9",
+                "6:10",
+                "6:11",
+                "6:12",
+                "6:13"
+            ],
+            "MessageText": "Lars Schauer , Manager von Energie Cottbus , bezeichnete die Entscheidung als verantwortungsbewusst .",
+            "STWR": "Speech",
+            "Source": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:4",
+                "6:5",
+                "6:6"
+            ],
+            "SourceText": "Lars Schauer , Manager von Energie Cottbus"
+        }
+    ],
+    "DocumentName": "48563 - Bundesligaspiel Cottbus gegen Stuttgart wegen Orkan abgesagt (2008-03-01)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "In",
+                "der",
+                "ersten",
+                "Fußballbundesliga",
+                "ist",
+                "die",
+                "für",
+                "heute",
+                "angesetzte",
+                "Begegnung",
+                "Energie",
+                "Cottbus",
+                "gegen",
+                "den",
+                "VfB",
+                "Stuttgart",
+                "abgesagt",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Hintergrund",
+                "ist",
+                "eine",
+                "Unwetterwarnung",
+                "für",
+                "die",
+                "Stadt",
+                "Cottbus",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "So",
+                "wird",
+                "ein",
+                "Orkan",
+                "mit",
+                "Windgeschwindigkeiten",
+                "von",
+                "bis",
+                "zu",
+                "130",
+                "Stundenkilometern",
+                "erwartet",
+                ",",
+                "dies",
+                "entspricht",
+                "der",
+                "maximalen",
+                "Windstärkestufe",
+                "12",
+                "auf",
+                "der",
+                "Beaufortskala",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Lothar",
+                "Nicht",
+                ",",
+                "Ordnungsdezernent",
+                "der",
+                "Stadt",
+                "Cottbus",
+                ",",
+                "sprach",
+                "von",
+                "einer",
+                "„",
+                "Gefahr",
+                "für",
+                "Leib",
+                "und",
+                "Leben",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Beide",
+                "Mannschaften",
+                "zeigten",
+                "Verständnis",
+                "für",
+                "die",
+                "Entscheidung",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Stuttgarts",
+                "Manager",
+                "Heldt",
+                "hatte",
+                "bereits",
+                "zuvor",
+                "Zweifel",
+                "an",
+                "einer",
+                "Durchführbarkeit",
+                "des",
+                "Spiels",
+                "geäußert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Lars",
+                "Schauer",
+                ",",
+                "Manager",
+                "von",
+                "Energie",
+                "Cottbus",
+                ",",
+                "bezeichnete",
+                "die",
+                "Entscheidung",
+                "als",
+                "verantwortungsbewusst",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Über",
+                "einen",
+                "neuen",
+                "Termin",
+                "für",
+                "das",
+                "Spiel",
+                "wird",
+                "der",
+                "Deutsche",
+                "Fußballbund",
+                "am",
+                "Montag",
+                "entscheiden",
+                "."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:0"
+            ],
+            "CueText": "Demnach",
+            "Form": "Indirect",
+            "Frame": [
+                "2:0"
+            ],
+            "FrameText": "Demnach",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8"
+            ],
+            "MessageText": "ist Michael Jackson in allen Anklagepunkten nicht schuldig",
+            "STWR": "Speech",
+            "Source": [
+                "2:0"
+            ],
+            "SourceText": "Demnach"
+        }
+    ],
+    "DocumentName": "6196 - Michael Jackson „nicht schuldig“ gesprochen (2005-06-13)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Michael",
+                "Jackson",
+                "ist",
+                "seit",
+                "heute",
+                "ein",
+                "freier",
+                "Mann",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Im",
+                "Gerichtsverfahren",
+                "gegen",
+                "ihn",
+                "haben",
+                "die",
+                "zwölf",
+                "Geschworenen",
+                "am",
+                "Montag",
+                "etwa",
+                "um",
+                "14:15",
+                "Uhr",
+                "Ortszeit",
+                "PST",
+                "(",
+                "Pacific",
+                "Standard",
+                "Time",
+                ",",
+                "entspricht",
+                "23:15",
+                "Uhr",
+                "MESZ",
+                ")",
+                "ihre",
+                "Entscheidung",
+                "bekannt",
+                "gegeben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Demnach",
+                "ist",
+                "Michael",
+                "Jackson",
+                "in",
+                "allen",
+                "Anklagepunkten",
+                "nicht",
+                "schuldig",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Überraschend",
+                "war",
+                "der",
+                "Freispruch",
+                "in",
+                "allen",
+                "zehn",
+                "Anklagepunkten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Die",
+                "Staatsanwaltschaft",
+                "konnte",
+                "nicht",
+                "glaubhaft",
+                "machen",
+                ",",
+                "dass",
+                "der",
+                "dem",
+                "Popstar",
+                "vorgeworfene",
+                "sexuelle",
+                "Missbrauch",
+                "tatsächlich",
+                "stattgefunden",
+                "hat",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Auch",
+                "vom",
+                "Vorwurf",
+                "der",
+                "Verschwörung",
+                "zur",
+                "Entführung",
+                "und",
+                "der",
+                "Abgabe",
+                "von",
+                "Alkohol",
+                "an",
+                "einen",
+                "Minderjährigen",
+                "sprachen",
+                "ihn",
+                "die",
+                "Geschworenen",
+                "frei",
+                "."
+            ]
+        }
+    ]
+}

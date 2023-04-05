@@ -1,0 +1,242 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:6",
+                "1:7"
+            ],
+            "CueText": "bekannt gab",
+            "Form": "Indirect",
+            "Frame": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8"
+            ],
+            "FrameText": "Wie die Banca d'Italia in Rom bekannt gab ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:9",
+                "1:10",
+                "1:11",
+                "1:12",
+                "1:13",
+                "1:14",
+                "1:15",
+                "1:16",
+                "1:17",
+                "1:18",
+                "1:19",
+                "1:20",
+                "1:21"
+            ],
+            "MessageText": "soll Fazio seine Entscheidung allein und für das Wohl des Landes getroffen haben",
+            "STWR": "SW",
+            "Source": [
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5"
+            ],
+            "SourceText": "die Banca d'Italia in Rom"
+        },
+        {
+            "Addr": [
+                "5:0"
+            ],
+            "AddrText": "Ihm",
+            "Cue": [
+                "5:1",
+                "5:4"
+            ],
+            "CueText": "wird vorgeworfen",
+            "Form": "Indirect",
+            "Frame": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5"
+            ],
+            "FrameText": "Ihm wird unter anderem vorgeworfen ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "5:14",
+                "5:15"
+            ],
+            "MessageText": "in die Übernahme der italienischen Banca Antonveneta eingegriffen zu haben",
+            "STWR": "SW",
+            "Source": [],
+            "SourceText": ""
+        }
+    ],
+    "DocumentName": "17885 - Rücktritt des italienischen Notenbankchefs Fazio (2005-12-25)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Der",
+                "umstrittene",
+                "italienische",
+                "Notenbankchef",
+                "Antonio",
+                "Fazio",
+                "ist",
+                "am",
+                "Montag",
+                ",",
+                "den",
+                "19.",
+                "Dezember",
+                ",",
+                "von",
+                "seinem",
+                "Amt",
+                "züruckgetreten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Wie",
+                "die",
+                "Banca",
+                "d'Italia",
+                "in",
+                "Rom",
+                "bekannt",
+                "gab",
+                ",",
+                "soll",
+                "Fazio",
+                "seine",
+                "Entscheidung",
+                "allein",
+                "und",
+                "für",
+                "das",
+                "Wohl",
+                "des",
+                "Landes",
+                "getroffen",
+                "haben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Fazio",
+                "überreichte",
+                "sein",
+                "Rücktrittsgesuch",
+                "dem",
+                "Aufsichtsratvorsitzenden",
+                "Paolo",
+                "Ferrari",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Gegen",
+                "Fazio",
+                "wird",
+                "wegen",
+                "Insiderhandels",
+                "und",
+                "Amtsmissbrauchs",
+                "ermittelt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Er",
+                "hatte",
+                "sich",
+                "bis",
+                "zuletzt",
+                "gegen",
+                "eine",
+                "Aufgabe",
+                "seines",
+                "Postens",
+                "gewehrt",
+                ",",
+                "hatten",
+                "sich",
+                "doch",
+                "bereits",
+                "Italiens",
+                "Ministerpräsident",
+                "Silvio",
+                "Berlusconi",
+                "und",
+                "der",
+                "Chef",
+                "der",
+                "Europäischen",
+                "Zentralbank",
+                "(",
+                "EZB",
+                ")",
+                ",",
+                "Jean-Claude",
+                "Trichet",
+                ",",
+                "mit",
+                "einer",
+                "Rücktrittsaufforderung",
+                "an",
+                "Fazio",
+                "gewandt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Ihm",
+                "wird",
+                "unter",
+                "anderem",
+                "vorgeworfen",
+                ",",
+                "in",
+                "die",
+                "Übernahme",
+                "der",
+                "italienischen",
+                "Banca",
+                "Antonveneta",
+                "eingegriffen",
+                "zu",
+                "haben",
+                "."
+            ]
+        }
+    ]
+}

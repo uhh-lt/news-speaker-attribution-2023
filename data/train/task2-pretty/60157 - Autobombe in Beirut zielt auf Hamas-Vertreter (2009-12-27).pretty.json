@@ -1,0 +1,329 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:2"
+            ],
+            "CueText": "zufolge",
+            "Form": "Indirect",
+            "Frame": [
+                "4:0",
+                "4:1",
+                "4:2"
+            ],
+            "FrameText": "Einer Quelle zufolge",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10",
+                "4:11",
+                "4:12"
+            ],
+            "MessageText": "ist Ali Barkah , Hamas-Chef im Südlibanon , getötet worden",
+            "STWR": "SW",
+            "Source": [
+                "4:0",
+                "4:1"
+            ],
+            "SourceText": "Einer Quelle"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "6:1"
+            ],
+            "CueText": "berichten",
+            "Form": "Indirect",
+            "Frame": [
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:4"
+            ],
+            "FrameText": "berichten arabische Medien .",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "6:0"
+            ],
+            "MessageText": "Er soll angeblich das Ziel des Bombenanschlags gewesen sein . Das",
+            "STWR": "Speech",
+            "Source": [
+                "6:2",
+                "6:3"
+            ],
+            "SourceText": "arabische Medien"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "7:4"
+            ],
+            "CueText": "meldet",
+            "Form": "Direct",
+            "Frame": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5"
+            ],
+            "FrameText": "Die staatliche libanesische Nachrichtenagentur meldet :",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:6",
+                "7:7",
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11",
+                "7:12",
+                "7:13",
+                "7:14",
+                "7:15",
+                "7:16",
+                "7:17",
+                "7:18"
+            ],
+            "MessageText": "„ Drei Bomben waren aneinander gebunden und unter dem Fahrzeug angebracht . “",
+            "STWR": "SW",
+            "Source": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3"
+            ],
+            "SourceText": "Die staatliche libanesische Nachrichtenagentur"
+        }
+    ],
+    "DocumentName": "60157 - Autobombe in Beirut zielt auf Hamas-Vertreter (2009-12-27)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Eine",
+                "Autobombe",
+                "ging",
+                "am",
+                "Samstag",
+                ",",
+                "dem",
+                "26.",
+                "Dezember",
+                "2009",
+                ",",
+                "in",
+                "der",
+                "libanesischen",
+                "Hauptstadt",
+                "Beirut",
+                "hoch",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Zwei",
+                "Menschen",
+                "wurden",
+                "getötet",
+                "und",
+                "drei",
+                "verletzt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Die",
+                "Explosion",
+                "ereignete",
+                "sich",
+                "in",
+                "einem",
+                "der",
+                "südlichen",
+                "Vororte",
+                "der",
+                "Stadt",
+                "–",
+                "einem",
+                "Gebiet",
+                ",",
+                "in",
+                "dem",
+                "die",
+                "Unterstützung",
+                "für",
+                "die",
+                "Hisbollah",
+                "stark",
+                "ist",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Die",
+                "Nachbarschaft",
+                "von",
+                "Haret",
+                "Hreik",
+                "wurde",
+                "durch",
+                "die",
+                "Hisbollah",
+                "abgesperrt",
+                ",",
+                "womit",
+                "auch",
+                "Journalisten",
+                "der",
+                "Zugang",
+                "verwehrt",
+                "wurde",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Einer",
+                "Quelle",
+                "zufolge",
+                "ist",
+                "Ali",
+                "Barkah",
+                ",",
+                "Hamas-Chef",
+                "im",
+                "Südlibanon",
+                ",",
+                "getötet",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Er",
+                "soll",
+                "angeblich",
+                "das",
+                "Ziel",
+                "des",
+                "Bombenanschlags",
+                "gewesen",
+                "sein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Das",
+                "berichten",
+                "arabische",
+                "Medien",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Die",
+                "staatliche",
+                "libanesische",
+                "Nachrichtenagentur",
+                "meldet",
+                ":",
+                "„",
+                "Drei",
+                "Bomben",
+                "waren",
+                "aneinander",
+                "gebunden",
+                "und",
+                "unter",
+                "dem",
+                "Fahrzeug",
+                "angebracht",
+                ".",
+                "“"
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Die",
+                "Bombe",
+                "war",
+                "etwa",
+                "700",
+                "Meter",
+                "von",
+                "einem",
+                "Gebäude",
+                "entfernt",
+                "gezündet",
+                "worden",
+                ",",
+                "in",
+                "dem",
+                "Anhänger",
+                "der",
+                "schiitischen",
+                "Hisbollah",
+                "am",
+                "Vorabend",
+                "von",
+                "Aschura",
+                "eine",
+                "Zeremonie",
+                "abhielten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Aschura",
+                "ist",
+                "im",
+                "schiitischen",
+                "Islam",
+                "der",
+                "wichtigste",
+                "Feiertag",
+                "."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,241 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:5",
+                "1:9"
+            ],
+            "CueText": "hatte beschlossen",
+            "Form": "Indirect",
+            "Frame": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8",
+                "1:9",
+                "1:10"
+            ],
+            "FrameText": "Die Führung der britischen Armee hatte am 29. Februar beschlossen ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:11",
+                "1:12",
+                "1:13",
+                "1:14",
+                "1:15",
+                "1:16",
+                "1:17"
+            ],
+            "MessageText": "ihn aus der afghanischen Provinz Helmand zurückzuholen",
+            "STWR": "Speech",
+            "Source": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4"
+            ],
+            "SourceText": "Die Führung der britischen Armee"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:20",
+                "1:21",
+                "1:22"
+            ],
+            "CueText": "bekannt geworden war",
+            "Form": "Indirect",
+            "Frame": [
+                "1:18",
+                "1:19",
+                "1:20",
+                "1:21",
+                "1:22",
+                "1:23"
+            ],
+            "FrameText": ", nachdem bekannt geworden war ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:24",
+                "1:25",
+                "1:26",
+                "1:27",
+                "1:28",
+                "1:29",
+                "1:30"
+            ],
+            "MessageText": "dass er aktiv gegen die Taliban kämpfte",
+            "STWR": "Writing",
+            "Source": [
+                "3:1",
+                "3:2",
+                "3:3"
+            ],
+            "SourceText": "eine US-amerikanische Internetseite"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9",
+                "2:10",
+                "2:11",
+                "2:12",
+                "2:13",
+                "2:14",
+                "2:15",
+                "2:16"
+            ],
+            "MessageText": "Das britische Verteidigungsministerium habe Angst gehabt , dass Prinz Harry zur Zielscheibe der Taliban werden könnte .",
+            "STWR": "Writing",
+            "Source": [
+                "3:1",
+                "3:2",
+                "3:3"
+            ],
+            "SourceText": "eine US-amerikanische Internetseite"
+        }
+    ],
+    "DocumentName": "48618 - Prinz Harry zurück auf britischem Boden (2008-03-02)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Prinz",
+                "Harry",
+                "ist",
+                "wieder",
+                "zurück",
+                "in",
+                "Großbritannien",
+                ",",
+                "nachdem",
+                "er",
+                "zehn",
+                "Wochen",
+                "einen",
+                "vor",
+                "der",
+                "Öffentlichkeit",
+                "geheim",
+                "gehaltenen",
+                "Dienst",
+                "in",
+                "Afghanistan",
+                "absolviert",
+                "hatte",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Die",
+                "Führung",
+                "der",
+                "britischen",
+                "Armee",
+                "hatte",
+                "am",
+                "29.",
+                "Februar",
+                "beschlossen",
+                ",",
+                "ihn",
+                "aus",
+                "der",
+                "afghanischen",
+                "Provinz",
+                "Helmand",
+                "zurückzuholen",
+                ",",
+                "nachdem",
+                "bekannt",
+                "geworden",
+                "war",
+                ",",
+                "dass",
+                "er",
+                "aktiv",
+                "gegen",
+                "die",
+                "Taliban",
+                "kämpfte",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Das",
+                "britische",
+                "Verteidigungsministerium",
+                "habe",
+                "Angst",
+                "gehabt",
+                ",",
+                "dass",
+                "Prinz",
+                "Harry",
+                "zur",
+                "Zielscheibe",
+                "der",
+                "Taliban",
+                "werden",
+                "könnte",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Über",
+                "eine",
+                "US-amerikanische",
+                "Internetseite",
+                "sickerte",
+                "am",
+                "Donnerstag",
+                ",",
+                "den",
+                "28.",
+                "Februar",
+                ",",
+                "die",
+                "Nachricht",
+                "über",
+                "seinen",
+                "Einsatz",
+                "durch",
+                "."
+            ]
+        }
+    ]
+}

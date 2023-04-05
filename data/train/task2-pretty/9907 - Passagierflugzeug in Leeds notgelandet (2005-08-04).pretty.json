@@ -1,0 +1,206 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:2"
+            ],
+            "CueText": "berichteten",
+            "Form": "Indirect",
+            "Frame": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3"
+            ],
+            "FrameText": "Die Passagiere berichteten ,",
+            "HasNested": true,
+            "IsNested": false,
+            "Message": [
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10",
+                "4:11",
+                "4:12",
+                "4:13",
+                "4:14",
+                "4:15",
+                "4:16"
+            ],
+            "MessageText": "das Flugzeug sei mit einem „ großen Ruck “ auf der Landebahn aufgesetzt",
+            "STWR": "Speech",
+            "Source": [
+                "4:0",
+                "4:1"
+            ],
+            "SourceText": "Die Passagiere"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:2"
+            ],
+            "CueText": "berichteten",
+            "Form": "Direct",
+            "Frame": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3"
+            ],
+            "FrameText": "Die Passagiere berichteten ,",
+            "HasNested": false,
+            "IsNested": true,
+            "Message": [
+                "4:9",
+                "4:10",
+                "4:11",
+                "4:12"
+            ],
+            "MessageText": "„ großen Ruck “",
+            "STWR": "Speech",
+            "Source": [
+                "4:0",
+                "4:1"
+            ],
+            "SourceText": "Die Passagiere"
+        }
+    ],
+    "DocumentName": "9907 - Passagierflugzeug in Leeds notgelandet (2005-08-04)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Auf",
+                "dem",
+                "Weg",
+                "von",
+                "Birmingham",
+                "nach",
+                "Edinburgh",
+                "ist",
+                "ein",
+                "Passagierflugzeug",
+                "der",
+                "englischen",
+                "Billigfluglinie",
+                "Flybe",
+                "-",
+                "British",
+                "European",
+                "mit",
+                "55",
+                "Passagieren",
+                "an",
+                "Bord",
+                "notgelandet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Als",
+                "sich",
+                "die",
+                "Kabine",
+                "im",
+                "Flugzeuginneren",
+                "mit",
+                "Rauch",
+                "füllte",
+                ",",
+                "brach",
+                "eine",
+                "Panik",
+                "an",
+                "Bord",
+                "aus",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Die",
+                "Passagiere",
+                "hatten",
+                "sich",
+                "sofort",
+                "an",
+                "die",
+                "Notlandung",
+                "der",
+                "Air-France-Maschine",
+                "am",
+                "Dienstag",
+                "in",
+                "Toronto",
+                "erinnert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Der",
+                "Pilot",
+                "landete",
+                "daraufhin",
+                "auf",
+                "einem",
+                "Flughafen",
+                "in",
+                "der",
+                "nordenglischen",
+                "Stadt",
+                "Leeds",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Die",
+                "Passagiere",
+                "berichteten",
+                ",",
+                "das",
+                "Flugzeug",
+                "sei",
+                "mit",
+                "einem",
+                "„",
+                "großen",
+                "Ruck",
+                "“",
+                "auf",
+                "der",
+                "Landebahn",
+                "aufgesetzt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Der",
+                "Grund",
+                "für",
+                "die",
+                "Rauchentwicklung",
+                "ist",
+                "bisher",
+                "nicht",
+                "bekannt",
+                "."
+            ]
+        }
+    ]
+}

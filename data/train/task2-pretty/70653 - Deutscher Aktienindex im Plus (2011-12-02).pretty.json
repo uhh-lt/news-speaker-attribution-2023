@@ -1,0 +1,461 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "5:14",
+                "5:15",
+                "5:16",
+                "5:17",
+                "5:18",
+                "5:19",
+                "5:20",
+                "5:21",
+                "5:22",
+                "5:23",
+                "5:24",
+                "5:25",
+                "5:26",
+                "5:27",
+                "5:28",
+                "5:29",
+                "5:30",
+                "5:31",
+                "5:32"
+            ],
+            "MessageText": "Bundeskanzlerin Angela Merkel begünstigte die Entwicklung des Aktienindex mit ihren Äußerungen in einer Regierungserklärung , in der sie sich die EU als Fiskalunion vorstellt und im anstehenden Gipfel dieses Ziel setzen will .",
+            "STWR": "Speech",
+            "Source": [
+                "5:0",
+                "5:1",
+                "5:2"
+            ],
+            "SourceText": "Bundeskanzlerin Angela Merkel"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "7:7"
+            ],
+            "CueText": "kommentierte",
+            "Form": "Direct",
+            "Frame": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7"
+            ],
+            "FrameText": "Marktanalyst Robert Halver von der Baader Bank kommentierte",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11",
+                "7:12",
+                "7:13",
+                "7:14",
+                "7:15",
+                "7:16",
+                "7:17",
+                "7:18",
+                "7:19",
+                "7:20",
+                "7:21",
+                "7:22",
+                "7:23",
+                "7:24",
+                "7:25"
+            ],
+            "MessageText": "„ Die Bundeskanzlerin hat die Erwartungen an den Euro-Gipfel Ende der nächsten Woche noch etwas hochgeschraubt . “",
+            "STWR": "Speech",
+            "Source": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6"
+            ],
+            "SourceText": "Marktanalyst Robert Halver von der Baader Bank"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "FreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "17:0",
+                "17:1",
+                "17:2",
+                "17:3",
+                "17:4",
+                "17:5",
+                "17:6"
+            ],
+            "MessageText": "Hintergrund sollen Abschreibungen im Amerika-Stahlgeschäft sein .",
+            "STWR": "SW",
+            "Source": [
+                "16:1",
+                "16:2"
+            ],
+            "SourceText": "der Konzern"
+        }
+    ],
+    "DocumentName": "70653 - Deutscher Aktienindex im Plus (2011-12-02)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Der",
+                "Deutsche",
+                "Aktienindex",
+                "(",
+                "Dax",
+                ")",
+                "schloss",
+                "am",
+                "Freitag",
+                "mit",
+                "einem",
+                "Plus",
+                "von",
+                "1,3",
+                "Prozent",
+                "bei",
+                "6116",
+                "Indexpunkten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Zeitweise",
+                "lag",
+                "er",
+                "mit",
+                "2,2",
+                "Prozent",
+                "im",
+                "Plus",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Positive",
+                "Zahlen",
+                "am",
+                "US-Arbeitsmarkt",
+                "und",
+                "die",
+                "Möglichkeit",
+                ",",
+                "dass",
+                "von",
+                "Schulden",
+                "gebeutelte",
+                "EU-Länder",
+                "durch",
+                "die",
+                "Europäische",
+                "Zentralbank",
+                "mit",
+                "Unterstützung",
+                "des",
+                "Internationalen",
+                "Währungsfonds",
+                "an",
+                "neues",
+                "Geld",
+                "kommen",
+                ",",
+                "beflügelten",
+                "die",
+                "Börsen",
+                "in",
+                "den",
+                "EU-Ländern",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Angeblich",
+                "sollen",
+                "bis",
+                "zu",
+                "200",
+                "Milliarden",
+                "Euro",
+                "die",
+                "Länder",
+                "stützen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Über",
+                "die",
+                "Woche",
+                "ergab",
+                "dies",
+                "einen",
+                "Anstieg",
+                "beim",
+                "DAX",
+                "um",
+                "rund",
+                "10,7",
+                "Prozent",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Bundeskanzlerin",
+                "Angela",
+                "Merkel",
+                "begünstigte",
+                "die",
+                "Entwicklung",
+                "des",
+                "Aktienindex",
+                "mit",
+                "ihren",
+                "Äußerungen",
+                "in",
+                "einer",
+                "Regierungserklärung",
+                ",",
+                "in",
+                "der",
+                "sie",
+                "sich",
+                "die",
+                "EU",
+                "als",
+                "Fiskalunion",
+                "vorstellt",
+                "und",
+                "im",
+                "anstehenden",
+                "Gipfel",
+                "dieses",
+                "Ziel",
+                "setzen",
+                "will",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Eine",
+                "Änderung",
+                "der",
+                "EU-Verträge",
+                "zu",
+                "diesem",
+                "Punkt",
+                "strebt",
+                "sie",
+                "an",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Marktanalyst",
+                "Robert",
+                "Halver",
+                "von",
+                "der",
+                "Baader",
+                "Bank",
+                "kommentierte",
+                "„",
+                "Die",
+                "Bundeskanzlerin",
+                "hat",
+                "die",
+                "Erwartungen",
+                "an",
+                "den",
+                "Euro-Gipfel",
+                "Ende",
+                "der",
+                "nächsten",
+                "Woche",
+                "noch",
+                "etwas",
+                "hochgeschraubt",
+                ".",
+                "“"
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Der",
+                "EURO",
+                "STOXX",
+                "50",
+                "schloss",
+                "im",
+                "Plus",
+                "bei",
+                "2358",
+                "Punkte",
+                ";"
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "das",
+                "ist",
+                "ein",
+                "Anstieg",
+                "um",
+                "1,9",
+                "Prozent",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Die",
+                "US-Börsen",
+                "konnten",
+                "ebenfalls",
+                "zulegen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Bank-",
+                "und",
+                "Automobilaktien",
+                "wurden",
+                "bevorzugt",
+                "gekauft",
+                ",",
+                "was",
+                "sich",
+                "in",
+                "deutlichen",
+                "Kurserhöhungen",
+                "niederschlug",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "ThyssenKrupp",
+                "war",
+                "mit",
+                "einem",
+                "Abschlag",
+                "von",
+                "4,6",
+                "Prozent",
+                "der",
+                "größte",
+                "Verlierer",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "1,783",
+                "Milliarden",
+                "Euro"
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Verlust"
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "im",
+                "Geschäftsjahr",
+                "2010",
+                "\/",
+                "2011"
+            ]
+        },
+        {
+            "SentenceId": 16,
+            "Tokens": [
+                "weist",
+                "der",
+                "Konzern",
+                "aus",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 17,
+            "Tokens": [
+                "Hintergrund",
+                "sollen",
+                "Abschreibungen",
+                "im",
+                "Amerika-Stahlgeschäft",
+                "sein",
+                "."
+            ]
+        }
+    ]
+}

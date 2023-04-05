@@ -1,0 +1,241 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:5"
+            ],
+            "CueText": "sagte",
+            "Form": "Indirect",
+            "Frame": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6"
+            ],
+            "FrameText": "Konzernchef Michael O ’ Leary sagte ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:7",
+                "1:8",
+                "1:9",
+                "1:10",
+                "1:11",
+                "1:12",
+                "1:13",
+                "1:14",
+                "1:15",
+                "1:16",
+                "1:17",
+                "1:18"
+            ],
+            "MessageText": "dass die Gebühr ein Pfund ( etwa 1,22 Euro ) betragen werde",
+            "STWR": "Speech",
+            "Source": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4"
+            ],
+            "SourceText": "Konzernchef Michael O ’ Leary"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:9",
+                "2:10",
+                "2:11"
+            ],
+            "CueText": "ist der Meinung",
+            "Form": "Indirect",
+            "Frame": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9",
+                "2:10",
+                "2:11",
+                "2:12"
+            ],
+            "FrameText": "Pressesprecher Steven McNamara spielte die Idee jedoch herunter und ist der Meinung ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:13",
+                "2:14",
+                "2:15",
+                "2:16",
+                "2:17",
+                "2:18",
+                "2:19",
+                "2:20",
+                "2:21"
+            ],
+            "MessageText": "dass es in der nächsten Zukunft nicht umgesetzt werde",
+            "STWR": "Speech",
+            "Source": [
+                "2:0",
+                "2:1",
+                "2:2"
+            ],
+            "SourceText": "Pressesprecher Steven McNamara"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:3",
+                "3:6"
+            ],
+            "CueText": "kündigte an",
+            "Form": "Indirect",
+            "Frame": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7"
+            ],
+            "FrameText": "Erst vergangene Woche kündigte der Konzern an ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:8",
+                "3:9",
+                "3:10",
+                "3:11"
+            ],
+            "MessageText": "sämtliche Check-In-Schalter zu schließen",
+            "STWR": "Speech",
+            "Source": [
+                "3:4",
+                "3:5"
+            ],
+            "SourceText": "der Konzern"
+        }
+    ],
+    "DocumentName": "56334 - Billigfluggesellschaft Ryanair erwägt Toilettenbenutzungsgebühr (2009-03-01)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Die",
+                "Billigfluggesellschaft",
+                "Ryanair",
+                "erwägt",
+                "offenbar",
+                "eine",
+                "Gebühr",
+                "für",
+                "die",
+                "Benutzung",
+                "der",
+                "Flugzeugtoiletten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Konzernchef",
+                "Michael",
+                "O",
+                "’",
+                "Leary",
+                "sagte",
+                ",",
+                "dass",
+                "die",
+                "Gebühr",
+                "ein",
+                "Pfund",
+                "(",
+                "etwa",
+                "1,22",
+                "Euro",
+                ")",
+                "betragen",
+                "werde",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Pressesprecher",
+                "Steven",
+                "McNamara",
+                "spielte",
+                "die",
+                "Idee",
+                "jedoch",
+                "herunter",
+                "und",
+                "ist",
+                "der",
+                "Meinung",
+                ",",
+                "dass",
+                "es",
+                "in",
+                "der",
+                "nächsten",
+                "Zukunft",
+                "nicht",
+                "umgesetzt",
+                "werde",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Erst",
+                "vergangene",
+                "Woche",
+                "kündigte",
+                "der",
+                "Konzern",
+                "an",
+                ",",
+                "sämtliche",
+                "Check-In-Schalter",
+                "zu",
+                "schließen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Fluggäste",
+                "könnten",
+                "dann",
+                "am",
+                "Flughafen",
+                "nur",
+                "noch",
+                "ihr",
+                "Gepäck",
+                "aufgeben",
+                "."
+            ]
+        }
+    ]
+}

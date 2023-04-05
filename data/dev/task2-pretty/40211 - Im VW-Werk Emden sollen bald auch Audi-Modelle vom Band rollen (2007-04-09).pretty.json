@@ -1,0 +1,562 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:1"
+            ],
+            "CueText": "berichtete",
+            "Form": "Indirect",
+            "Frame": [
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8",
+                "1:9",
+                "1:10",
+                "1:11"
+            ],
+            "FrameText": "berichtete die „ Automobilwoche “ in ihrer Onlineausgabe vom 7. April",
+            "HasNested": true,
+            "IsNested": false,
+            "Message": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4",
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8",
+                "0:9",
+                "0:10",
+                "0:11",
+                "0:12",
+                "0:13",
+                "0:14",
+                "0:15",
+                "0:16",
+                "0:17",
+                "0:18",
+                "0:19",
+                "0:20",
+                "0:21",
+                "0:22",
+                "0:23",
+                "0:24",
+                "0:25",
+                "0:26",
+                "0:27",
+                "0:28",
+                "1:0"
+            ],
+            "MessageText": "Wie aus Unternehmenskreisen verlautete , will die Volkswagen AG ihr Werk im ostfriesischen Emden so umrüsten , dass dort bald auch Wagen der Modellreihe Audi vom Band laufen können Das",
+            "STWR": "Writing",
+            "Source": [
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8",
+                "1:9",
+                "1:10",
+                "1:11"
+            ],
+            "SourceText": "die „ Automobilwoche “ in ihrer Onlineausgabe vom 7. April"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "0:0",
+                "0:3"
+            ],
+            "CueText": "Wie verlautete",
+            "Form": "Indirect",
+            "Frame": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4"
+            ],
+            "FrameText": "Wie aus Unternehmenskreisen verlautete ,",
+            "HasNested": false,
+            "IsNested": true,
+            "Message": [
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8",
+                "0:9",
+                "0:10",
+                "0:11",
+                "0:12",
+                "0:13",
+                "0:14",
+                "0:15",
+                "0:16",
+                "0:17",
+                "0:18",
+                "0:19",
+                "0:20",
+                "0:21",
+                "0:22",
+                "0:23",
+                "0:24",
+                "0:25",
+                "0:26",
+                "0:27",
+                "0:28"
+            ],
+            "MessageText": "will die Volkswagen AG ihr Werk im ostfriesischen Emden so umrüsten , dass dort bald auch Wagen der Modellreihe Audi vom Band laufen können",
+            "STWR": "SW",
+            "Source": [
+                "0:2"
+            ],
+            "SourceText": "Unternehmenskreisen"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "5:2"
+            ],
+            "CueText": "laut",
+            "Form": "Indirect",
+            "Frame": [
+                "5:2",
+                "5:3"
+            ],
+            "FrameText": "laut Automobilwoche",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:0",
+                "5:1",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12"
+            ],
+            "MessageText": "Zunächst ist an den Bau des Audi A4 in Emden gedacht",
+            "STWR": "Writing",
+            "Source": [
+                "5:3"
+            ],
+            "SourceText": "Automobilwoche"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "7:2",
+                "7:6"
+            ],
+            "CueText": "war gefallen",
+            "Form": "Indirect",
+            "Frame": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7"
+            ],
+            "FrameText": "Vor kurzem war erst die Entscheidung gefallen ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11",
+                "7:12",
+                "7:13",
+                "7:14",
+                "7:15",
+                "7:16"
+            ],
+            "MessageText": "im belgischen VW-Standort Brüssel den Audi-Kleinwagen A1 zu bauen",
+            "STWR": "Speech",
+            "Source": [
+                "7:4",
+                "7:5"
+            ],
+            "SourceText": "die Entscheidung"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "8:9",
+                "8:15"
+            ],
+            "CueText": "hatte erklärt",
+            "Form": "Direct",
+            "Frame": [
+                "8:8",
+                "8:9",
+                "8:10",
+                "8:11",
+                "8:12",
+                "8:13",
+                "8:14",
+                "8:15"
+            ],
+            "FrameText": ", hatte VW-Chef Winterkorn in einem Interview erklärt",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "8:0",
+                "8:1",
+                "8:2",
+                "8:3",
+                "8:4",
+                "8:5",
+                "8:6",
+                "8:7"
+            ],
+            "MessageText": "„ Wir wollen unsere Produktionssysteme enger verzahnen “",
+            "STWR": "Speech",
+            "Source": [
+                "8:10",
+                "8:11"
+            ],
+            "SourceText": "VW-Chef Winterkorn"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "10:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "10:0",
+                "10:1"
+            ],
+            "FrameText": "Nach Unternehmensangaben",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "10:2",
+                "10:3",
+                "10:4",
+                "10:5",
+                "10:6",
+                "10:7",
+                "10:8",
+                "10:9"
+            ],
+            "MessageText": "sind am Standort Emden rund 8.100 Arbeitsplätze vorhanden",
+            "STWR": "SW",
+            "Source": [
+                "10:1"
+            ],
+            "SourceText": "Unternehmensangaben"
+        }
+    ],
+    "DocumentName": "40211 - Im VW-Werk Emden sollen bald auch Audi-Modelle vom Band rollen (2007-04-09)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Wie",
+                "aus",
+                "Unternehmenskreisen",
+                "verlautete",
+                ",",
+                "will",
+                "die",
+                "Volkswagen",
+                "AG",
+                "ihr",
+                "Werk",
+                "im",
+                "ostfriesischen",
+                "Emden",
+                "so",
+                "umrüsten",
+                ",",
+                "dass",
+                "dort",
+                "bald",
+                "auch",
+                "Wagen",
+                "der",
+                "Modellreihe",
+                "Audi",
+                "vom",
+                "Band",
+                "laufen",
+                "können",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Das",
+                "berichtete",
+                "die",
+                "„",
+                "Automobilwoche",
+                "“",
+                "in",
+                "ihrer",
+                "Onlineausgabe",
+                "vom",
+                "7.",
+                "April",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Zurzeit",
+                "wird",
+                "im",
+                "Emder",
+                "Werk",
+                "von",
+                "VW",
+                "der",
+                "Passat",
+                "(",
+                "als",
+                "Limousine",
+                "und",
+                "als",
+                "Variant",
+                ")",
+                "gebaut",
+                ",",
+                "der",
+                "einen",
+                "Quermotor",
+                "besitzt",
+                "und",
+                "demnächst",
+                "auch",
+                "der",
+                "Passat-Coupé",
+                "(",
+                "CC",
+                ")",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Um",
+                "dort",
+                "auch",
+                "Limousinen",
+                "mit",
+                "Längsmotoren",
+                "zu",
+                "bauen",
+                ",",
+                "wie",
+                "sie",
+                "Audi",
+                "verwendet",
+                ",",
+                "ist",
+                "eine",
+                "Umstellung",
+                "in",
+                "den",
+                "Produktionsabläufen",
+                "des",
+                "Werkes",
+                "notwendig",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Hier",
+                "soll",
+                "eine",
+                "so",
+                "genannte",
+                "Flexi-Linie",
+                "eingerichtet",
+                "werden",
+                ",",
+                "die",
+                "den",
+                "Bau",
+                "unterschiedlicher",
+                "Modelle",
+                "des",
+                "Konzerns",
+                "ermöglichen",
+                "soll",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Zunächst",
+                "ist",
+                "laut",
+                "Automobilwoche",
+                "an",
+                "den",
+                "Bau",
+                "des",
+                "Audi",
+                "A4",
+                "in",
+                "Emden",
+                "gedacht",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Die",
+                "Entscheidung",
+                "steht",
+                "offenbar",
+                "in",
+                "Zusammenhang",
+                "mit",
+                "einer",
+                "Flexibilisierungstrategie",
+                "unter",
+                "dem",
+                "neuen",
+                "VW-Vorstandsvorsitzenden",
+                "Martin",
+                "Winterkorn",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Vor",
+                "kurzem",
+                "war",
+                "erst",
+                "die",
+                "Entscheidung",
+                "gefallen",
+                ",",
+                "im",
+                "belgischen",
+                "VW-Standort",
+                "Brüssel",
+                "den",
+                "Audi-Kleinwagen",
+                "A1",
+                "zu",
+                "bauen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "„",
+                "Wir",
+                "wollen",
+                "unsere",
+                "Produktionssysteme",
+                "enger",
+                "verzahnen",
+                "“",
+                ",",
+                "hatte",
+                "VW-Chef",
+                "Winterkorn",
+                "in",
+                "einem",
+                "Interview",
+                "erklärt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Durch",
+                "die",
+                "Umrüstung",
+                "in",
+                "Emden",
+                "soll",
+                "offenbar",
+                "das",
+                "Audi-Stammwerk",
+                "in",
+                "Ingolstadt",
+                "entlastet",
+                "werden",
+                ",",
+                "das",
+                "anscheinend",
+                "die",
+                "Kapazitätsgrenze",
+                "erreicht",
+                "hat",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Nach",
+                "Unternehmensangaben",
+                "sind",
+                "am",
+                "Standort",
+                "Emden",
+                "rund",
+                "8.100",
+                "Arbeitsplätze",
+                "vorhanden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Das",
+                "VW-Werk",
+                "gilt",
+                "als",
+                "größter",
+                "Arbeitgeber",
+                "der",
+                "Region",
+                "."
+            ]
+        }
+    ]
+}

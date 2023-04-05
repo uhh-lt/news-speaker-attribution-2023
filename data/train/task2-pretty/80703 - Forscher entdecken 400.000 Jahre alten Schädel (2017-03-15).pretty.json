@@ -1,0 +1,354 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:9",
+                "2:14"
+            ],
+            "CueText": "teilte mit",
+            "Form": "Indirect",
+            "Frame": [
+                "2:8",
+                "2:9",
+                "2:10",
+                "2:11",
+                "2:12",
+                "2:13",
+                "2:14",
+                "2:15"
+            ],
+            "FrameText": ", teilte das Universität Complutense Madrid mit .",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7"
+            ],
+            "MessageText": "Der Schädel wurde in der Ausgrabungsstätte Aroeira gefunden",
+            "STWR": "Speech",
+            "Source": [
+                "2:10",
+                "2:11",
+                "2:12",
+                "2:13"
+            ],
+            "SourceText": "das Universität Complutense Madrid"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:5"
+            ],
+            "CueText": "bezeichnet",
+            "Form": "Direct",
+            "Frame": [
+                "4:0",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10",
+                "4:11",
+                "4:12"
+            ],
+            "FrameText": "Als bezeichnet die Archäologin Montserrat Sanz den Fund .",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4"
+            ],
+            "MessageText": "„ unerwartetes Geschenk “",
+            "STWR": "Speech",
+            "Source": [
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9"
+            ],
+            "SourceText": "die Archäologin Montserrat Sanz"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7",
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11",
+                "7:12",
+                "7:13",
+                "7:14",
+                "7:15",
+                "7:16",
+                "7:17",
+                "7:18",
+                "7:19",
+                "7:20",
+                "7:21",
+                "7:22",
+                "7:23",
+                "7:24",
+                "7:25",
+                "7:26",
+                "7:27",
+                "8:0",
+                "8:1",
+                "8:2",
+                "8:3",
+                "8:4",
+                "8:5",
+                "8:6",
+                "8:7",
+                "8:8",
+                "8:9",
+                "8:10",
+                "8:11",
+                "8:12",
+                "8:13"
+            ],
+            "MessageText": "Bei anderen Funden aus der gleichen Zeit , der mittleren Pleistozän , sei die genaue Dartierung des Fundes oft ungenau , wenn man diesen überhaupt datieren kann . Doch bei dem jetzigen Fund sei die genaue Zeit bekannt - 400.000 Jahre .",
+            "STWR": "Speech",
+            "Source": [
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9"
+            ],
+            "SourceText": "die Archäologin Montserrat Sanz"
+        }
+    ],
+    "DocumentName": "80703 - Forscher entdecken 400.000 Jahre alten Schädel (2017-03-15)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Das",
+                "Forschungsteam",
+                "von",
+                "João",
+                "Zilhão",
+                "von",
+                "der",
+                "Universität",
+                "Barcelona",
+                "hat",
+                "bei",
+                "einer",
+                "Ausgrabung",
+                "in",
+                "Portugal",
+                "eine",
+                "sensationelle",
+                "Entdeckung",
+                "gemacht",
+                ",",
+                "sie",
+                "fanden",
+                "einen",
+                "400.000",
+                "Jahre",
+                "alten",
+                "menschlichen",
+                "Schädel",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Es",
+                "ist",
+                "einer",
+                "der",
+                "ältesten",
+                ",",
+                "die",
+                "je",
+                "in",
+                "Europa",
+                "entdeckt",
+                "wurden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Der",
+                "Schädel",
+                "wurde",
+                "in",
+                "der",
+                "Ausgrabungsstätte",
+                "Aroeira",
+                "gefunden",
+                ",",
+                "teilte",
+                "das",
+                "Universität",
+                "Complutense",
+                "Madrid",
+                "mit",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Die",
+                "wissenschaftlichen",
+                "Daten",
+                "zur",
+                "Ausgrabung",
+                "wurden",
+                "in",
+                "der",
+                "„",
+                "Proceedings",
+                "“",
+                "US-Nationalen",
+                "Akademie",
+                "der",
+                "Wissenschaften",
+                "veröffentlicht",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Als",
+                "„",
+                "unerwartetes",
+                "Geschenk",
+                "“",
+                "bezeichnet",
+                "die",
+                "Archäologin",
+                "Montserrat",
+                "Sanz",
+                "den",
+                "Fund",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Er",
+                "wurde",
+                "am",
+                "letzten",
+                "Tag",
+                "der",
+                "Grabung",
+                "neben",
+                "einer",
+                "Säule",
+                "im",
+                "Jahr",
+                "2014",
+                "gemacht",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Daneben",
+                "lagen",
+                "Tierreste",
+                "und",
+                "Steinwerkzeuge",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Bei",
+                "anderen",
+                "Funden",
+                "aus",
+                "der",
+                "gleichen",
+                "Zeit",
+                ",",
+                "der",
+                "mittleren",
+                "Pleistozän",
+                ",",
+                "sei",
+                "die",
+                "genaue",
+                "Dartierung",
+                "des",
+                "Fundes",
+                "oft",
+                "ungenau",
+                ",",
+                "wenn",
+                "man",
+                "diesen",
+                "überhaupt",
+                "datieren",
+                "kann",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Doch",
+                "bei",
+                "dem",
+                "jetzigen",
+                "Fund",
+                "sei",
+                "die",
+                "genaue",
+                "Zeit",
+                "bekannt",
+                "-",
+                "400.000",
+                "Jahre",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Siehe",
+                "auch"
+            ]
+        }
+    ]
+}

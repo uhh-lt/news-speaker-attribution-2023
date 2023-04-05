@@ -1,0 +1,278 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:3",
+                "1:4"
+            ],
+            "CueText": "äußerte sich",
+            "Form": "Indirect",
+            "Frame": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8"
+            ],
+            "FrameText": "Am heutigen Montag äußerte sich Vatikansprecher Navarro-Valls dahingehend ,",
+            "HasNested": true,
+            "IsNested": false,
+            "Message": [
+                "1:9",
+                "1:10",
+                "1:11",
+                "1:12",
+                "1:13",
+                "1:14",
+                "1:15",
+                "1:16",
+                "1:17"
+            ],
+            "MessageText": "das Gespräch „ sei in freundschaftlicher Atmosphäre verlaufen “",
+            "STWR": "Speech",
+            "Source": [
+                "1:5",
+                "1:6"
+            ],
+            "SourceText": "Vatikansprecher Navarro-Valls"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:3",
+                "1:4"
+            ],
+            "CueText": "äußerte sich",
+            "Form": "Direct",
+            "Frame": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8"
+            ],
+            "FrameText": "Am heutigen Montag äußerte sich Vatikansprecher Navarro-Valls dahingehend ,",
+            "HasNested": false,
+            "IsNested": true,
+            "Message": [
+                "1:11",
+                "1:12",
+                "1:13",
+                "1:14",
+                "1:15",
+                "1:16",
+                "1:17"
+            ],
+            "MessageText": "„ sei in freundschaftlicher Atmosphäre verlaufen “",
+            "STWR": "Speech",
+            "Source": [
+                "1:5",
+                "1:6"
+            ],
+            "SourceText": "Vatikansprecher Navarro-Valls"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9"
+            ],
+            "MessageText": "Der Papst hätte mit Küng keine grundsätzlichen Glaubensfragen besprochen .",
+            "STWR": "Speech",
+            "Source": [
+                "1:5",
+                "1:6"
+            ],
+            "SourceText": "Vatikansprecher Navarro-Valls"
+        }
+    ],
+    "DocumentName": "12953 - Hans Küng zu Besuch bei Papst Benedikt XVI. (2005-09-26)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Der",
+                "prominente",
+                "Kirchen-",
+                "und",
+                "Vatikankritiker",
+                "Hans",
+                "Küng",
+                "hat",
+                "Papst",
+                "Benedikt",
+                "XVI",
+                ".",
+                "am",
+                "letzten",
+                "Samstag",
+                "in",
+                "Rom",
+                "überraschend",
+                "einen",
+                "privaten",
+                "Besuch",
+                "abgestattet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Am",
+                "heutigen",
+                "Montag",
+                "äußerte",
+                "sich",
+                "Vatikansprecher",
+                "Navarro-Valls",
+                "dahingehend",
+                ",",
+                "das",
+                "Gespräch",
+                "„",
+                "sei",
+                "in",
+                "freundschaftlicher",
+                "Atmosphäre",
+                "verlaufen",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Der",
+                "Papst",
+                "hätte",
+                "mit",
+                "Küng",
+                "keine",
+                "grundsätzlichen",
+                "Glaubensfragen",
+                "besprochen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Beide",
+                "Gesprächsteilnehmer",
+                "wollten",
+                "bei",
+                "dem",
+                "Treffen",
+                "Streitfragen",
+                "über",
+                "die",
+                "Kirchenlehre",
+                "vermeiden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Johannes",
+                "Paul",
+                "II.",
+                "hatte",
+                "dem",
+                "heute",
+                "77-jährigen",
+                "Küng",
+                ",",
+                "der",
+                "in",
+                "Tübingen",
+                "lebt",
+                ",",
+                "aber",
+                "aus",
+                "der",
+                "Schweiz",
+                "stammt",
+                ",",
+                "im",
+                "Jahr",
+                "1979",
+                "die",
+                "Lehrerlaubnis",
+                "entzogen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Küng",
+                "hatte",
+                "zuvor",
+                "unter",
+                "anderem",
+                "die",
+                "Unfehlbarkeit",
+                "des",
+                "Papstes",
+                "kritisiert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Sofort",
+                "nach",
+                "der",
+                "Wahl",
+                "Joseph",
+                "Ratzingers",
+                "zum",
+                "Papst",
+                "im",
+                "April",
+                "2005",
+                "äußerte",
+                "Küng",
+                "öffentlich",
+                "seine",
+                "Enttäuschung",
+                "über",
+                "den",
+                "Ausgang",
+                "der",
+                "Wahl",
+                "."
+            ]
+        }
+    ]
+}

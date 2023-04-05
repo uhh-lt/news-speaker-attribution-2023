@@ -1,0 +1,433 @@
+{
+    "Annotations": [],
+    "DocumentName": "82834 - Katastrophen-Warnungen bundesweit verfügbar (2019-02-07)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Ab",
+                "sofort",
+                "kann",
+                "das",
+                "Bundesamt",
+                "für",
+                "Bevölkerungsschutz",
+                "und",
+                "Katastrophenhilfe",
+                "(",
+                "BBK",
+                ")",
+                "erstmalig",
+                "in",
+                "ganz",
+                "Deutschland",
+                "per",
+                "Mobilfunk",
+                "warnen",
+                ",",
+                "wobei",
+                "je",
+                "nach",
+                "Region",
+                "eines",
+                "der",
+                "Mobiltelefonprogramme",
+                "NINA",
+                "oder",
+                "KATWARN",
+                "verwendet",
+                "wird",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Die",
+                "Bürger",
+                "erreichen",
+                "diese",
+                "Meldungen",
+                "unter",
+                "folgenden",
+                "Voraussetzungen",
+                ":",
+                "Sie",
+                "benutzen",
+                "ein",
+                "Mobiltelefon",
+                "mit",
+                "dem",
+                "Betriebsystem",
+                "Android",
+                "oder",
+                "iOS",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Sie",
+                "haben",
+                "die",
+                "Anwendung",
+                "KATWARN",
+                "oder",
+                "NINA",
+                "installiert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Die",
+                "Anwendungen",
+                "wurden",
+                "richtig",
+                "konfiguriert",
+                "(",
+                "\"",
+                "Schutzengel",
+                "\"",
+                "aktivieren",
+                ",",
+                "Ortung",
+                "und",
+                "Benachrichtigung",
+                "erlauben",
+                "etc.",
+                ")",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Das",
+                "Mobiltelefon",
+                "muss",
+                "Anwendungsbenachrichtigungen",
+                "akustisch",
+                "oder",
+                "optisch",
+                "melden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Das",
+                "Mobiltelefon",
+                "muss",
+                "eine",
+                "aktive",
+                "Verbindung",
+                "zum",
+                "Internet",
+                "haben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Das",
+                "Mobiltelefon",
+                "muss",
+                "einen",
+                "ausreichend",
+                "geladenen",
+                "Akku",
+                "haben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Auch",
+                "auf",
+                "der",
+                "alarmierenden",
+                "Seite",
+                "muss",
+                "für",
+                "eine",
+                "schnelle",
+                "Warnung",
+                "alles",
+                "richtig",
+                "funktionieren",
+                ":"
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Bei",
+                "der",
+                "letzten",
+                "größeren",
+                "\"",
+                "Warnlage",
+                "\"",
+                "gab",
+                "es",
+                "vielfach",
+                "keine",
+                "Warnungen",
+                ",",
+                "weil",
+                "das",
+                "Warnsystem",
+                "wegen",
+                "Überlastung",
+                "zusammenbrach",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Im",
+                "Katastrophenfall",
+                "fallen",
+                "Mobilfunknetze",
+                "erfahrungsgemäß",
+                "früher",
+                "aus",
+                "als",
+                "andere",
+                "Kommunikationssysteme",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Mobilfunksendeanlagen",
+                "schalten",
+                "bei",
+                "Stromausfall",
+                "den",
+                "Internet-Datenverkehr",
+                "ab",
+                ",",
+                "um",
+                "so",
+                "Strom",
+                "zu",
+                "sparen",
+                ",",
+                "so",
+                "dass",
+                "Telefon",
+                "und",
+                "Notruf",
+                "so",
+                "lange",
+                "wie",
+                "möglich",
+                "verfügbar",
+                "bleiben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Daher",
+                "können",
+                "im",
+                "betroffenen",
+                "Sendegebiet",
+                "keine",
+                "Warnungen",
+                "mehr",
+                "über",
+                "die",
+                "Anwendungen",
+                "zugestellt",
+                "werden",
+                ",",
+                "wenn",
+                "ein",
+                "Telefon",
+                "keine",
+                "andere",
+                "Verbindung",
+                "zum",
+                "Internet",
+                "als",
+                "den",
+                "Mobilfunk",
+                "hat",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Japan",
+                ",",
+                "die",
+                "USA",
+                "und",
+                "die",
+                "Niederlande",
+                "nutzen",
+                "für",
+                "Warnungen",
+                "die",
+                "Mobilfunktechnik",
+                "Cell",
+                "Broadcast",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Dieses",
+                "funktioniert",
+                "auf",
+                "nahezu",
+                "jedem",
+                "Mobiltelefon",
+                "des",
+                "GSM-Standards",
+                ",",
+                "also",
+                "auch",
+                "auf",
+                "älteren",
+                "Geräten",
+                ",",
+                "z.B.",
+                "auf",
+                "Ersatz-",
+                "und",
+                "Notfall-Mobiltelefonen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Cell",
+                "Broadcast",
+                "funktioniert",
+                "insbesondere",
+                "auch",
+                "ohne",
+                "Internetverbindung",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "Cell-Broadcast-Warnungen",
+                "lassen",
+                "sich",
+                "regional",
+                "begrenzen",
+                ",",
+                "ohne",
+                "dass",
+                "das",
+                "Empfangsgerät",
+                "eine",
+                "Ortungsfunktion",
+                "bräuchte",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 16,
+            "Tokens": [
+                "In",
+                "Österreich",
+                "gibt",
+                "es",
+                "eine",
+                "nahezu",
+                "flächendeckende",
+                "Sirenenwarnung",
+                ";"
+            ]
+        },
+        {
+            "SentenceId": 17,
+            "Tokens": [
+                "für",
+                "die",
+                "Erstwarnung",
+                "ist",
+                "dort",
+                "also",
+                "nicht",
+                "einmal",
+                "ein",
+                "Gerät",
+                "nötig",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 18,
+            "Tokens": [
+                "Warnungen",
+                "per",
+                "Cell",
+                "Broadcast",
+                "sind",
+                "in",
+                "Österreich",
+                "zur",
+                "Umsetzung",
+                "eines",
+                "EU-Beschlusses",
+                "noch",
+                "für",
+                "2019",
+                "geplant",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 19,
+            "Tokens": [
+                "Der",
+                "Beschluss",
+                "verpflichtet",
+                "alle",
+                "EU-Staaten",
+                ",",
+                "bis",
+                "zum",
+                "21.",
+                "Juni",
+                "2022",
+                "den",
+                "auf",
+                "Cell-Broadcast-Technik",
+                "aufbauenden",
+                ",",
+                "ohne",
+                "empfängerseitig",
+                "extra",
+                "zu",
+                "installierende",
+                "Anwendungen",
+                "funktionierenden",
+                "EU-Alert",
+                "einzuführen",
+                "."
+            ]
+        }
+    ]
+}

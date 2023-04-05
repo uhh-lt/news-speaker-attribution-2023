@@ -1,0 +1,218 @@
+{
+    "Annotations": [
+        {
+            "Addr": [
+                "2:7",
+                "2:8"
+            ],
+            "AddrText": "dem Mann",
+            "Cue": [
+                "2:6",
+                "2:9"
+            ],
+            "CueText": "drohten an",
+            "Form": "Indirect",
+            "Frame": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9",
+                "2:10"
+            ],
+            "FrameText": "Diese baten ihn um Zigaretten und drohten dem Mann an ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:11",
+                "2:12",
+                "2:13",
+                "2:14",
+                "2:15",
+                "2:16",
+                "2:17",
+                "2:18",
+                "2:19",
+                "2:20",
+                "2:21"
+            ],
+            "MessageText": "ihn zu durchsuchen und im Falle des Auffindens von Zigaretten zusammenzuschlagen",
+            "STWR": "Speech",
+            "Source": [
+                "2:0"
+            ],
+            "SourceText": "Diese"
+        }
+    ],
+    "DocumentName": "38177 - Kreis Kusel: Um Zigaretten gebeten und verprügelt (2007-02-14)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Eine",
+                "Serie",
+                "von",
+                "Raubüberfällen",
+                ",",
+                "die",
+                "in",
+                "letzter",
+                "Zeit",
+                "in",
+                "der",
+                "Kaiserslauterer",
+                "Innenstadt",
+                "stattfand",
+                ",",
+                "hat",
+                "nun",
+                "womöglich",
+                "auch",
+                "auf",
+                "den",
+                "nahen",
+                "Landkreis",
+                "Kusel",
+                "übergeschlagen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Dort",
+                "wurde",
+                "in",
+                "der",
+                "Nacht",
+                "zum",
+                "Samstag",
+                "gegen",
+                "1:30",
+                "Uhr",
+                "ein",
+                "Passant",
+                "von",
+                "vier",
+                "Unbekannten",
+                "angesprochen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Diese",
+                "baten",
+                "ihn",
+                "um",
+                "Zigaretten",
+                "und",
+                "drohten",
+                "dem",
+                "Mann",
+                "an",
+                ",",
+                "ihn",
+                "zu",
+                "durchsuchen",
+                "und",
+                "im",
+                "Falle",
+                "des",
+                "Auffindens",
+                "von",
+                "Zigaretten",
+                "zusammenzuschlagen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Infolge",
+                "dieser",
+                "Drohung",
+                "reichte",
+                "der",
+                "Mann",
+                "den",
+                "Unbekannten",
+                "Zigaretten",
+                ",",
+                "welche",
+                "ihm",
+                "umgehend",
+                "entwendet",
+                "wurden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Drei",
+                "der",
+                "Männer",
+                "prügelten",
+                "anschließend",
+                "auf",
+                "ihn",
+                "ein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Aufgrund",
+                "seiner",
+                "erheblichen",
+                "Verletzungen",
+                "im",
+                "Augen-",
+                "und",
+                "Kieferbereich",
+                "sowie",
+                "einer",
+                "Fraktur",
+                "des",
+                "Nasenbeines",
+                "musste",
+                "der",
+                "Mann",
+                "stationär",
+                "im",
+                "Krankenhaus",
+                "aufgenommen",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Die",
+                "Polizei",
+                "verfolgt",
+                "aktuell",
+                "bestehende",
+                "Hinweise",
+                "auf",
+                "die",
+                "Täter",
+                "und",
+                "bittet",
+                "um",
+                "weitere",
+                "Hinweise",
+                "."
+            ]
+        }
+    ]
+}

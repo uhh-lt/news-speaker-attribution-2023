@@ -1,0 +1,222 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "0:9",
+                "0:10",
+                "0:11"
+            ],
+            "CueText": "haben sich geeinigt",
+            "Form": "Indirect",
+            "Frame": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4",
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8",
+                "0:9",
+                "0:10",
+                "0:11",
+                "0:12"
+            ],
+            "FrameText": "Der Betriebsrat und die Geschäftsleitung des Kaiserslauterer Nähmaschinenherstellers Pfaff haben sich geeinigt ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "0:13",
+                "0:14",
+                "0:15",
+                "0:16",
+                "0:17",
+                "0:18",
+                "0:19",
+                "0:20",
+                "0:21",
+                "0:22"
+            ],
+            "MessageText": "bis zu 130 der noch übrigen 500 Mitarbeiter zu entlassen",
+            "STWR": "Speech",
+            "Source": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4",
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8"
+            ],
+            "SourceText": "Der Betriebsrat und die Geschäftsleitung des Kaiserslauterer Nähmaschinenherstellers Pfaff"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "FreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8",
+                "1:9",
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9",
+                "2:10",
+                "2:11",
+                "2:12",
+                "2:13",
+                "2:14"
+            ],
+            "MessageText": "Durch diese Maßnahme sollen 9,6 Millionen Euro eingespart werden . Bis Neujahr sollen 90 Entlassungen stattfinden , 39 weitere sind im neuen Jahr möglich .",
+            "STWR": "Speech",
+            "Source": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4",
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8"
+            ],
+            "SourceText": "Der Betriebsrat und die Geschäftsleitung des Kaiserslauterer Nähmaschinenherstellers Pfaff"
+        }
+    ],
+    "DocumentName": "35012 - Pfaff entlässt bis zu 130 Mitarbeiter (2006-11-15)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Der",
+                "Betriebsrat",
+                "und",
+                "die",
+                "Geschäftsleitung",
+                "des",
+                "Kaiserslauterer",
+                "Nähmaschinenherstellers",
+                "Pfaff",
+                "haben",
+                "sich",
+                "geeinigt",
+                ",",
+                "bis",
+                "zu",
+                "130",
+                "der",
+                "noch",
+                "übrigen",
+                "500",
+                "Mitarbeiter",
+                "zu",
+                "entlassen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Durch",
+                "diese",
+                "Maßnahme",
+                "sollen",
+                "9,6",
+                "Millionen",
+                "Euro",
+                "eingespart",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Bis",
+                "Neujahr",
+                "sollen",
+                "90",
+                "Entlassungen",
+                "stattfinden",
+                ",",
+                "39",
+                "weitere",
+                "sind",
+                "im",
+                "neuen",
+                "Jahr",
+                "möglich",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Die",
+                "verbleibenden",
+                "Mitarbeiter",
+                "erhalten",
+                "eine",
+                "Beschäftigungsgarantie",
+                "bis",
+                "2010",
+                "–",
+                "gegen",
+                "einen",
+                "Verzicht",
+                "auf",
+                "Weihnachts-",
+                "und",
+                "Urlaubsgeld",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Der",
+                "Aufsichtsrat",
+                "hatte",
+                "ursprünglich",
+                "bis",
+                "Ende",
+                "November",
+                "ein",
+                "Konzept",
+                "zur",
+                "Einsparung",
+                "von",
+                "12,2",
+                "Millionen",
+                "Euro",
+                "gefordert",
+                "."
+            ]
+        }
+    ]
+}

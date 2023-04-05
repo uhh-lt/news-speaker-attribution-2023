@@ -1,0 +1,219 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3"
+            ],
+            "FrameText": "Nach dem vorläufigen Endergebnis",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10",
+                "3:11",
+                "3:12",
+                "3:13",
+                "3:14",
+                "3:15",
+                "3:16",
+                "3:17",
+                "3:18",
+                "3:19"
+            ],
+            "MessageText": "erreichte die SPD 45,6 Prozent der Stimmen , während die CDU nur auf 32,8 Prozent kam",
+            "STWR": "Writing",
+            "Source": [
+                "3:1",
+                "3:2",
+                "3:3"
+            ],
+            "SourceText": "dem vorläufigen Endergebnis"
+        }
+    ],
+    "DocumentName": "24349 - CDU-Spitzenkandidat Christoph Böhr von allen Ämtern zurückgetreten (2006-03-27)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Der",
+                "Spitzenkandidat",
+                "der",
+                "CDU",
+                "in",
+                "Rheinland-Pfalz",
+                ",",
+                "Christoph",
+                "Böhr",
+                ",",
+                "ist",
+                "gestern",
+                "Abend",
+                "nach",
+                "Bekanntwerden",
+                "der",
+                "ersten",
+                "Ergebnisse",
+                "der",
+                "Landtagswahl",
+                "von",
+                "allen",
+                "Ämtern",
+                "zurückgetreten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Böhr",
+                "begründete",
+                "den",
+                "Schritt",
+                "mit",
+                "seiner",
+                "Niederlage",
+                "bei",
+                "der",
+                "Wahl",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Wahlsieger",
+                "ist",
+                "Kurt",
+                "Beck",
+                "von",
+                "der",
+                "SPD",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Nach",
+                "dem",
+                "vorläufigen",
+                "Endergebnis",
+                "erreichte",
+                "die",
+                "SPD",
+                "45,6",
+                "Prozent",
+                "der",
+                "Stimmen",
+                ",",
+                "während",
+                "die",
+                "CDU",
+                "nur",
+                "auf",
+                "32,8",
+                "Prozent",
+                "kam",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Auch",
+                "zusammen",
+                "mit",
+                "der",
+                "FDP",
+                ",",
+                "die",
+                "8,0",
+                "Prozent",
+                "der",
+                "Stimmen",
+                "erreichte",
+                ",",
+                "erreicht",
+                "die",
+                "CDU",
+                "nicht",
+                "die",
+                "notwendige",
+                "Zahl",
+                "von",
+                "Parlamentssitzen",
+                ",",
+                "die",
+                "für",
+                "eine",
+                "Regierungsübernahme",
+                "ausreichen",
+                "würde",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Die",
+                "Grünen",
+                "liegen",
+                "mit",
+                "4,6",
+                "Prozent",
+                "der",
+                "Stimmen",
+                "knapp",
+                "unterhalb",
+                "der",
+                "Fünf-Prozent-Hürde",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Auch",
+                "die",
+                "WASG",
+                "scheiterte",
+                "mit",
+                "2,5",
+                "Prozent",
+                "der",
+                "Stimmen",
+                "an",
+                "der",
+                "Fünf-Prozent-Hürde",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Die",
+                "Wahlbeteiligung",
+                "lag",
+                "bei",
+                "58,2",
+                "Prozent",
+                "."
+            ]
+        }
+    ]
+}

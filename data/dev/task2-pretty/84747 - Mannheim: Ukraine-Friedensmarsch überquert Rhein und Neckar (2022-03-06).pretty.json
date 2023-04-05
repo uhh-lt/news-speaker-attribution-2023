@@ -1,0 +1,692 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "6:2"
+            ],
+            "CueText": "verkündeten",
+            "Form": "Direct",
+            "Frame": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:0",
+                "6:1",
+                "6:2"
+            ],
+            "FrameText": "Die Veranstalter verkündeten die Die Veranstalter verkündeten",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "6:4",
+                "6:5",
+                "6:6",
+                "6:7",
+                "6:8",
+                "6:9",
+                "6:10",
+                "6:11"
+            ],
+            "MessageText": "„ größte Friedensdemo jemals in der Region “",
+            "STWR": "Speech",
+            "Source": [
+                "6:0",
+                "6:1"
+            ],
+            "SourceText": "Die Veranstalter"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "7:5",
+                "7:6"
+            ],
+            "CueText": "spricht von",
+            "Form": "Direct",
+            "Frame": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7"
+            ],
+            "FrameText": "Mannheims oberster Bürgermeister Peter Kurz spricht von einer",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11"
+            ],
+            "MessageText": "„ überwältigenden Resonanz “",
+            "STWR": "Speech",
+            "Source": [],
+            "SourceText": ""
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:12",
+                "7:13",
+                "7:14",
+                "7:15",
+                "7:16",
+                "7:17",
+                "7:18",
+                "7:19",
+                "7:20",
+                "7:21",
+                "7:22",
+                "7:23",
+                "7:24"
+            ],
+            "MessageText": "und sieht dies als Ausdruck einer großen Welle der Hilfsbereitschaft der letzten Tage",
+            "STWR": "Speech",
+            "Source": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4"
+            ],
+            "SourceText": "Mannheims oberster Bürgermeister Peter Kurz"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "11:26",
+                "11:27"
+            ],
+            "CueText": "refrainartig skandierten",
+            "Form": "Direct",
+            "Frame": [
+                "11:0",
+                "11:1",
+                "11:2",
+                "11:3",
+                "11:4",
+                "11:5",
+                "11:6",
+                "11:7",
+                "11:8",
+                "11:9",
+                "11:10",
+                "11:11",
+                "11:12",
+                "11:13",
+                "11:14",
+                "11:15",
+                "11:16",
+                "11:17",
+                "11:18",
+                "11:19",
+                "11:20",
+                "11:21",
+                "11:22",
+                "11:23",
+                "11:24",
+                "11:25",
+                "11:26",
+                "11:27",
+                "11:34"
+            ],
+            "FrameText": "Ihre Forderungen nach Waffenlieferungen für ihr im schweren Abwehrkampf stehendes Land , wurden aber von einer mit einem Megafon bewaffneten , offenbar friedensbewegten Frau mit einem refrainartig skandierten begleitet",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "11:28",
+                "11:29",
+                "11:30",
+                "11:31",
+                "11:32",
+                "11:33"
+            ],
+            "MessageText": "„ Frieden schaffen ohne Waffen “",
+            "STWR": "Speech",
+            "Source": [
+                "11:15",
+                "11:16",
+                "11:17",
+                "11:18",
+                "11:19",
+                "11:20",
+                "11:21",
+                "11:22",
+                "11:23"
+            ],
+            "SourceText": "einer mit einem Megafon bewaffneten , offenbar friedensbewegten Frau"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "14:15"
+            ],
+            "CueText": "zufolge",
+            "Form": "Indirect",
+            "Frame": [
+                "14:13",
+                "14:14",
+                "14:15"
+            ],
+            "FrameText": "einer Rednerin zufolge",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "14:0",
+                "14:1",
+                "14:2",
+                "14:3",
+                "14:4",
+                "14:5",
+                "14:6",
+                "14:7",
+                "14:8",
+                "14:9",
+                "14:10",
+                "14:11",
+                "14:12",
+                "14:16",
+                "14:17",
+                "14:18",
+                "14:19",
+                "14:20",
+                "14:21",
+                "14:22",
+                "14:23",
+                "14:24",
+                "14:25",
+                "14:26",
+                "14:27",
+                "14:28",
+                "14:29"
+            ],
+            "MessageText": "Dass einige weitere Politiker dann aber nicht mit Beiträgen vertreten waren , soll mit Rücksicht auf die Teilnehmer bei dem nicht ganz komfortablen Wetter zu tun haben",
+            "STWR": "Speech",
+            "Source": [
+                "14:13",
+                "14:14"
+            ],
+            "SourceText": "einer Rednerin"
+        }
+    ],
+    "DocumentName": "84747 - Mannheim: Ukraine-Friedensmarsch überquert Rhein und Neckar (2022-03-06)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Ukraine-Friedensmarsch",
+                "überquert",
+                "Rhein",
+                "und",
+                "Neckar"
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Mannheim",
+                "protestierte",
+                "gegen",
+                "die",
+                "Invasion",
+                "in",
+                "der",
+                "Ukraine",
+                "und",
+                "Ludwigshafen",
+                "kam",
+                "auch",
+                "noch",
+                "dazu"
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Der",
+                "unfassbare",
+                "Krieg",
+                "der",
+                "Atommacht",
+                "Russland",
+                "gegen",
+                "die",
+                "Ukraine",
+                "treibt",
+                "derzeit",
+                "viele",
+                "Bürger",
+                "in",
+                "Europa",
+                "auf",
+                "die",
+                "Straße",
+                "–",
+                "so",
+                "auch",
+                "im",
+                "nordbadischen",
+                "Mannheim",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Ein",
+                "Schweigemarsch",
+                "führte",
+                "dort",
+                "am",
+                "Samstag",
+                "in",
+                "der",
+                "Spitze",
+                "9000",
+                "Teilnehmer",
+                "vom",
+                "alten",
+                "Messplatz",
+                "über",
+                "den",
+                "Neckar",
+                "durch",
+                "das",
+                "Zentrum",
+                "der",
+                "Quadratestadt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Gleichzeitig",
+                "überquerten",
+                "1200",
+                "Demonstrierende",
+                "vom",
+                "Berliner",
+                "Platz",
+                "im",
+                "benachbarten",
+                "Ludwigshafen",
+                "den",
+                "Rhein",
+                "und",
+                "trafen",
+                "sich",
+                "mit",
+                "den",
+                "Mannheimern",
+                "im",
+                "Ehrenhof",
+                "des",
+                "dortigen",
+                "Schlosses",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Die",
+                "Daten",
+                "beruhen",
+                "auf",
+                "einer",
+                "Zählung",
+                "der",
+                "Polizei",
+                "und",
+                "übertreffen",
+                "die",
+                "anfängliche",
+                "Erwartung",
+                "bei",
+                "weitem",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Die",
+                "Veranstalter",
+                "verkündeten",
+                "die",
+                "„",
+                "größte",
+                "Friedensdemo",
+                "jemals",
+                "in",
+                "der",
+                "Region",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Mannheims",
+                "oberster",
+                "Bürgermeister",
+                "Peter",
+                "Kurz",
+                "spricht",
+                "von",
+                "einer",
+                "„",
+                "überwältigenden",
+                "Resonanz",
+                "“",
+                "und",
+                "sieht",
+                "dies",
+                "als",
+                "Ausdruck",
+                "einer",
+                "großen",
+                "Welle",
+                "der",
+                "Hilfsbereitschaft",
+                "der",
+                "letzten",
+                "Tage",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Jutta",
+                "Steinruck",
+                ",",
+                "als",
+                "die",
+                "linksrheinische",
+                "Oberbürgermeisterin",
+                ",",
+                "zeigte",
+                "sich",
+                "entsprechend",
+                "erfreut",
+                "über",
+                "die",
+                "Mobilisation",
+                "der",
+                "Ludwigshafener",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Für",
+                "die",
+                "angrenzende",
+                "hessische",
+                "Region",
+                "war",
+                "stellvertetend",
+                "für",
+                "eine",
+                "Reihe",
+                "von",
+                "kleineren",
+                "Städten",
+                "der",
+                "Bürgermeister",
+                "von",
+                "Ladenburg",
+                "als",
+                "Redner",
+                "vertreten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Sehr",
+                "direkt",
+                "für",
+                "die",
+                "Ukraine",
+                "sprach",
+                "eine",
+                "Landsfrau",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Ihre",
+                "Forderungen",
+                "nach",
+                "Waffenlieferungen",
+                "für",
+                "ihr",
+                "im",
+                "schweren",
+                "Abwehrkampf",
+                "stehendes",
+                "Land",
+                ",",
+                "wurden",
+                "aber",
+                "von",
+                "einer",
+                "mit",
+                "einem",
+                "Megafon",
+                "bewaffneten",
+                ",",
+                "offenbar",
+                "friedensbewegten",
+                "Frau",
+                "mit",
+                "einem",
+                "refrainartig",
+                "skandierten",
+                "„",
+                "Frieden",
+                "schaffen",
+                "ohne",
+                "Waffen",
+                "“",
+                "begleitet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Eine",
+                "evangelische",
+                "Pfarrerin",
+                "sprach",
+                "ein",
+                "Gebet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Das",
+                "Nationaltheater",
+                "Mannheim",
+                "war",
+                "mit",
+                "einigen",
+                "anderen",
+                "Künstlern",
+                "ebenfalls",
+                "zugegen",
+                ",",
+                "was",
+                "zu",
+                "ein",
+                "paar",
+                "angenehmen",
+                "musikalischen",
+                "Beiträgen",
+                "führte",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Dass",
+                "einige",
+                "weitere",
+                "Politiker",
+                "dann",
+                "aber",
+                "nicht",
+                "mit",
+                "Beiträgen",
+                "vertreten",
+                "waren",
+                ",",
+                "soll",
+                "einer",
+                "Rednerin",
+                "zufolge",
+                "mit",
+                "Rücksicht",
+                "auf",
+                "die",
+                "Teilnehmer",
+                "bei",
+                "dem",
+                "nicht",
+                "ganz",
+                "komfortablen",
+                "Wetter",
+                "zu",
+                "tun",
+                "haben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "Tatsächlich",
+                "war",
+                "die",
+                "Ausdauer",
+                "der",
+                "Teilnehmer",
+                "in",
+                "Anbetracht",
+                "einer",
+                "wenig",
+                "frühlingshaften",
+                "Temperatur",
+                "eine",
+                "besondere",
+                "Anerkennung",
+                "wert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 16,
+            "Tokens": [
+                "Als",
+                "die",
+                "Teilnehmerzahl",
+                "dann",
+                "doch",
+                "sehr",
+                "deutlich",
+                "geschrumpft",
+                "wurde",
+                "zum",
+                "Abschluss",
+                "noch",
+                "die",
+                "Schillersche",
+                "„",
+                "Ode",
+                "an",
+                "die",
+                "Freude",
+                "“",
+                "vorgetragen",
+                "und",
+                "mitgesungen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 17,
+            "Tokens": [
+                "Um",
+                "19",
+                "Uhr",
+                "endete",
+                "die",
+                "Kundgebung",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 18,
+            "Tokens": [
+                "(",
+                "itu",
+                ")"
+            ]
+        },
+        {
+            "SentenceId": 19,
+            "Tokens": [
+                "Der",
+                "Protestzug",
+                "in",
+                "Bildern"
+            ]
+        },
+        {
+            "SentenceId": 20,
+            "Tokens": [
+                "20px",
+                "[",
+                "https:\/\/commons.wikimedia.org\/wiki\/Category:Ukraine_solidarity_protest_Mannheim_2022-03-05"
+            ]
+        },
+        {
+            "SentenceId": 21,
+            "Tokens": [
+                "Mehr",
+                "Bilder",
+                "]"
+            ]
+        }
+    ]
+}

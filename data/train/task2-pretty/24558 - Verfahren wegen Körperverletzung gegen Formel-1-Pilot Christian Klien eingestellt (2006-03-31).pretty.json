@@ -1,0 +1,276 @@
+{
+    "Annotations": [
+        {
+            "Addr": [
+                "3:0"
+            ],
+            "AddrText": "Klien",
+            "Cue": [
+                "3:1",
+                "3:2"
+            ],
+            "CueText": "wurde vorgeworfen",
+            "Form": "Indirect",
+            "Frame": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3"
+            ],
+            "FrameText": "Klien wurde vorgeworfen ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10"
+            ],
+            "MessageText": "an der Schlägerei beteiligt gewesen zu sein",
+            "STWR": "SW",
+            "Source": [],
+            "SourceText": ""
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10",
+                "4:11",
+                "4:12",
+                "4:13",
+                "4:14",
+                "4:15",
+                "4:16"
+            ],
+            "MessageText": "Die Staatsanwaltschaft Altach gab am Montag , dem 27. März , die Einstellung des Verfahrens bekannt .",
+            "STWR": "SW",
+            "Source": [
+                "4:0",
+                "4:1",
+                "4:2"
+            ],
+            "SourceText": "Die Staatsanwaltschaft Altach"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "5:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "5:0",
+                "5:1"
+            ],
+            "FrameText": "Nach Zeugenaussagen",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11"
+            ],
+            "MessageText": "hatten sich die Anschuldigungen gegen den 23-jährigen Klien nicht bestätigt",
+            "STWR": "Speech",
+            "Source": [
+                "5:1"
+            ],
+            "SourceText": "Zeugenaussagen"
+        }
+    ],
+    "DocumentName": "24558 - Verfahren wegen Körperverletzung gegen Formel-1-Pilot Christian Klien eingestellt (2006-03-31)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Das",
+                "Verfahren",
+                "wegen",
+                "Körperverletzung",
+                "gegen",
+                "den",
+                "Formel-1-Pilot",
+                "Christian",
+                "Klien",
+                "wurde",
+                "eingestellt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "In",
+                "der",
+                "Nacht",
+                "vom",
+                "10.",
+                "auf",
+                "den",
+                "11.",
+                "Februar",
+                "2006",
+                "hielt",
+                "sich",
+                "der",
+                "Vorarlberger",
+                "Formel-1-Fahrer",
+                "Christian",
+                "Klien",
+                "in",
+                "einer",
+                "Diskothek",
+                "in",
+                "Altach",
+                "auf",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Nach",
+                "dem",
+                "Besuch",
+                "wurde",
+                "gegen",
+                "Klien",
+                "Anzeige",
+                "wegen",
+                "Körperverletzung",
+                "erstattet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Klien",
+                "wurde",
+                "vorgeworfen",
+                ",",
+                "an",
+                "der",
+                "Schlägerei",
+                "beteiligt",
+                "gewesen",
+                "zu",
+                "sein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Die",
+                "Staatsanwaltschaft",
+                "Altach",
+                "gab",
+                "am",
+                "Montag",
+                ",",
+                "dem",
+                "27.",
+                "März",
+                ",",
+                "die",
+                "Einstellung",
+                "des",
+                "Verfahrens",
+                "bekannt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Nach",
+                "Zeugenaussagen",
+                "hatten",
+                "sich",
+                "die",
+                "Anschuldigungen",
+                "gegen",
+                "den",
+                "23-jährigen",
+                "Klien",
+                "nicht",
+                "bestätigt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Die",
+                "Aussagen",
+                "des",
+                "angeblich",
+                "von",
+                "Klien",
+                "geschlagenen",
+                "Opfer",
+                "konnte",
+                "niemand",
+                "bestätigen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Auch",
+                "die",
+                "Ärzte",
+                "in",
+                "dem",
+                "Krankenhaus",
+                ",",
+                "in",
+                "die",
+                "das",
+                "Opfer",
+                "wegen",
+                "Kopfschmerzens",
+                "eingeliefert",
+                "wurde",
+                ",",
+                "fanden",
+                "keine",
+                "Hinweise",
+                "auf",
+                "Schläge",
+                "."
+            ]
+        }
+    ]
+}

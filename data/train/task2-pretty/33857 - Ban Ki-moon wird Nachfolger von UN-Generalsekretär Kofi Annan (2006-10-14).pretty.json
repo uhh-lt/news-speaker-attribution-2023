@@ -1,0 +1,233 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:3"
+            ],
+            "CueText": "erklärte",
+            "Form": "Indirect",
+            "Frame": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5"
+            ],
+            "FrameText": "In einem Interview erklärte er ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10",
+                "3:11",
+                "3:12",
+                "3:13",
+                "3:14",
+                "3:15",
+                "3:16",
+                "3:17",
+                "3:18"
+            ],
+            "MessageText": "dass er sich sowohl auf Diplomatie als auch auf die Verwaltung konzentrieren wolle",
+            "STWR": "Speech",
+            "Source": [
+                "3:4"
+            ],
+            "SourceText": "er"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "5:14",
+                "5:15",
+                "5:16",
+                "5:17",
+                "5:18",
+                "5:19",
+                "5:20"
+            ],
+            "MessageText": "In Zukunft wolle er die Vereinten Nationen reformieren , um sie leistungsfähiger gegenüber Problemen wie Terrorismus oder Massenvernichtungswaffen zu machen .",
+            "STWR": "Speech",
+            "Source": [
+                "3:4"
+            ],
+            "SourceText": "er"
+        }
+    ],
+    "DocumentName": "33857 - Ban Ki-moon wird Nachfolger von UN-Generalsekretär Kofi Annan (2006-10-14)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Auf",
+                "der",
+                "UN-Generalversammlung",
+                "am",
+                "Freitag",
+                ",",
+                "den",
+                "13.",
+                "Oktober",
+                "2006",
+                "wurde",
+                "der",
+                "62-jährige",
+                "Ban",
+                "Ki-moon",
+                ",",
+                "Außenminister",
+                "Südkoreas",
+                ",",
+                "zum",
+                "Nachfolger",
+                "des",
+                "amtierenden",
+                "Generalsekretärs",
+                "Kofi",
+                "Annan",
+                ",",
+                "der",
+                "bereits",
+                "zehn",
+                "Jahre",
+                "das",
+                "Amt",
+                "inne",
+                "hatte",
+                ",",
+                "per",
+                "Akklamation",
+                "gewählt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Ban",
+                "wird",
+                "seinen",
+                "Vorgänger",
+                "am",
+                "1.",
+                "Januar",
+                "2007",
+                "ablösen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Zuvor",
+                "war",
+                "die",
+                "Wahl",
+                "Bans",
+                "schon",
+                "in",
+                "einer",
+                "Probeabstimmung",
+                "ersichtlich",
+                "gewesen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "In",
+                "einem",
+                "Interview",
+                "erklärte",
+                "er",
+                ",",
+                "dass",
+                "er",
+                "sich",
+                "sowohl",
+                "auf",
+                "Diplomatie",
+                "als",
+                "auch",
+                "auf",
+                "die",
+                "Verwaltung",
+                "konzentrieren",
+                "wolle",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Zu",
+                "den",
+                "Geschehnissen",
+                "des",
+                "Atomwaffentests",
+                "in",
+                "Nordkorea",
+                "äußerte",
+                "er",
+                "sich",
+                "nicht",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "In",
+                "Zukunft",
+                "wolle",
+                "er",
+                "die",
+                "Vereinten",
+                "Nationen",
+                "reformieren",
+                ",",
+                "um",
+                "sie",
+                "leistungsfähiger",
+                "gegenüber",
+                "Problemen",
+                "wie",
+                "Terrorismus",
+                "oder",
+                "Massenvernichtungswaffen",
+                "zu",
+                "machen",
+                "."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,324 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:2",
+                "4:5"
+            ],
+            "CueText": "gaben an",
+            "Form": "Indirect",
+            "Frame": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6"
+            ],
+            "FrameText": "Als Begründung gaben die USA an ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10",
+                "4:11",
+                "4:12",
+                "4:13",
+                "4:14",
+                "4:15",
+                "4:16"
+            ],
+            "MessageText": "vermutlich halten sich in der Maschine zwei verdächtige Passagiere auf",
+            "STWR": "SW",
+            "Source": [
+                "4:3",
+                "4:4"
+            ],
+            "SourceText": "die USA"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "6:4"
+            ],
+            "CueText": "versicherte",
+            "Form": "Indirect",
+            "Frame": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:4",
+                "6:5",
+                "6:6",
+                "6:7",
+                "6:8"
+            ],
+            "FrameText": "Die holländische Fluggesellschaft KLM versicherte am darauffolgenden Tag ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "6:9",
+                "6:10",
+                "6:11",
+                "6:12",
+                "6:13",
+                "6:14",
+                "6:15",
+                "6:16",
+                "6:17"
+            ],
+            "MessageText": "sie würden die Passagierlisten der Überlandflüge selbst auch kontrollieren",
+            "STWR": "SW",
+            "Source": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3"
+            ],
+            "SourceText": "Die holländische Fluggesellschaft KLM"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7",
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11",
+                "7:12",
+                "8:0",
+                "8:1",
+                "8:2",
+                "8:3",
+                "8:4",
+                "8:5",
+                "8:6",
+                "8:7",
+                "8:8",
+                "8:9",
+                "8:10"
+            ],
+            "MessageText": "Gegen die beiden verdächtigen Personen läge jedoch in den Niederlanden nichts vor . Ein Flug in die USA wäre demnach durchaus vertretbar gewesen .",
+            "STWR": "SW",
+            "Source": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3"
+            ],
+            "SourceText": "Die holländische Fluggesellschaft KLM"
+        }
+    ],
+    "DocumentName": "4566 - Luftraum über den USA gesperrt (2005-04-11)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Die",
+                "USA",
+                "haben",
+                "am",
+                "Samstag",
+                ",",
+                "den",
+                "09.04.2005",
+                ",",
+                "einem",
+                "anfliegenden",
+                "Flugzeug",
+                "aus",
+                "den",
+                "Niederlanden",
+                "den",
+                "Luftraum",
+                "gesperrt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Die",
+                "Boeing",
+                "747",
+                "der",
+                "niederländischen",
+                "Gesellschaft",
+                "KLM",
+                "kam",
+                "aus",
+                "Amsterdam",
+                "und",
+                "war",
+                "auf",
+                "dem",
+                "Flug",
+                "nach",
+                "Mexiko",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "In",
+                "den",
+                "USA",
+                "sollte",
+                "eine",
+                "Zwischenlandung",
+                "stattfinden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Im",
+                "kanadischen",
+                "Luftraum",
+                "wurden",
+                "die",
+                "Piloten",
+                "über",
+                "die",
+                "Sperrung",
+                "des",
+                "Luftraumes",
+                "informiert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Als",
+                "Begründung",
+                "gaben",
+                "die",
+                "USA",
+                "an",
+                ",",
+                "vermutlich",
+                "halten",
+                "sich",
+                "in",
+                "der",
+                "Maschine",
+                "zwei",
+                "verdächtige",
+                "Passagiere",
+                "auf",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Daraufhin",
+                "musste",
+                "das",
+                "Flugzeug",
+                "zum",
+                "Amsterdamer",
+                "Flughafen",
+                "Schiphol",
+                "zurückkehren",
+                ",",
+                "da",
+                "auf",
+                "kanadischem",
+                "Gebiet",
+                "kein",
+                "geeigneter",
+                "Flughafen",
+                "für",
+                "eine",
+                "Zwischenlandung",
+                "vorhanden",
+                "ist",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Die",
+                "holländische",
+                "Fluggesellschaft",
+                "KLM",
+                "versicherte",
+                "am",
+                "darauffolgenden",
+                "Tag",
+                ",",
+                "sie",
+                "würden",
+                "die",
+                "Passagierlisten",
+                "der",
+                "Überlandflüge",
+                "selbst",
+                "auch",
+                "kontrollieren",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Gegen",
+                "die",
+                "beiden",
+                "verdächtigen",
+                "Personen",
+                "läge",
+                "jedoch",
+                "in",
+                "den",
+                "Niederlanden",
+                "nichts",
+                "vor",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Ein",
+                "Flug",
+                "in",
+                "die",
+                "USA",
+                "wäre",
+                "demnach",
+                "durchaus",
+                "vertretbar",
+                "gewesen",
+                "."
+            ]
+        }
+    ]
+}

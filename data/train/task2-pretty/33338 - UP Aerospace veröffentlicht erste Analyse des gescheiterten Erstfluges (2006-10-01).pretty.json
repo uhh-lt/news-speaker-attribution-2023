@@ -1,0 +1,473 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:12"
+            ],
+            "CueText": "lautete",
+            "Form": "Direct",
+            "Frame": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10",
+                "4:11",
+                "4:12",
+                "4:13",
+                "4:14"
+            ],
+            "FrameText": "Die Kernaussage von Jerry Larson , dem Präsidenten von UP Aerospace , lautete dazu :",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13"
+            ],
+            "MessageText": "„ Wir wären sehr überrascht , wenn wir einen größeren Fehler fänden . “",
+            "STWR": "Speech",
+            "Source": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10"
+            ],
+            "SourceText": "Die Kernaussage von Jerry Larson , dem Präsidenten von UP Aerospace"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:4",
+                "6:5",
+                "6:6",
+                "6:7",
+                "6:8",
+                "6:9",
+                "6:10",
+                "6:11",
+                "6:12",
+                "6:13",
+                "6:14",
+                "6:15"
+            ],
+            "MessageText": "Zurzeit würden alle verfügbaren Daten ausgewertet , und noch lägen alle Optionen auf dem Tisch .",
+            "STWR": "Speech",
+            "Source": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10"
+            ],
+            "SourceText": "Die Kernaussage von Jerry Larson , dem Präsidenten von UP Aerospace"
+        },
+        {
+            "Addr": [
+                "8:6",
+                "8:7",
+                "8:8",
+                "8:9"
+            ],
+            "AddrText": "in Richtung seiner Kunden",
+            "Cue": [
+                "7:1"
+            ],
+            "CueText": "sagte",
+            "Form": "Direct",
+            "Frame": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3"
+            ],
+            "FrameText": "Weiter sagte Larson :",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7",
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11",
+                "7:12",
+                "7:13",
+                "7:14",
+                "7:15"
+            ],
+            "MessageText": "„ Unsere Untersuchungen und Verbesserungen werden ein offenes Buch sein . “",
+            "STWR": "Speech",
+            "Source": [
+                "7:2"
+            ],
+            "SourceText": "Larson"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "10:0",
+                "10:1",
+                "10:2",
+                "10:3",
+                "10:4",
+                "10:5",
+                "10:6",
+                "10:7",
+                "10:8",
+                "10:9",
+                "10:10",
+                "10:11",
+                "11:0",
+                "11:1",
+                "11:2",
+                "11:3",
+                "11:4",
+                "11:5",
+                "11:6",
+                "11:7",
+                "11:8",
+                "11:9",
+                "11:10",
+                "11:11",
+                "11:12",
+                "11:13",
+                "11:14",
+                "11:15",
+                "11:16",
+                "11:17",
+                "11:18",
+                "11:19"
+            ],
+            "MessageText": "Man sei für die Zukunft besser aufgestellt als vor dem Start . Das Unternehmen werde die Probleme mit der Rakete lösen und wieder mit einer neuen Rakete auf die Startrampe zurückkehren .",
+            "STWR": "Speech",
+            "Source": [
+                "9:0"
+            ],
+            "SourceText": "Larson"
+        }
+    ],
+    "DocumentName": "33338 - UP Aerospace veröffentlicht erste Analyse des gescheiterten Erstfluges (2006-10-01)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Die",
+                "Firma",
+                "UP",
+                "Aerospace",
+                "veröffentlichte",
+                "am",
+                "29.",
+                "September",
+                "eine",
+                "erste",
+                "Analyse",
+                "über",
+                "den",
+                "gescheiterten",
+                "Start",
+                "am",
+                "25.",
+                "September",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Eine",
+                "Höhenforschungsrakete",
+                "vom",
+                "Typ",
+                "„",
+                "SpaceLoft",
+                "XL",
+                "“",
+                "startete",
+                "von",
+                "dem",
+                "gerade",
+                "neu",
+                "entstehenden",
+                "Weltraumbahnhof",
+                "in",
+                "Upham",
+                ",",
+                "New",
+                "Mexico",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Zwar",
+                "dauerte",
+                "der",
+                "Flug",
+                "wie",
+                "geplant",
+                "13",
+                "Minuten",
+                ",",
+                "doch",
+                "die",
+                "erforderliche",
+                "Höhe",
+                ",",
+                "um",
+                "in",
+                "eine",
+                "suborbitale",
+                "Bahn",
+                "zu",
+                "gelangen",
+                ",",
+                "wurde",
+                "nicht",
+                "erreicht",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Eine",
+                "Fehlfunktion",
+                "in",
+                "rund",
+                "12,8",
+                "Kilometern",
+                "Höhe",
+                "war",
+                "die",
+                "Ursache",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Die",
+                "Kernaussage",
+                "von",
+                "Jerry",
+                "Larson",
+                ",",
+                "dem",
+                "Präsidenten",
+                "von",
+                "UP",
+                "Aerospace",
+                ",",
+                "lautete",
+                "dazu",
+                ":"
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "„",
+                "Wir",
+                "wären",
+                "sehr",
+                "überrascht",
+                ",",
+                "wenn",
+                "wir",
+                "einen",
+                "größeren",
+                "Fehler",
+                "fänden",
+                ".",
+                "“"
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Zurzeit",
+                "würden",
+                "alle",
+                "verfügbaren",
+                "Daten",
+                "ausgewertet",
+                ",",
+                "und",
+                "noch",
+                "lägen",
+                "alle",
+                "Optionen",
+                "auf",
+                "dem",
+                "Tisch",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Weiter",
+                "sagte",
+                "Larson",
+                ":",
+                "„",
+                "Unsere",
+                "Untersuchungen",
+                "und",
+                "Verbesserungen",
+                "werden",
+                "ein",
+                "offenes",
+                "Buch",
+                "sein",
+                ".",
+                "“"
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Dies",
+                "sagte",
+                "der",
+                "Präsident",
+                "des",
+                "Unternehmens",
+                "in",
+                "Richtung",
+                "seiner",
+                "Kunden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Larson",
+                "gab",
+                "sich",
+                "in",
+                "seiner",
+                "Stellungnahme",
+                "betont",
+                "optimistisch",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Man",
+                "sei",
+                "für",
+                "die",
+                "Zukunft",
+                "besser",
+                "aufgestellt",
+                "als",
+                "vor",
+                "dem",
+                "Start",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Das",
+                "Unternehmen",
+                "werde",
+                "die",
+                "Probleme",
+                "mit",
+                "der",
+                "Rakete",
+                "lösen",
+                "und",
+                "wieder",
+                "mit",
+                "einer",
+                "neuen",
+                "Rakete",
+                "auf",
+                "die",
+                "Startrampe",
+                "zurückkehren",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Das",
+                "Unternehmen",
+                "plant",
+                "pro",
+                "Jahr",
+                "30",
+                "Starts",
+                "vom",
+                "Spaceport",
+                "America",
+                "."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "0:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4",
+                "0:5",
+                "0:6"
+            ],
+            "FrameText": "Nach Informationen der Stadtverwaltung vom gestrigen Dienstagabend",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "0:7",
+                "0:8",
+                "0:9",
+                "0:10",
+                "0:11",
+                "0:12",
+                "0:13",
+                "0:14",
+                "0:15",
+                "0:16",
+                "0:17"
+            ],
+            "MessageText": "muss erneut eine Freiburger Schule teilweise wegen eines Masernfalles geschlossen werden",
+            "STWR": "Speech",
+            "Source": [
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4",
+                "0:5",
+                "0:6"
+            ],
+            "SourceText": "Informationen der Stadtverwaltung vom gestrigen Dienstagabend"
+        }
+    ],
+    "DocumentName": "49854 - Erneute Schulschließung wegen Masern an einer Freiburger Schule (2008-04-30)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Nach",
+                "Informationen",
+                "der",
+                "Stadtverwaltung",
+                "vom",
+                "gestrigen",
+                "Dienstagabend",
+                "muss",
+                "erneut",
+                "eine",
+                "Freiburger",
+                "Schule",
+                "teilweise",
+                "wegen",
+                "eines",
+                "Masernfalles",
+                "geschlossen",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Nachdem",
+                "vor",
+                "knapp",
+                "drei",
+                "Wochen",
+                "die",
+                "Freiburger",
+                "Staudinger-Gesamtschule",
+                "wegen",
+                "Masern",
+                "ihren",
+                "Schulbetrieb",
+                "weitgehend",
+                "einstellen",
+                "musste",
+                ",",
+                "trifft",
+                "es",
+                "nun",
+                "die",
+                "Max-Weber-Schule",
+                ",",
+                "ein",
+                "Wirtschaftsgymnasium",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Da",
+                "der",
+                "13.",
+                "Jahrgang",
+                ",",
+                "in",
+                "dem",
+                "der",
+                "Masernfall",
+                "aufgetreten",
+                "ist",
+                ",",
+                "in",
+                "einem",
+                "abgetrennten",
+                "Teilgebäude",
+                "untergebracht",
+                "ist",
+                ",",
+                "musste",
+                "nur",
+                "dieser",
+                "Gebäudeteil",
+                "geschlossen",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Die",
+                "ebenfalls",
+                "in",
+                "diesem",
+                "Gebäude",
+                "untergebrachte",
+                "12.",
+                "Jahrgangsstufe",
+                "war",
+                "zum",
+                "Zeitpunkt",
+                "der",
+                "Maserninfektion",
+                "auf",
+                "einer",
+                "Klassenfahrt",
+                "und",
+                "ist",
+                "daher",
+                "nicht",
+                "betroffen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Der",
+                "Schulbetrieb",
+                "an",
+                "der",
+                "übrigen",
+                "Schule",
+                "geht",
+                "weiter",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Der",
+                "betroffene",
+                "Jahrgang",
+                "hat",
+                "jedoch",
+                "vom",
+                "5.",
+                "bis",
+                "12.",
+                "Mai",
+                "„",
+                "masernfrei",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Die",
+                "Masernerkrankung",
+                "war",
+                "am",
+                "Montag",
+                "dem",
+                "Gesundheitsamt",
+                "mitgeteilt",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Betroffen",
+                "ist",
+                "ein",
+                "Schüler",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Das",
+                "städtische",
+                "Amt",
+                "für",
+                "öffentliche",
+                "Ordnung",
+                "erließ",
+                "ein",
+                "Zutrittsverbot",
+                "für",
+                "alle",
+                "Personen",
+                ",",
+                "die",
+                "nach",
+                "dem",
+                "1.",
+                "Januar",
+                "1973",
+                "geboren",
+                "sind",
+                "und",
+                "keinen",
+                "Impfschutz",
+                "nachweisen",
+                "können",
+                "."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,458 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "9:3"
+            ],
+            "CueText": "laut",
+            "Form": "Indirect",
+            "Frame": [
+                "9:3",
+                "9:4",
+                "9:5"
+            ],
+            "FrameText": "laut einem Jury-Mitglied",
+            "HasNested": true,
+            "IsNested": false,
+            "Message": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:6",
+                "9:7",
+                "9:8",
+                "9:9",
+                "9:10",
+                "9:11",
+                "9:12",
+                "9:13",
+                "9:14",
+                "9:15",
+                "9:16",
+                "9:17"
+            ],
+            "MessageText": "Das Buch ist eine „ kluge und komische Geschichte über das Nicht-Überleben im Nah-Erholungsgebiet “",
+            "STWR": "Speech",
+            "Source": [
+                "9:4",
+                "9:5"
+            ],
+            "SourceText": "einem Jury-Mitglied"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "9:3"
+            ],
+            "CueText": "laut",
+            "Form": "Direct",
+            "Frame": [
+                "9:3",
+                "9:4",
+                "9:5"
+            ],
+            "FrameText": "laut einem Jury-Mitglied",
+            "HasNested": false,
+            "IsNested": true,
+            "Message": [
+                "9:7",
+                "9:8",
+                "9:9",
+                "9:10",
+                "9:11",
+                "9:12",
+                "9:13",
+                "9:14",
+                "9:15",
+                "9:16",
+                "9:17"
+            ],
+            "MessageText": "„ kluge und komische Geschichte über das Nicht-Überleben im Nah-Erholungsgebiet “",
+            "STWR": "Speech",
+            "Source": [
+                "9:4",
+                "9:5"
+            ],
+            "SourceText": "einem Jury-Mitglied"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "12:1"
+            ],
+            "CueText": "sagte",
+            "Form": "Direct",
+            "Frame": [
+                "12:0",
+                "12:1",
+                "12:2"
+            ],
+            "FrameText": "Sie sagte :",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "12:3",
+                "12:4",
+                "12:5",
+                "12:6",
+                "12:7",
+                "12:8",
+                "12:9",
+                "12:10",
+                "12:11",
+                "12:12",
+                "12:13",
+                "12:14",
+                "12:15",
+                "12:16",
+                "12:17",
+                "12:18",
+                "12:19",
+                "12:20",
+                "12:21",
+                "12:22",
+                "12:23",
+                "12:24",
+                "12:25",
+                "12:26",
+                "12:27",
+                "12:28",
+                "12:29",
+                "12:30",
+                "12:31",
+                "12:32",
+                "12:33",
+                "12:34",
+                "12:35",
+                "12:36",
+                "12:37",
+                "12:38",
+                "12:39",
+                "12:40",
+                "12:41",
+                "12:42",
+                "12:43",
+                "13:0",
+                "13:1",
+                "13:2",
+                "13:3",
+                "13:4",
+                "13:5",
+                "13:6",
+                "13:7",
+                "13:8",
+                "13:9"
+            ],
+            "MessageText": "„ Wenn ich gewusst hätte , wie viel Arbeit es ist , so einen Text zu machen , hätte ich es vielleicht sein lassen , ich habe seither großen Respekt vor all jenen , die mit Literatur ihr Brot verdienen . Ich würde das literarische Können schon gerne vertiefen . “",
+            "STWR": "Speech",
+            "Source": [
+                "12:0"
+            ],
+            "SourceText": "Sie"
+        }
+    ],
+    "DocumentName": "29368 - Ingeborg-Bachmann-Preis 2006 ging an Kathrin Passig (2006-07-01)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Am",
+                "vergangenen",
+                "Samstag",
+                "ging",
+                "in",
+                "Klagenfurt",
+                "der",
+                "dreitägige",
+                "Lesewettbewerb",
+                "für",
+                "den",
+                "diesjährigen",
+                "Ingeborg-Bachmann-Preis",
+                "zu",
+                "Ende",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Am",
+                "Sonntag",
+                "findet",
+                "die",
+                "Preisverleihung",
+                "im",
+                "Kärntner",
+                "ORF-Theater",
+                "statt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Gewinnerin",
+                "der",
+                "30.",
+                "Preisverleihung",
+                "ist",
+                "die",
+                "Schriftstellerin",
+                "Kathrin",
+                "Passig",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Der",
+                "Preis",
+                "ist",
+                "mit",
+                "25.000",
+                "Euro",
+                "dotiert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Lange",
+                "musste",
+                "die",
+                "Bachmann-Jury",
+                "nicht",
+                "beraten",
+                ",",
+                "gleich",
+                "in",
+                "der",
+                "ersten",
+                "Debatte",
+                "stand",
+                "der",
+                "Sieger",
+                "fest",
+                ",",
+                "sie",
+                "wusste",
+                "zu",
+                "überzeugen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Die",
+                "36-Jährige",
+                "wurde",
+                "in",
+                "Deggendorf",
+                "geboren",
+                ",",
+                "lebt",
+                "jedoch",
+                "seit",
+                "1991",
+                "in",
+                "Berlin",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Passig",
+                "ist",
+                "Web-Designerin",
+                "und",
+                "Sachbuch-Autorin",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Auch",
+                "als",
+                "Buchhändlerin",
+                "war",
+                "sie",
+                "bereits",
+                "tätig",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Das",
+                "Buch",
+                ",",
+                "das",
+                "sie",
+                "in",
+                "Klagenfurt",
+                "vorstellte",
+                ",",
+                "ist",
+                "ihr",
+                "literarisches",
+                "Erstwerk",
+                ":",
+                "„",
+                "Sie",
+                "befinden",
+                "sich",
+                "hier",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Das",
+                "Buch",
+                "ist",
+                "laut",
+                "einem",
+                "Jury-Mitglied",
+                "eine",
+                "„",
+                "kluge",
+                "und",
+                "komische",
+                "Geschichte",
+                "über",
+                "das",
+                "Nicht-Überleben",
+                "im",
+                "Nah-Erholungsgebiet",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Der",
+                "Gewinn",
+                "des",
+                "Preises",
+                "überraschte",
+                "die",
+                "Autorin",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Sie",
+                "sieht",
+                "darin",
+                "aber",
+                "auch",
+                "eine",
+                "Verpflichtung",
+                ",",
+                "weiter",
+                "zu",
+                "schreiben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Sie",
+                "sagte",
+                ":",
+                "„",
+                "Wenn",
+                "ich",
+                "gewusst",
+                "hätte",
+                ",",
+                "wie",
+                "viel",
+                "Arbeit",
+                "es",
+                "ist",
+                ",",
+                "so",
+                "einen",
+                "Text",
+                "zu",
+                "machen",
+                ",",
+                "hätte",
+                "ich",
+                "es",
+                "vielleicht",
+                "sein",
+                "lassen",
+                ",",
+                "ich",
+                "habe",
+                "seither",
+                "großen",
+                "Respekt",
+                "vor",
+                "all",
+                "jenen",
+                ",",
+                "die",
+                "mit",
+                "Literatur",
+                "ihr",
+                "Brot",
+                "verdienen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Ich",
+                "würde",
+                "das",
+                "literarische",
+                "Können",
+                "schon",
+                "gerne",
+                "vertiefen",
+                ".",
+                "“"
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Der",
+                "Gewinner",
+                "des",
+                "Ingeborg-Bachmann-Preises",
+                "im",
+                "Jahr",
+                "2005",
+                "war",
+                "der",
+                "Münchener",
+                "Schriftsteller",
+                "Thomas",
+                "Lang",
+                "."
+            ]
+        }
+    ]
+}

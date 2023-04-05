@@ -1,0 +1,173 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:3"
+            ],
+            "CueText": "laut",
+            "Form": "Indirect",
+            "Frame": [
+                "1:3",
+                "1:4"
+            ],
+            "FrameText": "laut Polizeisprecher",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8",
+                "1:9"
+            ],
+            "MessageText": "Ein Passant hatte das Gepäckstück unbeaufsichtigt stehen gelassen",
+            "STWR": "Speech",
+            "Source": [
+                "1:4"
+            ],
+            "SourceText": "Polizeisprecher"
+        }
+    ],
+    "DocumentName": "77730 - Leerer Koffer sorgt für Großeinsatz am Praterstern (2014-12-02)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Am",
+                "Bahnhof",
+                "Wien",
+                "Praterstern",
+                "(",
+                "vormals",
+                "Bahnhof",
+                "Wien",
+                "Nord",
+                ")",
+                "wurde",
+                "heute",
+                "wegen",
+                "eines",
+                "herrenlosen",
+                "Koffers",
+                ",",
+                "der",
+                "auf",
+                "dem",
+                "Bahnsteig",
+                "stand",
+                ",",
+                "kurz",
+                "nach",
+                "13",
+                "Uhr",
+                "Bombenalarm",
+                "ausgelöst",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Ein",
+                "Passant",
+                "hatte",
+                "laut",
+                "Polizeisprecher",
+                "das",
+                "Gepäckstück",
+                "unbeaufsichtigt",
+                "stehen",
+                "gelassen",
+                ".",
+                "Mehrere",
+                "öffentliche",
+                "Verkehrsmittel",
+                "waren",
+                "betroffen",
+                ":"
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Zwei",
+                "Bahnsteige",
+                "am",
+                "Bahnhof",
+                "wurden",
+                "polizeilich",
+                "gesperrt",
+                ",",
+                "ebenso",
+                "die",
+                "den",
+                "Verkehrsknotenpunkt",
+                "frequentierenden",
+                "U-Bahnlinien",
+                "U1",
+                "und",
+                "U2",
+                "sowie",
+                "die",
+                "Straßenbahnlinien",
+                "5",
+                "und",
+                "O",
+                ",",
+                "die",
+                "gesperrt",
+                "bzw.",
+                "kurzgeführt",
+                "wurden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Der",
+                "Koffer",
+                "wurde",
+                "anschließend",
+                "mit",
+                "einem",
+                "Röntgengerät",
+                "durchleuchtet",
+                "und",
+                "für",
+                "leer",
+                "und",
+                "unbedenklich",
+                "erklärt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Um",
+                "ca.",
+                "14",
+                "Uhr",
+                "wurden",
+                "schließlich",
+                "die",
+                "Sperrungen",
+                "der",
+                "Bahnsteige",
+                ",",
+                "Straßenbahn-",
+                "und",
+                "U-Bahn-Linien",
+                "wieder",
+                "freigegeben",
+                "."
+            ]
+        }
+    ]
+}

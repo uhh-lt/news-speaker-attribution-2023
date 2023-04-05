@@ -1,0 +1,238 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "7:4"
+            ],
+            "CueText": "sagte",
+            "Form": "Direct",
+            "Frame": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7",
+                "7:8",
+                "7:9",
+                "7:10"
+            ],
+            "FrameText": "Thüringens Justizminister Holger Poppenhäger sagte nach dem Ende der Geiselnahme :",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:11",
+                "7:12",
+                "7:13",
+                "7:14",
+                "7:15",
+                "7:16",
+                "7:17",
+                "7:18",
+                "7:19",
+                "7:20",
+                "8:0",
+                "8:1",
+                "8:2",
+                "8:3",
+                "8:4",
+                "8:5",
+                "8:6",
+                "8:7",
+                "8:8",
+                "8:9",
+                "8:10",
+                "8:11",
+                "8:12",
+                "8:13"
+            ],
+            "MessageText": "„ Die Forderungen des Geiselnehmers erschienen uns sehr wirr . Wir sind alle sehr erleichtert und froh , dass es beendet ist . “",
+            "STWR": "Speech",
+            "Source": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3"
+            ],
+            "SourceText": "Thüringens Justizminister Holger Poppenhäger"
+        }
+    ],
+    "DocumentName": "75244 - Suhl in Thüringen: Geiselnahme im Gefängnis durch Polizei beendet (2013-03-30)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Am",
+                "Karfreitag",
+                "gegen",
+                "16",
+                "Uhr",
+                "hatte",
+                "ein",
+                "52-jähriger",
+                "Strafgefangener",
+                "in",
+                "der",
+                "Justizvollzugsanstalt",
+                "(",
+                "JVA",
+                ")",
+                "Suhl-Goldlauter",
+                "eine",
+                "26-jährige",
+                "Angestellte",
+                "in",
+                "seine",
+                "Gewalt",
+                "gebracht",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "In",
+                "der",
+                "Nacht",
+                "zum",
+                "heutigen",
+                "Samstag",
+                "gelang",
+                "es",
+                "Beamten",
+                "eines",
+                "Sondereinsatzkommandos",
+                ",",
+                "die",
+                "Frau",
+                "zu",
+                "befreien",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Die",
+                "Angestellte",
+                "und",
+                "der",
+                "Geiselnehmer",
+                "wurden",
+                "bei",
+                "der",
+                "Aktion",
+                "nicht",
+                "verletzt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Der",
+                "Täter",
+                "ist",
+                "wegen",
+                "Gewaltdelikten",
+                "in",
+                "Haft",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Mit",
+                "einem",
+                "Messer",
+                "hatte",
+                "er",
+                "sich",
+                "der",
+                "Gefängnisangestellten",
+                "bemächtigt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Es",
+                "folgten",
+                "stundenlange",
+                "Verhandlungen",
+                "der",
+                "Polizei",
+                "mit",
+                "dem",
+                "Straftäter",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Am",
+                "Ende",
+                "wurde",
+                "der",
+                "Mann",
+                "von",
+                "einem",
+                "Spezialeinsatzkommando",
+                "überwältigt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Thüringens",
+                "Justizminister",
+                "Holger",
+                "Poppenhäger",
+                "sagte",
+                "nach",
+                "dem",
+                "Ende",
+                "der",
+                "Geiselnahme",
+                ":",
+                "„",
+                "Die",
+                "Forderungen",
+                "des",
+                "Geiselnehmers",
+                "erschienen",
+                "uns",
+                "sehr",
+                "wirr",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Wir",
+                "sind",
+                "alle",
+                "sehr",
+                "erleichtert",
+                "und",
+                "froh",
+                ",",
+                "dass",
+                "es",
+                "beendet",
+                "ist",
+                ".",
+                "“"
+            ]
+        }
+    ]
+}

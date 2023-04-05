@@ -1,0 +1,347 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "3:0",
+                "3:1",
+                "3:2"
+            ],
+            "FrameText": "Nach ersten Angaben",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:3",
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10"
+            ],
+            "MessageText": "sind wahrscheinlich alle 17 Personen ums Leben gekommen",
+            "STWR": "Speech",
+            "Source": [
+                "3:1",
+                "3:2"
+            ],
+            "SourceText": "ersten Angaben"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9"
+            ],
+            "MessageText": "Andere Medien berichten von 13 Passagieren und zwei Besatzungsmitgliedern .",
+            "STWR": "Speech",
+            "Source": [
+                "4:0",
+                "4:1"
+            ],
+            "SourceText": "Andere Medien"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "5:4"
+            ],
+            "CueText": "erklärte",
+            "Form": "Indirect",
+            "Frame": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5"
+            ],
+            "FrameText": "Ein Sprecher der Rettungsdienste erklärte ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "5:14",
+                "5:15",
+                "5:16",
+                "5:17"
+            ],
+            "MessageText": "er gehe nicht davon aus , dass jemand den Absturz überlebt habe",
+            "STWR": "Speech",
+            "Source": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3"
+            ],
+            "SourceText": "Ein Sprecher der Rettungsdienste"
+        }
+    ],
+    "DocumentName": "5248 - Charterflugzeug in Australien abgestürzt (2005-05-07)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "In",
+                "Nordaustralien",
+                "hat",
+                "sich",
+                "am",
+                "heutigen",
+                "Samstag",
+                "ein",
+                "Flugzeugabsturz",
+                "ereignet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Es",
+                "handelt",
+                "sich",
+                "um",
+                "ein",
+                "zweimotoriges",
+                "Charterflugzeug",
+                "vom",
+                "Typ",
+                "Fairchild",
+                "Metroliner",
+                ",",
+                "das",
+                "sich",
+                "auf",
+                "dem",
+                "Weg",
+                "nach",
+                "Lockhart",
+                "River",
+                ",",
+                "einer",
+                "Aborigines-Gemeinde",
+                ",",
+                "befand",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "An",
+                "Bord",
+                "befanden",
+                "sich",
+                "15",
+                "Passagiere",
+                "und",
+                "zwei",
+                "Besatzungsmitglieder",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Nach",
+                "ersten",
+                "Angaben",
+                "sind",
+                "wahrscheinlich",
+                "alle",
+                "17",
+                "Personen",
+                "ums",
+                "Leben",
+                "gekommen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Andere",
+                "Medien",
+                "berichten",
+                "von",
+                "13",
+                "Passagieren",
+                "und",
+                "zwei",
+                "Besatzungsmitgliedern",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Ein",
+                "Sprecher",
+                "der",
+                "Rettungsdienste",
+                "erklärte",
+                ",",
+                "er",
+                "gehe",
+                "nicht",
+                "davon",
+                "aus",
+                ",",
+                "dass",
+                "jemand",
+                "den",
+                "Absturz",
+                "überlebt",
+                "habe",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Gefunden",
+                "wurde",
+                "das",
+                "ausgebrannte",
+                "Wrack",
+                "der",
+                "Maschine",
+                "im",
+                "Bundesstaat",
+                "Queensland",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Eine",
+                "Hubschrauberbesatzung",
+                "hat",
+                "die",
+                "Maschine",
+                "bei",
+                "einem",
+                "Rundflug",
+                "gesichtet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Versuche",
+                "des",
+                "Piloten",
+                ",",
+                "am",
+                "Unglücksort",
+                "zu",
+                "landen",
+                ",",
+                "scheiterten",
+                "mehrmals",
+                "am",
+                "schlechten",
+                "Wetter",
+                "und",
+                "der",
+                "Dunkelheit",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Da",
+                "es",
+                "sich",
+                "um",
+                "weit",
+                "abgelegenes",
+                "Gelände",
+                "handelt",
+                ",",
+                "können",
+                "die",
+                "Rettungsmannschaften",
+                "frühestens",
+                "am",
+                "Sonntag",
+                "Morgen",
+                "(",
+                "Ortszeit",
+                ")",
+                "an",
+                "der",
+                "Unglücksstelle",
+                "eintreffen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Die",
+                "Rettungsmannschaften",
+                "sind",
+                "sofort",
+                "nach",
+                "Bekanntwerden",
+                "des",
+                "Absturzes",
+                "aufgebrochen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Bisher",
+                "ist",
+                "noch",
+                "nicht",
+                "bekannt",
+                ",",
+                "warum",
+                "das",
+                "Unglück",
+                "erfolgt",
+                "ist",
+                "."
+            ]
+        }
+    ]
+}

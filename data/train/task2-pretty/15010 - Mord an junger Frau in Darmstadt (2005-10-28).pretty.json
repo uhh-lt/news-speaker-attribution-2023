@@ -1,0 +1,251 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "7:3"
+            ],
+            "CueText": "zufolge",
+            "Form": "Indirect",
+            "Frame": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3"
+            ],
+            "FrameText": "Ermittlungen der Polizei zufolge",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7",
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11",
+                "7:12",
+                "7:13",
+                "7:14",
+                "7:15",
+                "7:16"
+            ],
+            "MessageText": "wollte sich die seit längerem mit dem US-Amerikaner befreundete Frau von ihm trennen",
+            "STWR": "SW",
+            "Source": [
+                "7:0",
+                "7:1",
+                "7:2"
+            ],
+            "SourceText": "Ermittlungen der Polizei"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "FreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "8:0",
+                "8:1",
+                "8:2",
+                "8:3",
+                "8:4",
+                "8:5",
+                "8:6",
+                "8:7",
+                "8:8",
+                "8:9",
+                "8:10",
+                "8:11",
+                "8:12",
+                "8:13",
+                "8:14",
+                "8:15",
+                "8:16"
+            ],
+            "MessageText": "Offensichtlich sollte auf dem Parkplatz eine Aussprache stattfinden , zu der es jedoch nicht mehr kam .",
+            "STWR": "SW",
+            "Source": [
+                "7:0",
+                "7:1",
+                "7:2"
+            ],
+            "SourceText": "Ermittlungen der Polizei"
+        }
+    ],
+    "DocumentName": "15010 - Mord an junger Frau in Darmstadt (2005-10-28)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Gestern",
+                "Abend",
+                "ist",
+                "vor",
+                "einem",
+                "Schnellimbiss-Restaurant",
+                "in",
+                "Darmstadt",
+                "eine",
+                "20",
+                "Jahre",
+                "junge",
+                "Frau",
+                "mit",
+                "mehreren",
+                "Messerstichen",
+                "erstochen",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Ihr",
+                "Freund",
+                "wurde",
+                "von",
+                "der",
+                "Polizei",
+                "noch",
+                "am",
+                "Tatort",
+                ",",
+                "dem",
+                "McDonald's-Restaurant",
+                "in",
+                "der",
+                "Gräfenhäuser",
+                "Straße",
+                ",",
+                "festgenommen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Zeugen",
+                "hatten",
+                "die",
+                "Tat",
+                "beobachtet",
+                "und",
+                "den",
+                "Notruf",
+                "ausgelöst",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Es",
+                "besteht",
+                "dringender",
+                "Tatverdacht",
+                "gegen",
+                "den",
+                "Mann",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Die",
+                "Tatwaffe",
+                ",",
+                "ein",
+                "Klappmesser",
+                ",",
+                "wurde",
+                "sichergestellt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Er",
+                "leistete",
+                "keinen",
+                "Widerstand",
+                "und",
+                "soll",
+                "heute",
+                "dem",
+                "Haftrichter",
+                "vorgeführt",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Es",
+                "handelt",
+                "sich",
+                "um",
+                "einen",
+                "20-jährigen",
+                "US-Amerikaner",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Ermittlungen",
+                "der",
+                "Polizei",
+                "zufolge",
+                "wollte",
+                "sich",
+                "die",
+                "seit",
+                "längerem",
+                "mit",
+                "dem",
+                "US-Amerikaner",
+                "befreundete",
+                "Frau",
+                "von",
+                "ihm",
+                "trennen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Offensichtlich",
+                "sollte",
+                "auf",
+                "dem",
+                "Parkplatz",
+                "eine",
+                "Aussprache",
+                "stattfinden",
+                ",",
+                "zu",
+                "der",
+                "es",
+                "jedoch",
+                "nicht",
+                "mehr",
+                "kam",
+                "."
+            ]
+        }
+    ]
+}

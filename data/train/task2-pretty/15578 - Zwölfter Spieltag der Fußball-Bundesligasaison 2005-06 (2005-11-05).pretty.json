@@ -1,0 +1,358 @@
+{
+    "Annotations": [],
+    "DocumentName": "15578 - Zwölfter Spieltag der Fußball-Bundesligasaison 2005-06 (2005-11-05)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Hier",
+                "sind",
+                "die",
+                "Ergebnisse",
+                "aus",
+                "der",
+                "1.",
+                "Fußball-Bundesliga",
+                "zu",
+                "finden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Für",
+                "eine",
+                "detaillierte",
+                "Spiel-Statistik",
+                "klicken",
+                "Sie",
+                "einfach",
+                "auf",
+                "die",
+                "jeweilige",
+                "Paarung",
+                "Samstag",
+                ",",
+                "05.",
+                "November",
+                "2005",
+                ":",
+                "Hertha",
+                "BSC",
+                "Berlin",
+                "-",
+                "1.",
+                "FC",
+                "Kaiserslautern",
+                "3:0",
+                "(",
+                "1:0",
+                ")",
+                "Bayer",
+                "Leverkusen",
+                "-",
+                "Borussia",
+                "Dortmund",
+                "2:1",
+                "(",
+                "1:0",
+                ")",
+                "Schalke",
+                "04",
+                "-",
+                "MSV",
+                "Duisburg",
+                "3:0",
+                "(",
+                "1:0",
+                ")",
+                "BorVfL",
+                "Wolfsburg",
+                "-",
+                "1.",
+                "FC",
+                "Köln",
+                "1:1",
+                "(",
+                "1:0",
+                ")",
+                "Bayern",
+                "München",
+                "-",
+                "Werder",
+                "Bremen",
+                "3:1",
+                "(",
+                "3:1",
+                ")",
+                "VfB"
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Eintracht",
+                "Frankfurt",
+                "-",
+                "Arminia",
+                "Bielefeld",
+                "3:0",
+                "(",
+                "1:0",
+                ")"
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Hannover",
+                "96"
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "-"
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "1.",
+                "FSV",
+                "Mainz",
+                "05"
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "2:2",
+                "(",
+                "0:1",
+                ")"
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Am",
+                "zwölften",
+                "Spieltag",
+                "der",
+                "Fußball-Bundesligasaison",
+                "liegen",
+                "die",
+                "Bayern",
+                "nun",
+                "fünf",
+                "Punkte",
+                "vor",
+                "der",
+                "Konkurrenz",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Sie",
+                "bauten",
+                "damit",
+                "den",
+                "Vorsprung",
+                "gegen",
+                "über",
+                "Verfolger",
+                "Werder",
+                "Bremen",
+                "aus",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Der",
+                "dritte",
+                "und",
+                "vierte",
+                "Platz",
+                "blieben",
+                "unverändert",
+                ",",
+                "Schalke",
+                "ist",
+                "nach",
+                "wie",
+                "vor",
+                "auf",
+                "Platz",
+                "vier",
+                ".",
+                "----",
+                "Sonntag",
+                ",",
+                "06.",
+                "November",
+                "2005",
+                ":",
+                "Borussia",
+                "Mönchengladbach",
+                "-",
+                "Hamburger",
+                "SV",
+                "0:0",
+                "(",
+                "0:0",
+                ")",
+                "1.",
+                "FC",
+                "Nürnberg",
+                "-"
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "VfB"
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Stuttgart"
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "0:1",
+                "(",
+                "0:1",
+                ")"
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Hertha",
+                "BSC"
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Berlin",
+                "-",
+                "1.",
+                "FC",
+                "Kaiserslautern"
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "Bayer",
+                "Leverkusen",
+                "-",
+                "Borussia",
+                "Dortmund"
+            ]
+        },
+        {
+            "SentenceId": 16,
+            "Tokens": [
+                "Schalke",
+                "04",
+                "-",
+                "MSV",
+                "Duisburg",
+                "VfL",
+                "Wolfsburg",
+                "-",
+                "1.",
+                "FC",
+                "Köln",
+                "Bayern",
+                "München",
+                "-",
+                "Werder",
+                "Bremen"
+            ]
+        },
+        {
+            "SentenceId": 17,
+            "Tokens": [
+                "Eintracht",
+                "Frankfurt",
+                "-",
+                "Arminia",
+                "Bielefeld"
+            ]
+        },
+        {
+            "SentenceId": 18,
+            "Tokens": [
+                "Hannover",
+                "96",
+                "-",
+                "1."
+            ]
+        },
+        {
+            "SentenceId": 19,
+            "Tokens": [
+                "FSV",
+                "Mainz",
+                "05"
+            ]
+        },
+        {
+            "SentenceId": 20,
+            "Tokens": [
+                "Borussia",
+                "Mönchengladbach",
+                "-",
+                "Hamburger",
+                "SV",
+                "1.",
+                "FC",
+                "Nürnberg",
+                "-",
+                "VfB",
+                "Stuttgart",
+                "Tabelle"
+            ]
+        },
+        {
+            "SentenceId": 21,
+            "Tokens": [
+                "Siehe",
+                "auch"
+            ]
+        },
+        {
+            "SentenceId": 22,
+            "Tokens": [
+                "–"
+            ]
+        },
+        {
+            "SentenceId": 23,
+            "Tokens": [
+                "Themenverwandte"
+            ]
+        },
+        {
+            "SentenceId": 24,
+            "Tokens": [
+                "Artikel",
+                "und",
+                "umfangreiche",
+                "Hintergrundstatistiken"
+            ]
+        }
+    ]
+}

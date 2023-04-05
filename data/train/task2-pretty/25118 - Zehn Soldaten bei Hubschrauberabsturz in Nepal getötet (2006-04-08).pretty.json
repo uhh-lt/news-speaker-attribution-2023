@@ -1,0 +1,217 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "5:14"
+            ],
+            "MessageText": "Die Armeeleitung hingegen sprach von einem ganz normalen Absturz der russischen Maschine vom Typ MI-17.",
+            "STWR": "Speech",
+            "Source": [
+                "5:0",
+                "5:1"
+            ],
+            "SourceText": "Die Armeeleitung"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:15",
+                "5:16",
+                "5:17",
+                "5:18",
+                "5:19",
+                "5:20",
+                "5:21",
+                "5:22",
+                "5:23",
+                "5:24",
+                "5:25",
+                "5:26",
+                "5:27",
+                "5:28"
+            ],
+            "MessageText": "Der Militärhubschrauber sei abgestürzt , nachdem zuvor die an Bord befindliche Munition explodierte .",
+            "STWR": "Speech",
+            "Source": [
+                "5:0",
+                "5:1"
+            ],
+            "SourceText": "Die Armeeleitung"
+        }
+    ],
+    "DocumentName": "25118 - Zehn Soldaten bei Hubschrauberabsturz in Nepal getötet (2006-04-08)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Zehn",
+                "Soldaten",
+                "der",
+                "nepalesischen",
+                "Armee",
+                "sind",
+                "bei",
+                "einem",
+                "Hubschrauberabsturz",
+                "in",
+                "der",
+                "Nacht",
+                "von",
+                "Mittwoch",
+                "auf",
+                "Donnerstag",
+                "getötet",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Die",
+                "Verantwortung",
+                "für",
+                "den",
+                "Absturz",
+                "haben",
+                "maoistische",
+                "Rebellen",
+                "übernommen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Die",
+                "Soldaten",
+                "waren",
+                "auf",
+                "dem",
+                "Weg",
+                "ins",
+                "Rebellengebiet",
+                "südlich",
+                "der",
+                "Hauptstadt",
+                "Kathmandu",
+                ",",
+                "um",
+                "gegen",
+                "die",
+                "Rebellen",
+                "zu",
+                "kämpfen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Ziel",
+                "war",
+                "die",
+                "120",
+                "Kilometer",
+                "entfernte",
+                "Stadt",
+                "Malangwa",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Die",
+                "Fluglotsen",
+                "hatten",
+                "den",
+                "Hubschrauber",
+                "kurz",
+                "vor",
+                "der",
+                "Landung",
+                "als",
+                "vermisst",
+                "gemeldet",
+                ",",
+                "nachdem",
+                "er",
+                "auf",
+                "den",
+                "Radarschirmen",
+                "nicht",
+                "mehr",
+                "zu",
+                "sehen",
+                "war",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Die",
+                "Armeeleitung",
+                "hingegen",
+                "sprach",
+                "von",
+                "einem",
+                "ganz",
+                "normalen",
+                "Absturz",
+                "der",
+                "russischen",
+                "Maschine",
+                "vom",
+                "Typ",
+                "MI-17.",
+                "Der",
+                "Militärhubschrauber",
+                "sei",
+                "abgestürzt",
+                ",",
+                "nachdem",
+                "zuvor",
+                "die",
+                "an",
+                "Bord",
+                "befindliche",
+                "Munition",
+                "explodierte",
+                "."
+            ]
+        }
+    ]
+}

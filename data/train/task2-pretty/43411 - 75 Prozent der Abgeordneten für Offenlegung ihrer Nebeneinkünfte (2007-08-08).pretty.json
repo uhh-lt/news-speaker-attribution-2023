@@ -1,0 +1,207 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9",
+                "2:10",
+                "2:11"
+            ],
+            "MessageText": "Dabei sprachen sich 75 Prozent für eine Offenlegung ihrer Nebeneinkünfte aus .",
+            "STWR": "SW",
+            "Source": [
+                "2:3",
+                "2:4"
+            ],
+            "SourceText": "75 Prozent"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:2"
+            ],
+            "CueText": "befürworteten",
+            "Form": "Indirect",
+            "Frame": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3"
+            ],
+            "FrameText": "80 Prozent befürworteten ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10",
+                "3:11",
+                "3:12",
+                "3:13"
+            ],
+            "MessageText": "dass Abgeordnete ihre Altersversorgung selbst in die Hand nehmen müssen",
+            "STWR": "SW",
+            "Source": [
+                "3:0",
+                "3:1"
+            ],
+            "SourceText": "80 Prozent"
+        }
+    ],
+    "DocumentName": "43411 - 75 Prozent der Abgeordneten für Offenlegung ihrer Nebeneinkünfte (2007-08-08)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Mehr",
+                "als",
+                "1.200",
+                "deutsche",
+                "Abgeordnete",
+                "aus",
+                "13",
+                "Landesparlamenten",
+                ",",
+                "dem",
+                "Deutschen",
+                "Bundestag",
+                "und",
+                "dem",
+                "Europaparlament",
+                "wurden",
+                "im",
+                "Juli",
+                "2007",
+                "von",
+                "Sozialwissenschaftlern",
+                "der",
+                "Friedrich-Schiller-Universität",
+                "Jena",
+                "befragt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Inhalt",
+                "der",
+                "Befragung",
+                "waren",
+                "Rollenverständnis",
+                ",",
+                "Mandatsausübung",
+                "und",
+                "Einschätzung",
+                "der",
+                "parlamentarischen",
+                "Arbeit",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Dabei",
+                "sprachen",
+                "sich",
+                "75",
+                "Prozent",
+                "für",
+                "eine",
+                "Offenlegung",
+                "ihrer",
+                "Nebeneinkünfte",
+                "aus",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "80",
+                "Prozent",
+                "befürworteten",
+                ",",
+                "dass",
+                "Abgeordnete",
+                "ihre",
+                "Altersversorgung",
+                "selbst",
+                "in",
+                "die",
+                "Hand",
+                "nehmen",
+                "müssen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Die",
+                "Internetpräsenz",
+                "des",
+                "Deutschen",
+                "Bundestages",
+                "listet",
+                "seit",
+                "Anfang",
+                "Juli",
+                "die",
+                "Nebeneinkünfte",
+                "der",
+                "Abgeordneten",
+                "in",
+                "drei",
+                "Einkommensstufen",
+                "auf",
+                ",",
+                "wobei",
+                "Einkommen",
+                "oberhalb",
+                "von",
+                "7.000",
+                "Euro",
+                "nicht",
+                "genau",
+                "erfasst",
+                "werden",
+                ",",
+                "da",
+                "ab",
+                "7.000",
+                "Euro",
+                "keine",
+                "Grenze",
+                "nach",
+                "oben",
+                "mehr",
+                "besteht",
+                "."
+            ]
+        }
+    ]
+}

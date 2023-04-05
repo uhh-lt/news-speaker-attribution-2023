@@ -1,0 +1,308 @@
+{
+    "Annotations": [
+        {
+            "Addr": [
+                "1:0"
+            ],
+            "AddrText": "Er",
+            "Cue": [
+                "1:1",
+                "1:4"
+            ],
+            "CueText": "wird beschuldigt",
+            "Form": "Indirect",
+            "Frame": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5"
+            ],
+            "FrameText": "Er wird unter anderem beschuldigt ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:6",
+                "1:7",
+                "1:8",
+                "1:9",
+                "1:10",
+                "1:11",
+                "1:12",
+                "1:13",
+                "1:14",
+                "1:15"
+            ],
+            "MessageText": "der Drahtzieher einer Entführung im Jahr 2000 gewesen zu sein",
+            "STWR": "SW",
+            "Source": [],
+            "SourceText": ""
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7",
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11",
+                "7:12",
+                "7:13"
+            ],
+            "MessageText": "Die philippinische Präsidentin Gloria Macapagal Arroyo gab die Festnahme gestern in Manila bekannt .",
+            "STWR": "Speech",
+            "Source": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5"
+            ],
+            "SourceText": "Die philippinische Präsidentin Gloria Macapagal Arroyo"
+        }
+    ],
+    "DocumentName": "15588 - Mutmaßlicher Entführer der Göttinger Familie Wallert verhaftet (2005-11-06)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Gestern",
+                "wurde",
+                "im",
+                "Süden",
+                "der",
+                "Philippinen",
+                "der",
+                "mutmaßliche",
+                "Anführer",
+                "der",
+                "islamistischen",
+                "Terrororganisation",
+                "Abu",
+                "Sayyaf",
+                "(",
+                "Schwert",
+                "Gottes",
+                ")",
+                ",",
+                "Radulan",
+                "Sahiron",
+                ",",
+                "festgenommen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Er",
+                "wird",
+                "unter",
+                "anderem",
+                "beschuldigt",
+                ",",
+                "der",
+                "Drahtzieher",
+                "einer",
+                "Entführung",
+                "im",
+                "Jahr",
+                "2000",
+                "gewesen",
+                "zu",
+                "sein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Unter",
+                "den",
+                "damals",
+                "21",
+                "entführten",
+                "Personen",
+                "befanden",
+                "sich",
+                "auch",
+                "Vater",
+                ",",
+                "Mutter",
+                "und",
+                "Sohn",
+                "Wallert",
+                "aus",
+                "Göttingen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Sie",
+                "verbrachten",
+                "damals",
+                "den",
+                "Urlaub",
+                "auf",
+                "der",
+                "malaysischen",
+                "Taucherinsel",
+                "Sipadan",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Von",
+                "dort",
+                "aus",
+                "wurden",
+                "sie",
+                "von",
+                "den",
+                "Entführern",
+                "auf",
+                "die",
+                "südphilippinische",
+                "Insel",
+                "Jolo",
+                "verschleppt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Erst",
+                "nach",
+                "mehreren",
+                "Monaten",
+                "harter",
+                "Verhandlungen",
+                "mit",
+                "der",
+                "Entführergruppe",
+                "wurden",
+                "die",
+                "Geiseln",
+                "nach",
+                "und",
+                "nach",
+                "freigelassen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Es",
+                "wurde",
+                "ein",
+                "Lösegeld",
+                "in",
+                "Millionenhöhe",
+                "bezahlt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Die",
+                "philippinische",
+                "Präsidentin",
+                "Gloria",
+                "Macapagal",
+                "Arroyo",
+                "gab",
+                "die",
+                "Festnahme",
+                "gestern",
+                "in",
+                "Manila",
+                "bekannt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Radulan",
+                "Sahiron",
+                "wurde",
+                "seit",
+                "Jahren",
+                "steckbrieflich",
+                "gesucht",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Auf",
+                "seinen",
+                "Kopf",
+                "war",
+                "eine",
+                "Belohnung",
+                "von",
+                "fünf",
+                "Millionen",
+                "Pesos",
+                "ausgesetzt",
+                "gewesen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Die",
+                "Behörden",
+                "der",
+                "Philippinen",
+                "hatten",
+                "bereits",
+                "seit",
+                "längerer",
+                "Zeit",
+                "eine",
+                "Spur",
+                "Sahirons",
+                "verfolgt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Gestern",
+                "erfolgte",
+                "der",
+                "Zugriff",
+                "."
+            ]
+        }
+    ]
+}

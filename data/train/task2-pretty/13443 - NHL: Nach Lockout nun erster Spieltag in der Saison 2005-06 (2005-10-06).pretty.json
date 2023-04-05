@@ -1,0 +1,176 @@
+{
+    "Annotations": [],
+    "DocumentName": "13443 - NHL: Nach Lockout nun erster Spieltag in der Saison 2005-06 (2005-10-06)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Nachdem",
+                "die",
+                "letzte",
+                "Saison",
+                "in",
+                "der",
+                "nordamerikanischen",
+                "Eishockey-Profiliga",
+                "NHL",
+                "aufgrund",
+                "des",
+                "Lockouts",
+                "ausgefallen",
+                "war",
+                ",",
+                "starteten",
+                "die",
+                "Teams",
+                "am",
+                "gestrigen",
+                "Mittwoch",
+                "in",
+                "die",
+                "neue",
+                "Saison",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Ergebnisse",
+                "des",
+                "ersten",
+                "Spieltags",
+                ":"
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Canadiens",
+                "2",
+                "-",
+                "Bruins",
+                "1",
+                "Islanders",
+                "4",
+                "-",
+                "Sabres",
+                "6",
+                "Rangers",
+                "5",
+                "-",
+                "Flyers",
+                "3",
+                "Blue",
+                "Jackets"
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "2"
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "-"
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Capitals",
+                "3",
+                "Thrashers",
+                "0",
+                "-",
+                "Panthers"
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "2",
+                "Penguins"
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "1",
+                "-",
+                "Devils"
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "5",
+                "Hurricanes"
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "2",
+                "-",
+                "Lightning",
+                "5",
+                "Blues",
+                "1",
+                "-",
+                "Red",
+                "Wings",
+                "5",
+                "Senators",
+                "3"
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "-"
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Maple",
+                "Leafs",
+                "2",
+                "Sharks",
+                "2",
+                "-",
+                "Predators",
+                "3",
+                "Flames",
+                "3",
+                "-",
+                "Wild",
+                "6",
+                "Mighty",
+                "Ducks",
+                "5",
+                "-",
+                "Blackhawks",
+                "3",
+                "Kings",
+                "4",
+                "-",
+                "Stars",
+                "5",
+                "Avalanche",
+                "3",
+                "-",
+                "Oilers",
+                "4",
+                "Coyotes",
+                "2",
+                "-",
+                "Canucks",
+                "3"
+            ]
+        }
+    ]
+}

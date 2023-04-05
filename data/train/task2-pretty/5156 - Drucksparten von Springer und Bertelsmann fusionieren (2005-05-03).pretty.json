@@ -1,0 +1,178 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:0"
+            ],
+            "CueText": "Laut",
+            "Form": "Indirect",
+            "Frame": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3"
+            ],
+            "FrameText": "Laut Wettbewerbskommissarin Neelie Kroes",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8"
+            ],
+            "MessageText": "erfolgte die Genehmigung ohne Auflagen",
+            "STWR": "SW",
+            "Source": [
+                "2:1",
+                "2:2",
+                "2:3"
+            ],
+            "SourceText": "Wettbewerbskommissarin Neelie Kroes"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "FreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10",
+                "3:11",
+                "3:12",
+                "3:13",
+                "3:14",
+                "3:15",
+                "3:16",
+                "3:17",
+                "3:18",
+                "3:19",
+                "3:20",
+                "3:21",
+                "3:22",
+                "3:23",
+                "3:24"
+            ],
+            "MessageText": "Am neuen Gemeinschaftsunternehmen soll Bertelsmann über die Töchter arvato und Gruner und Jahr je 37,45 Prozent halten , auf Axel Springer entfallen 25 Prozent .",
+            "STWR": "Speech",
+            "Source": [
+                "2:1",
+                "2:2",
+                "2:3"
+            ],
+            "SourceText": "Wettbewerbskommissarin Neelie Kroes"
+        }
+    ],
+    "DocumentName": "5156 - Drucksparten von Springer und Bertelsmann fusionieren (2005-05-03)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Nach",
+                "der",
+                "Freigabe",
+                "durch",
+                "die",
+                "EU-Kommission",
+                "können",
+                "jetzt",
+                "wie",
+                "geplant",
+                "die",
+                "Tiefdrucksparten",
+                "des",
+                "Axel",
+                "Springer",
+                "Verlages",
+                "und",
+                "der",
+                "Bertelsmann",
+                "AG",
+                "fusionieren",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Insgesamt",
+                "fünf",
+                "Druckereien",
+                "in",
+                "Deutschland",
+                "und",
+                "Großbritannien",
+                "sind",
+                "von",
+                "dieser",
+                "Maßnahme",
+                "zur",
+                "Kostensenkung",
+                "betroffen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Laut",
+                "Wettbewerbskommissarin",
+                "Neelie",
+                "Kroes",
+                "erfolgte",
+                "die",
+                "Genehmigung",
+                "ohne",
+                "Auflagen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Am",
+                "neuen",
+                "Gemeinschaftsunternehmen",
+                "soll",
+                "Bertelsmann",
+                "über",
+                "die",
+                "Töchter",
+                "arvato",
+                "und",
+                "Gruner",
+                "und",
+                "Jahr",
+                "je",
+                "37,45",
+                "Prozent",
+                "halten",
+                ",",
+                "auf",
+                "Axel",
+                "Springer",
+                "entfallen",
+                "25",
+                "Prozent",
+                "."
+            ]
+        }
+    ]
+}

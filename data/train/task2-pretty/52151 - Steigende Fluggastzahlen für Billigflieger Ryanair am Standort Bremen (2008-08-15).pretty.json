@@ -1,0 +1,642 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:11"
+            ],
+            "CueText": "nach",
+            "Form": "Indirect",
+            "Frame": [
+                "1:11",
+                "1:12",
+                "1:13",
+                "1:14",
+                "1:15",
+                "1:16",
+                "1:17"
+            ],
+            "FrameText": "nach Angaben des Flughafens im Juni 2007",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8",
+                "1:9",
+                "1:10",
+                "1:18",
+                "1:19"
+            ],
+            "MessageText": "Die Gesamtzahl der Flugpassagiere am Flughafen Bremen betrug 220.853 Passagiere",
+            "STWR": "SW",
+            "Source": [
+                "1:12",
+                "1:13",
+                "1:14",
+                "1:15",
+                "1:16",
+                "1:17"
+            ],
+            "SourceText": "Angaben des Flughafens im Juni 2007"
+        },
+        {
+            "Addr": [
+                "2:7",
+                "2:8"
+            ],
+            "AddrText": "dem Weser-Kurier",
+            "Cue": [
+                "2:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8"
+            ],
+            "FrameText": "Nach Angaben der Ryanair-Sprecherin Anja Seugling gegenüber dem Weser-Kurier",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:9",
+                "2:10",
+                "2:11",
+                "2:12",
+                "2:13",
+                "2:14",
+                "2:15",
+                "2:16",
+                "2:17",
+                "2:18",
+                "2:19"
+            ],
+            "MessageText": "ist der Flughafen Bremen der am stärksten expandierende Standort des Billigfliegers",
+            "STWR": "SW",
+            "Source": [
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5"
+            ],
+            "SourceText": "Angaben der Ryanair-Sprecherin Anja Seugling"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "6:5"
+            ],
+            "CueText": "laut",
+            "Form": "Indirect",
+            "Frame": [
+                "6:5",
+                "6:6",
+                "6:7",
+                "6:8",
+                "6:9"
+            ],
+            "FrameText": "laut einer Umfrage des Flughafens",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:4",
+                "6:10",
+                "6:11",
+                "6:12",
+                "6:13",
+                "6:14",
+                "6:15",
+                "6:16",
+                "6:17",
+                "6:18",
+                "6:19",
+                "6:20",
+                "6:21",
+                "6:22"
+            ],
+            "MessageText": "54 Prozent der Passagiere haben Bremen als Ziel und halten sich hier durchschnittlich bis zu drei Tagen auf",
+            "STWR": "SW",
+            "Source": [
+                "6:6",
+                "6:7",
+                "6:8",
+                "6:9"
+            ],
+            "SourceText": "einer Umfrage des Flughafens"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "7:2",
+                "7:4"
+            ],
+            "CueText": "hat ausgerechnet",
+            "Form": "Indirect",
+            "Frame": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5"
+            ],
+            "FrameText": "Für Lübeck hat Ryanair ausgerechnet ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:6",
+                "7:7",
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11",
+                "7:12",
+                "7:13",
+                "7:14",
+                "7:15",
+                "7:16",
+                "7:17",
+                "7:18",
+                "7:19",
+                "7:20",
+                "7:21",
+                "7:22",
+                "7:23",
+                "7:24"
+            ],
+            "MessageText": "dass pro Fluggast etwa 90 Euro in der Stadt ausgegeben werden – für Unterbringung , Verpflegung und andere Dinge",
+            "STWR": "SW",
+            "Source": [
+                "7:3"
+            ],
+            "SourceText": "Ryanair"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "9:7"
+            ],
+            "CueText": "laut",
+            "Form": "Indirect",
+            "Frame": [
+                "9:7",
+                "9:8",
+                "9:9"
+            ],
+            "FrameText": "laut aktueller Statistik",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3",
+                "9:4",
+                "9:5",
+                "9:6",
+                "9:10",
+                "9:11"
+            ],
+            "MessageText": "Insgesamt verbuchte der Flughafen im Jahr 2007 2.232.018 Passagiere",
+            "STWR": "SW",
+            "Source": [
+                "9:8",
+                "9:9"
+            ],
+            "SourceText": "aktueller Statistik"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "12:0",
+                "12:1",
+                "12:2",
+                "12:3",
+                "12:4",
+                "12:5",
+                "12:6",
+                "12:7",
+                "12:8",
+                "12:9",
+                "12:10",
+                "12:11",
+                "12:12",
+                "12:13",
+                "12:14",
+                "12:15",
+                "12:16",
+                "12:17",
+                "12:18"
+            ],
+            "MessageText": "Der Flughafen nennt als Hauptursache des anhaltenden Booms in Bremen die positive Geschäftsentwicklung von Ryanair am Standort Bremen .",
+            "STWR": "SW",
+            "Source": [
+                "12:0",
+                "12:1"
+            ],
+            "SourceText": "Der Flughafen"
+        }
+    ],
+    "DocumentName": "52151 - Steigende Fluggastzahlen für Billigflieger Ryanair am Standort Bremen (2008-08-15)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "100.000",
+                "Fluggäste",
+                "im",
+                "Juli",
+                "2008",
+                "meldet",
+                "die",
+                "irische",
+                "Fluggesellschaft",
+                "Ryanair",
+                "vom",
+                "Flughafen",
+                "Bremen",
+                "allein",
+                "für",
+                "den",
+                "Monat",
+                "Juli",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Zum",
+                "Vergleich",
+                ":",
+                "Die",
+                "Gesamtzahl",
+                "der",
+                "Flugpassagiere",
+                "am",
+                "Flughafen",
+                "Bremen",
+                "betrug",
+                "nach",
+                "Angaben",
+                "des",
+                "Flughafens",
+                "im",
+                "Juni",
+                "2007",
+                "220.853",
+                "Passagiere",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Nach",
+                "Angaben",
+                "der",
+                "Ryanair-Sprecherin",
+                "Anja",
+                "Seugling",
+                "gegenüber",
+                "dem",
+                "Weser-Kurier",
+                "ist",
+                "der",
+                "Flughafen",
+                "Bremen",
+                "der",
+                "am",
+                "stärksten",
+                "expandierende",
+                "Standort",
+                "des",
+                "Billigfliegers",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Ein",
+                "Viertel",
+                "der",
+                "Passagiere",
+                "von",
+                "Ryanair",
+                "am",
+                "Standort",
+                "Bremen",
+                "sind",
+                "Geschäftsleute",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Die",
+                "übrigen",
+                "Fluggäste",
+                "nutzen",
+                "den",
+                "Anbieter",
+                "für",
+                "das",
+                "Erreichen",
+                "touristischer",
+                "Ziele",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Das",
+                "Hotel-",
+                "und",
+                "Gaststättengewerbe",
+                "profitiert",
+                "offenbar",
+                "ebenfalls",
+                "von",
+                "der",
+                "positiven",
+                "Entwicklung",
+                "des",
+                "Fluggeschäfts",
+                "in",
+                "Bremen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "54",
+                "Prozent",
+                "der",
+                "Passagiere",
+                "haben",
+                "laut",
+                "einer",
+                "Umfrage",
+                "des",
+                "Flughafens",
+                "Bremen",
+                "als",
+                "Ziel",
+                "und",
+                "halten",
+                "sich",
+                "hier",
+                "durchschnittlich",
+                "bis",
+                "zu",
+                "drei",
+                "Tagen",
+                "auf",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Für",
+                "Lübeck",
+                "hat",
+                "Ryanair",
+                "ausgerechnet",
+                ",",
+                "dass",
+                "pro",
+                "Fluggast",
+                "etwa",
+                "90",
+                "Euro",
+                "in",
+                "der",
+                "Stadt",
+                "ausgegeben",
+                "werden",
+                "–",
+                "für",
+                "Unterbringung",
+                ",",
+                "Verpflegung",
+                "und",
+                "andere",
+                "Dinge",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Die",
+                "Zahl",
+                "der",
+                "Fluggäste",
+                "entwickelte",
+                "sich",
+                "am",
+                "Flughafen",
+                "Bremen",
+                "in",
+                "den",
+                "letzten",
+                "Jahren",
+                "sehr",
+                "positiv",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Insgesamt",
+                "verbuchte",
+                "der",
+                "Flughafen",
+                "im",
+                "Jahr",
+                "2007",
+                "laut",
+                "aktueller",
+                "Statistik",
+                "2.232.018",
+                "Passagiere",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Damit",
+                "steigerte",
+                "sich",
+                "Fluggastaufkommen",
+                "gegenüber",
+                "dem",
+                "Vorjahr",
+                "(",
+                "1.697.881",
+                "Passagiere",
+                ")",
+                "um",
+                "31,5",
+                "Prozent",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Die",
+                "Zahl",
+                "der",
+                "Starts",
+                "und",
+                "Landungen",
+                "am",
+                "Bremer",
+                "Flughafen",
+                "stieg",
+                "gegenüber",
+                "dem",
+                "Vorjahr",
+                "um",
+                "rund",
+                "5000",
+                "auf",
+                "45.213",
+                "im",
+                "Jahr",
+                "2007."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Der",
+                "Flughafen",
+                "nennt",
+                "als",
+                "Hauptursache",
+                "des",
+                "anhaltenden",
+                "Booms",
+                "in",
+                "Bremen",
+                "die",
+                "positive",
+                "Geschäftsentwicklung",
+                "von",
+                "Ryanair",
+                "am",
+                "Standort",
+                "Bremen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Auch",
+                "der",
+                "gewerbliche",
+                "Flugverkehr",
+                "verzeichnete",
+                "eine",
+                "Steigerung",
+                "um",
+                "14,2",
+                "Prozent",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Demgegenüber",
+                "verzeichnete",
+                "der",
+                "Touristiksektor",
+                "ein",
+                "Minus",
+                "von",
+                "10,4",
+                "Prozent",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "Für",
+                "das",
+                "laufende",
+                "Jahr",
+                "erwartet",
+                "der",
+                "Flughafen",
+                "eine",
+                "weitere",
+                "positive",
+                "Verkehrsentwicklung",
+                "angesichts",
+                "der",
+                "ehrgeizigen",
+                "Expansionsziele",
+                "von",
+                "Ryanair",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 16,
+            "Tokens": [
+                "So",
+                "werden",
+                "seit",
+                "April",
+                "2008",
+                "auch",
+                "die",
+                "Flughäfen",
+                "Manchester",
+                "und",
+                "Edinburgh",
+                "angeflogen",
+                "."
+            ]
+        }
+    ]
+}

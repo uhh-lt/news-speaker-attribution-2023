@@ -1,0 +1,248 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:0"
+            ],
+            "CueText": "Laut",
+            "Form": "Indirect",
+            "Frame": [
+                "1:0",
+                "1:1",
+                "1:2"
+            ],
+            "FrameText": "Laut israelischen Medien",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8",
+                "1:9",
+                "1:10",
+                "1:11"
+            ],
+            "MessageText": "gab es zehn Tote und mehr als 50 Verletzte",
+            "STWR": "SW",
+            "Source": [
+                "1:1",
+                "1:2"
+            ],
+            "SourceText": "israelischen Medien"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10",
+                "4:11",
+                "4:12"
+            ],
+            "MessageText": "Die Regierungspartei Palästinas , die Hamas , bezeichnete die Anschläge als Selbstverteidigung .",
+            "STWR": "SW",
+            "Source": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5"
+            ],
+            "SourceText": "Die Regierungspartei Palästinas , die Hamas"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "5:5"
+            ],
+            "CueText": "nach",
+            "Form": "Indirect",
+            "Frame": [
+                "5:5",
+                "5:6",
+                "5:7"
+            ],
+            "FrameText": "nach palästinensichen Medien",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "5:14"
+            ],
+            "MessageText": "Zu den Anschlägen bekannten sich die Gruppe Islamischer Dschihad und die Al-Aksa-Märtyrerbrigaden",
+            "STWR": "SW",
+            "Source": [
+                "5:6",
+                "5:7"
+            ],
+            "SourceText": "palästinensichen Medien"
+        }
+    ],
+    "DocumentName": "25475 - Selbstmordanschlag in Tel Aviv (2006-04-19)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "In",
+                "Tel",
+                "Aviv",
+                "in",
+                "Israel",
+                "hat",
+                "sich",
+                "am",
+                "Ostermontag",
+                "bei",
+                "einem",
+                "Imbissstand",
+                "auf",
+                "dem",
+                "alten",
+                "Busbahnhof",
+                "ein",
+                "palästinensischer",
+                "Selbstmordattentäter",
+                "in",
+                "die",
+                "Luft",
+                "gesprengt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Laut",
+                "israelischen",
+                "Medien",
+                "gab",
+                "es",
+                "zehn",
+                "Tote",
+                "und",
+                "mehr",
+                "als",
+                "50",
+                "Verletzte",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Wegen",
+                "des",
+                "jüdischen",
+                "Pessachfestes",
+                "war",
+                "der",
+                "Busbahnhof",
+                ",",
+                "der",
+                "schon",
+                "in",
+                "der",
+                "Vergangenheit",
+                "Ziel",
+                "von",
+                "Anschlägen",
+                "wurde",
+                ",",
+                "voller",
+                "Menschen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Durch",
+                "den",
+                "sehr",
+                "großen",
+                "Sprengsatz",
+                "wurde",
+                "am",
+                "Ort",
+                "des",
+                "Geschehens",
+                "erheblicher",
+                "Sachschaden",
+                "angerichtet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Die",
+                "Regierungspartei",
+                "Palästinas",
+                ",",
+                "die",
+                "Hamas",
+                ",",
+                "bezeichnete",
+                "die",
+                "Anschläge",
+                "als",
+                "Selbstverteidigung",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Zu",
+                "den",
+                "Anschlägen",
+                "bekannten",
+                "sich",
+                "nach",
+                "palästinensichen",
+                "Medien",
+                "die",
+                "Gruppe",
+                "Islamischer",
+                "Dschihad",
+                "und",
+                "die",
+                "Al-Aksa-Märtyrerbrigaden",
+                "."
+            ]
+        }
+    ]
+}

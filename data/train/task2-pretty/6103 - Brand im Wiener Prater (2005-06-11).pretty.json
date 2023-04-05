@@ -1,0 +1,565 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "10:3"
+            ],
+            "CueText": "nach",
+            "Form": "Indirect",
+            "Frame": [
+                "10:3",
+                "10:4",
+                "10:5",
+                "10:6",
+                "10:7"
+            ],
+            "FrameText": "nach Angaben der Bundespolizeidirektion Wien",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "10:0",
+                "10:1",
+                "10:2",
+                "10:8"
+            ],
+            "MessageText": "Die Brandursache ist unklar",
+            "STWR": "SW",
+            "Source": [
+                "10:4",
+                "10:5",
+                "10:6",
+                "10:7"
+            ],
+            "SourceText": "Angaben der Bundespolizeidirektion Wien"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "14:3"
+            ],
+            "CueText": "zufolge",
+            "Form": "Indirect",
+            "Frame": [
+                "14:2",
+                "14:3"
+            ],
+            "FrameText": "Überlieferungen zufolge",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "14:0",
+                "14:1",
+                "14:4",
+                "14:5",
+                "14:6",
+                "14:7",
+                "14:8"
+            ],
+            "MessageText": "Es bestand bereits vor dem Jahr 1766.",
+            "STWR": "SW",
+            "Source": [
+                "14:2"
+            ],
+            "SourceText": "Überlieferungen"
+        }
+    ],
+    "DocumentName": "6103 - Brand im Wiener Prater (2005-06-11)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "In",
+                "der",
+                "Nacht",
+                "auf",
+                "Samstag",
+                "hat",
+                "ein",
+                "Brand",
+                "in",
+                "der",
+                "berühmten",
+                "Gaststätte",
+                "«",
+                "Schweizerhaus",
+                "»",
+                "im",
+                "Wiener",
+                "Prater",
+                "erheblichen",
+                "Sachschaden",
+                "verursacht",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Die",
+                "diesjährige",
+                "Saison",
+                "hatte",
+                "erst",
+                "am",
+                "15.",
+                "März",
+                "begonnen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Die",
+                "Wiener",
+                "Feuerwehr",
+                "wurde",
+                "um",
+                "00:39",
+                "Uhr",
+                "alarmiert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Als",
+                "die",
+                "ersten",
+                "Feuerwehrwagen",
+                "eintrafen",
+                ",",
+                "stand",
+                "bereits",
+                "das",
+                "gesamte",
+                "erste",
+                "Stockwerk",
+                "des",
+                "Bierlokals",
+                "in",
+                "Flammen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Im",
+                "Einsatz",
+                "waren",
+                "fünf",
+                "Atemschutztrupps",
+                "mit",
+                "insgesamt",
+                "40",
+                "Mann",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Der",
+                "Brand",
+                "konnte",
+                "bereits",
+                "nach",
+                "etwa",
+                "einer",
+                "Stunde",
+                "gelöscht",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Menschen",
+                "kamen",
+                "nicht",
+                "zu",
+                "Schaden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Die",
+                "Geschäftsführerin",
+                "des",
+                "«",
+                "Schweizerhauses",
+                "»",
+                "wurde",
+                "evakuiert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Sie",
+                "wohnt",
+                "in",
+                "den",
+                "Gebäude",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Bei",
+                "dem",
+                "Brand",
+                "ist",
+                "ihre",
+                "Wohnung",
+                "in",
+                "Mitleidenschaft",
+                "gezogen",
+                "worden",
+                ",",
+                "das",
+                "gesamte",
+                "erste",
+                "Stockwerk",
+                "des",
+                "Lokals",
+                "mit",
+                "einer",
+                "dort",
+                "befindlichen",
+                "Gaststube",
+                "ist",
+                "ausgebrannt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Die",
+                "Brandursache",
+                "ist",
+                "nach",
+                "Angaben",
+                "der",
+                "Bundespolizeidirektion",
+                "Wien",
+                "unklar",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Der",
+                "Brandherd",
+                "konnte",
+                "in",
+                "der",
+                "Nacht",
+                "noch",
+                "nicht",
+                "festgestellt",
+                "werden",
+                ",",
+                "es",
+                "konnt",
+                "nur",
+                "gelöscht",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Erst",
+                "am",
+                "heutigen",
+                "Morgen",
+                "kann",
+                "die",
+                "Wiener",
+                "Kriminalpolizei",
+                "mit",
+                "den",
+                "Ermittlungen",
+                "beginnen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Das",
+                "Lokal",
+                "hat",
+                "eine",
+                "lange",
+                ",",
+                "traditionsreiche",
+                "Geschichte",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Es",
+                "bestand",
+                "Überlieferungen",
+                "zufolge",
+                "bereits",
+                "vor",
+                "dem",
+                "Jahr",
+                "1766."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "Damals",
+                "hieß",
+                "das",
+                "Lokal",
+                "noch",
+                "«",
+                "Zur",
+                "Schweizer",
+                "Hütte",
+                "»",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 16,
+            "Tokens": [
+                "Zu",
+                "dieser",
+                "Zeit",
+                "durfte",
+                "der",
+                "Prater",
+                "von",
+                "dem",
+                "«",
+                "gemeinen",
+                "Volk",
+                "»",
+                "noch",
+                "nicht",
+                "besucht",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 17,
+            "Tokens": [
+                "Damals",
+                "war",
+                "das",
+                "Haus",
+                "noch",
+                "den",
+                "kaiserlichen",
+                "Herrschaften",
+                "vorbehalten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 18,
+            "Tokens": [
+                "Seinen",
+                "Namen",
+                "hatte",
+                "das",
+                "Lokal",
+                "von",
+                "den",
+                "Schweizer",
+                "Jagdtreibern",
+                ",",
+                "die",
+                "die",
+                "Herrschaften",
+                "bewirteten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 19,
+            "Tokens": [
+                "1800",
+                "hieß",
+                "das",
+                "Gasthaus",
+                "dann",
+                "«",
+                "Zur",
+                "Tabakspfeife",
+                "»",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 20,
+            "Tokens": [
+                "Es",
+                "war",
+                "damals",
+                "der",
+                "Treffpunkt",
+                "der",
+                "Raucher",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 21,
+            "Tokens": [
+                "Tabakrauchen",
+                "war",
+                "zu",
+                "dieser",
+                "Zeit",
+                "in",
+                "der",
+                "guten",
+                "Gesellschaft",
+                "nicht",
+                "erlaubt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 22,
+            "Tokens": [
+                "1814",
+                "wurde",
+                "das",
+                "Lokal",
+                "während",
+                "des",
+                "Wiener",
+                "Kongresses",
+                "erneut",
+                "umbenannt",
+                "und",
+                "erhielt",
+                "den",
+                "Namen",
+                "«",
+                "Zum",
+                "russischen",
+                "Kaiser",
+                "»",
+                ",",
+                "1868",
+                "wurde",
+                "unter",
+                "dem",
+                "Namen",
+                "«",
+                "Schweizer",
+                "Meierei",
+                "»",
+                "wieder",
+                "eröffnet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 23,
+            "Tokens": [
+                "Erst",
+                "später",
+                "erhielt",
+                "es",
+                "seinn",
+                "heutigen",
+                "Namen",
+                ",",
+                "das",
+                "«",
+                "Schweizerhaus",
+                "»",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 24,
+            "Tokens": [
+                "Heute",
+                "gehört",
+                "das",
+                "Lokal",
+                "der",
+                "alteingesessenen",
+                "Brauereifamilie",
+                "Karl",
+                "Kolarik",
+                ",",
+                "einer",
+                "der",
+                "größten",
+                "Bierimporteure",
+                "Österreichs",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 25,
+            "Tokens": [
+                "Die",
+                "Kolariks",
+                "vertreiben",
+                "vorrangig",
+                "Bier",
+                "aus",
+                "tschechischer",
+                "Produktion",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 26,
+            "Tokens": [
+                "Die",
+                "Spezialität",
+                "des",
+                "Lokals",
+                "sind",
+                "die",
+                "knusprigen",
+                "Stelzen"
+            ]
+        },
+        {
+            "SentenceId": 27,
+            "Tokens": [
+                "Wikinews-Portal",
+                ":"
+            ]
+        },
+        {
+            "SentenceId": 28,
+            "Tokens": [
+                "Themenverwandte",
+                "Artikel"
+            ]
+        }
+    ]
+}

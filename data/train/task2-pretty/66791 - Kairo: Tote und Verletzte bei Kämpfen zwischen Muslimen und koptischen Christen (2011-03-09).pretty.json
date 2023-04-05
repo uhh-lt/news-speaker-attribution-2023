@@ -1,0 +1,668 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:2",
+                "3:3"
+            ],
+            "CueText": "hatte erklärt",
+            "Form": "Indirect",
+            "Frame": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4"
+            ],
+            "FrameText": "Die Militärführung hatte erklärt ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10",
+                "3:11",
+                "3:12",
+                "3:13",
+                "3:14",
+                "3:15",
+                "3:16"
+            ],
+            "MessageText": "für den Wiederaufbau der Kirche zu sorgen und die Täter zu belangen",
+            "STWR": "Speech",
+            "Source": [
+                "3:0",
+                "3:1"
+            ],
+            "SourceText": "Die Militärführung"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5"
+            ],
+            "FrameText": "Nach Angaben des Priesters Samaan Ibrahim",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10"
+            ],
+            "MessageText": "griffen Bewaffnete die Demonstranten an",
+            "STWR": "Speech",
+            "Source": [
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5"
+            ],
+            "SourceText": "Angaben des Priesters Samaan Ibrahim"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "7:4",
+                "7:5",
+                "7:6"
+            ],
+            "CueText": "hatte es geheißen",
+            "Form": "Indirect",
+            "Frame": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7"
+            ],
+            "FrameText": "In den anfänglichen Berichten hatte es geheißen ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11",
+                "7:12",
+                "7:13",
+                "7:14",
+                "7:15",
+                "7:16",
+                "7:17",
+                "7:18",
+                "7:19"
+            ],
+            "MessageText": "dass sechs Kopten erschossen wurden , fünf der Toten sollen Muslime sein",
+            "STWR": "SW",
+            "Source": [
+                "7:1",
+                "7:2",
+                "7:3"
+            ],
+            "SourceText": "den anfänglichen Berichten"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "8:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "8:0",
+                "8:1",
+                "8:2"
+            ],
+            "FrameText": "Nach Angaben Ibrahims",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "8:3",
+                "8:4",
+                "8:5",
+                "8:6",
+                "8:7",
+                "8:8"
+            ],
+            "MessageText": "wurden 45 Mitglieder seiner Gemeinde verletzt",
+            "STWR": "Speech",
+            "Source": [
+                "8:1",
+                "8:2"
+            ],
+            "SourceText": "Angaben Ibrahims"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "12:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "12:0",
+                "12:1",
+                "12:2",
+                "12:3"
+            ],
+            "FrameText": "Nach Angaben von Augenzeugen",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "12:4",
+                "12:5",
+                "12:6",
+                "12:7",
+                "12:8",
+                "12:9",
+                "12:10",
+                "12:11",
+                "12:12",
+                "12:13",
+                "12:14",
+                "12:15",
+                "12:16",
+                "12:17",
+                "12:18",
+                "12:19",
+                "12:20",
+                "12:21",
+                "12:22",
+                "12:23",
+                "12:24",
+                "12:25"
+            ],
+            "MessageText": "haben Soldaten hier in die Luft geschossen , um Christen und Muslime , die hier mit Steinen aufeinander warfen , zu zerstreuen",
+            "STWR": "Speech",
+            "Source": [
+                "12:1",
+                "12:2",
+                "12:3"
+            ],
+            "SourceText": "Angaben von Augenzeugen"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "17:3"
+            ],
+            "CueText": "nach",
+            "Form": "Indirect",
+            "Frame": [
+                "17:3",
+                "17:4",
+                "17:5",
+                "17:6",
+                "17:7",
+                "17:8",
+                "17:9"
+            ],
+            "FrameText": "nach Angaben des Gesellschaft für bedrohte Völker",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "17:0",
+                "17:1",
+                "17:2",
+                "17:10",
+                "17:11",
+                "17:12",
+                "17:13",
+                "17:14",
+                "17:15",
+                "17:16"
+            ],
+            "MessageText": "Dieses Jahr wurden bereits mindestens 39 Kopten Opfer von Gewalttaten",
+            "STWR": "SW",
+            "Source": [
+                "17:4",
+                "17:5",
+                "17:6",
+                "17:7",
+                "17:8",
+                "17:9"
+            ],
+            "SourceText": "Angaben des Gesellschaft für bedrohte Völker"
+        }
+    ],
+    "DocumentName": "66791 - Kairo: Tote und Verletzte bei Kämpfen zwischen Muslimen und koptischen Christen (2011-03-09)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Bei",
+                "Kämpfen",
+                "zwischen",
+                "koptischen",
+                "Christen",
+                "und",
+                "Muslimen",
+                "wurden",
+                "in",
+                "der",
+                "ägyptischen",
+                "Hauptstadt",
+                "Kairo",
+                "mindestens",
+                "zehn",
+                "Menschen",
+                "erschossen",
+                "und",
+                "110",
+                "weitere",
+                "verletzt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Die",
+                "Unruhen",
+                "im",
+                "Stadtteil",
+                "Mokattam",
+                "waren",
+                "ausgebrochen",
+                ",",
+                "als",
+                "etwa",
+                "eintausend",
+                "christliche",
+                "Ägypter",
+                "gegen",
+                "den",
+                "Brandanschlag",
+                "auf",
+                "eine",
+                "Kairoer",
+                "Kirche",
+                "am",
+                "5.",
+                "März",
+                "protestierten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Der",
+                "Anschlag",
+                "geht",
+                "vermutlich",
+                "auf",
+                "Streitigkeiten",
+                "zweier",
+                "Familien",
+                "zurück",
+                ",",
+                "die",
+                "sich",
+                "angeblich",
+                "an",
+                "einer",
+                "Beziehung",
+                "zwischen",
+                "einem",
+                "christlichen",
+                "Mann",
+                "und",
+                "einer",
+                "muslimischen",
+                "Frau",
+                "entzündet",
+                "hatten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Die",
+                "Militärführung",
+                "hatte",
+                "erklärt",
+                ",",
+                "für",
+                "den",
+                "Wiederaufbau",
+                "der",
+                "Kirche",
+                "zu",
+                "sorgen",
+                "und",
+                "die",
+                "Täter",
+                "zu",
+                "belangen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Nach",
+                "Angaben",
+                "des",
+                "Priesters",
+                "Samaan",
+                "Ibrahim",
+                "griffen",
+                "Bewaffnete",
+                "die",
+                "Demonstranten",
+                "an",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Sie",
+                "steckten",
+                "außerdem",
+                "Warenlager",
+                "und",
+                "Geschäfte",
+                "in",
+                "Brand",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Es",
+                "ist",
+                "nicht",
+                "eindeutig",
+                "klar",
+                ",",
+                "wie",
+                "viele",
+                "der",
+                "Opfer",
+                "auf",
+                "beide",
+                "Seiten",
+                "entfallen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "In",
+                "den",
+                "anfänglichen",
+                "Berichten",
+                "hatte",
+                "es",
+                "geheißen",
+                ",",
+                "dass",
+                "sechs",
+                "Kopten",
+                "erschossen",
+                "wurden",
+                ",",
+                "fünf",
+                "der",
+                "Toten",
+                "sollen",
+                "Muslime",
+                "sein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Nach",
+                "Angaben",
+                "Ibrahims",
+                "wurden",
+                "45",
+                "Mitglieder",
+                "seiner",
+                "Gemeinde",
+                "verletzt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Auch",
+                "anderswo",
+                "kam",
+                "es",
+                "zu",
+                "Zwischenfällen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Südlich",
+                "von",
+                "Kairo",
+                "haben",
+                "koptische",
+                "Christen",
+                "mit",
+                "brennenden",
+                "Autoreifen",
+                "eine",
+                "Straße",
+                "blockiert",
+                "und",
+                "warfen",
+                "mit",
+                "Steinen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Erboste",
+                "Muslime",
+                "griffen",
+                "daraufhin",
+                "die",
+                "Kopten",
+                "an",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Nach",
+                "Angaben",
+                "von",
+                "Augenzeugen",
+                "haben",
+                "Soldaten",
+                "hier",
+                "in",
+                "die",
+                "Luft",
+                "geschossen",
+                ",",
+                "um",
+                "Christen",
+                "und",
+                "Muslime",
+                ",",
+                "die",
+                "hier",
+                "mit",
+                "Steinen",
+                "aufeinander",
+                "warfen",
+                ",",
+                "zu",
+                "zerstreuen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Vor",
+                "dem",
+                "Gebäude",
+                "des",
+                "staatlichen",
+                "Fernsehens",
+                "versammelten",
+                "sich",
+                "hunderte",
+                "von",
+                "Christen",
+                ",",
+                "um",
+                "für",
+                "Gleichbehandlung",
+                "zu",
+                "demonstrieren",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Viele",
+                "von",
+                "ihnen",
+                "trugen",
+                "große",
+                "Holzkreuze",
+                "mit",
+                "sich",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "Muslime",
+                "und",
+                "Kopten",
+                "geraten",
+                "in",
+                "Ägypten",
+                "immer",
+                "wieder",
+                "aneinander",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 16,
+            "Tokens": [
+                "Etwa",
+                "zehn",
+                "Prozent",
+                "der",
+                "achtzig",
+                "Millionen",
+                "Ägypter",
+                "sind",
+                "Christen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 17,
+            "Tokens": [
+                "Dieses",
+                "Jahr",
+                "wurden",
+                "nach",
+                "Angaben",
+                "des",
+                "Gesellschaft",
+                "für",
+                "bedrohte",
+                "Völker",
+                "bereits",
+                "mindestens",
+                "39",
+                "Kopten",
+                "Opfer",
+                "von",
+                "Gewalttaten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 18,
+            "Tokens": [
+                "Der",
+                "folgenschwerste",
+                "Zwischenfall",
+                "war",
+                "der",
+                "Bombenanschlag",
+                "auf",
+                "eine",
+                "Kirche",
+                "in",
+                "Alexandria",
+                "in",
+                "der",
+                "Nacht",
+                "zum",
+                "1.",
+                "Januar",
+                "2011."
+            ]
+        },
+        {
+            "SentenceId": 19,
+            "Tokens": [
+                "Dabei",
+                "wurden",
+                "23",
+                "Gläubige",
+                "getötet",
+                "und",
+                "97",
+                "weitere",
+                "verletzt",
+                "."
+            ]
+        }
+    ]
+}

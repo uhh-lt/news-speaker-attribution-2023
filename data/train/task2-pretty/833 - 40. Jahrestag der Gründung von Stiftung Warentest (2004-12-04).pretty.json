@@ -1,0 +1,354 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3"
+            ],
+            "MessageText": "Kritiker fürchten Interessenskonflikte .",
+            "STWR": "ST",
+            "Source": [
+                "6:0"
+            ],
+            "SourceText": "Kritiker"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3",
+                "9:4",
+                "9:5",
+                "9:6",
+                "9:7",
+                "9:8",
+                "9:9"
+            ],
+            "MessageText": "Durch die Veröffentlichung des Testergebnisses seien hohe Umsatzeinbußen entstanden .",
+            "STWR": "SW",
+            "Source": [
+                "7:13",
+                "7:14"
+            ],
+            "SourceText": "Uschi Glas"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "10:10"
+            ],
+            "CueText": "sagte",
+            "Form": "Direct",
+            "Frame": [
+                "10:0",
+                "10:1",
+                "10:2",
+                "10:3",
+                "10:4",
+                "10:5",
+                "10:6",
+                "10:7",
+                "10:8",
+                "10:9",
+                "10:10",
+                "10:11",
+                "10:12"
+            ],
+            "FrameText": "Die Sprecherin der Stiftung Warentest , Heike van Laak , sagte dazu :",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "10:13",
+                "10:14",
+                "10:15",
+                "10:16",
+                "10:17",
+                "10:18",
+                "10:19",
+                "10:20",
+                "10:21",
+                "10:22",
+                "10:23",
+                "10:24",
+                "10:25",
+                "10:26"
+            ],
+            "MessageText": "„ Wir bleiben bei unseren Testergebnissen und sehen der Klage gelassen entgegen . “",
+            "STWR": "Speech",
+            "Source": [
+                "10:0",
+                "10:1",
+                "10:2",
+                "10:3",
+                "10:4",
+                "10:5",
+                "10:6",
+                "10:7",
+                "10:8"
+            ],
+            "SourceText": "Die Sprecherin der Stiftung Warentest , Heike van Laak"
+        }
+    ],
+    "DocumentName": "833 - 40. Jahrestag der Gründung von Stiftung Warentest (2004-12-04)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Die",
+                "Stiftung",
+                "Warentest",
+                "feiert",
+                "ihren",
+                "40.",
+                "Geburtstag",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Nach",
+                "ihrer",
+                "Gründung",
+                "am",
+                "4.",
+                "Dezember",
+                "1964",
+                "durch",
+                "die",
+                "Bundesregierung",
+                ",",
+                "gelang",
+                "es",
+                "ihr",
+                ",",
+                "in",
+                "den",
+                "1970-er",
+                "Jahren",
+                "mehr",
+                "und",
+                "mehr",
+                "ins",
+                "Bewusstsein",
+                "der",
+                "Verbraucher",
+                "vorzurücken",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "72.000",
+                "Produkte",
+                "und",
+                "1.200",
+                "Dienstleistungen",
+                "wurden",
+                "bislang",
+                "getestet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Kritisiert",
+                "wird",
+                "die",
+                "Stiftung",
+                "derzeit",
+                "wegen",
+                "der",
+                "Praxis",
+                "der",
+                "Auftragsvergabe",
+                "an",
+                "externe",
+                "Gutachter",
+                "im",
+                "Kosmetikbereich",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Diese",
+                "arbeiten",
+                "auch",
+                "für",
+                "andere",
+                "Unternehmen",
+                "und",
+                "bieten",
+                "beispielsweise",
+                "die",
+                "Analyse",
+                "und",
+                "Verbesserung",
+                "von",
+                "Rezepturen",
+                "an",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "So",
+                "kann",
+                "es",
+                "sein",
+                ",",
+                "dass",
+                "sie",
+                "über",
+                "ein",
+                "selbst",
+                "entwickeltes",
+                "Produkt",
+                "oder",
+                "das",
+                "eines",
+                "Konkurrenten",
+                "eines",
+                "großen",
+                "Kunden",
+                "ein",
+                "Gutachten",
+                "anfertigen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Kritiker",
+                "fürchten",
+                "Interessenskonflikte",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Ausgelöst",
+                "hat",
+                "die",
+                "Diskussion",
+                "ein",
+                "umstrittenes",
+                "Testurteil",
+                "über",
+                "eine",
+                "Gesichtscreme",
+                ",",
+                "die",
+                "von",
+                "Uschi",
+                "Glas",
+                "über",
+                "Home-Shopping-Kanäle",
+                "vertrieben",
+                "wird",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Nach",
+                "dem",
+                "„",
+                "mangelhaft",
+                "“",
+                "der",
+                "Stiftung",
+                "Warentest",
+                "hat",
+                "die",
+                "Schauspielerin",
+                "Klage",
+                "beim",
+                "Landgericht",
+                "Berlin",
+                "eingereicht",
+                "und",
+                "Gegengutachten",
+                "vorgelegt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Durch",
+                "die",
+                "Veröffentlichung",
+                "des",
+                "Testergebnisses",
+                "seien",
+                "hohe",
+                "Umsatzeinbußen",
+                "entstanden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Die",
+                "Sprecherin",
+                "der",
+                "Stiftung",
+                "Warentest",
+                ",",
+                "Heike",
+                "van",
+                "Laak",
+                ",",
+                "sagte",
+                "dazu",
+                ":",
+                "„",
+                "Wir",
+                "bleiben",
+                "bei",
+                "unseren",
+                "Testergebnissen",
+                "und",
+                "sehen",
+                "der",
+                "Klage",
+                "gelassen",
+                "entgegen",
+                ".",
+                "“"
+            ]
+        }
+    ]
+}

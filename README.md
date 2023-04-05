@@ -8,10 +8,12 @@ co-located with [KONVENS 2023](https://www.thi.de/konvens-2023/).
 
 The Shared Task competition is run on [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/10431)
 
+## News: Training and development data are released!
+
 ## Important Dates:
 
  * ~February, 2023 - Trial data release~
- * April 1, 2023 - Training and development data release
+ * ~April 1, 2023 - Training and development data release~
  * June 15, 2023 - Test data release (blind)
  * July 1, 2023 - Submissions open
  * July 31, 2023 - Submissions close

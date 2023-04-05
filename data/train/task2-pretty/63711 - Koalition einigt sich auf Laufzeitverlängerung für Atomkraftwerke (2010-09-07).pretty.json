@@ -1,0 +1,499 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:0"
+            ],
+            "CueText": "Demnach",
+            "Form": "Indirect",
+            "Frame": [
+                "1:0"
+            ],
+            "FrameText": "Demnach",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8",
+                "1:9",
+                "1:10",
+                "1:11"
+            ],
+            "MessageText": "sollen ältere Atomkraftwerke acht Jahre , neuere 14 Jahre länger laufen",
+            "STWR": "SW",
+            "Source": [
+                "1:0"
+            ],
+            "SourceText": "Demnach"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10",
+                "4:11",
+                "4:12",
+                "4:13",
+                "4:14"
+            ],
+            "MessageText": "Langfristig werde es sogar teurer , da es den notwendigen Ausbau erneuerbarer Energien behindere .",
+            "STWR": "SW",
+            "Source": [
+                "3:3",
+                "3:4",
+                "3:5",
+                "3:6"
+            ],
+            "SourceText": "vom Bundesverband Erneuerbare Energie"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "5:3"
+            ],
+            "CueText": "bedauerte",
+            "Form": "Indirect",
+            "Frame": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8"
+            ],
+            "FrameText": "Für die Stadtwerke bedauerte der Verband kommunaler Unternehmen ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "5:14",
+                "5:15",
+                "5:16",
+                "5:17",
+                "5:18",
+                "5:19",
+                "5:20"
+            ],
+            "MessageText": "dass sich die Bundesregierung einseitig auf Seite der großen Energiekonzerne gestellt habe",
+            "STWR": "SW",
+            "Source": [
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7"
+            ],
+            "SourceText": "der Verband kommunaler Unternehmen"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:4",
+                "6:5",
+                "6:6",
+                "6:7",
+                "6:8",
+                "6:9",
+                "6:10",
+                "6:11",
+                "6:12"
+            ],
+            "MessageText": "Der EU-Kommissar für Energie Günther Oettinger nannte den Beschluss einen fairen Kompromiss .",
+            "STWR": "SW",
+            "Source": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:4",
+                "6:5"
+            ],
+            "SourceText": "Der EU-Kommissar für Energie Günther Oettinger"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "7:2"
+            ],
+            "CueText": "sagte",
+            "Form": "Indirect",
+            "Frame": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3"
+            ],
+            "FrameText": "Wirtschaftsminister Brüderle sagte ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7",
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11",
+                "7:12",
+                "7:13"
+            ],
+            "MessageText": "mit dem Beschluss werde der Umbau der Stromversorgung sogar forciert",
+            "STWR": "Speech",
+            "Source": [
+                "7:0",
+                "7:1"
+            ],
+            "SourceText": "Wirtschaftsminister Brüderle"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "9:3"
+            ],
+            "CueText": "bekräftigte",
+            "Form": "Indirect",
+            "Frame": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3",
+                "9:4"
+            ],
+            "FrameText": "Der SPD-Vorsitzende Gabriel bekräftigte ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "9:5",
+                "9:6",
+                "9:7",
+                "9:8",
+                "9:9",
+                "9:10",
+                "9:11",
+                "9:12",
+                "9:13",
+                "9:14",
+                "9:15",
+                "9:16",
+                "9:17",
+                "9:18",
+                "9:19"
+            ],
+            "MessageText": "dass die SPD vor dem Bundesverfassungsgericht klagen würde , wenn die Koalition den Bundesrat umgehe",
+            "STWR": "SW",
+            "Source": [
+                "9:0",
+                "9:1",
+                "9:2"
+            ],
+            "SourceText": "Der SPD-Vorsitzende Gabriel"
+        }
+    ],
+    "DocumentName": "63711 - Koalition einigt sich auf Laufzeitverlängerung für Atomkraftwerke (2010-09-07)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Die",
+                "Regierungskoalition",
+                "hat",
+                "sich",
+                "in",
+                "einer",
+                "Klausur",
+                "in",
+                "Berlin",
+                "am",
+                "Sonntag",
+                "auf",
+                "Einzelheiten",
+                "der",
+                "geplanten",
+                "Laufzeitverlängerung",
+                "für",
+                "Atomkraftkraftwerke",
+                "verständigt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Demnach",
+                "sollen",
+                "ältere",
+                "Atomkraftwerke",
+                "acht",
+                "Jahre",
+                ",",
+                "neuere",
+                "14",
+                "Jahre",
+                "länger",
+                "laufen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Dafür",
+                "muss",
+                "die",
+                "Atomindustrie",
+                "eine",
+                "auf",
+                "sechs",
+                "Jahre",
+                "befristete",
+                "Brennelementesteuer",
+                "und",
+                "eine",
+                "zusätzliche",
+                "Abgabe",
+                "zum",
+                "Ausbau",
+                "erneuerbarer",
+                "Energien",
+                "entrichten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Die",
+                "Entscheidung",
+                "wurde",
+                "vom",
+                "Bundesverband",
+                "Erneuerbare",
+                "Energie",
+                "als",
+                "rückschrittlich",
+                "kritisiert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Langfristig",
+                "werde",
+                "es",
+                "sogar",
+                "teurer",
+                ",",
+                "da",
+                "es",
+                "den",
+                "notwendigen",
+                "Ausbau",
+                "erneuerbarer",
+                "Energien",
+                "behindere",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Für",
+                "die",
+                "Stadtwerke",
+                "bedauerte",
+                "der",
+                "Verband",
+                "kommunaler",
+                "Unternehmen",
+                ",",
+                "dass",
+                "sich",
+                "die",
+                "Bundesregierung",
+                "einseitig",
+                "auf",
+                "Seite",
+                "der",
+                "großen",
+                "Energiekonzerne",
+                "gestellt",
+                "habe",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Der",
+                "EU-Kommissar",
+                "für",
+                "Energie",
+                "Günther",
+                "Oettinger",
+                "nannte",
+                "den",
+                "Beschluss",
+                "einen",
+                "fairen",
+                "Kompromiss",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Wirtschaftsminister",
+                "Brüderle",
+                "sagte",
+                ",",
+                "mit",
+                "dem",
+                "Beschluss",
+                "werde",
+                "der",
+                "Umbau",
+                "der",
+                "Stromversorgung",
+                "sogar",
+                "forciert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Von",
+                "den",
+                "Energiekonzernen",
+                "gab",
+                "es",
+                "zunächst",
+                "keine",
+                "Stellungnahme",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Der",
+                "SPD-Vorsitzende",
+                "Gabriel",
+                "bekräftigte",
+                ",",
+                "dass",
+                "die",
+                "SPD",
+                "vor",
+                "dem",
+                "Bundesverfassungsgericht",
+                "klagen",
+                "würde",
+                ",",
+                "wenn",
+                "die",
+                "Koalition",
+                "den",
+                "Bundesrat",
+                "umgehe",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Es",
+                "ist",
+                "rechtlich",
+                "umstritten",
+                ",",
+                "ob",
+                "der",
+                "Bundesrat",
+                ",",
+                "in",
+                "dem",
+                "die",
+                "Regierungskoalition",
+                "keine",
+                "Mehrheit",
+                "mehr",
+                "hat",
+                ",",
+                "dem",
+                "Gesetz",
+                "zustimmen",
+                "muss",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Grünen-Vorsitzende",
+                "Roth",
+                "kündigte",
+                "für",
+                "den",
+                "18.",
+                "September",
+                "eine",
+                "Großdemonstration",
+                "gegen",
+                "Atomkraft",
+                "in",
+                "Berlin",
+                "an",
+                "."
+            ]
+        }
+    ]
+}

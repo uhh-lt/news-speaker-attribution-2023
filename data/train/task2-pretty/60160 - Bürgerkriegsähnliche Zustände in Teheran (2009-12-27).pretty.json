@@ -1,0 +1,259 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7"
+            ],
+            "MessageText": "Augenzeugen berichteten von mindestens drei getöteten Demonstranten .",
+            "STWR": "Speech",
+            "Source": [
+                "1:0"
+            ],
+            "SourceText": "Augenzeugen"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "5:3"
+            ],
+            "CueText": "nach",
+            "Form": "Indirect",
+            "Frame": [
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9"
+            ],
+            "FrameText": "nach Angaben der politischen Opposition im Iran",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "5:14",
+                "5:15",
+                "5:16",
+                "5:17"
+            ],
+            "MessageText": "Vereinzelt weigerten sich einige Polizisten , gegen die Demonstranten Waffengewalt einzusetzen",
+            "STWR": "SW",
+            "Source": [
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9"
+            ],
+            "SourceText": "Angaben der politischen Opposition im Iran"
+        }
+    ],
+    "DocumentName": "60160 - Bürgerkriegsähnliche Zustände in Teheran (2009-12-27)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Die",
+                "iranische",
+                "Polizei",
+                "ging",
+                "am",
+                "Sonntag",
+                "gewaltsam",
+                "gegen",
+                "Demonstranten",
+                "in",
+                "Teheran",
+                "vor",
+                ",",
+                "die",
+                "gegen",
+                "die",
+                "Regierung",
+                "demonstrierten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Augenzeugen",
+                "berichteten",
+                "von",
+                "mindestens",
+                "drei",
+                "getöteten",
+                "Demonstranten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Das",
+                "wurde",
+                "von",
+                "der",
+                "Polizei",
+                "jedoch",
+                "bestritten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Offenbar",
+                "nutzten",
+                "die",
+                "Demonstranten",
+                "die",
+                "Feierlichkeiten",
+                "aus",
+                "Anlass",
+                "des",
+                "schiitischen",
+                "Aschura-Festes",
+                "zu",
+                "Kundgebungen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Dabei",
+                "sollen",
+                "sie",
+                "regierungskritische",
+                "Sprechchöre",
+                "skandiert",
+                "haben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Vereinzelt",
+                "weigerten",
+                "sich",
+                "nach",
+                "Angaben",
+                "der",
+                "politischen",
+                "Opposition",
+                "im",
+                "Iran",
+                "einige",
+                "Polizisten",
+                ",",
+                "gegen",
+                "die",
+                "Demonstranten",
+                "Waffengewalt",
+                "einzusetzen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Die",
+                "Informationen",
+                "über",
+                "die",
+                "Aktivitäten",
+                "der",
+                "Opposition",
+                "im",
+                "Iran",
+                "kommen",
+                "zumeist",
+                "von",
+                "regierungskritischen",
+                "Websites",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Über",
+                "die",
+                "Demonstrationen",
+                "am",
+                "Wochenende",
+                "berichtete",
+                "die",
+                "regierungskritische",
+                "Website",
+                "Rah-e-Sabs",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Ausländischen",
+                "Journalisten",
+                "ist",
+                "die",
+                "Berichterstattung",
+                "über",
+                "Kundgebungen",
+                "und",
+                "Demonstrationen",
+                "der",
+                "Opposition",
+                "aus",
+                "der",
+                "Hauptstadt",
+                "untersagt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Daher",
+                "ist",
+                "eine",
+                "Überprüfung",
+                "dieser",
+                "Informationen",
+                "von",
+                "regimekritischen",
+                "Websites",
+                "nicht",
+                "möglich",
+                "."
+            ]
+        }
+    ]
+}

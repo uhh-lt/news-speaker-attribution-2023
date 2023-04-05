@@ -1,0 +1,305 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "6:1"
+            ],
+            "CueText": "zufolge",
+            "Form": "Indirect",
+            "Frame": [
+                "6:0",
+                "6:1"
+            ],
+            "FrameText": "Berichten zufolge",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "6:2",
+                "6:3",
+                "6:4",
+                "6:5",
+                "6:6",
+                "6:7",
+                "6:8",
+                "6:9",
+                "6:10",
+                "6:11",
+                "6:12",
+                "6:13"
+            ],
+            "MessageText": "produziert Qihua PVC und hinterlässt 15.000 bis 20.000 Tonnen Abfälle jedes Jahr",
+            "STWR": "SW",
+            "Source": [
+                "6:0"
+            ],
+            "SourceText": "Berichten"
+        }
+    ],
+    "DocumentName": "80548 - Chinesischer Bauer verklagt Chemiegiganten (2017-02-24)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Ein",
+                "chinesischer",
+                "Bauer",
+                ",",
+                "der",
+                "nur",
+                "drei",
+                "Jahre",
+                "lang",
+                "die",
+                "Schule",
+                "besucht",
+                "hatte",
+                ",",
+                "lernte",
+                "in",
+                "16",
+                "Jahren",
+                "Selbststudium",
+                ",",
+                "wie",
+                "er",
+                "sich",
+                "gegen",
+                "die",
+                "Umweltsünden",
+                "eines",
+                "staatlichen",
+                "Chemiekonzerns",
+                "wehren",
+                "könnte",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Vergiftetes",
+                "Abwasser",
+                "hatte",
+                "das",
+                "Ackerland",
+                "des",
+                "Bauern",
+                "im",
+                "Jahre",
+                "2001",
+                "erstmals",
+                "verseucht",
+                "und",
+                "die",
+                "gesamte",
+                "Ernte",
+                "vernichtet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Die",
+                "giftige",
+                "Brühe",
+                "war",
+                "sogar",
+                "bis",
+                "in",
+                "das",
+                "Wohnhaus",
+                "eingedrungen",
+                ",",
+                "wo",
+                "er",
+                "am",
+                "Abend",
+                "des",
+                "chinesischen",
+                "Neujahrsfestes",
+                "mit",
+                "Nachbarn",
+                "saß",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Im",
+                "November",
+                "2016",
+                "errang",
+                "der",
+                "heute",
+                "65jährige",
+                "zusammen",
+                "mit",
+                "anderen",
+                "Dorfbewohnern",
+                "einen",
+                "Sieg",
+                "vor",
+                "Gericht",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Der",
+                "Chemiekonzern",
+                "Qihua",
+                "wurde",
+                "zu",
+                "umgerechnet",
+                "110.000",
+                "Euro",
+                "Schadenersatz",
+                "verurteilt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Der",
+                "Konzern",
+                "hat",
+                "gegen",
+                "das",
+                "Urteil",
+                "Berufung",
+                "eingelegt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Berichten",
+                "zufolge",
+                "produziert",
+                "Qihua",
+                "PVC",
+                "und",
+                "hinterlässt",
+                "15.000",
+                "bis",
+                "20.000",
+                "Tonnen",
+                "Abfälle",
+                "jedes",
+                "Jahr",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Der",
+                "Bauer",
+                "wohnt",
+                "in",
+                "Yushutun",
+                ",",
+                "einem",
+                "Dorf",
+                "im",
+                "Distrikt",
+                "Ang'angxi",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Die",
+                "nächstgrößere",
+                "Stadt",
+                "Qiqihar",
+                "ist",
+                "auch",
+                "Sitz",
+                "des",
+                "Gerichts",
+                ",",
+                "wo",
+                "der",
+                "Fall",
+                "verhandelt",
+                "wird",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "PVC",
+                "ist",
+                "weltweit",
+                "ein",
+                "wichtiger",
+                "Kunststoff",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Kritisiert",
+                "werden",
+                "jedoch",
+                "sowohl",
+                "seine",
+                "Produktion",
+                "als",
+                "auch",
+                "auch",
+                "seine",
+                "Verwendung",
+                "wegen",
+                "der",
+                "umweltschädlichen",
+                "Chlorverbindungen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Der",
+                "Ausgangsstoff",
+                "für",
+                "PVC",
+                ",",
+                "das",
+                "Vinylchlorid",
+                ",",
+                "gilt",
+                "als",
+                "krebserregend",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Bei",
+                "der",
+                "Verbrennung",
+                "von",
+                "PVC",
+                "wird",
+                "das",
+                "giftige",
+                "Chlor",
+                "freigesetzt",
+                "."
+            ]
+        }
+    ]
+}

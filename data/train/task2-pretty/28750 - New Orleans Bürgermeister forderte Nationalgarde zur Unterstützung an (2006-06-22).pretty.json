@@ -1,0 +1,312 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10"
+            ],
+            "MessageText": "Der Bürgermeister von Orleans forderte daher die Unterstützung der Nationalgarde .",
+            "STWR": "SW",
+            "Source": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3"
+            ],
+            "SourceText": "Der Bürgermeister von Orleans"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "9:10",
+                "9:11"
+            ],
+            "CueText": "erhofft sich",
+            "Form": "Indirect",
+            "Frame": [
+                "9:9",
+                "9:10",
+                "9:11",
+                "9:12",
+                "9:13",
+                "9:14"
+            ],
+            "FrameText": ", erhofft sich die Stadtleitung ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3",
+                "9:4",
+                "9:5",
+                "9:6",
+                "9:7",
+                "9:8",
+                "9:15",
+                "9:16",
+                "9:17",
+                "9:18",
+                "9:19",
+                "9:20",
+                "9:21",
+                "9:22"
+            ],
+            "MessageText": "Dass noch 60 weitere Mann State Police entsendet werden um die Gewalt in den Griff zu bekommen",
+            "STWR": "ST",
+            "Source": [
+                "9:12",
+                "9:13"
+            ],
+            "SourceText": "die Stadtleitung"
+        }
+    ],
+    "DocumentName": "28750 - New Orleans Bürgermeister forderte Nationalgarde zur Unterstützung an (2006-06-22)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "In",
+                "New",
+                "Orleans",
+                "(",
+                "USA",
+                ")",
+                "reißen",
+                ",",
+                "seit",
+                "der",
+                "Hurrikan",
+                "Kathrina",
+                "durch",
+                "die",
+                "Stadt",
+                "fegte",
+                ",",
+                "die",
+                "Wellen",
+                "der",
+                "Gewalt",
+                "nicht",
+                "mehr",
+                "ab",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Seit",
+                "Beginn",
+                "diesen",
+                "Jahres",
+                "gab",
+                "es",
+                "bereits",
+                "50",
+                "Morde",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Der",
+                "erschreckendste",
+                "Mord",
+                "seit",
+                "elf",
+                "Jahren",
+                "ereignete",
+                "sich",
+                "am",
+                "Samstag",
+                ",",
+                "wo",
+                "fünf",
+                "Teenager",
+                "in",
+                "einem",
+                "Auto",
+                "erschossen",
+                "wurden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Der",
+                "Bürgermeister",
+                "von",
+                "Orleans",
+                "forderte",
+                "daher",
+                "die",
+                "Unterstützung",
+                "der",
+                "Nationalgarde",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Am",
+                "Dienstag",
+                ",",
+                "den",
+                "20.",
+                "Juni",
+                "traf",
+                "die",
+                "erste",
+                "Unterstützung",
+                "von",
+                "der",
+                "Nationalgarde",
+                "ein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Diese",
+                "soll",
+                "die",
+                "Polizei",
+                "unterstützen",
+                ",",
+                "indem",
+                "sie",
+                "die",
+                "geringer",
+                "bewohnten",
+                "Stadtbereiche",
+                "übernimmt",
+                "und",
+                "sich",
+                "die",
+                "Polizei",
+                "auf",
+                "die",
+                "Teile",
+                "mit",
+                "mehr",
+                "Bevölkerung",
+                "konzentrieren",
+                "kann",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Die",
+                "entsendeten",
+                "100",
+                "Nationalguards",
+                "sollen",
+                "etwa",
+                "300",
+                "Polizisten",
+                "entlasten",
+                ",",
+                "damit",
+                "diese",
+                "ihre",
+                "Kernaufgaben",
+                "verstärkt",
+                "wahrnehmen",
+                "können",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Am",
+                "30.",
+                "Juni",
+                "läuft",
+                "das",
+                "Sonderprogramm",
+                "FEMA",
+                "aus",
+                ",",
+                "und",
+                "weitere",
+                "Hurrikan-Flüchtlinge",
+                "werden",
+                "in",
+                "die",
+                "Stadt",
+                "zurückkehren",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Die",
+                "Situation",
+                "wird",
+                "sich",
+                "dadurch",
+                "nicht",
+                "verbessern",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Dass",
+                "noch",
+                "60",
+                "weitere",
+                "Mann",
+                "State",
+                "Police",
+                "entsendet",
+                "werden",
+                ",",
+                "erhofft",
+                "sich",
+                "die",
+                "Stadtleitung",
+                ",",
+                "um",
+                "die",
+                "Gewalt",
+                "in",
+                "den",
+                "Griff",
+                "zu",
+                "bekommen",
+                "."
+            ]
+        }
+    ]
+}

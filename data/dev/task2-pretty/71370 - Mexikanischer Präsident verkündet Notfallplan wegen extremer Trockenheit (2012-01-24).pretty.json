@@ -1,0 +1,192 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:5"
+            ],
+            "CueText": "verkündete",
+            "Form": "Direct",
+            "Frame": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7"
+            ],
+            "FrameText": "Bei einem Besuch in Zacatecas verkündete er :",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:8",
+                "4:9",
+                "4:10",
+                "4:11",
+                "4:12",
+                "4:13",
+                "4:14",
+                "4:15",
+                "4:16"
+            ],
+            "MessageText": "„ Keine Familie wird Wasser- oder Lebensmittelmangel erleiden “",
+            "STWR": "Speech",
+            "Source": [
+                "4:6"
+            ],
+            "SourceText": "er"
+        }
+    ],
+    "DocumentName": "71370 - Mexikanischer Präsident verkündet Notfallplan wegen extremer Trockenheit (2012-01-24)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Seit",
+                "Beginn",
+                "der",
+                "Wetteraufzeichnungen",
+                "gab",
+                "es",
+                "in",
+                "Mexiko",
+                "nie",
+                "eine",
+                "so",
+                "extrem",
+                "langanhaltende",
+                "Trockenperiode",
+                "wie",
+                "jetzt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Präsident",
+                "Felipe",
+                "Calderón",
+                "will",
+                "zwei",
+                "Milliarden",
+                "Euro",
+                "(",
+                "umgerechnet",
+                ")",
+                "für",
+                "die",
+                "Bekämpfung",
+                "der",
+                "Folgen",
+                "ausgeben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Betroffen",
+                "sind",
+                "1300",
+                "Gemeinden",
+                "in",
+                "19",
+                "mexikanischen",
+                "Bundesstaaten",
+                ";",
+                "vor",
+                "allem",
+                "denen",
+                "im",
+                "Norden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Seit",
+                "vielen",
+                "Monaten",
+                "fehlt",
+                "der",
+                "Regen",
+                "in",
+                "diesen",
+                "Gebieten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Bei",
+                "einem",
+                "Besuch",
+                "in",
+                "Zacatecas",
+                "verkündete",
+                "er",
+                ":",
+                "„",
+                "Keine",
+                "Familie",
+                "wird",
+                "Wasser-",
+                "oder",
+                "Lebensmittelmangel",
+                "erleiden",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "In",
+                "entlegenen",
+                "Gebieten",
+                "werden",
+                "insbesondere",
+                "indigene",
+                "Völker",
+                "durch",
+                "die",
+                "Regierung",
+                "mit",
+                "dem",
+                "Notwendigen",
+                "versorgt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Das",
+                "Jahr",
+                "2010",
+                "war",
+                "eines",
+                "der",
+                "regenreichsten",
+                "Jahre",
+                "seit",
+                "1958",
+                ",",
+                "im",
+                "letzten",
+                "Jahr",
+                "begann",
+                "die",
+                "extreme",
+                "Trockenperiode",
+                "."
+            ]
+        }
+    ]
+}

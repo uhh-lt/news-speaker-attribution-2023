@@ -1,0 +1,504 @@
+{
+    "Annotations": [
+        {
+            "Addr": [
+                "1:6",
+                "1:7",
+                "1:8"
+            ],
+            "AddrText": "dem Fernsehsender CNN",
+            "Cue": [
+                "1:5",
+                "1:9"
+            ],
+            "CueText": "teilte mit",
+            "Form": "Indirect",
+            "Frame": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8",
+                "1:9",
+                "1:10"
+            ],
+            "FrameText": "Die US Botschaft in Riad teilte dem Fernsehsender CNN mit ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:11",
+                "1:12",
+                "1:13",
+                "1:14",
+                "1:15",
+                "1:16",
+                "1:17",
+                "1:18",
+                "1:19",
+                "1:20",
+                "1:21",
+                "1:22",
+                "1:23",
+                "1:24"
+            ],
+            "MessageText": "dass sich keine US-amerikanischen Bürger in Geiselhaft befänden oder auch nur verletzt worden wären",
+            "STWR": "Speech",
+            "Source": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4"
+            ],
+            "SourceText": "Die US Botschaft in Riad"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:5"
+            ],
+            "CueText": "zufolge",
+            "Form": "Indirect",
+            "Frame": [
+                "3:3",
+                "3:4",
+                "3:5"
+            ],
+            "FrameText": "ersten Angaben zufolge",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9"
+            ],
+            "MessageText": "Es handele sich um vier angreifende Terroristen",
+            "STWR": "Speech",
+            "Source": [
+                "3:3",
+                "3:4"
+            ],
+            "SourceText": "ersten Angaben"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "5:14",
+                "5:15",
+                "5:16",
+                "5:17",
+                "5:18",
+                "5:19",
+                "5:20",
+                "5:21"
+            ],
+            "MessageText": "Vier saudische Sicherheitskräfte seien zudem getötet worden . Der Angriff sei zunächst mit der Explosion einer Autobombe eingeleitet worden , dann sei es zu einem Schusswechsel mit Sicherheitskräften gekommen .",
+            "STWR": "Speech",
+            "Source": [
+                "3:3",
+                "3:4"
+            ],
+            "SourceText": "ersten Angaben"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "9:5"
+            ],
+            "CueText": "sagte",
+            "Form": "Indirect",
+            "Frame": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3",
+                "9:4",
+                "9:5",
+                "9:6"
+            ],
+            "FrameText": "Ein Sprecher des saudi-arabischen Gesundheitsministeriums sagte ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "9:7",
+                "9:8",
+                "9:9",
+                "9:10",
+                "9:11",
+                "9:12",
+                "9:13"
+            ],
+            "MessageText": "dass mehrere Verletzte in Krankenhäuser gebracht wurden",
+            "STWR": "Speech",
+            "Source": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3",
+                "9:4"
+            ],
+            "SourceText": "Ein Sprecher des saudi-arabischen Gesundheitsministeriums"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "10:0",
+                "10:1",
+                "10:2",
+                "10:3",
+                "10:4",
+                "10:5",
+                "10:6",
+                "10:7",
+                "10:8"
+            ],
+            "MessageText": "Die Medien sprechen von örtlichen Angestellten als Geiseln .",
+            "STWR": "none",
+            "Source": [
+                "10:0",
+                "10:1"
+            ],
+            "SourceText": "Die Medien"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "11:0",
+                "11:1",
+                "11:2",
+                "11:3",
+                "11:4",
+                "11:5",
+                "11:6",
+                "11:7",
+                "11:8",
+                "11:9",
+                "11:10"
+            ],
+            "MessageText": "In ersten Agenturmeldungen war zunächst von US-amerikanischen Staatsbürgern die Rede .",
+            "STWR": "none",
+            "Source": [
+                "11:0",
+                "11:1",
+                "11:2"
+            ],
+            "SourceText": "In ersten Agenturmeldungen"
+        }
+    ],
+    "DocumentName": "1229 - Geiselnahme in Saudi-Arabien (2004-12-06)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Bei",
+                "einem",
+                "bewaffneten",
+                "Angriff",
+                "gegen",
+                "11:00",
+                "Uhr",
+                "Ortszeit",
+                "auf",
+                "das",
+                "US-amerikanische",
+                "Konsulat",
+                "in",
+                "Dschidda",
+                ",",
+                "Saudi",
+                "Arabien",
+                "am",
+                "Montag",
+                ",",
+                "dem",
+                "06.12.2004",
+                ",",
+                "sind",
+                "angeblich",
+                "etwa",
+                "18",
+                "Personen",
+                "in",
+                "die",
+                "Hände",
+                "arabischer",
+                "Terroristen",
+                "geraten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Die",
+                "US",
+                "Botschaft",
+                "in",
+                "Riad",
+                "teilte",
+                "dem",
+                "Fernsehsender",
+                "CNN",
+                "mit",
+                ",",
+                "dass",
+                "sich",
+                "keine",
+                "US-amerikanischen",
+                "Bürger",
+                "in",
+                "Geiselhaft",
+                "befänden",
+                "oder",
+                "auch",
+                "nur",
+                "verletzt",
+                "worden",
+                "wären",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Die",
+                "Anzahl",
+                "der",
+                "Geiseln",
+                "wurde",
+                "noch",
+                "nicht",
+                "offiziell",
+                "bestätigt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Es",
+                "handele",
+                "sich",
+                "ersten",
+                "Angaben",
+                "zufolge",
+                "um",
+                "vier",
+                "angreifende",
+                "Terroristen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Vier",
+                "saudische",
+                "Sicherheitskräfte",
+                "seien",
+                "zudem",
+                "getötet",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Der",
+                "Angriff",
+                "sei",
+                "zunächst",
+                "mit",
+                "der",
+                "Explosion",
+                "einer",
+                "Autobombe",
+                "eingeleitet",
+                "worden",
+                ",",
+                "dann",
+                "sei",
+                "es",
+                "zu",
+                "einem",
+                "Schusswechsel",
+                "mit",
+                "Sicherheitskräften",
+                "gekommen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Danach",
+                "brach",
+                "Feuer",
+                "aus",
+                "und",
+                "aus",
+                "dem",
+                "Gebäude",
+                "drang",
+                "Rauch",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Das",
+                "Konsulat",
+                "wurde",
+                "von",
+                "200",
+                "saudischen",
+                "Sicherheitskräften",
+                "abgeriegelt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Hubschrauber",
+                "kreisten",
+                "über",
+                "dem",
+                "Gelände",
+                "und",
+                "Krankenwagen",
+                "heulen",
+                "über",
+                "das",
+                "Gelände",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Ein",
+                "Sprecher",
+                "des",
+                "saudi-arabischen",
+                "Gesundheitsministeriums",
+                "sagte",
+                ",",
+                "dass",
+                "mehrere",
+                "Verletzte",
+                "in",
+                "Krankenhäuser",
+                "gebracht",
+                "wurden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Die",
+                "Medien",
+                "sprechen",
+                "von",
+                "örtlichen",
+                "Angestellten",
+                "als",
+                "Geiseln",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "In",
+                "ersten",
+                "Agenturmeldungen",
+                "war",
+                "zunächst",
+                "von",
+                "US-amerikanischen",
+                "Staatsbürgern",
+                "die",
+                "Rede",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Die",
+                "Botschaft",
+                "in",
+                "Riad",
+                "und",
+                "das",
+                "Konsulat",
+                "in",
+                "Dhahran",
+                "wurden",
+                "vorsorglich",
+                "geschlossen",
+                "."
+            ]
+        }
+    ]
+}

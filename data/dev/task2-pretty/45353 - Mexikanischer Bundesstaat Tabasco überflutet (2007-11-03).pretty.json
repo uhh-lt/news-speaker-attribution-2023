@@ -1,0 +1,880 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "0:11"
+            ],
+            "CueText": "laut",
+            "Form": "Indirect",
+            "Frame": [
+                "0:11",
+                "0:12"
+            ],
+            "FrameText": "laut Medienberichten",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4",
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8",
+                "0:9",
+                "0:10",
+                "0:13",
+                "0:14",
+                "0:15",
+                "0:16",
+                "0:17",
+                "0:18",
+                "0:19",
+                "0:20"
+            ],
+            "MessageText": "Heftige Regenfälle in den letzten Tagen haben im mexikanischen Bundesstaat Tabasco zu den schwersten Überschwemmungen seit 50 Jahren geführt",
+            "STWR": "SW",
+            "Source": [
+                "0:12"
+            ],
+            "SourceText": "Medienberichten"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:3"
+            ],
+            "CueText": "nach",
+            "Form": "Indirect",
+            "Frame": [
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7"
+            ],
+            "FrameText": "nach Angaben des Roten Kreuzes",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:8"
+            ],
+            "MessageText": "800.000 Menschen wurden obdachlos",
+            "STWR": "SW",
+            "Source": [
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7"
+            ],
+            "SourceText": "Angaben des Roten Kreuzes"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "FreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10",
+                "3:11"
+            ],
+            "MessageText": "Mindestens eine Person soll in den Fluten ums Leben gekommen sein .",
+            "STWR": "SW",
+            "Source": [
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7"
+            ],
+            "SourceText": "Angaben des Roten Kreuzes"
+        },
+        {
+            "Addr": [
+                "9:6",
+                "9:7"
+            ],
+            "AddrText": "der Luftwaffe",
+            "Cue": [
+                "9:5",
+                "9:8",
+                "9:9"
+            ],
+            "CueText": "erteilte den Befehl",
+            "Form": "Indirect",
+            "Frame": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3",
+                "9:4",
+                "9:5",
+                "9:6",
+                "9:7",
+                "9:8",
+                "9:9",
+                "9:10"
+            ],
+            "FrameText": "Der mexikanische Präsident Felipe Calderón erteilte der Luftwaffe den Befehl ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "9:11",
+                "9:12",
+                "9:13",
+                "9:14",
+                "9:15",
+                "9:16",
+                "9:17",
+                "9:18",
+                "9:19",
+                "9:20",
+                "9:21",
+                "9:22",
+                "9:23",
+                "9:24",
+                "9:25",
+                "9:26",
+                "9:27",
+                "9:28"
+            ],
+            "MessageText": "dabei zu helfen , Menschen aus der Gefahrenzone zu bringen und Hilfsgüter in die betroffenen Gebiete zu fliegen",
+            "STWR": "Speech",
+            "Source": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3",
+                "9:4"
+            ],
+            "SourceText": "Der mexikanische Präsident Felipe Calderón"
+        },
+        {
+            "Addr": [
+                "10:5",
+                "10:6"
+            ],
+            "AddrText": "private Fluglinien",
+            "Cue": [
+                "10:1",
+                "10:4"
+            ],
+            "CueText": "appellierte an",
+            "Form": "Indirect",
+            "Frame": [
+                "10:0",
+                "10:1",
+                "10:2",
+                "10:3",
+                "10:4",
+                "10:5",
+                "10:6",
+                "10:7"
+            ],
+            "FrameText": "Zudem appellierte Felipe Calderón an private Fluglinien ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "10:8",
+                "10:9",
+                "10:10",
+                "10:11",
+                "10:12",
+                "10:13",
+                "10:14"
+            ],
+            "MessageText": "sich stärker an den Evakuierungsmaßnahmen zu beteiligen",
+            "STWR": "Speech",
+            "Source": [
+                "10:2",
+                "10:3"
+            ],
+            "SourceText": "Felipe Calderón"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "13:5",
+                "13:9"
+            ],
+            "CueText": "sprach von",
+            "Form": "Direct",
+            "Frame": [
+                "13:0",
+                "13:1",
+                "13:2",
+                "13:3",
+                "13:4",
+                "13:5",
+                "13:6",
+                "13:7",
+                "13:8",
+                "13:9",
+                "13:10"
+            ],
+            "FrameText": "Nach einem Besuch im Krisengebiet sprach der mexikanische Präsident von der",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "13:11",
+                "13:12",
+                "13:13",
+                "13:14",
+                "13:15",
+                "13:16",
+                "13:17",
+                "13:18",
+                "13:19",
+                "13:20"
+            ],
+            "MessageText": "„ schlimmsten Katastrophe in der jüngsten Geschichte des Landes “",
+            "STWR": "Speech",
+            "Source": [
+                "13:6",
+                "13:7",
+                "13:8"
+            ],
+            "SourceText": "der mexikanische Präsident"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "14:8"
+            ],
+            "CueText": "sagte",
+            "Form": "Direct",
+            "Frame": [
+                "14:0",
+                "14:1",
+                "14:2",
+                "14:3",
+                "14:4",
+                "14:5",
+                "14:6",
+                "14:7",
+                "14:8",
+                "14:9",
+                "14:10",
+                "14:11",
+                "14:12"
+            ],
+            "FrameText": "Andres Granier , der Gouverneur von Tabasco , sagte zu den Überschwemmungen :",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "14:13",
+                "14:14",
+                "14:15",
+                "14:16",
+                "14:17",
+                "14:18",
+                "14:19",
+                "14:20"
+            ],
+            "MessageText": "„ Wir kämpfen gegen ein Monster . “",
+            "STWR": "Speech",
+            "Source": [
+                "14:0",
+                "14:1",
+                "14:2",
+                "14:3",
+                "14:4",
+                "14:5",
+                "14:6"
+            ],
+            "SourceText": "Andres Granier , der Gouverneur von Tabasco"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "15:2"
+            ],
+            "CueText": "beklagte",
+            "Form": "Indirect",
+            "Frame": [
+                "15:0",
+                "15:1",
+                "15:2",
+                "15:3",
+                "15:4",
+                "15:5",
+                "15:6"
+            ],
+            "FrameText": "Andres Granier beklagte bei diversen Fernsehauftritten ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "15:7",
+                "15:8",
+                "15:9",
+                "15:10",
+                "15:11",
+                "15:12",
+                "15:13",
+                "15:14",
+                "15:15"
+            ],
+            "MessageText": "dass zu wenige Soldaten nach Tabasco entsandt worden seien",
+            "STWR": "Speech",
+            "Source": [
+                "15:0",
+                "15:1"
+            ],
+            "SourceText": "Andres Granier"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "16:0",
+                "16:1",
+                "16:2",
+                "16:3",
+                "16:4",
+                "16:5",
+                "16:6",
+                "16:7",
+                "16:8",
+                "16:9",
+                "16:10",
+                "16:11",
+                "16:12",
+                "16:13",
+                "16:14",
+                "16:15",
+                "16:16",
+                "16:17",
+                "16:18",
+                "16:19",
+                "16:20",
+                "16:21",
+                "16:22",
+                "16:23",
+                "16:24"
+            ],
+            "MessageText": "Beim letzten Hochwasser im Jahr 1999 , dessen Ausmaße geringer waren , seien 20.000 Soldaten im Einsatz gewesen , in diesem Jahr bisher nur 5.000.",
+            "STWR": "Speech",
+            "Source": [
+                "15:0",
+                "15:1"
+            ],
+            "SourceText": "Andres Granier"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "17:4",
+                "17:5"
+            ],
+            "CueText": "gestand ein",
+            "Form": "Indirect",
+            "Frame": [
+                "17:0",
+                "17:1",
+                "17:2",
+                "17:3",
+                "17:4",
+                "17:5",
+                "17:6"
+            ],
+            "FrameText": "Mexikos Innenminister Francisco Ramirez gestand ein ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "17:7",
+                "17:8",
+                "17:9",
+                "17:10",
+                "17:11",
+                "17:12",
+                "17:13",
+                "17:14",
+                "17:15"
+            ],
+            "MessageText": "dass die Regierung vom Ausmaß der Katastrophe überwältigt wurde",
+            "STWR": "Speech",
+            "Source": [
+                "17:0",
+                "17:1",
+                "17:2",
+                "17:3"
+            ],
+            "SourceText": "Mexikos Innenminister Francisco Ramirez"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "18:2"
+            ],
+            "CueText": "zufolge",
+            "Form": "Indirect",
+            "Frame": [
+                "18:0",
+                "18:1",
+                "18:2"
+            ],
+            "FrameText": "Offiziellen Angaben zufolge",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "18:3",
+                "18:4",
+                "18:5",
+                "18:6",
+                "18:7",
+                "18:8",
+                "18:9",
+                "18:10",
+                "18:11",
+                "18:12",
+                "18:13",
+                "18:14",
+                "18:15",
+                "18:16",
+                "18:17"
+            ],
+            "MessageText": "sind nur noch geringe Vorräte an sauberem Wasser , Nahrungsmitteln , Treibstoff und Medizin vorhanden",
+            "STWR": "SW",
+            "Source": [
+                "18:0",
+                "18:1"
+            ],
+            "SourceText": "Offiziellen Angaben"
+        }
+    ],
+    "DocumentName": "45353 - Mexikanischer Bundesstaat Tabasco überflutet (2007-11-03)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Heftige",
+                "Regenfälle",
+                "in",
+                "den",
+                "letzten",
+                "Tagen",
+                "haben",
+                "im",
+                "mexikanischen",
+                "Bundesstaat",
+                "Tabasco",
+                "laut",
+                "Medienberichten",
+                "zu",
+                "den",
+                "schwersten",
+                "Überschwemmungen",
+                "seit",
+                "50",
+                "Jahren",
+                "geführt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Etwa",
+                "80",
+                "Prozent",
+                "des",
+                "Bundesstaates",
+                "stehen",
+                "unter",
+                "Wasser",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "800.000",
+                "Menschen",
+                "wurden",
+                "nach",
+                "Angaben",
+                "des",
+                "Roten",
+                "Kreuzes",
+                "obdachlos",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Mindestens",
+                "eine",
+                "Person",
+                "soll",
+                "in",
+                "den",
+                "Fluten",
+                "ums",
+                "Leben",
+                "gekommen",
+                "sein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Am",
+                "vergangenen",
+                "Donnerstag",
+                "trat",
+                "der",
+                "Fluss",
+                "Grijalva",
+                "über",
+                "die",
+                "Ufer",
+                "und",
+                "überflutete",
+                "Villahermosa",
+                ",",
+                "die",
+                "Hauptstadt",
+                "Tabascos",
+                ",",
+                "die",
+                "inzwischen",
+                "fast",
+                "völlig",
+                "verlassen",
+                "ist",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Normalerweise",
+                "leben",
+                "dort",
+                "ungefähr",
+                "500.000",
+                "Menschen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Auch",
+                "viele",
+                "andere",
+                "Städte",
+                "in",
+                "Tabasco",
+                "sind",
+                "überflutet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Tausende",
+                "Menschen",
+                "wollten",
+                "die",
+                "Region",
+                "auf",
+                "nicht",
+                "überfluteten",
+                "Straßen",
+                "verlassen",
+                ",",
+                "was",
+                "lange",
+                "Staus",
+                "verursachte",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Der",
+                "südliche",
+                "Bundesstaat",
+                "Chiapas",
+                "ist",
+                "ebenfalls",
+                "von",
+                "den",
+                "Überschwemmungen",
+                "betroffen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Der",
+                "mexikanische",
+                "Präsident",
+                "Felipe",
+                "Calderón",
+                "erteilte",
+                "der",
+                "Luftwaffe",
+                "den",
+                "Befehl",
+                ",",
+                "dabei",
+                "zu",
+                "helfen",
+                ",",
+                "Menschen",
+                "aus",
+                "der",
+                "Gefahrenzone",
+                "zu",
+                "bringen",
+                "und",
+                "Hilfsgüter",
+                "in",
+                "die",
+                "betroffenen",
+                "Gebiete",
+                "zu",
+                "fliegen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Zudem",
+                "appellierte",
+                "Felipe",
+                "Calderón",
+                "an",
+                "private",
+                "Fluglinien",
+                ",",
+                "sich",
+                "stärker",
+                "an",
+                "den",
+                "Evakuierungsmaßnahmen",
+                "zu",
+                "beteiligen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Polizei",
+                "und",
+                "Armee",
+                "stattete",
+                "er",
+                "mit",
+                "besonderen",
+                "Befugnissen",
+                "aus",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Sie",
+                "sollen",
+                "Plünderungen",
+                "verhindern",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Nach",
+                "einem",
+                "Besuch",
+                "im",
+                "Krisengebiet",
+                "sprach",
+                "der",
+                "mexikanische",
+                "Präsident",
+                "von",
+                "der",
+                "„",
+                "schlimmsten",
+                "Katastrophe",
+                "in",
+                "der",
+                "jüngsten",
+                "Geschichte",
+                "des",
+                "Landes",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Andres",
+                "Granier",
+                ",",
+                "der",
+                "Gouverneur",
+                "von",
+                "Tabasco",
+                ",",
+                "sagte",
+                "zu",
+                "den",
+                "Überschwemmungen",
+                ":",
+                "„",
+                "Wir",
+                "kämpfen",
+                "gegen",
+                "ein",
+                "Monster",
+                ".",
+                "“"
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "Andres",
+                "Granier",
+                "beklagte",
+                "bei",
+                "diversen",
+                "Fernsehauftritten",
+                ",",
+                "dass",
+                "zu",
+                "wenige",
+                "Soldaten",
+                "nach",
+                "Tabasco",
+                "entsandt",
+                "worden",
+                "seien",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 16,
+            "Tokens": [
+                "Beim",
+                "letzten",
+                "Hochwasser",
+                "im",
+                "Jahr",
+                "1999",
+                ",",
+                "dessen",
+                "Ausmaße",
+                "geringer",
+                "waren",
+                ",",
+                "seien",
+                "20.000",
+                "Soldaten",
+                "im",
+                "Einsatz",
+                "gewesen",
+                ",",
+                "in",
+                "diesem",
+                "Jahr",
+                "bisher",
+                "nur",
+                "5.000."
+            ]
+        },
+        {
+            "SentenceId": 17,
+            "Tokens": [
+                "Mexikos",
+                "Innenminister",
+                "Francisco",
+                "Ramirez",
+                "gestand",
+                "ein",
+                ",",
+                "dass",
+                "die",
+                "Regierung",
+                "vom",
+                "Ausmaß",
+                "der",
+                "Katastrophe",
+                "überwältigt",
+                "wurde",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 18,
+            "Tokens": [
+                "Offiziellen",
+                "Angaben",
+                "zufolge",
+                "sind",
+                "nur",
+                "noch",
+                "geringe",
+                "Vorräte",
+                "an",
+                "sauberem",
+                "Wasser",
+                ",",
+                "Nahrungsmitteln",
+                ",",
+                "Treibstoff",
+                "und",
+                "Medizin",
+                "vorhanden",
+                "."
+            ]
+        }
+    ]
+}

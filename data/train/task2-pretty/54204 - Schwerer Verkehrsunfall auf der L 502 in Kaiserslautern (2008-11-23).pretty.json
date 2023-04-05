@@ -1,0 +1,136 @@
+{
+    "Annotations": [],
+    "DocumentName": "54204 - Schwerer Verkehrsunfall auf der L 502 in Kaiserslautern (2008-11-23)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Auf",
+                "der",
+                "Landesstraße",
+                "502",
+                "zwischen",
+                "Kaiserslautern-Dansenberg",
+                "und",
+                "Kaiserslautern",
+                "kam",
+                "es",
+                "am",
+                "Freitagmittag",
+                "zu",
+                "einem",
+                "schweren",
+                "Verkehrsunfall",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Ein",
+                "43-Jähriger",
+                "geriet",
+                "mit",
+                "seinem",
+                "BMW",
+                "auf",
+                "die",
+                "Gegenfahrbahn",
+                ",",
+                "kam",
+                "von",
+                "der",
+                "Fahrspur",
+                "ab",
+                "und",
+                "prallte",
+                "frontal",
+                "gegen",
+                "das",
+                "Naturdenkmal",
+                "„",
+                "Dicke",
+                "Eiche",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Aufgrund",
+                "der",
+                "hohen",
+                "Aufprallgeschwindigkeit",
+                "wurde",
+                "das",
+                "Fahrzeug",
+                "völlig",
+                "zerstört",
+                ",",
+                "der",
+                "Sachschaden",
+                "beläuft",
+                "sich",
+                "auf",
+                "5.000",
+                "Euro",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Der",
+                "Fahrer",
+                "aus",
+                "dem",
+                "Landkreis",
+                "Alzey-Worms",
+                "selbst",
+                "wurde",
+                "eingeklemmt",
+                "und",
+                "erlitt",
+                "schwerste",
+                "Verletzungen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Nachdem",
+                "die",
+                "Feuerwehr",
+                "ihn",
+                "aus",
+                "seinem",
+                "Wagen",
+                "befreit",
+                "hatte",
+                ",",
+                "wurde",
+                "er",
+                "in",
+                "ein",
+                "Krankenhaus",
+                "gebracht",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Er",
+                "schwebt",
+                "noch",
+                "immer",
+                "in",
+                "akuter",
+                "Lebensgefahr",
+                "."
+            ]
+        }
+    ]
+}

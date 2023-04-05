@@ -1,0 +1,72 @@
+{
+    "Annotations": [],
+    "DocumentName": "33563 - Notlandung einer Boeing 757 in Budapest (2006-10-05)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Eine",
+                "Boeing",
+                "757",
+                "der",
+                "Fluggesellschaft",
+                "ATA",
+                "ist",
+                "am",
+                "Mittwochabend",
+                "auf",
+                "dem",
+                "Flughafen",
+                "Ferihegy",
+                "in",
+                "Budapest",
+                "notgelandet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Grund",
+                "für",
+                "die",
+                "Notlandung",
+                "war",
+                "ein",
+                "Triebwerkschaden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Die",
+                "Maschine",
+                "hatte",
+                "US-amerikanische",
+                "Soldaten",
+                "an",
+                "Bord",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Startflughafen",
+                "und",
+                "geplantes",
+                "Ziel",
+                "der",
+                "Boeing",
+                "wurden",
+                "von",
+                "den",
+                "Flugsicherheitsbehörden",
+                "nicht",
+                "genannt",
+                "."
+            ]
+        }
+    ]
+}

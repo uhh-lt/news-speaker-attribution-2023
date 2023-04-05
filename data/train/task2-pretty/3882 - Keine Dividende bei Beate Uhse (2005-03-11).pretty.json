@@ -1,0 +1,176 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:8",
+                "2:12"
+            ],
+            "CueText": "teilte mit",
+            "Form": "Indirect",
+            "Frame": [
+                "2:7",
+                "2:8",
+                "2:9",
+                "2:10",
+                "2:11",
+                "2:12"
+            ],
+            "FrameText": ", teilte das Unternehmen heute mit",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6"
+            ],
+            "MessageText": "Der Umsatz wird 278 Millionen Euro betragen",
+            "STWR": "SW",
+            "Source": [
+                "2:9",
+                "2:10"
+            ],
+            "SourceText": "das Unternehmen"
+        }
+    ],
+    "DocumentName": "3882 - Keine Dividende bei Beate Uhse (2005-03-11)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Das",
+                "Vorsteuerergebnis",
+                "der",
+                "Beate",
+                "Uhse",
+                "AG",
+                "im",
+                "Geschäftsjahr",
+                "2004",
+                "wird",
+                "bei",
+                "16",
+                "Millionen",
+                "Euro",
+                "liegen",
+                ",",
+                "ursprünglich",
+                "waren",
+                "22",
+                "Millionen",
+                "Euro",
+                "geplant",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Das",
+                "Gewinnziel",
+                "musste",
+                "wegen",
+                "hoher",
+                "Anlaufverluste",
+                "eines",
+                "niederländischen",
+                "Logistikzentrums",
+                "nach",
+                "unten",
+                "korrigiert",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Der",
+                "Umsatz",
+                "wird",
+                "278",
+                "Millionen",
+                "Euro",
+                "betragen",
+                ",",
+                "teilte",
+                "das",
+                "Unternehmen",
+                "heute",
+                "mit",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Der",
+                "Gewinn",
+                "nach",
+                "Steuern",
+                "wird",
+                "in",
+                "etwa",
+                "auf",
+                "dem",
+                "Niveau",
+                "des",
+                "Geschäftsjahres",
+                "2003",
+                "liegen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Eine",
+                "Dividende",
+                "kann",
+                "daher",
+                "nicht",
+                "bezahlt",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Im",
+                "vergangenen",
+                "Jahr",
+                "wurde",
+                "eine",
+                "Dividende",
+                "von",
+                "zehn",
+                "Cent",
+                "je",
+                "Aktie",
+                "gezahlt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Der",
+                "gesamte",
+                "Jahresabschluss",
+                "für",
+                "2004",
+                "wird",
+                "im",
+                "April",
+                "veröffentlicht",
+                "."
+            ]
+        }
+    ]
+}

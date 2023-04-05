@@ -1,0 +1,240 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "FreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9",
+                "2:10",
+                "2:11",
+                "2:12",
+                "2:13",
+                "2:14",
+                "2:15",
+                "2:16",
+                "2:17",
+                "2:18",
+                "2:19",
+                "2:20",
+                "2:21"
+            ],
+            "MessageText": "Dabei sollen mindestens acht Menschen ( sieben Patienten zwischen 78 und 98 Jahren und eine Pflegekraft ) ums Leben gekommen sein ,",
+            "STWR": "none",
+            "Source": [
+                "6:0",
+                "6:1",
+                "6:2"
+            ],
+            "SourceText": "Die örtlichen Behörden"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "FreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10",
+                "4:11",
+                "4:12",
+                "4:13"
+            ],
+            "MessageText": "Der Täter soll das Gebäude gestürmt und sofort wild um sich gefeuert haben .",
+            "STWR": "none",
+            "Source": [
+                "6:0",
+                "6:1",
+                "6:2"
+            ],
+            "SourceText": "Die örtlichen Behörden"
+        }
+    ],
+    "DocumentName": "56876 - Mehrere Tote bei Amoklauf im Pinelake-Altersheim in Carthage (2009-03-30)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Die",
+                "Serie",
+                "der",
+                "Amokläufe",
+                "reißt",
+                "nicht",
+                "ab",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Jetzt",
+                "hat",
+                "sich",
+                "erstmals",
+                "ein",
+                "Amoklauf",
+                "in",
+                "einer",
+                "Seniorenwohnanlage",
+                "in",
+                "den",
+                "Vereinigten",
+                "Staaten",
+                "ereignet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Dabei",
+                "sollen",
+                "mindestens",
+                "acht",
+                "Menschen",
+                "(",
+                "sieben",
+                "Patienten",
+                "zwischen",
+                "78",
+                "und",
+                "98",
+                "Jahren",
+                "und",
+                "eine",
+                "Pflegekraft",
+                ")",
+                "ums",
+                "Leben",
+                "gekommen",
+                "sein",
+                ",",
+                "vier",
+                "Menschen",
+                "wurden",
+                "verletzt",
+                ",",
+                "darunter",
+                "in",
+                "einem",
+                "Schusswechsel",
+                "ein",
+                "Polizist",
+                "am",
+                "Bein",
+                "und",
+                "der",
+                "Täter",
+                "selbst",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Zu",
+                "den",
+                "Verletzungen",
+                "des",
+                "Täters",
+                "liegen",
+                "noch",
+                "keine",
+                "Angaben",
+                "vor",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Der",
+                "Täter",
+                "soll",
+                "das",
+                "Gebäude",
+                "gestürmt",
+                "und",
+                "sofort",
+                "wild",
+                "um",
+                "sich",
+                "gefeuert",
+                "haben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Auf",
+                "ihn",
+                "kommt",
+                "eine",
+                "Anklage",
+                "wegen",
+                "achtfachen",
+                "Mordes",
+                "zu",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Die",
+                "örtlichen",
+                "Behörden",
+                "haben",
+                "demnach",
+                "ein",
+                "Ermittlungsverfahren",
+                "eingeleitet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Die",
+                "Gründe",
+                "für",
+                "die",
+                "Tat",
+                "sind",
+                "unklar",
+                "."
+            ]
+        }
+    ]
+}

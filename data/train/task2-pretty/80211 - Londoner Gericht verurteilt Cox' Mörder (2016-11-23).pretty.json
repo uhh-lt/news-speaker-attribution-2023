@@ -1,0 +1,448 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:2",
+                "2:4"
+            ],
+            "CueText": "hatten berichtet",
+            "Form": "Indirect",
+            "Frame": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9",
+                "2:10",
+                "2:11",
+                "2:12",
+                "2:13"
+            ],
+            "FrameText": "Vor Gericht hatten Augenzeugen berichtet , wie Mair die Parlamentarierin vor ihrer Bürgerstunde attackierte",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10",
+                "3:11"
+            ],
+            "MessageText": "Er gab mehrere Schüsse auf Cox ab und stach auf sie ein",
+            "STWR": "Speech",
+            "Source": [
+                "2:3"
+            ],
+            "SourceText": "Augenzeugen"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:5"
+            ],
+            "CueText": "laut",
+            "Form": "Indirect",
+            "Frame": [
+                "4:5",
+                "4:6"
+            ],
+            "FrameText": "laut Zeugenaussagen",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4"
+            ],
+            "MessageText": "Mair rief bei dem Angriff",
+            "STWR": "Speech",
+            "Source": [
+                "4:6"
+            ],
+            "SourceText": "Zeugenaussagen"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:5"
+            ],
+            "CueText": "laut",
+            "Form": "Direct",
+            "Frame": [
+                "4:5",
+                "4:6"
+            ],
+            "FrameText": "laut Zeugenaussagen",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10"
+            ],
+            "MessageText": "\" Britain First \"",
+            "STWR": "Speech",
+            "Source": [
+                "4:6"
+            ],
+            "SourceText": "Zeugenaussagen"
+        },
+        {
+            "Addr": [
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10"
+            ],
+            "AddrText": "Mair , der arbeitslose Gärtner und Rechtsextremist",
+            "Cue": [
+                "5:2"
+            ],
+            "CueText": "sagte",
+            "Form": "Indirect",
+            "Frame": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5"
+            ],
+            "FrameText": "Der Richter sagte zu Mair , der arbeitslose Gärtner und Rechtsextremist , Der Richter sagte zu Mair ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:12",
+                "5:13",
+                "5:14",
+                "5:15",
+                "5:16",
+                "5:17",
+                "5:18",
+                "5:19",
+                "5:20",
+                "5:21",
+                "5:22",
+                "5:23",
+                "5:24",
+                "5:25",
+                "5:26",
+                "5:27",
+                "5:28",
+                "5:29"
+            ],
+            "MessageText": "seine Tat lange geplant zu haben und ein politisches Motiv , verbunden mit der Nazi-Ideologie , zu haben",
+            "STWR": "Speech",
+            "Source": [
+                "5:0",
+                "5:1"
+            ],
+            "SourceText": "Der Richter"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "7:1",
+                "7:2"
+            ],
+            "CueText": "plädierte dafür",
+            "Form": "Indirect",
+            "Frame": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3"
+            ],
+            "FrameText": "Mair plädierte dafür ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7",
+                "7:8"
+            ],
+            "MessageText": "dass er nicht schuldig sei",
+            "STWR": "Speech",
+            "Source": [
+                "7:0"
+            ],
+            "SourceText": "Mair"
+        }
+    ],
+    "DocumentName": "80211 - Londoner Gericht verurteilt Cox' Mörder (2016-11-23)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Im",
+                "Mordfall",
+                "um",
+                "die",
+                "Abgeordnete",
+                "und",
+                "Brexit-Gegnerin",
+                "Jo",
+                "Cox",
+                "urteilte",
+                "ein",
+                "Londoner",
+                "Gericht",
+                ",",
+                "dass",
+                "der",
+                "heute",
+                "53-Jährige",
+                ",",
+                "der",
+                "die",
+                "Frau",
+                "im",
+                "Sommer",
+                "tötete",
+                ",",
+                "eine",
+                "lebenslange",
+                "Haftstrafe",
+                "bekommt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Die",
+                "Jury",
+                "befand",
+                "Thomas",
+                "Mair",
+                ",",
+                "der",
+                "am",
+                "16.",
+                "Juni",
+                "2016",
+                ",",
+                "kurz",
+                "vor",
+                "dem",
+                "EU-Referendum",
+                ",",
+                "die",
+                "Labour-Politikerin",
+                "im",
+                "nordenglischen",
+                "Wahlkreis",
+                "ermordet",
+                "zu",
+                "haben",
+                ",",
+                "schuldig",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Vor",
+                "Gericht",
+                "hatten",
+                "Augenzeugen",
+                "berichtet",
+                ",",
+                "wie",
+                "Mair",
+                "die",
+                "Parlamentarierin",
+                "vor",
+                "ihrer",
+                "Bürgerstunde",
+                "attackierte",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Er",
+                "gab",
+                "mehrere",
+                "Schüsse",
+                "auf",
+                "Cox",
+                "ab",
+                "und",
+                "stach",
+                "auf",
+                "sie",
+                "ein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Mair",
+                "rief",
+                "bei",
+                "dem",
+                "Angriff",
+                "laut",
+                "Zeugenaussagen",
+                "\"",
+                "Britain",
+                "First",
+                "\"",
+                "(",
+                "deutsch",
+                "''",
+                "Britannien",
+                "zuerst",
+                "''",
+                ")",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Der",
+                "Richter",
+                "sagte",
+                "zu",
+                "Mair",
+                ",",
+                "der",
+                "arbeitslose",
+                "Gärtner",
+                "und",
+                "Rechtsextremist",
+                ",",
+                "seine",
+                "Tat",
+                "lange",
+                "geplant",
+                "zu",
+                "haben",
+                "und",
+                "ein",
+                "politisches",
+                "Motiv",
+                ",",
+                "verbunden",
+                "mit",
+                "der",
+                "Nazi-Ideologie",
+                ",",
+                "zu",
+                "haben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Nach",
+                "der",
+                "Verteidigung",
+                "zogen",
+                "sich",
+                "die",
+                "12",
+                "Geschworenen",
+                "für",
+                "eine",
+                "Stunde",
+                "zurück",
+                "und",
+                "befanden",
+                "ihn",
+                "für",
+                "schuldig",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Mair",
+                "plädierte",
+                "dafür",
+                ",",
+                "dass",
+                "er",
+                "nicht",
+                "schuldig",
+                "sei",
+                ",",
+                "lege",
+                "aber",
+                "auch",
+                "keine",
+                "Gegenbeweise",
+                "vor",
+                "und",
+                "sagte",
+                "nicht",
+                "aus",
+                "zu",
+                "seiner",
+                "Verteigung",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Das",
+                "verfahren",
+                "wurde",
+                "in",
+                "London",
+                "unter",
+                "einem",
+                "''",
+                "Terrorismus-Protokol",
+                "''",
+                "geführt",
+                "."
+            ]
+        }
+    ]
+}

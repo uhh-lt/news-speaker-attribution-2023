@@ -1,0 +1,298 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:3",
+                "3:15",
+                "3:16"
+            ],
+            "CueText": "hatte bekannt gegeben",
+            "Form": "Indirect",
+            "Frame": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:10",
+                "3:11",
+                "3:12",
+                "3:13",
+                "3:14",
+                "3:15",
+                "3:16"
+            ],
+            "FrameText": "Am gestrigen Montag hatte „ France Football “ in Paris auf einer Pressekonferenz bekannt gegeben",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4",
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8",
+                "0:9",
+                "0:10",
+                "0:11",
+                "0:12",
+                "0:13",
+                "0:14",
+                "0:15",
+                "0:16",
+                "0:17",
+                "0:18",
+                "3:8",
+                "3:9"
+            ],
+            "MessageText": "Unter 50 Kandidaten wurde Michael Ballack bei der Wahl zu Europas Fußballer des Jahres 2005 auf die Kandidatenliste gesetzt diese Entscheidung",
+            "STWR": "Speech",
+            "Source": [
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7"
+            ],
+            "SourceText": "„ France Football “"
+        }
+    ],
+    "DocumentName": "14704 - Michael Ballack ist Kandidat bei der Wahl zu Europas Fußballer des Jahres (2005-10-25)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Unter",
+                "50",
+                "Kandidaten",
+                "wurde",
+                "Michael",
+                "Ballack",
+                "bei",
+                "der",
+                "Wahl",
+                "zu",
+                "Europas",
+                "Fußballer",
+                "des",
+                "Jahres",
+                "2005",
+                "auf",
+                "die",
+                "Kandidatenliste",
+                "gesetzt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Im",
+                "Gegensatz",
+                "zum",
+                "Titel",
+                "des",
+                "deutschen",
+                "Fußballer",
+                "des",
+                "Jahres",
+                "2005",
+                "ist",
+                "für",
+                "diese",
+                "Auszeichnung",
+                "die",
+                "französische",
+                "Zeitschrift",
+                "„",
+                "France",
+                "Football",
+                "“",
+                "Ausrichter",
+                "des",
+                "Preises",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Trophäe",
+                "ist",
+                "der",
+                "so",
+                "genannte",
+                "„",
+                "Goldene",
+                "Ball",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Am",
+                "gestrigen",
+                "Montag",
+                "hatte",
+                "„",
+                "France",
+                "Football",
+                "“",
+                "diese",
+                "Entscheidung",
+                "in",
+                "Paris",
+                "auf",
+                "einer",
+                "Pressekonferenz",
+                "bekannt",
+                "gegeben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Die",
+                "Verleihung",
+                "findet",
+                "seit",
+                "1956",
+                "an",
+                "europäische",
+                "Fußballspieler",
+                "statt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Die",
+                "diesjährige",
+                "am",
+                "28.",
+                "November",
+                "2005",
+                "ist",
+                "die",
+                "50.",
+                "Preisverleihung",
+                "insgesamt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Zu",
+                "der",
+                "Überreichung",
+                "des",
+                "Goldenen",
+                "Balls",
+                "während",
+                "einer",
+                "90-minütigen",
+                "Gala",
+                "hat",
+                "sich",
+                "auch",
+                "FIFA-Präsident",
+                "Joseph",
+                "S.",
+                "Blatter",
+                "angemeldet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Unter",
+                "den",
+                "50",
+                "nominierten",
+                "Spielern",
+                "ist",
+                "der",
+                "Spieler",
+                "des",
+                "FC",
+                "Bayern",
+                "München",
+                "Michael",
+                "Ballack",
+                "als",
+                "einziger",
+                "Deutscher",
+                "auf",
+                "der",
+                "Liste",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Ballack",
+                "spielt",
+                "auch",
+                "in",
+                "der",
+                "deutschen",
+                "Nationalmannschaft",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Der",
+                "Niederländer",
+                "Roy",
+                "Makaay",
+                ",",
+                "ebenfalls",
+                "Spieler",
+                "des",
+                "FC",
+                "Bayern",
+                "München",
+                ",",
+                "steht",
+                "auch",
+                "auf",
+                "der",
+                "Liste",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Im",
+                "Jahr",
+                "2004",
+                "stand",
+                "kein",
+                "einziger",
+                "deutscher",
+                "Spieler",
+                "auf",
+                "der",
+                "Kandidatenliste",
+                "."
+            ]
+        }
+    ]
+}

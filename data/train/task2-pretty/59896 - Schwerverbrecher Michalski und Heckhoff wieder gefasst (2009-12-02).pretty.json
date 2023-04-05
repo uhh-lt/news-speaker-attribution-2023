@@ -1,0 +1,489 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "FreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:12",
+                "3:13",
+                "3:14",
+                "3:15",
+                "3:16",
+                "3:17",
+                "3:18",
+                "3:19"
+            ],
+            "MessageText": "er soll den Ausbrechern zur Flucht verholfen haben",
+            "STWR": "SW",
+            "Source": [
+                "2:5",
+                "2:6"
+            ],
+            "SourceText": "die Polizei"
+        },
+        {
+            "Addr": [
+                "11:10"
+            ],
+            "AddrText": "er",
+            "Cue": [
+                "11:1"
+            ],
+            "CueText": "Appell",
+            "Form": "Indirect",
+            "Frame": [
+                "11:0",
+                "11:1",
+                "11:2",
+                "11:3",
+                "11:4",
+                "11:8",
+                "11:9",
+                "11:10",
+                "11:11"
+            ],
+            "FrameText": "Dem Appell der Polizei , , folgte er nicht",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "11:5",
+                "11:6",
+                "11:7"
+            ],
+            "MessageText": "sich zu stellen",
+            "STWR": "Speech",
+            "Source": [
+                "11:0",
+                "11:1",
+                "11:2",
+                "11:3"
+            ],
+            "SourceText": "Dem Appell der Polizei"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Direct",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "12:1",
+                "12:2",
+                "12:3",
+                "12:4"
+            ],
+            "MessageText": "„ ernstzunehmende Spur “",
+            "STWR": "Speech",
+            "Source": [
+                "12:6",
+                "12:7"
+            ],
+            "SourceText": "die Polizei"
+        }
+    ],
+    "DocumentName": "59896 - Schwerverbrecher Michalski und Heckhoff wieder gefasst (2009-12-02)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Die",
+                "am",
+                "Donnerstag",
+                ",",
+                "den",
+                "26.",
+                "November",
+                "2009",
+                ",",
+                "aus",
+                "der",
+                "Justizvollzugsanstalt",
+                "Aachen",
+                "geflohenen",
+                "Schwerverbrecher",
+                "Peter",
+                "Paul",
+                "Michalski",
+                "(",
+                "46",
+                ")",
+                "und",
+                "Michael",
+                "Heckhoff",
+                "(",
+                "50",
+                ")",
+                "sind",
+                "auf",
+                "ihrer",
+                "Flucht",
+                "gefasst",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Mittels",
+                "selbstgefertigten",
+                "Schlüsseln",
+                "gelangten",
+                "sie",
+                "am",
+                "Donnerstagabend",
+                "bis",
+                "zur",
+                "Gefängnispforte",
+                ",",
+                "wo",
+                "sie",
+                "einen",
+                "Pförtner",
+                "überwältigten",
+                "und",
+                "ihm",
+                "zwei",
+                "Dienstwaffen",
+                "abnahmen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Nach",
+                "Entdeckung",
+                "der",
+                "Flucht",
+                "leitete",
+                "die",
+                "Polizei",
+                "sofort",
+                "die",
+                "Fahndung",
+                "nach",
+                "den",
+                "beiden",
+                "ein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Ein",
+                "40-jähriger",
+                "Beamter",
+                "der",
+                "JVA-Anstalt",
+                "wurde",
+                "am",
+                "darauf",
+                "folgenden",
+                "Tag",
+                "festgenommen",
+                ",",
+                "er",
+                "soll",
+                "den",
+                "Ausbrechern",
+                "zur",
+                "Flucht",
+                "verholfen",
+                "haben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Michalski",
+                "und",
+                "Heckhoff",
+                "nahmen",
+                "am",
+                "Tag",
+                "Zwei",
+                "ihrer",
+                "Flucht",
+                "in",
+                "Köln",
+                "eine",
+                "Frau",
+                "als",
+                "Geisel",
+                ",",
+                "sie",
+                "fuhr",
+                "die",
+                "beiden",
+                "mit",
+                "ihrem",
+                "Wagen",
+                "nach",
+                "Essen-Kettwig",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Von",
+                "dort",
+                "aus",
+                "flüchteten",
+                "die",
+                "Schwerverbrecher",
+                "weiter",
+                "zu",
+                "Fuß",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Am",
+                "Morgen",
+                "des",
+                "28.",
+                "November",
+                "drangen",
+                "sie",
+                "in",
+                "ein",
+                "Haus",
+                "eines",
+                "Ehepaares",
+                "ein",
+                "und",
+                "verbrachten",
+                "dort",
+                "10",
+                "Stunden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Sie",
+                "duschten",
+                ",",
+                "aßen",
+                "und",
+                "schliefen",
+                ",",
+                "bevor",
+                "sie",
+                "das",
+                "Haus",
+                "ihrer",
+                "Geiseln",
+                "nach",
+                "Einbruch",
+                "der",
+                "Dunkelheit",
+                "wieder",
+                "verließen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Sie",
+                "ließen",
+                "sich",
+                "von",
+                "dem",
+                "Ehepaar",
+                "in",
+                "dessen",
+                "Wagen",
+                "nach",
+                "Mühlheim",
+                "an",
+                "der",
+                "Ruhr",
+                "fahren",
+                "und",
+                "ließen",
+                "danach",
+                "ihre",
+                "Geiseln",
+                "unverletzt",
+                "frei",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Nachdem",
+                "am",
+                "nächsten",
+                "Morgen",
+                "gegen",
+                "10.15",
+                "Uhr",
+                "der",
+                "Fluchtwagen",
+                "von",
+                "Passanten",
+                "entdeckt",
+                "wurde",
+                ",",
+                "wurde",
+                "Michael",
+                "Heckhoff",
+                "von",
+                "einem",
+                "Spezialeinsatzkommando",
+                "festgenommen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Michalski",
+                "war",
+                "danach",
+                "weiterhin",
+                "auf",
+                "der",
+                "Flucht",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Dem",
+                "Appell",
+                "der",
+                "Polizei",
+                ",",
+                "sich",
+                "zu",
+                "stellen",
+                ",",
+                "folgte",
+                "er",
+                "nicht",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Eine",
+                "„",
+                "ernstzunehmende",
+                "Spur",
+                "“",
+                "führte",
+                "die",
+                "Polizei",
+                "nach",
+                "Bielefeld",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Am",
+                "Tag",
+                "Sechs",
+                "seiner",
+                "Flucht",
+                ",",
+                "am",
+                "1.",
+                "Dezember",
+                "2009",
+                ",",
+                "wird",
+                "Michalski",
+                "um",
+                "9.50",
+                "Uhr",
+                "auf",
+                "einer",
+                "abgelegenen",
+                "Straße",
+                "gefasst",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Er",
+                "fuhr",
+                "auf",
+                "einem",
+                "Damenrad",
+                "Richtung",
+                "Schermbeck",
+                "im",
+                "Kreis",
+                "Wesel",
+                ",",
+                "als",
+                "mehrere",
+                "Wagen",
+                "der",
+                "Polizei",
+                "ihn",
+                "abfingen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "Michalski",
+                "wurde",
+                "per",
+                "Handyortung",
+                "gefunden",
+                ",",
+                "der",
+                "Zugriff",
+                "erfolgte",
+                "schnell",
+                "und",
+                "unblutig",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 16,
+            "Tokens": [
+                "Die",
+                "Ausbrecher",
+                "sitzen",
+                "nun",
+                "in",
+                "getrennten",
+                "Gefängnissen",
+                "."
+            ]
+        }
+    ]
+}

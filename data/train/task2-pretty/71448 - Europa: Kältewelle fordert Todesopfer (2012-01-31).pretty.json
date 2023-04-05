@@ -1,0 +1,258 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "10:13"
+            ],
+            "CueText": "sagte",
+            "Form": "Direct",
+            "Frame": [
+                "10:12",
+                "10:13",
+                "10:14",
+                "10:15",
+                "10:16",
+                "10:17",
+                "10:18"
+            ],
+            "FrameText": ", sagte die kroatische Meteorologin Zoran Vakula",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "10:0",
+                "10:1",
+                "10:2",
+                "10:3",
+                "10:4",
+                "10:5",
+                "10:6",
+                "10:7",
+                "10:8",
+                "10:9",
+                "10:10",
+                "10:11"
+            ],
+            "MessageText": "„ Wir bekommen ein bisschen ‚ echten ‘ Winter diese Woche “",
+            "STWR": "Speech",
+            "Source": [
+                "10:14",
+                "10:15",
+                "10:16",
+                "10:17",
+                "10:18"
+            ],
+            "SourceText": "die kroatische Meteorologin Zoran Vakula"
+        }
+    ],
+    "DocumentName": "71448 - Europa: Kältewelle fordert Todesopfer (2012-01-31)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Das",
+                "sibirische",
+                "Hoch",
+                "„",
+                "Cooper",
+                "“",
+                "beschert",
+                "Mittel-",
+                "und",
+                "Osteuropa",
+                "eine",
+                "extreme",
+                "Kältewelle",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Bislang",
+                "sind",
+                "mindestens",
+                "36",
+                "Todesopfer",
+                "zu",
+                "beklagen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Besonders",
+                "sind",
+                "betroffen",
+                "ältere",
+                "Menschen",
+                "und",
+                "Obdachlose",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Nachrichten",
+                "über",
+                "Erfrierungstote",
+                "kamen",
+                "aus",
+                "den",
+                "Ländern",
+                "Ukraine",
+                ",",
+                "Polen",
+                ",",
+                "Serbien",
+                ",",
+                "Bulgarien",
+                ",",
+                "der",
+                "Türkei",
+                "und",
+                "in",
+                "Rumänien",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Auch",
+                "in",
+                "Berlin",
+                "erfror",
+                "eine",
+                "Frau",
+                ",",
+                "nachdem",
+                "sie",
+                "in",
+                "einen",
+                "Wassergraben",
+                "gestürzt",
+                "war",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Bei",
+                "Temperaturen",
+                "bis",
+                "minus",
+                "25",
+                "Grad",
+                "mussten",
+                "zahlreiche",
+                "Personen",
+                "wegen",
+                "Erfrierungen",
+                "behandelt",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Die",
+                "Regierungen",
+                "ergriffen",
+                "Maßnahmen",
+                ",",
+                "um",
+                "den",
+                "Obdachlosen",
+                "Möglichkeiten",
+                "zum",
+                "Wärmen",
+                "zu",
+                "geben",
+                ".",
+                "Der",
+                "Verkehr",
+                "war",
+                "stark",
+                "behindert",
+                ",",
+                "so",
+                "wurde",
+                "der",
+                "Hafen",
+                "in",
+                "Varna",
+                "geschlossen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Straßen",
+                "und",
+                "Zugstrecken",
+                "wurden",
+                "gesperrt",
+                ",",
+                "Flugverbindungen",
+                "gestrichen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "In",
+                "Rumänien",
+                "wurden",
+                "Häftlinge",
+                "zum",
+                "Schneeschaufeln",
+                "geschickt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Die",
+                "Kältewelle",
+                "soll",
+                "noch",
+                "andauern",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "„",
+                "Wir",
+                "bekommen",
+                "ein",
+                "bisschen",
+                "‚",
+                "echten",
+                "‘",
+                "Winter",
+                "diese",
+                "Woche",
+                "“",
+                ",",
+                "sagte",
+                "die",
+                "kroatische",
+                "Meteorologin",
+                "Zoran",
+                "Vakula",
+                "."
+            ]
+        }
+    ]
+}

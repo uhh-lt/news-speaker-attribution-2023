@@ -1,0 +1,544 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:1"
+            ],
+            "CueText": "berichtet",
+            "Form": "Indirect",
+            "Frame": [
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8"
+            ],
+            "FrameText": "berichtet das Washingtoner SITE-Institut , das Extremisten-Websites begutachtet",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4",
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8",
+                "0:9",
+                "0:10",
+                "0:11",
+                "0:12",
+                "0:13",
+                "0:14",
+                "0:15",
+                "0:16",
+                "0:17",
+                "0:18",
+                "0:19",
+                "0:20",
+                "0:21",
+                "0:22",
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8",
+                "1:9",
+                "1:10",
+                "1:11",
+                "1:12",
+                "1:13",
+                "1:14",
+                "1:15",
+                "1:16",
+                "1:17",
+                "1:18",
+                "1:19",
+                "1:20",
+                "1:21",
+                "1:22",
+                "1:23",
+                "2:0"
+            ],
+            "MessageText": "Falls das neue Tonband , das Al-Qaida-Vizechef Aiman az-Zawahiri zugeschrieben wird , echt ist , hat dieser neue Terroranschläge auf Großbritannien angedroht . Das Tonband trägt den Titel „ Bösartiges Britannien und seine indischen Sklaven “ und wurde von As-Sahab , der Medienorganisation Al-Qaidas , entwickelt . Dies",
+            "STWR": "SW",
+            "Source": [
+                "2:2",
+                "2:3",
+                "2:4"
+            ],
+            "SourceText": "das Washingtoner SITE-Institut"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "5:6"
+            ],
+            "CueText": "laut",
+            "Form": "Indirect",
+            "Frame": [
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "5:14"
+            ],
+            "FrameText": "laut der Tonbandstimme , die al-Sawahiri gehören soll ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:15",
+                "5:16",
+                "5:17",
+                "5:18",
+                "5:19",
+                "5:20",
+                "5:21",
+                "5:22",
+                "5:23",
+                "5:24",
+                "5:25",
+                "5:26",
+                "5:27",
+                "5:28",
+                "5:29",
+                "5:30",
+                "5:31",
+                "5:32",
+                "5:33"
+            ],
+            "MessageText": "Die Strategie im Nahen Osten hat Tragik und Niederlage nicht nur in Afghanistan und Irak , sondern auch im Zentrum der englischen Hauptstadt London gebracht",
+            "STWR": "Speech",
+            "Source": [
+                "5:7",
+                "5:8"
+            ],
+            "SourceText": "der Tonbandstimme"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:4",
+                "6:5",
+                "6:6",
+                "6:7",
+                "6:8",
+                "6:9"
+            ],
+            "MessageText": "Anlass für die Anschläge sei die Ehrung Salman Rushdies .",
+            "STWR": "Speech",
+            "Source": [
+                "7:9",
+                "7:10"
+            ],
+            "SourceText": "die Tonbandstimme"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "7:8"
+            ],
+            "CueText": "so",
+            "Form": "Indirect",
+            "Frame": [
+                "7:7",
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11"
+            ],
+            "FrameText": ", so die Tonbandstimme .",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6"
+            ],
+            "MessageText": "Die islamische Welt sei dadurch herausgefordert worden",
+            "STWR": "Speech",
+            "Source": [
+                "7:9",
+                "7:10"
+            ],
+            "SourceText": "die Tonbandstimme"
+        },
+        {
+            "Addr": [
+                "9:2",
+                "9:3"
+            ],
+            "AddrText": "die Muslime",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3",
+                "9:4",
+                "9:5",
+                "9:6",
+                "9:7",
+                "9:8",
+                "9:9",
+                "9:10",
+                "9:11",
+                "9:12",
+                "9:13"
+            ],
+            "MessageText": "Er rief die Muslime zum „ Heiligen Krieg “ gegen den Westen auf .",
+            "STWR": "Speech",
+            "Source": [
+                "9:0"
+            ],
+            "SourceText": "Er"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "11:16"
+            ],
+            "CueText": "so",
+            "Form": "Indirect",
+            "Frame": [
+                "11:15",
+                "11:16",
+                "11:17",
+                "11:18"
+            ],
+            "FrameText": ", so die Tonbandstimme",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "11:0",
+                "11:1",
+                "11:2",
+                "11:3",
+                "11:4",
+                "11:5",
+                "11:6",
+                "11:7",
+                "11:8",
+                "11:9",
+                "11:10",
+                "11:11",
+                "11:12",
+                "11:13",
+                "11:14"
+            ],
+            "MessageText": "Die Muslime sollten sich ihm nicht bei Wahlen entgegenstellen , sondern durch Unterstützung der Taliban",
+            "STWR": "Speech",
+            "Source": [
+                "11:17",
+                "11:18"
+            ],
+            "SourceText": "die Tonbandstimme"
+        }
+    ],
+    "DocumentName": "42688 - Al Qaida droht Vergeltungsschläge für Rushdie-Ehrung an (2007-07-11)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Falls",
+                "das",
+                "neue",
+                "Tonband",
+                ",",
+                "das",
+                "Al-Qaida-Vizechef",
+                "Aiman",
+                "az-Zawahiri",
+                "zugeschrieben",
+                "wird",
+                ",",
+                "echt",
+                "ist",
+                ",",
+                "hat",
+                "dieser",
+                "neue",
+                "Terroranschläge",
+                "auf",
+                "Großbritannien",
+                "angedroht",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Das",
+                "Tonband",
+                "trägt",
+                "den",
+                "Titel",
+                "„",
+                "Bösartiges",
+                "Britannien",
+                "und",
+                "seine",
+                "indischen",
+                "Sklaven",
+                "“",
+                "und",
+                "wurde",
+                "von",
+                "As-Sahab",
+                ",",
+                "der",
+                "Medienorganisation",
+                "Al-Qaidas",
+                ",",
+                "entwickelt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Dies",
+                "berichtet",
+                "das",
+                "Washingtoner",
+                "SITE-Institut",
+                ",",
+                "das",
+                "Extremisten-Websites",
+                "begutachtet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Das",
+                "Datum",
+                "der",
+                "Aufnahme",
+                "ist",
+                "unklar",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Ob",
+                "ein",
+                "Bezug",
+                "zu",
+                "den",
+                "Anschlagsversuchen",
+                "in",
+                "London",
+                "und",
+                "Glasgow",
+                "oder",
+                "der",
+                "Besetzung",
+                "der",
+                "Roten",
+                "Moschee",
+                "besteht",
+                ",",
+                "ist",
+                "ebenfalls",
+                "nicht",
+                "bekannt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Die",
+                "Strategie",
+                "im",
+                "Nahen",
+                "Osten",
+                "hat",
+                "laut",
+                "der",
+                "Tonbandstimme",
+                ",",
+                "die",
+                "al-Sawahiri",
+                "gehören",
+                "soll",
+                ",",
+                "Tragik",
+                "und",
+                "Niederlage",
+                "nicht",
+                "nur",
+                "in",
+                "Afghanistan",
+                "und",
+                "Irak",
+                ",",
+                "sondern",
+                "auch",
+                "im",
+                "Zentrum",
+                "der",
+                "englischen",
+                "Hauptstadt",
+                "London",
+                "gebracht",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Anlass",
+                "für",
+                "die",
+                "Anschläge",
+                "sei",
+                "die",
+                "Ehrung",
+                "Salman",
+                "Rushdies",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Die",
+                "islamische",
+                "Welt",
+                "sei",
+                "dadurch",
+                "herausgefordert",
+                "worden",
+                ",",
+                "so",
+                "die",
+                "Tonbandstimme",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Auch",
+                "die",
+                "Haltung",
+                "der",
+                "Hamas",
+                "wurde",
+                "vom",
+                "Sprecher",
+                "kritisiert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Er",
+                "rief",
+                "die",
+                "Muslime",
+                "zum",
+                "„",
+                "Heiligen",
+                "Krieg",
+                "“",
+                "gegen",
+                "den",
+                "Westen",
+                "auf",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Der",
+                "pakistanische",
+                "Präsident",
+                "Pervez",
+                "Musharraf",
+                "erhielt",
+                "weitere",
+                "Kritik",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Die",
+                "Muslime",
+                "sollten",
+                "sich",
+                "ihm",
+                "nicht",
+                "bei",
+                "Wahlen",
+                "entgegenstellen",
+                ",",
+                "sondern",
+                "durch",
+                "Unterstützung",
+                "der",
+                "Taliban",
+                ",",
+                "so",
+                "die",
+                "Tonbandstimme",
+                "."
+            ]
+        }
+    ]
+}

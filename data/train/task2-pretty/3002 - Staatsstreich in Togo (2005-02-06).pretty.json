@@ -1,0 +1,494 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:13",
+                "1:14"
+            ],
+            "CueText": "nannte dies",
+            "Form": "Direct",
+            "Frame": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8",
+                "1:9",
+                "1:10",
+                "1:11",
+                "1:12",
+                "1:13",
+                "1:14",
+                "1:15"
+            ],
+            "FrameText": "Der Kommissionspräsident der Afrikanischen Union ( AU ) , Alpha Omar Konaré , nannte dies einen",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:16",
+                "1:17",
+                "1:18"
+            ],
+            "MessageText": "„ Militärputsch “",
+            "STWR": "Speech",
+            "Source": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8",
+                "1:9",
+                "1:10",
+                "1:11"
+            ],
+            "SourceText": "Der Kommissionspräsident der Afrikanischen Union ( AU ) , Alpha Omar Konaré"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9",
+                "2:10",
+                "2:11",
+                "2:12",
+                "2:13",
+                "2:14",
+                "2:15",
+                "2:16",
+                "2:17",
+                "2:18"
+            ],
+            "MessageText": "Zudem regte ein Sprecher der Afrikanischen Union die Einberufung einer westafrikanischen Gipfelkonferenz zu den Vorfällen in Togo an .",
+            "STWR": "Speech",
+            "Source": [
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6"
+            ],
+            "SourceText": "ein Sprecher der Afrikanischen Union"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:3"
+            ],
+            "CueText": "erklärte",
+            "Form": "Indirect",
+            "Frame": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5"
+            ],
+            "FrameText": "Generalstabschef Zakari Nandja erklärte hingegen ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10",
+                "3:11"
+            ],
+            "MessageText": "damit solle ein Machtvakuum vermieden werden",
+            "STWR": "Speech",
+            "Source": [
+                "3:0",
+                "3:1",
+                "3:2"
+            ],
+            "SourceText": "Generalstabschef Zakari Nandja"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:10",
+                "4:15"
+            ],
+            "CueText": "kündigte an",
+            "Form": "Indirect",
+            "Frame": [
+                "4:9",
+                "4:10",
+                "4:11",
+                "4:12",
+                "4:13",
+                "4:14",
+                "4:15"
+            ],
+            "FrameText": ", kündigte die Regierung in Lomé an",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8"
+            ],
+            "MessageText": "Die Grenzen des Landes werden bis auf weiteres geschlossen",
+            "STWR": "Speech",
+            "Source": [
+                "4:11",
+                "4:12",
+                "4:13",
+                "4:14"
+            ],
+            "SourceText": "die Regierung in Lomé"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "5:6"
+            ],
+            "CueText": "laut",
+            "Form": "Indirect",
+            "Frame": [
+                "5:6",
+                "5:7"
+            ],
+            "FrameText": "laut Verfassung",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13"
+            ],
+            "MessageText": "Nach dem Tod des Staatschefs müsste der Parlamentspräsident übergangsweise das Präsidentenamt übernehmen",
+            "STWR": "Writing",
+            "Source": [
+                "5:7"
+            ],
+            "SourceText": "Verfassung"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "12:0",
+                "12:1",
+                "12:2",
+                "12:3",
+                "12:4",
+                "12:5",
+                "12:6",
+                "12:7",
+                "12:8",
+                "12:9"
+            ],
+            "MessageText": "Als Todesursache des 67-jährigen Politikers wurde ein Herzinfarkt angegeben .",
+            "STWR": "SW",
+            "Source": [],
+            "SourceText": ""
+        }
+    ],
+    "DocumentName": "3002 - Staatsstreich in Togo (2005-02-06)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Nach",
+                "dem",
+                "Tod",
+                "des",
+                "togolesischen",
+                "Staatspräsidenten",
+                "Gnassingbé",
+                "Eyadéma",
+                "hat",
+                "die",
+                "Armee",
+                "am",
+                "6.",
+                "Februar",
+                "2005",
+                "Eyadémas",
+                "Sohn",
+                "Faure",
+                "Gnassingbé",
+                ",",
+                "den",
+                "bisherigen",
+                "Minister",
+                "für",
+                "Bergbau",
+                "und",
+                "Telekommunikation",
+                ",",
+                "zu",
+                "dessen",
+                "Nachfolger",
+                "ernannt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Der",
+                "Kommissionspräsident",
+                "der",
+                "Afrikanischen",
+                "Union",
+                "(",
+                "AU",
+                ")",
+                ",",
+                "Alpha",
+                "Omar",
+                "Konaré",
+                ",",
+                "nannte",
+                "dies",
+                "einen",
+                "„",
+                "Militärputsch",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Zudem",
+                "regte",
+                "ein",
+                "Sprecher",
+                "der",
+                "Afrikanischen",
+                "Union",
+                "die",
+                "Einberufung",
+                "einer",
+                "westafrikanischen",
+                "Gipfelkonferenz",
+                "zu",
+                "den",
+                "Vorfällen",
+                "in",
+                "Togo",
+                "an",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Generalstabschef",
+                "Zakari",
+                "Nandja",
+                "erklärte",
+                "hingegen",
+                ",",
+                "damit",
+                "solle",
+                "ein",
+                "Machtvakuum",
+                "vermieden",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Die",
+                "Grenzen",
+                "des",
+                "Landes",
+                "werden",
+                "bis",
+                "auf",
+                "weiteres",
+                "geschlossen",
+                ",",
+                "kündigte",
+                "die",
+                "Regierung",
+                "in",
+                "Lomé",
+                "an",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Nach",
+                "dem",
+                "Tod",
+                "des",
+                "Staatschefs",
+                "müsste",
+                "laut",
+                "Verfassung",
+                "der",
+                "Parlamentspräsident",
+                "übergangsweise",
+                "das",
+                "Präsidentenamt",
+                "übernehmen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Binnen",
+                "60",
+                "Tagen",
+                "müssen",
+                "danach",
+                "Präsidentschaftswahlen",
+                "organisiert",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Der",
+                "Parlamentspräsident",
+                "befand",
+                "sich",
+                "zum",
+                "Todeszeitpunkt",
+                "des",
+                "Präsidenten",
+                "nicht",
+                "in",
+                "Togo",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Weil",
+                "die",
+                "Grenzen",
+                "des",
+                "Landes",
+                "geschlossen",
+                "waren",
+                ",",
+                "musste",
+                "er",
+                "auf",
+                "dem",
+                "Rückflug",
+                "nach",
+                "Togo",
+                "in",
+                "Benin",
+                "zwischenlanden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Eyadéma"
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "war",
+                "der",
+                "dienstälteste",
+                "Staatsführer",
+                "Afrikas",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Er",
+                "war",
+                "1967",
+                "selbst",
+                "durch",
+                "einen",
+                "Putsch",
+                "an",
+                "die",
+                "Macht",
+                "gekommen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Als",
+                "Todesursache",
+                "des",
+                "67-jährigen",
+                "Politikers",
+                "wurde",
+                "ein",
+                "Herzinfarkt",
+                "angegeben",
+                "."
+            ]
+        }
+    ]
+}

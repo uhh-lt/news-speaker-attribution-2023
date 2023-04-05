@@ -1,0 +1,367 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "5:1",
+                "5:2",
+                "5:3"
+            ],
+            "CueText": "gab dazu bekannt",
+            "Form": "Direct",
+            "Frame": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4"
+            ],
+            "FrameText": "EBay-Deutschland gab dazu bekannt :",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "5:14",
+                "5:15",
+                "5:16",
+                "5:17",
+                "5:18",
+                "5:19",
+                "5:20",
+                "5:21",
+                "5:22",
+                "5:23"
+            ],
+            "MessageText": "„ Das ist der meistangeschaute Artikel , den wir bisher bei eBay Deutschland und insgesamt in Europa hatten “",
+            "STWR": "SW",
+            "Source": [
+                "5:0"
+            ],
+            "SourceText": "EBay-Deutschland"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "8:1",
+                "8:2",
+                "8:3",
+                "8:4"
+            ],
+            "CueText": "hält es für möglich",
+            "Form": "Indirect",
+            "Frame": [
+                "8:0",
+                "8:1",
+                "8:2",
+                "8:3",
+                "8:4",
+                "8:5"
+            ],
+            "FrameText": "eBay hält es für möglich ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "8:6",
+                "8:7",
+                "8:8",
+                "8:9",
+                "8:10",
+                "8:11",
+                "8:12",
+                "8:13"
+            ],
+            "MessageText": "dass das Papa-Mobil den Rekord heute noch bricht",
+            "STWR": "ST",
+            "Source": [
+                "8:0"
+            ],
+            "SourceText": "eBay"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "9:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "9:0",
+                "9:1",
+                "9:2"
+            ],
+            "FrameText": "Nach bisherigen Erfahrungen",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "9:3",
+                "9:4",
+                "9:5",
+                "9:6",
+                "9:7",
+                "9:8",
+                "9:9",
+                "9:10",
+                "9:11",
+                "9:12",
+                "9:13",
+                "9:14",
+                "9:15",
+                "9:16",
+                "9:17"
+            ],
+            "MessageText": "geht die Anzahl der Klicks kurz vor Ende einer Auktion noch einmal sprunghaft nach oben",
+            "STWR": "ST",
+            "Source": [
+                "9:1",
+                "9:2"
+            ],
+            "SourceText": "bisherigen Erfahrungen"
+        }
+    ],
+    "DocumentName": "5178 - Der Papst-Golf schlägt alle Rekorde (2005-05-05)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Der",
+                "ehemalige",
+                "VW",
+                "Golf",
+                "von",
+                "Joseph",
+                "Kardinal",
+                "Ratzinger",
+                ",",
+                "dem",
+                "jetztigen",
+                "Papst",
+                "Benedikt",
+                "XVI",
+                ".",
+                ",",
+                "schlägt",
+                "alle",
+                "Rekorde",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Das",
+                "Fahrzeug",
+                "steht",
+                "seit",
+                "einer",
+                "Woche",
+                "bei",
+                "eBay",
+                "zum",
+                "Verkauf",
+                "an",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Noch",
+                "nie",
+                "war",
+                "das",
+                "Interesse",
+                "an",
+                "einem",
+                "eBay-Artikel",
+                "so",
+                "groß",
+                "wie",
+                "bei",
+                "diesem",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Bisher",
+                "haben",
+                "sich",
+                "über",
+                "5,2",
+                "Millionen",
+                "Internetnutzer",
+                "über",
+                "das",
+                "Angebot",
+                "auf",
+                "der",
+                "eBay-Seite",
+                "informiert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Täglich",
+                "haben",
+                "etwa",
+                "eine",
+                "Million",
+                "User",
+                "die",
+                "Seite",
+                "aufgerufen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "EBay-Deutschland",
+                "gab",
+                "dazu",
+                "bekannt",
+                ":",
+                "„",
+                "Das",
+                "ist",
+                "der",
+                "meistangeschaute",
+                "Artikel",
+                ",",
+                "den",
+                "wir",
+                "bisher",
+                "bei",
+                "eBay",
+                "Deutschland",
+                "und",
+                "insgesamt",
+                "in",
+                "Europa",
+                "hatten",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Bisher",
+                "steht",
+                "der",
+                "Rekord",
+                "an",
+                "Klicks",
+                "auf",
+                "eine",
+                "eBay-Seite",
+                "bei",
+                "neun",
+                "Millionen",
+                "Klicks",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Damals",
+                "stand",
+                "ein",
+                "Brautkleid",
+                "im",
+                "Angebot",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "eBay",
+                "hält",
+                "es",
+                "für",
+                "möglich",
+                ",",
+                "dass",
+                "das",
+                "Papa-Mobil",
+                "den",
+                "Rekord",
+                "heute",
+                "noch",
+                "bricht",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Nach",
+                "bisherigen",
+                "Erfahrungen",
+                "geht",
+                "die",
+                "Anzahl",
+                "der",
+                "Klicks",
+                "kurz",
+                "vor",
+                "Ende",
+                "einer",
+                "Auktion",
+                "noch",
+                "einmal",
+                "sprunghaft",
+                "nach",
+                "oben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Das",
+                "Gebot",
+                "für",
+                "den",
+                "Golf",
+                "lag",
+                "gestern",
+                "Nachmittag",
+                "bei",
+                "etwas",
+                "über",
+                "63.000",
+                "Euro",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Das",
+                "ist",
+                "das",
+                "Sechsfache",
+                "des",
+                "Mindestpreises",
+                "."
+            ]
+        }
+    ]
+}

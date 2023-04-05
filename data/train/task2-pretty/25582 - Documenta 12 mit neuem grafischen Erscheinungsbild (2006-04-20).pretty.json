@@ -1,0 +1,393 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "5:3",
+                "5:4"
+            ],
+            "CueText": "heißt es",
+            "Form": "Direct",
+            "Frame": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "5:14",
+                "5:15",
+                "5:16"
+            ],
+            "FrameText": "Auf der documenta-Homepage heißt es zur Begründung , warum man sich für dieses Bild entschieden hat :",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:4",
+                "6:5",
+                "6:6",
+                "6:7",
+                "6:8",
+                "6:9",
+                "6:10",
+                "6:11",
+                "6:12",
+                "6:13",
+                "6:14",
+                "6:15",
+                "6:16"
+            ],
+            "MessageText": "„ Die Zählstriche wurden aufgrund ihrer archaischen und stark bildhaften Darstellung der Zahl zwölf gewählt . “",
+            "STWR": "Writing",
+            "Source": [
+                "5:0",
+                "5:1",
+                "5:2"
+            ],
+            "SourceText": "Auf der documenta-Homepage"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "12:5"
+            ],
+            "CueText": "nach",
+            "Form": "Direct",
+            "Frame": [
+                "12:0",
+                "12:1",
+                "12:2",
+                "12:3",
+                "12:4",
+                "12:5",
+                "12:6",
+                "12:7",
+                "12:8",
+                "12:9"
+            ],
+            "FrameText": "Die Schwerpunktthemen der Ausstellung sind nach Angaben des künstlerischen Leiters",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "12:10",
+                "12:11",
+                "12:12",
+                "12:13",
+                "12:14",
+                "12:15",
+                "12:16",
+                "12:17",
+                "12:18",
+                "12:19",
+                "12:20",
+                "12:21",
+                "12:22"
+            ],
+            "MessageText": "„ die Moderne , die menschliche Existenz und die Frage der Bildung “",
+            "STWR": "SW",
+            "Source": [
+                "12:6",
+                "12:7",
+                "12:8",
+                "12:9"
+            ],
+            "SourceText": "Angaben des künstlerischen Leiters"
+        }
+    ],
+    "DocumentName": "25582 - Documenta 12 mit neuem grafischen Erscheinungsbild (2006-04-20)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Die",
+                "„",
+                "documenta",
+                "“",
+                "in",
+                "Kassel",
+                "ist",
+                "die",
+                "bedeutendste",
+                "Ausstellung",
+                "für",
+                "zeitgenössische",
+                "Kunst",
+                "weltweit",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Sie",
+                "findet",
+                "alle",
+                "fünf",
+                "Jahre",
+                "100",
+                "Tage",
+                "lang",
+                "in",
+                "Kassel",
+                "statt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Im",
+                "Jahr",
+                "2007",
+                "ist",
+                "es",
+                "wieder",
+                "soweit",
+                ":"
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Dann",
+                "nennt",
+                "sie",
+                "sich",
+                "„",
+                "documenta",
+                "12",
+                "“",
+                "und",
+                "findet",
+                "vom",
+                "16.",
+                "Juni",
+                "bis",
+                "zum",
+                "23.",
+                "September",
+                "statt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Es",
+                "soll",
+                "ein",
+                "neues",
+                "grafisches",
+                "Erscheinungsbild",
+                "geben",
+                ",",
+                "das",
+                "von",
+                "der",
+                "Grafikerin",
+                "Martha",
+                "Stutteregger",
+                "entwickelt",
+                "wurde",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Auf",
+                "der",
+                "documenta-Homepage",
+                "heißt",
+                "es",
+                "zur",
+                "Begründung",
+                ",",
+                "warum",
+                "man",
+                "sich",
+                "für",
+                "dieses",
+                "Bild",
+                "entschieden",
+                "hat",
+                ":"
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "„",
+                "Die",
+                "Zählstriche",
+                "wurden",
+                "aufgrund",
+                "ihrer",
+                "archaischen",
+                "und",
+                "stark",
+                "bildhaften",
+                "Darstellung",
+                "der",
+                "Zahl",
+                "zwölf",
+                "gewählt",
+                ".",
+                "“"
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Auch",
+                "die",
+                "ersten",
+                "Namen",
+                "der",
+                "beteiligten",
+                "Künstler",
+                "wurden",
+                "nun",
+                "bekanntgegeben",
+                ":"
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Mit",
+                "dabei",
+                "sind",
+                "der",
+                "Koch",
+                "Ferran",
+                "Adriá",
+                "aus",
+                "Spanien",
+                "und",
+                "der",
+                "in",
+                "Polen",
+                "lebende",
+                "Künstler",
+                "Artur",
+                "Źmijewski"
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Künstlerischer",
+                "Leiter",
+                "wird",
+                "2007",
+                "Roger",
+                "M.",
+                "Buergel",
+                "sein",
+                ",",
+                "der",
+                "am",
+                "2.",
+                "Dezember",
+                "2003",
+                "vom",
+                "Aufsichtsrat",
+                "der",
+                "„",
+                "documenta",
+                "und",
+                "Museum",
+                "Fridericianum",
+                "Veranstaltungsgesellschaft",
+                "“",
+                "gewählt",
+                "wurde",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Eine",
+                "Auswahlkommission",
+                "bestehend",
+                "aus",
+                "Susanne",
+                "Ghez",
+                ",",
+                "Gavin",
+                "Jantjes",
+                ",",
+                "Ulrike",
+                "Groos",
+                ",",
+                "Shinji",
+                "Kohmoto",
+                ",",
+                "René",
+                "Block",
+                ",",
+                "Anda",
+                "Rottenberg",
+                "und",
+                "Manuel",
+                "J.",
+                "Borja-Villel",
+                "hatte",
+                "ihn",
+                "empfohlen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Die",
+                "Schwerpunktthemen",
+                "der",
+                "Ausstellung",
+                "sind",
+                "nach",
+                "Angaben",
+                "des",
+                "künstlerischen",
+                "Leiters",
+                "„",
+                "die",
+                "Moderne",
+                ",",
+                "die",
+                "menschliche",
+                "Existenz",
+                "und",
+                "die",
+                "Frage",
+                "der",
+                "Bildung",
+                "“",
+                "."
+            ]
+        }
+    ]
+}

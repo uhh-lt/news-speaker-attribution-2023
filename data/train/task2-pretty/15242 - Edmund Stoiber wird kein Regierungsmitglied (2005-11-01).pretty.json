@@ -1,0 +1,416 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:1"
+            ],
+            "CueText": "bestätigte",
+            "Form": "Indirect",
+            "Frame": [
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6"
+            ],
+            "FrameText": "bestätigte Stoiber heute selbst in München",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4",
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8",
+                "0:9",
+                "0:10",
+                "0:11",
+                "0:12",
+                "0:13",
+                "0:14",
+                "0:15",
+                "1:0"
+            ],
+            "MessageText": "Der bayerische Ministerpräsident Edmund Stoiber ( CSU ) wird definitiv nicht der neuen Bundesregierung angehören . Dies",
+            "STWR": "Speech",
+            "Source": [
+                "1:2"
+            ],
+            "SourceText": "Stoiber"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:1",
+                "3:4"
+            ],
+            "CueText": "begründete mit",
+            "Form": "Indirect",
+            "Frame": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4"
+            ],
+            "FrameText": "Stoiber begründete seinen Rückzug mit",
+            "HasNested": true,
+            "IsNested": false,
+            "Message": [
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10",
+                "3:11",
+                "3:12",
+                "3:13",
+                "3:14",
+                "3:15",
+                "3:16"
+            ],
+            "MessageText": "einer „ veränderten Lage “ nach dem Abgang von SPD-Parteichef Franz Müntefering",
+            "STWR": "Speech",
+            "Source": [
+                "3:0"
+            ],
+            "SourceText": "Stoiber"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:1",
+                "3:4"
+            ],
+            "CueText": "begründete mit",
+            "Form": "Direct",
+            "Frame": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4"
+            ],
+            "FrameText": "Stoiber begründete seinen Rückzug mit",
+            "HasNested": false,
+            "IsNested": true,
+            "Message": [
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9"
+            ],
+            "MessageText": "„ veränderten Lage “",
+            "STWR": "Speech",
+            "Source": [
+                "3:0"
+            ],
+            "SourceText": "Stoiber"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": true,
+            "IsNested": false,
+            "Message": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10",
+                "4:11",
+                "4:12",
+                "4:13",
+                "4:14",
+                "4:15",
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "5:14",
+                "5:15",
+                "5:16",
+                "5:17",
+                "5:18",
+                "5:19",
+                "5:20",
+                "5:21",
+                "5:22",
+                "5:23",
+                "5:24",
+                "5:25"
+            ],
+            "MessageText": "Damit seien „ der Kurs und die Berechenbarkeit der SPD nicht mehr so klar “ . Auch habe sich durch die „ veränderte Statik “ innerhalb der großen Koalition die Grundlage für seine Bereitschaft zum Eintritt in die neue Bundesregierung geändert .",
+            "STWR": "Speech",
+            "Source": [
+                "3:0"
+            ],
+            "SourceText": "Stoiber"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:1",
+                "3:4"
+            ],
+            "CueText": "begründete mit",
+            "Form": "Direct",
+            "Frame": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4"
+            ],
+            "FrameText": "Stoiber begründete seinen Rückzug mit",
+            "HasNested": false,
+            "IsNested": true,
+            "Message": [
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10",
+                "4:11",
+                "4:12",
+                "4:13",
+                "4:14"
+            ],
+            "MessageText": "„ der Kurs und die Berechenbarkeit der SPD nicht mehr so klar “",
+            "STWR": "Speech",
+            "Source": [
+                "3:0"
+            ],
+            "SourceText": "Stoiber"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:1",
+                "3:4"
+            ],
+            "CueText": "begründete mit",
+            "Form": "Direct",
+            "Frame": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4"
+            ],
+            "FrameText": "Stoiber begründete seinen Rückzug mit",
+            "HasNested": false,
+            "IsNested": true,
+            "Message": [
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8"
+            ],
+            "MessageText": "„ veränderte Statik “",
+            "STWR": "Speech",
+            "Source": [
+                "3:0"
+            ],
+            "SourceText": "Stoiber"
+        }
+    ],
+    "DocumentName": "15242 - Edmund Stoiber wird kein Regierungsmitglied (2005-11-01)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Der",
+                "bayerische",
+                "Ministerpräsident",
+                "Edmund",
+                "Stoiber",
+                "(",
+                "CSU",
+                ")",
+                "wird",
+                "definitiv",
+                "nicht",
+                "der",
+                "neuen",
+                "Bundesregierung",
+                "angehören",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Dies",
+                "bestätigte",
+                "Stoiber",
+                "heute",
+                "selbst",
+                "in",
+                "München",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Zuvor",
+                "war",
+                "bereits",
+                "in",
+                "diversen",
+                "Medien",
+                "von",
+                "dieser",
+                "Entscheidung",
+                "berichtet",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Stoiber",
+                "begründete",
+                "seinen",
+                "Rückzug",
+                "mit",
+                "einer",
+                "„",
+                "veränderten",
+                "Lage",
+                "“",
+                "nach",
+                "dem",
+                "Abgang",
+                "von",
+                "SPD-Parteichef",
+                "Franz",
+                "Müntefering",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Damit",
+                "seien",
+                "„",
+                "der",
+                "Kurs",
+                "und",
+                "die",
+                "Berechenbarkeit",
+                "der",
+                "SPD",
+                "nicht",
+                "mehr",
+                "so",
+                "klar",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Auch",
+                "habe",
+                "sich",
+                "durch",
+                "die",
+                "„",
+                "veränderte",
+                "Statik",
+                "“",
+                "innerhalb",
+                "der",
+                "großen",
+                "Koalition",
+                "die",
+                "Grundlage",
+                "für",
+                "seine",
+                "Bereitschaft",
+                "zum",
+                "Eintritt",
+                "in",
+                "die",
+                "neue",
+                "Bundesregierung",
+                "geändert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Durch",
+                "den",
+                "Rückzug",
+                "Stoibers",
+                "ist",
+                "auch",
+                "das",
+                "zukünftige",
+                "Amt",
+                "im",
+                "Wirtschaftsministerium",
+                "neu",
+                "zu",
+                "besetzten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Als",
+                "Favorit",
+                "wird",
+                "Michael",
+                "Glos",
+                "genannt",
+                "."
+            ]
+        }
+    ]
+}

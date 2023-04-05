@@ -1,0 +1,577 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:1"
+            ],
+            "CueText": "zufolge",
+            "Form": "Indirect",
+            "Frame": [
+                "3:0",
+                "3:1"
+            ],
+            "FrameText": "Augenzeugenberichten zufolge",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9"
+            ],
+            "MessageText": "liefen Menschen ins Freie , erschienen jedoch gefasst",
+            "STWR": "Speech",
+            "Source": [
+                "3:0"
+            ],
+            "SourceText": "Augenzeugenberichten"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:4",
+                "6:5",
+                "6:6",
+                "6:7",
+                "6:8",
+                "6:9",
+                "6:10"
+            ],
+            "MessageText": "Auch seien dort und auf dem Peloponnes Gebäude beschädigt worden .",
+            "STWR": "Writing",
+            "Source": [
+                "7:0",
+                "7:1"
+            ],
+            "SourceText": "Spiegel Online"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7",
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11"
+            ],
+            "MessageText": "Spiegel Online berichtet vom Einsturz von zehn Häusern und einer Kirche .",
+            "STWR": "Writing",
+            "Source": [
+                "7:0",
+                "7:1"
+            ],
+            "SourceText": "Spiegel Online"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "8:0",
+                "8:1",
+                "8:2",
+                "8:3",
+                "8:4",
+                "8:5",
+                "8:6",
+                "8:7",
+                "8:8",
+                "8:9",
+                "8:10",
+                "8:11"
+            ],
+            "MessageText": "Bis um 14:00 Uhr MEZ hätte es vier größere Nachbeben gegeben .",
+            "STWR": "Writing",
+            "Source": [
+                "7:0",
+                "7:1"
+            ],
+            "SourceText": "Spiegel Online"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "9:6"
+            ],
+            "CueText": "zufolge",
+            "Form": "Indirect",
+            "Frame": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3",
+                "9:4",
+                "9:5",
+                "9:6"
+            ],
+            "FrameText": "Angaben des seismologischen Instituts von Athen zufolge",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "9:7",
+                "9:8",
+                "9:9",
+                "9:10",
+                "9:11",
+                "9:12",
+                "9:13",
+                "9:14",
+                "9:15",
+                "9:16",
+                "9:17",
+                "9:18",
+                "9:19",
+                "9:20",
+                "9:21",
+                "9:22",
+                "9:23",
+                "9:24",
+                "9:25",
+                "9:26",
+                "9:27"
+            ],
+            "MessageText": "lag das Epizentrum 92 Kilometer nordwestlich der kretischen Hafenstadt Chania , nahe der Insel Kythira , 215 Kilometer südlich von Athen",
+            "STWR": "SW",
+            "Source": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3",
+                "9:4",
+                "9:5"
+            ],
+            "SourceText": "Angaben des seismologischen Instituts von Athen"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "12:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "12:0",
+                "12:1",
+                "12:2",
+                "12:3",
+                "12:4",
+                "12:5",
+                "12:6",
+                "12:7",
+                "12:8",
+                "12:9"
+            ],
+            "FrameText": "Nach Angaben des United States Geological Survey ( USGS )",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "12:10",
+                "12:11",
+                "12:12",
+                "12:13",
+                "12:14",
+                "12:15",
+                "12:16",
+                "12:17",
+                "12:18",
+                "12:19"
+            ],
+            "MessageText": "fand das Beben in einer Tiefe von 37,7 Kilometer statt",
+            "STWR": "SW",
+            "Source": [
+                "12:1",
+                "12:2",
+                "12:3",
+                "12:4",
+                "12:5",
+                "12:6",
+                "12:7",
+                "12:8",
+                "12:9"
+            ],
+            "SourceText": "Angaben des United States Geological Survey ( USGS )"
+        }
+    ],
+    "DocumentName": "19569 - Erdbeben erschütterte Griechenland (2006-01-08)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Heute",
+                "um",
+                "11:34",
+                "Uhr",
+                "UTC",
+                "erschütterte",
+                "ein",
+                "Erdbeben",
+                "Griechenland",
+                "zwanzig",
+                "Sekunden",
+                "lang",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Die",
+                "Hauptstadt",
+                "Athen",
+                "war",
+                "stark",
+                "betroffen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Häuser",
+                "gerieten",
+                "ins",
+                "Schwanken",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Augenzeugenberichten",
+                "zufolge",
+                "liefen",
+                "Menschen",
+                "ins",
+                "Freie",
+                ",",
+                "erschienen",
+                "jedoch",
+                "gefasst",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Auf",
+                "dem",
+                "Flughafen",
+                "von",
+                "Kythira",
+                "entstanden",
+                "leichte",
+                "Sachschäden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Auf",
+                "Kreta",
+                "wurden",
+                "zwei",
+                "Menschen",
+                "durch",
+                "die",
+                "Erdstöße",
+                "leicht",
+                "verletzt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Auch",
+                "seien",
+                "dort",
+                "und",
+                "auf",
+                "dem",
+                "Peloponnes",
+                "Gebäude",
+                "beschädigt",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Spiegel",
+                "Online",
+                "berichtet",
+                "vom",
+                "Einsturz",
+                "von",
+                "zehn",
+                "Häusern",
+                "und",
+                "einer",
+                "Kirche",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Bis",
+                "um",
+                "14:00",
+                "Uhr",
+                "MEZ",
+                "hätte",
+                "es",
+                "vier",
+                "größere",
+                "Nachbeben",
+                "gegeben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Angaben",
+                "des",
+                "seismologischen",
+                "Instituts",
+                "von",
+                "Athen",
+                "zufolge",
+                "lag",
+                "das",
+                "Epizentrum",
+                "92",
+                "Kilometer",
+                "nordwestlich",
+                "der",
+                "kretischen",
+                "Hafenstadt",
+                "Chania",
+                ",",
+                "nahe",
+                "der",
+                "Insel",
+                "Kythira",
+                ",",
+                "215",
+                "Kilometer",
+                "südlich",
+                "von",
+                "Athen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "In",
+                "Athen",
+                "wurde",
+                "ein",
+                "Stärke",
+                "von",
+                "6,5",
+                "auf",
+                "der",
+                "Richterskala",
+                "gemessen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "N24",
+                "berichtete",
+                "von",
+                "einem",
+                "Spitzenwert",
+                "von",
+                "zeitweise",
+                "7,1."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Nach",
+                "Angaben",
+                "des",
+                "United",
+                "States",
+                "Geological",
+                "Survey",
+                "(",
+                "USGS",
+                ")",
+                "fand",
+                "das",
+                "Beben",
+                "in",
+                "einer",
+                "Tiefe",
+                "von",
+                "37,7",
+                "Kilometer",
+                "statt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Zu",
+                "spüren",
+                "waren",
+                "die",
+                "Auswirkungen",
+                "in",
+                "einem",
+                "Radius",
+                "von",
+                "1.200",
+                "Kilometern",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Der",
+                "glimpfliche",
+                "Ausgang",
+                "des",
+                "Bebens",
+                "war",
+                "offenbar",
+                "der",
+                "Tatsache",
+                "zu",
+                "verdanken",
+                ",",
+                "dass",
+                "sein",
+                "Epizentrum",
+                "in",
+                "großer",
+                "Tiefe",
+                "lag",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "Griechenland",
+                "ist",
+                "das",
+                "erdbebengefährdetste",
+                "Land",
+                "des",
+                "europäischen",
+                "Kontinents",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 16,
+            "Tokens": [
+                "Die",
+                "Hälfte",
+                "aller",
+                "in",
+                "Europa",
+                "registrierten",
+                "Beben",
+                "gibt",
+                "es",
+                "hier",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 17,
+            "Tokens": [
+                "Um",
+                "1500",
+                "v.",
+                "Chr.",
+                "hatte",
+                "ein",
+                "Erdbeben",
+                "nach",
+                "einem",
+                "Vulkanausbruch",
+                "bei",
+                "der",
+                "Insel",
+                "Santorini",
+                "im",
+                "östlichen",
+                "Mittelmeer",
+                "einen",
+                "gewaltigen",
+                "Tsunami",
+                "ausgelöst",
+                ",",
+                "dem",
+                "unter",
+                "Anderem",
+                "der",
+                "Untergang",
+                "der",
+                "Minoischen",
+                "Kultur",
+                "auf",
+                "Kreta",
+                "zugeschrieben",
+                "wird",
+                "."
+            ]
+        }
+    ]
+}

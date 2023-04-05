@@ -1,0 +1,63 @@
+{
+    "Annotations": [],
+    "DocumentName": "45609 - Großes Feuer brennt in London (2007-11-12)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Seit",
+                "12",
+                "Uhr",
+                "Ortszeit",
+                "brennt",
+                "im",
+                "östlichen",
+                "London",
+                "ein",
+                "Feuer",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Der",
+                "Ursprung",
+                "der",
+                "großen",
+                "Rauchwolke",
+                "ist",
+                "in",
+                "der",
+                "Nähe",
+                "des",
+                "Geländes",
+                ",",
+                "wo",
+                "die",
+                "Olympischen",
+                "Sommerspiele",
+                "2012",
+                "stattfinden",
+                "sollen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Die",
+                "Brandursache",
+                "ist",
+                "unklar",
+                ",",
+                "ein",
+                "Anschlag",
+                "wird",
+                "jedoch",
+                "ausgeschlossen",
+                "."
+            ]
+        }
+    ]
+}

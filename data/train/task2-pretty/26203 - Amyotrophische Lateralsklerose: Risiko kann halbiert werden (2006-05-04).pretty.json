@@ -1,0 +1,435 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:7",
+                "2:11"
+            ],
+            "CueText": "gaben bekannt",
+            "Form": "Indirect",
+            "Frame": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:10",
+                "2:11",
+                "2:12"
+            ],
+            "FrameText": "Wissenschaftler des Medizinischen Zentrums der Universität Utrecht gaben gestern bekannt .",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:8",
+                "2:9"
+            ],
+            "MessageText": "diese Forschungsergebnisse",
+            "STWR": "SW",
+            "Source": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6"
+            ],
+            "SourceText": "Wissenschaftler des Medizinischen Zentrums der Universität Utrecht"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "3:0",
+                "3:1",
+                "3:2"
+            ],
+            "FrameText": "Nach deren Angaben",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:3",
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10",
+                "3:11",
+                "3:12",
+                "3:13",
+                "3:14",
+                "3:15",
+                "3:16",
+                "3:17",
+                "3:18"
+            ],
+            "MessageText": "sollten täglich auf den Teller Speisen mit Vitamin E und mit reichlich mehrfach ungesättigten Fetten kommen",
+            "STWR": "SW",
+            "Source": [
+                "3:1",
+                "3:2"
+            ],
+            "SourceText": "deren Angaben"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:2"
+            ],
+            "CueText": "sagte",
+            "Form": "Direct",
+            "Frame": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5"
+            ],
+            "FrameText": "Als Begründung sagte ein Wissenschaftler :",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10",
+                "4:11",
+                "4:12",
+                "4:13",
+                "4:14",
+                "4:15",
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "5:14",
+                "5:15",
+                "5:16"
+            ],
+            "MessageText": "„ Das ist ein sehr breites Feld an Erkrankungen . ALS tritt zwischen dem 50. und 70. Lebensjahr auf und führt sehr bald zum Tod . “",
+            "STWR": "Speech",
+            "Source": [
+                "4:3",
+                "4:4"
+            ],
+            "SourceText": "ein Wissenschaftler"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "10:8",
+                "10:9",
+                "10:10"
+            ],
+            "CueText": "stellte sich heraus",
+            "Form": "Indirect",
+            "Frame": [
+                "10:0",
+                "10:1",
+                "10:2",
+                "10:3",
+                "10:4",
+                "10:5",
+                "10:6",
+                "10:7",
+                "10:8",
+                "10:9",
+                "10:10",
+                "10:11"
+            ],
+            "FrameText": "Verglichen mit den Antworten von Menschen ohne ALS stellte sich heraus ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "10:12",
+                "10:13",
+                "10:14",
+                "10:15",
+                "10:16",
+                "10:17",
+                "10:18"
+            ],
+            "MessageText": "dass diese wesentlich mehr ungesättigten Fettsäuren aufnahmen",
+            "STWR": "SW",
+            "Source": [],
+            "SourceText": ""
+        }
+    ],
+    "DocumentName": "26203 - Amyotrophische Lateralsklerose: Risiko kann halbiert werden (2006-05-04)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Durch",
+                "richtige",
+                "Ernährung",
+                "kann",
+                "das",
+                "Risiko",
+                ",",
+                "an",
+                "amyotrophischer",
+                "Lateralsklerose",
+                "(",
+                "ALS",
+                ")",
+                "zu",
+                "erkranken",
+                ",",
+                "halbiert",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "ALS",
+                "ist",
+                "eine",
+                "tödliche",
+                "Nervenkrankheit",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Wissenschaftler",
+                "des",
+                "Medizinischen",
+                "Zentrums",
+                "der",
+                "Universität",
+                "Utrecht",
+                "gaben",
+                "diese",
+                "Forschungsergebnisse",
+                "gestern",
+                "bekannt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Nach",
+                "deren",
+                "Angaben",
+                "sollten",
+                "täglich",
+                "auf",
+                "den",
+                "Teller",
+                "Speisen",
+                "mit",
+                "Vitamin",
+                "E",
+                "und",
+                "mit",
+                "reichlich",
+                "mehrfach",
+                "ungesättigten",
+                "Fetten",
+                "kommen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Als",
+                "Begründung",
+                "sagte",
+                "ein",
+                "Wissenschaftler",
+                ":",
+                "„",
+                "Das",
+                "ist",
+                "ein",
+                "sehr",
+                "breites",
+                "Feld",
+                "an",
+                "Erkrankungen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "ALS",
+                "tritt",
+                "zwischen",
+                "dem",
+                "50.",
+                "und",
+                "70.",
+                "Lebensjahr",
+                "auf",
+                "und",
+                "führt",
+                "sehr",
+                "bald",
+                "zum",
+                "Tod",
+                ".",
+                "“"
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Die",
+                "Gründe",
+                "für",
+                "die",
+                "Senkung",
+                "des",
+                "Risikos",
+                "sind",
+                "unklar",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Die",
+                "Utrechter",
+                "Studie",
+                "hat",
+                "jedoch",
+                "die",
+                "Wirksamkeit",
+                "der",
+                "Ernährung",
+                "bewiesen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "An",
+                "der",
+                "Studie",
+                "nahmen",
+                "132",
+                "Probanden",
+                "teil",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Sie",
+                "alle",
+                "leiden",
+                "unter",
+                "ALS",
+                "und",
+                "wurden",
+                "über",
+                "ihre",
+                "Ernährungsgewohnheiten",
+                "gefragt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Verglichen",
+                "mit",
+                "den",
+                "Antworten",
+                "von",
+                "Menschen",
+                "ohne",
+                "ALS",
+                "stellte",
+                "sich",
+                "heraus",
+                ",",
+                "dass",
+                "diese",
+                "wesentlich",
+                "mehr",
+                "ungesättigten",
+                "Fettsäuren",
+                "aufnahmen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Noch",
+                "sind",
+                "die",
+                "Forschungen",
+                "auf",
+                "dem",
+                "Gebiet",
+                "nicht",
+                "weit",
+                "genug",
+                "fortgeschritten",
+                ",",
+                "um",
+                "Ärzten",
+                "Empfehlungen",
+                "für",
+                "ihre",
+                "Patienten",
+                "geben",
+                "zu",
+                "können",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Die",
+                "Wissenschaftler",
+                "arbeiten",
+                "weiter",
+                "an",
+                "dem",
+                "Thema",
+                "."
+            ]
+        }
+    ]
+}

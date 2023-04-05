@@ -1,0 +1,322 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:7",
+                "2:10"
+            ],
+            "CueText": "gab an",
+            "Form": "Indirect",
+            "Frame": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9",
+                "2:10",
+                "2:11"
+            ],
+            "FrameText": "Als Grund für die Auflösung des Mietvertrages gab die Sprachschule an ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:12",
+                "2:13",
+                "2:14",
+                "2:15",
+                "2:16",
+                "2:17",
+                "2:18",
+                "2:19",
+                "2:20",
+                "2:21",
+                "2:22",
+                "2:23"
+            ],
+            "MessageText": "die Partei habe sich beim Vertragsabschluss nicht als Partei zu erkennen gegeben",
+            "STWR": "SW",
+            "Source": [
+                "2:8",
+                "2:9"
+            ],
+            "SourceText": "die Sprachschule"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "6:0"
+            ],
+            "CueText": "Laut",
+            "Form": "Indirect",
+            "Frame": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3"
+            ],
+            "FrameText": "Laut der Nachrichtenagentur AFP",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "6:4",
+                "6:5",
+                "6:6",
+                "6:7",
+                "6:8",
+                "6:9",
+                "6:10",
+                "6:11"
+            ],
+            "MessageText": "waren über hundert Polizisten an dem Einsatz beteiligt",
+            "STWR": "SW",
+            "Source": [
+                "6:1",
+                "6:2",
+                "6:3"
+            ],
+            "SourceText": "der Nachrichtenagentur AFP"
+        }
+    ],
+    "DocumentName": "65535 - Berlin: Parteitag der islamkritischen Partei „Die Freiheit“ konnte nicht stattfinden (2011-01-12)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Der",
+                "für",
+                "Dienstag",
+                "in",
+                "Berlin",
+                "geplante",
+                "Parteitag",
+                "der",
+                "rechtspopulistischen",
+                "Partei",
+                "„",
+                "Die",
+                "Freiheit",
+                "“",
+                "konnte",
+                "nicht",
+                "stattfinden",
+                ",",
+                "weil",
+                "es",
+                "der",
+                "Partei",
+                "nicht",
+                "gelungen",
+                "war",
+                ",",
+                "Räume",
+                "für",
+                "die",
+                "Veranstaltung",
+                "anzumieten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Sowohl",
+                "das",
+                "Hotel",
+                "Crown",
+                "Plaza",
+                "(",
+                "Nähe",
+                "Kurfürstendamm",
+                ")",
+                "als",
+                "auch",
+                "eine",
+                "Sprachschule",
+                "im",
+                "Berliner",
+                "Stadtteil",
+                "Prenzlauer",
+                "Berg",
+                "lösten",
+                "ihre",
+                "Mietverträge",
+                "mit",
+                "der",
+                "Partei",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Als",
+                "Grund",
+                "für",
+                "die",
+                "Auflösung",
+                "des",
+                "Mietvertrages",
+                "gab",
+                "die",
+                "Sprachschule",
+                "an",
+                ",",
+                "die",
+                "Partei",
+                "habe",
+                "sich",
+                "beim",
+                "Vertragsabschluss",
+                "nicht",
+                "als",
+                "Partei",
+                "zu",
+                "erkennen",
+                "gegeben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Ein",
+                "Versuch",
+                "der",
+                "Partei",
+                "nach",
+                "dem",
+                "Scheitern",
+                "der",
+                "Veranstaltung",
+                "kurzfristig",
+                "vor",
+                "dem",
+                "Eingang",
+                "der",
+                "Sprachschule",
+                "ein",
+                "öffentliches",
+                "Meeting",
+                "abzuhalten",
+                ",",
+                "wurde",
+                "von",
+                "der",
+                "Polizei",
+                "verhindert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Dort",
+                "hatten",
+                "sich",
+                "neben",
+                "30",
+                "bis",
+                "50",
+                "Anhängern",
+                "der",
+                "Partei",
+                "auch",
+                "zahlreiche",
+                "Gegendemonstranten",
+                "eingefunden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Da",
+                "beide",
+                "Versammlungen",
+                "nicht",
+                "als",
+                "Demonstration",
+                "angemeldet",
+                "waren",
+                ",",
+                "löste",
+                "sie",
+                "die",
+                "Polizei",
+                "auf",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Laut",
+                "der",
+                "Nachrichtenagentur",
+                "AFP",
+                "waren",
+                "über",
+                "hundert",
+                "Polizisten",
+                "an",
+                "dem",
+                "Einsatz",
+                "beteiligt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Die",
+                "Partei",
+                "war",
+                "unter",
+                "Federführung",
+                "des",
+                "ehemaligen",
+                "Berliner",
+                "CDU-Politikers",
+                "René",
+                "Stadtkewitz",
+                "im",
+                "Oktober",
+                "vergangenen",
+                "Jahres",
+                "gegründet",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Anlässlich",
+                "der",
+                "Parteigründung",
+                "war",
+                "der",
+                "niederländische",
+                "Rechtspopulist",
+                "Geert",
+                "Wilders",
+                "als",
+                "Gastreferent",
+                "aufgetreten",
+                "(",
+                "Wikinews",
+                "berichtete",
+                ")",
+                "."
+            ]
+        }
+    ]
+}

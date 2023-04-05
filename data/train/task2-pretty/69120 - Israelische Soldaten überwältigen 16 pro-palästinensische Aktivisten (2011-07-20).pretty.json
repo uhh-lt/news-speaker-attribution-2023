@@ -1,0 +1,300 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:0",
+                "2:6"
+            ],
+            "CueText": "Wie mitteilte",
+            "Form": "Indirect",
+            "Frame": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7"
+            ],
+            "FrameText": "Wie ein Sprecher der israelischen Streitkräfte mitteilte ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:8",
+                "2:9",
+                "2:10",
+                "2:11",
+                "2:12",
+                "2:13",
+                "2:14",
+                "2:15",
+                "2:16",
+                "2:17",
+                "2:18",
+                "2:19",
+                "2:20",
+                "2:21",
+                "2:22",
+                "2:23",
+                "2:24",
+                "2:25",
+                "2:26"
+            ],
+            "MessageText": "habe man die Aktivisten vorher per Funk informiert , dass sie sich auf dem Weg in gesperrte Gewässer befänden",
+            "STWR": "Speech",
+            "Source": [
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5"
+            ],
+            "SourceText": "ein Sprecher der israelischen Streitkräfte"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:3"
+            ],
+            "CueText": "zufolge",
+            "Form": "Indirect",
+            "Frame": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3"
+            ],
+            "FrameText": "Dem Sender al-Dschasira zufolge",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10",
+                "4:11",
+                "4:12",
+                "4:13",
+                "4:14",
+                "4:15",
+                "4:16",
+                "4:17",
+                "4:18",
+                "4:19"
+            ],
+            "MessageText": "wird das Schiff in den südisraelischen Hafen Aschdot gefahren , wo die Hilfsgüter ausgeladen werden sollen",
+            "STWR": "Speech",
+            "Source": [
+                "4:0",
+                "4:1",
+                "4:2"
+            ],
+            "SourceText": "Dem Sender al-Dschasira"
+        }
+    ],
+    "DocumentName": "69120 - Israelische Soldaten überwältigen 16 pro-palästinensische Aktivisten (2011-07-20)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Am",
+                "gestrigen",
+                "Dienstag",
+                "hat",
+                "die",
+                "israelische",
+                "Marine",
+                "ein",
+                "Hilfsschiff",
+                "mit",
+                "16",
+                "Aktivisten",
+                "aus",
+                "sechs",
+                "Nationen",
+                "(",
+                "darunter",
+                "keine",
+                "Deutschen",
+                ")",
+                "an",
+                "Bord",
+                "geentert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Die",
+                "Insassen",
+                "leisteten",
+                "keinen",
+                "Widerstand",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Wie",
+                "ein",
+                "Sprecher",
+                "der",
+                "israelischen",
+                "Streitkräfte",
+                "mitteilte",
+                ",",
+                "habe",
+                "man",
+                "die",
+                "Aktivisten",
+                "vorher",
+                "per",
+                "Funk",
+                "informiert",
+                ",",
+                "dass",
+                "sie",
+                "sich",
+                "auf",
+                "dem",
+                "Weg",
+                "in",
+                "gesperrte",
+                "Gewässer",
+                "befänden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Die",
+                "Yacht",
+                "„",
+                "Dignité",
+                "al",
+                "Karama",
+                "“",
+                "hatte",
+                "Kurs",
+                "auf",
+                "die",
+                "Küste",
+                "des",
+                "Gazastreifens",
+                "gehalten",
+                ",",
+                "bis",
+                "sie",
+                "um",
+                "8.30",
+                "Uhr",
+                "(",
+                "MESZ",
+                ")",
+                ",",
+                "40",
+                "Seemeilen",
+                "vor",
+                "Gaza",
+                ",",
+                "gestoppt",
+                "wurde",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Dem",
+                "Sender",
+                "al-Dschasira",
+                "zufolge",
+                "wird",
+                "das",
+                "Schiff",
+                "in",
+                "den",
+                "südisraelischen",
+                "Hafen",
+                "Aschdot",
+                "gefahren",
+                ",",
+                "wo",
+                "die",
+                "Hilfsgüter",
+                "ausgeladen",
+                "werden",
+                "sollen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Neben",
+                "Aktivisten",
+                "der",
+                "Organisation",
+                "„",
+                "Ein",
+                "französisches",
+                "Schiff",
+                "für",
+                "Gaza",
+                "“",
+                "befinden",
+                "sich",
+                "auch",
+                "Journalisten",
+                "auf",
+                "dem",
+                "Schiff",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Neun",
+                "weitere",
+                "Schiffe",
+                "der",
+                "Hilfsflotte",
+                "liegen",
+                "in",
+                "griechischen",
+                "Häfen",
+                "fest",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Ende",
+                "Mai",
+                "2010",
+                "töteten",
+                "israelische",
+                "Soldaten",
+                "bei",
+                "einer",
+                "ähnlichen",
+                "Aktion",
+                "neun",
+                "Aktivisten",
+                "."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,360 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "FreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6"
+            ],
+            "MessageText": "Daran soll Lenz beteiligt gewesen sein .",
+            "STWR": "SW",
+            "Source": [
+                "2:20",
+                "2:21",
+                "2:22"
+            ],
+            "SourceText": "der Staatsanwaltschaft Braunschweig"
+        },
+        {
+            "Addr": [
+                "5:10"
+            ],
+            "AddrText": "Lenz",
+            "Cue": [
+                "5:9",
+                "5:12"
+            ],
+            "CueText": "hatte aufgefordert",
+            "Form": "Indirect",
+            "Frame": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13"
+            ],
+            "FrameText": "Der Fraktionsvorsitzende im niedersächsischen Landtag , Wolfgang Jüttner , hatte Lenz gestern aufgefordert ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:14",
+                "5:15",
+                "5:16"
+            ],
+            "MessageText": "sein Mandat niederzulegen",
+            "STWR": "Speech",
+            "Source": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7"
+            ],
+            "SourceText": "Der Fraktionsvorsitzende im niedersächsischen Landtag , Wolfgang Jüttner"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "6:1",
+                "6:4",
+                "6:5"
+            ],
+            "CueText": "hatte damit begründet",
+            "Form": "Indirect",
+            "Frame": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:4",
+                "6:5",
+                "6:6"
+            ],
+            "FrameText": "Jüttner hatte seine Position damit begründet ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "6:7",
+                "6:8",
+                "6:9",
+                "6:10",
+                "6:11",
+                "6:12",
+                "6:13"
+            ],
+            "MessageText": "Schaden von der SPD fernhalten zu wollen",
+            "STWR": "Speech",
+            "Source": [
+                "6:0"
+            ],
+            "SourceText": "Jüttner"
+        }
+    ],
+    "DocumentName": "42185 - VW-Affäre: SPD-Landtagsabgeordneter Lenz legt Mandat nieder (2007-06-15)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Der",
+                "niedersächsische",
+                "Landtagsabgeordnete",
+                "Günter",
+                "Lenz",
+                "legte",
+                "heute",
+                "sein",
+                "Landtagsmandat",
+                "nieder",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Diese",
+                "Entscheidung",
+                "des",
+                "SPD-Abgeordneten",
+                "steht",
+                "im",
+                "Zusammenhang",
+                "mit",
+                "der",
+                "Korruptionsaffäre",
+                "bei",
+                "VW",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Gegen",
+                "Lenz",
+                ",",
+                "der",
+                "auch",
+                "Betriebsratsvorsitzender",
+                "in",
+                "der",
+                "Sparte",
+                "Nutzfahrzeuge",
+                "und",
+                "Mitglied",
+                "des",
+                "Aufsichtsrats",
+                "bei",
+                "VW",
+                "ist",
+                ",",
+                "wird",
+                "von",
+                "der",
+                "Staatsanwaltschaft",
+                "Braunschweig",
+                "wegen",
+                "des",
+                "Verdachts",
+                "auf",
+                "Beihilfe",
+                "zur",
+                "Untreue",
+                "ermittelt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Prostituierte",
+                "waren",
+                "auf",
+                "Konzernkosten",
+                "zu",
+                "Veranstaltungen",
+                "des",
+                "Betriebsrates",
+                "eingeladen",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Daran",
+                "soll",
+                "Lenz",
+                "beteiligt",
+                "gewesen",
+                "sein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Der",
+                "Fraktionsvorsitzende",
+                "im",
+                "niedersächsischen",
+                "Landtag",
+                ",",
+                "Wolfgang",
+                "Jüttner",
+                ",",
+                "hatte",
+                "Lenz",
+                "gestern",
+                "aufgefordert",
+                ",",
+                "sein",
+                "Mandat",
+                "niederzulegen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Jüttner",
+                "hatte",
+                "seine",
+                "Position",
+                "damit",
+                "begründet",
+                ",",
+                "Schaden",
+                "von",
+                "der",
+                "SPD",
+                "fernhalten",
+                "zu",
+                "wollen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Lenz",
+                "bestreitet",
+                "die",
+                "Vorwürfe",
+                "gegen",
+                "seine",
+                "Person",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Von",
+                "dem",
+                "VW-Personalmanager",
+                "Klaus-Joachim",
+                "Gebauer",
+                ",",
+                "der",
+                "in",
+                "einem",
+                "Prozess",
+                "gegen",
+                "Lenz",
+                "'",
+                "Betriebsratskollegen",
+                "Hans-Jürgen",
+                "Uhl",
+                "ausgesagt",
+                "hatte",
+                ",",
+                "war",
+                "er",
+                "schwer",
+                "belastet",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Uhl",
+                "war",
+                "gestern",
+                "vom",
+                "Amtsgericht",
+                "Wolfsburg",
+                "zu",
+                "einer",
+                "Geldstrafe",
+                "von",
+                "39.200",
+                "Euro",
+                "verurteilt",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Er",
+                "war",
+                "der",
+                "Beihilfe",
+                "zur",
+                "Untreue",
+                "sowie",
+                "falscher",
+                "eidesstattlicher",
+                "Erklärungen",
+                "für",
+                "schuldig",
+                "befunden",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Uhl",
+                "hatte",
+                "vor",
+                "Gericht",
+                "ein",
+                "Geständnis",
+                "abgelegt",
+                "."
+            ]
+        }
+    ]
+}

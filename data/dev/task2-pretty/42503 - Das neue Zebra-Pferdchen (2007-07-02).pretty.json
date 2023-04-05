@@ -1,0 +1,68 @@
+{
+    "Annotations": [],
+    "DocumentName": "42503 - Das neue Zebra-Pferdchen (2007-07-02)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Im",
+                "Hollywood-",
+                "und",
+                "Safaripark",
+                "Stukenbrock",
+                "ist",
+                "das",
+                "Zebroid",
+                "„",
+                "Eclyse",
+                "“",
+                "zu",
+                "sehen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Zebroide",
+                ",",
+                "auch",
+                "Zebra-Pferde",
+                "genannt",
+                ",",
+                "sind",
+                "Kreuzungen",
+                "(",
+                "„",
+                "Hybride",
+                "“",
+                ")",
+                "zwischen",
+                "Zebras",
+                "und",
+                "Pferden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Eclyse",
+                "hat",
+                "als",
+                "Eltern",
+                "eine",
+                "Zebrastute",
+                "von",
+                "Schloss",
+                "Holte-Stukenbrock",
+                "und",
+                "einen",
+                "Pferdehengst",
+                "aus",
+                "Italien",
+                "."
+            ]
+        }
+    ]
+}

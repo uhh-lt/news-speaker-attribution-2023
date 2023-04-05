@@ -1,0 +1,329 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "5:0"
+            ],
+            "CueText": "Laut",
+            "Form": "Indirect",
+            "Frame": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6"
+            ],
+            "FrameText": "Laut Oberst Franz Polzer vom niederösterreichischen Landeskriminalamt",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "5:14",
+                "5:15",
+                "5:16",
+                "5:17"
+            ],
+            "MessageText": "hatten die beiden 27- beziehungsweise zirka 30-jährigen Piloten ausreichend Flugerfahrung besessen",
+            "STWR": "Speech",
+            "Source": [
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6"
+            ],
+            "SourceText": "Oberst Franz Polzer vom niederösterreichischen Landeskriminalamt"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6"
+            ],
+            "MessageText": "Ohrenzeugen berichteten von einem lauten Knall .",
+            "STWR": "Speech",
+            "Source": [
+                "7:0"
+            ],
+            "SourceText": "Ohrenzeugen"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3",
+                "9:4",
+                "9:5",
+                "9:6",
+                "9:7",
+                "9:8",
+                "9:9",
+                "9:10",
+                "9:11",
+                "9:12",
+                "9:13",
+                "9:14",
+                "9:15",
+                "9:16",
+                "9:17",
+                "9:18",
+                "9:19",
+                "9:20",
+                "9:21",
+                "9:22",
+                "9:23"
+            ],
+            "MessageText": "So sei zum Beispiel bei einem Hubschrauber die Sicht nach oben eingeschränkt , und die Piloten hätten sich möglicherweise gegenseitig nicht sehen können .",
+            "STWR": "Speech",
+            "Source": [
+                "8:0",
+                "8:1",
+                "8:2",
+                "8:3",
+                "8:4"
+            ],
+            "SourceText": "Der ÖAMTC-Flugbetriebsleiter , Reinhard Kraxner"
+        }
+    ],
+    "DocumentName": "35026 - Österreich: Zusammenstoß zwischen Hubschrauber und Kleinflugzeug (2006-11-15)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "In",
+                "Niederösterreich",
+                "sind",
+                "am",
+                "Dienstag",
+                "ein",
+                "Hubschrauber",
+                "und",
+                "ein",
+                "Kleinflugzeug",
+                "zusammengestoßen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Beide",
+                "Piloten",
+                "kamen",
+                "dabei",
+                "ums",
+                "Leben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Die",
+                "Absturzstelle",
+                "befindet",
+                "sich",
+                "zirka",
+                "40",
+                "Kilometer",
+                "südlich",
+                "von",
+                "Wien",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Die",
+                "genaue",
+                "Unfallursache",
+                "ist",
+                "noch",
+                "nicht",
+                "bekannt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Der",
+                "Hubschrauber",
+                "der",
+                "Firma",
+                "Heli",
+                "Royal",
+                "war",
+                "vom",
+                "Typ",
+                "Robinson",
+                "RH44",
+                ",",
+                "das",
+                "Flugzeug",
+                "war",
+                "ein",
+                "Sportflugzeug",
+                "vom",
+                "Typ",
+                "Katana",
+                "DA40",
+                "TDI",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Laut",
+                "Oberst",
+                "Franz",
+                "Polzer",
+                "vom",
+                "niederösterreichischen",
+                "Landeskriminalamt",
+                "hatten",
+                "die",
+                "beiden",
+                "27-",
+                "beziehungsweise",
+                "zirka",
+                "30-jährigen",
+                "Piloten",
+                "ausreichend",
+                "Flugerfahrung",
+                "besessen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Der",
+                "Zusammenstoß",
+                "erfolgte",
+                "vermutlich",
+                "in",
+                "etwa",
+                "400",
+                "Metern",
+                "Höhe",
+                ",",
+                "als",
+                "sich",
+                "der",
+                "Hubschrauber",
+                "im",
+                "Anflug",
+                "auf",
+                "Wiener",
+                "Neustadt",
+                "befand",
+                ",",
+                "während",
+                "das",
+                "Flugzeug",
+                "nach",
+                "Graz",
+                "unterwegs",
+                "war",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Ohrenzeugen",
+                "berichteten",
+                "von",
+                "einem",
+                "lauten",
+                "Knall",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Der",
+                "ÖAMTC-Flugbetriebsleiter",
+                ",",
+                "Reinhard",
+                "Kraxner",
+                ",",
+                "spekulierte",
+                "über",
+                "einen",
+                "toten",
+                "Winkel",
+                "als",
+                "Ursache",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "So",
+                "sei",
+                "zum",
+                "Beispiel",
+                "bei",
+                "einem",
+                "Hubschrauber",
+                "die",
+                "Sicht",
+                "nach",
+                "oben",
+                "eingeschränkt",
+                ",",
+                "und",
+                "die",
+                "Piloten",
+                "hätten",
+                "sich",
+                "möglicherweise",
+                "gegenseitig",
+                "nicht",
+                "sehen",
+                "können",
+                "."
+            ]
+        }
+    ]
+}

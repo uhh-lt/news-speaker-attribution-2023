@@ -1,0 +1,440 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:8"
+            ],
+            "CueText": "erklärte",
+            "Form": "Indirect",
+            "Frame": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9"
+            ],
+            "FrameText": "Minister Sathit Wongnongtoey von der Kanzlei des Ministerpräsidenten erklärte ,",
+            "HasNested": true,
+            "IsNested": false,
+            "Message": [
+                "4:10",
+                "4:11",
+                "4:12",
+                "4:13",
+                "4:14",
+                "4:15",
+                "4:16",
+                "4:17"
+            ],
+            "MessageText": "die Lage bleibe dennoch weiterhin „ kritisch “",
+            "STWR": "Speech",
+            "Source": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7"
+            ],
+            "SourceText": "Minister Sathit Wongnongtoey von der Kanzlei des Ministerpräsidenten"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:8"
+            ],
+            "CueText": "erklärte",
+            "Form": "Direct",
+            "Frame": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9"
+            ],
+            "FrameText": "Minister Sathit Wongnongtoey von der Kanzlei des Ministerpräsidenten erklärte ,",
+            "HasNested": false,
+            "IsNested": true,
+            "Message": [
+                "4:15",
+                "4:16",
+                "4:17"
+            ],
+            "MessageText": "„ kritisch “",
+            "STWR": "Speech",
+            "Source": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7"
+            ],
+            "SourceText": "Minister Sathit Wongnongtoey von der Kanzlei des Ministerpräsidenten"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "9:14"
+            ],
+            "CueText": "sagte",
+            "Form": "Indirect",
+            "Frame": [
+                "9:13",
+                "9:14",
+                "9:15",
+                "9:16",
+                "9:17"
+            ],
+            "FrameText": ", sagte Provinzgouverneur Thirayuth Iamtrakul",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3",
+                "9:4",
+                "9:5",
+                "9:6",
+                "9:7",
+                "9:8",
+                "9:9",
+                "9:10",
+                "9:11",
+                "9:12"
+            ],
+            "MessageText": "Am schlimmsten hat es den Distrikt Phunphin in der Provinz Surat Thani getroffen",
+            "STWR": "Speech",
+            "Source": [
+                "9:15",
+                "9:16",
+                "9:17"
+            ],
+            "SourceText": "Provinzgouverneur Thirayuth Iamtrakul"
+        }
+    ],
+    "DocumentName": "67339 - Überschwemmungen in Thailand: Situation weiterhin kritisch (2011-04-02)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Die",
+                "Überschwemmungen",
+                "in",
+                "zehn",
+                "Provinzen",
+                "im",
+                "Süden",
+                "Thailands",
+                "haben",
+                "bisher",
+                "mindestens",
+                "35",
+                "Todesopfer",
+                "gefordert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Zu",
+                "dem",
+                "Hochwasser",
+                "war",
+                "es",
+                "durch",
+                "die",
+                "für",
+                "die",
+                "Jahreszeit",
+                "außergewöhnlich",
+                "starken",
+                "Regenfälle",
+                "in",
+                "den",
+                "letzten",
+                "Tagen",
+                "gekommen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Insgesamt",
+                "sind",
+                "zwei",
+                "Millionen",
+                "Menschen",
+                "von",
+                "den",
+                "Auswirkungen",
+                "betroffen",
+                ",",
+                "darunter",
+                "zahlreiche",
+                "Touristen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Die",
+                "Regenfälle",
+                "haben",
+                "inzwischen",
+                "nachgelassen",
+                ",",
+                "so",
+                "dass",
+                "eine",
+                "leichte",
+                "Entspannung",
+                "der",
+                "Lage",
+                "eingetreten",
+                "ist",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Minister",
+                "Sathit",
+                "Wongnongtoey",
+                "von",
+                "der",
+                "Kanzlei",
+                "des",
+                "Ministerpräsidenten",
+                "erklärte",
+                ",",
+                "die",
+                "Lage",
+                "bleibe",
+                "dennoch",
+                "weiterhin",
+                "„",
+                "kritisch",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Flutwarnungen",
+                "wurden",
+                "für",
+                "weitere",
+                "acht",
+                "Provinzen",
+                "ausgesprochen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Rund",
+                "hundert",
+                "Rettungskräfte",
+                ",",
+                "darunter",
+                "auch",
+                "Soldaten",
+                ",",
+                "sind",
+                "weiterhin",
+                "auf",
+                "der",
+                "Suche",
+                "nach",
+                "Vermissten",
+                "in",
+                "Gebieten",
+                ",",
+                "die",
+                "unter",
+                "Schlammlawinen",
+                "begraben",
+                "wurden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Mehrere",
+                "Distrikte",
+                "in",
+                "der",
+                "Provinz",
+                "Nakhon",
+                "Si",
+                "Thammarat",
+                "und",
+                "Surat",
+                "Thani",
+                "mussten",
+                "evakuiert",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Der",
+                "Fluss",
+                "Tapi",
+                ",",
+                "der",
+                "bei",
+                "Surat",
+                "Thani",
+                "ins",
+                "Meer",
+                "mündet",
+                ",",
+                "ist",
+                "über",
+                "die",
+                "Ufer",
+                "getreten",
+                "und",
+                "überflutete",
+                "ein",
+                "Krankenhaus",
+                "in",
+                "der",
+                "Stadt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Am",
+                "schlimmsten",
+                "hat",
+                "es",
+                "den",
+                "Distrikt",
+                "Phunphin",
+                "in",
+                "der",
+                "Provinz",
+                "Surat",
+                "Thani",
+                "getroffen",
+                ",",
+                "sagte",
+                "Provinzgouverneur",
+                "Thirayuth",
+                "Iamtrakul",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Auf",
+                "der",
+                "bei",
+                "Touristen",
+                "beliebten",
+                "Insel",
+                "Koh",
+                "Samui",
+                "entspannt",
+                "sich",
+                "die",
+                "Lage",
+                "wieder",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Hunderte",
+                "Touristen",
+                "hatten",
+                "zuvor",
+                "auf",
+                "der",
+                "Insel",
+                "festgesessen",
+                ",",
+                "weil",
+                "die",
+                "Flugverbindungen",
+                "zum",
+                "Festland",
+                "wegen",
+                "des",
+                "Hochwassers",
+                "eingestellt",
+                "werden",
+                "mussten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Die",
+                "thailändische",
+                "Armee",
+                "setzte",
+                "zwei",
+                "Fregatten",
+                "und",
+                "einen",
+                "Flugzeugträger",
+                "zur",
+                "Evakuierung",
+                "der",
+                "Touristen",
+                "ein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Seit",
+                "Freitag",
+                "funktionieren",
+                "Flug-",
+                "und",
+                "Fährverbindungen",
+                "wieder",
+                "."
+            ]
+        }
+    ]
+}

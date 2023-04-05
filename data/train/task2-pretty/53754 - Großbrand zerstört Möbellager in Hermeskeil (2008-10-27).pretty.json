@@ -1,0 +1,213 @@
+{
+    "Annotations": [
+        {
+            "Addr": [
+                "4:5"
+            ],
+            "AddrText": "Anwohner",
+            "Cue": [
+                "4:4",
+                "4:6"
+            ],
+            "CueText": "wurden aufgefordert",
+            "Form": "Indirect",
+            "Frame": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6"
+            ],
+            "FrameText": "Aufgrund einer starken Rauchentwicklung wurden Anwohner aufgefordert",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10",
+                "4:11",
+                "4:12"
+            ],
+            "MessageText": "Türen und Fenster geschlossen zu halten",
+            "STWR": "Speech",
+            "Source": [],
+            "SourceText": ""
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "5:0"
+            ],
+            "CueText": "Laut",
+            "Form": "Indirect",
+            "Frame": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3"
+            ],
+            "FrameText": "Laut Angaben der Feuerwehr",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13"
+            ],
+            "MessageText": "habe jedoch keine Gefährdung für die Gesundheit der Anwohner bestanden",
+            "STWR": "Speech",
+            "Source": [
+                "5:1",
+                "5:2",
+                "5:3"
+            ],
+            "SourceText": "Angaben der Feuerwehr"
+        }
+    ],
+    "DocumentName": "53754 - Großbrand zerstört Möbellager in Hermeskeil (2008-10-27)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Aus",
+                "bislang",
+                "ungeklärten",
+                "Gründen",
+                "kam",
+                "es",
+                "in",
+                "der",
+                "Nacht",
+                "zu",
+                "Sonntag",
+                "in",
+                "einer",
+                "ehemaligen",
+                "Möbelfabrik",
+                "in",
+                "Hermeskeil",
+                "(",
+                "Kreis",
+                "Trier-Saarburg",
+                ")",
+                "zu",
+                "einem",
+                "Brandausbruch",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Die",
+                "rund",
+                "200",
+                "mal",
+                "20",
+                "Meter",
+                "große",
+                ",",
+                "leerstehende",
+                "Fabrikhalle",
+                "brannte",
+                "dabei",
+                "völlig",
+                "aus",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Rund",
+                "180",
+                "Feuerwehrleute",
+                "und",
+                "40",
+                "Kräfte",
+                "des",
+                "Technischen",
+                "Hilfswerks",
+                "waren",
+                "zum",
+                "Teil",
+                "mit",
+                "Radladern",
+                "im",
+                "Einsatz",
+                ",",
+                "um",
+                "das",
+                "Feuer",
+                "zu",
+                "löschen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Der",
+                "Sachschaden",
+                "wird",
+                "auf",
+                "eine",
+                "deutlich",
+                "sechsstellige",
+                "Höhe",
+                "geschätzt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Aufgrund",
+                "einer",
+                "starken",
+                "Rauchentwicklung",
+                "wurden",
+                "Anwohner",
+                "aufgefordert",
+                "Türen",
+                "und",
+                "Fenster",
+                "geschlossen",
+                "zu",
+                "halten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Laut",
+                "Angaben",
+                "der",
+                "Feuerwehr",
+                "habe",
+                "jedoch",
+                "keine",
+                "Gefährdung",
+                "für",
+                "die",
+                "Gesundheit",
+                "der",
+                "Anwohner",
+                "bestanden",
+                "."
+            ]
+        }
+    ]
+}

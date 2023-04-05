@@ -1,0 +1,661 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "10:2"
+            ],
+            "CueText": "erklärte",
+            "Form": "Indirect",
+            "Frame": [
+                "10:0",
+                "10:1",
+                "10:2",
+                "10:3"
+            ],
+            "FrameText": "Ein Polizeisprecher erklärte ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "10:4",
+                "10:5",
+                "10:6",
+                "10:7",
+                "10:8"
+            ],
+            "MessageText": "es gehe dem Jungen gut",
+            "STWR": "Speech",
+            "Source": [
+                "10:0",
+                "10:1"
+            ],
+            "SourceText": "Ein Polizeisprecher"
+        },
+        {
+            "Addr": [
+                "13:10",
+                "13:11"
+            ],
+            "AddrText": "die Polizei",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "13:0",
+                "13:1",
+                "13:2",
+                "13:3",
+                "13:4",
+                "13:5",
+                "13:6",
+                "13:7",
+                "13:8",
+                "13:9",
+                "13:10",
+                "13:11",
+                "13:12",
+                "13:13"
+            ],
+            "MessageText": "Erst im Dezember 2001 wurde das Verschwinden des Jungen an die Polizei gemeldet .",
+            "STWR": "Speech",
+            "Source": [],
+            "SourceText": ""
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "17:0",
+                "17:1",
+                "17:2",
+                "17:3",
+                "17:4",
+                "17:5",
+                "17:6",
+                "18:0",
+                "18:1",
+                "18:2",
+                "18:3",
+                "18:4",
+                "18:5",
+                "18:6",
+                "18:7",
+                "18:8",
+                "18:9",
+                "19:0",
+                "19:1",
+                "19:2",
+                "19:3",
+                "19:4",
+                "19:5",
+                "19:6",
+                "19:7"
+            ],
+            "MessageText": "Er selbst möchte in Holland bleiben . Dort fühlt er sich zuhause und hat seine Freunde . Zu seinen Eltern möchte er nicht zurück .",
+            "STWR": "Speech",
+            "Source": [
+                "17:0"
+            ],
+            "SourceText": "Er"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "20:15"
+            ],
+            "CueText": "so",
+            "Form": "Indirect",
+            "Frame": [
+                "20:14",
+                "20:15",
+                "20:16",
+                "20:17",
+                "20:18",
+                "20:19",
+                "20:20",
+                "20:21",
+                "20:22",
+                "20:23",
+                "20:24",
+                "20:25",
+                "20:26",
+                "20:27",
+                "20:28",
+                "20:29",
+                "20:30",
+                "20:31"
+            ],
+            "FrameText": ", so eine Information des Bundeskriminalamtes ( BKA ) in Wiesbaden nach der Bekanntgabe des Falles am Donnerstag",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "20:0",
+                "20:1",
+                "20:2",
+                "20:3",
+                "20:4",
+                "20:5",
+                "20:6",
+                "20:7",
+                "20:8",
+                "20:9",
+                "20:10",
+                "20:11",
+                "20:12",
+                "20:13"
+            ],
+            "MessageText": "Erfahrungsgemäß werden 99 Prozent aller vermissten Kinder in Deutschland innerhalb kürzester Zeit wieder gefunden",
+            "STWR": "SW",
+            "Source": [
+                "20:16",
+                "20:17",
+                "20:18",
+                "20:19",
+                "20:20",
+                "20:21",
+                "20:22",
+                "20:23",
+                "20:24"
+            ],
+            "SourceText": "eine Information des Bundeskriminalamtes ( BKA ) in Wiesbaden"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "21:0"
+            ],
+            "CueText": "Laut",
+            "Form": "Indirect",
+            "Frame": [
+                "21:0",
+                "21:1"
+            ],
+            "FrameText": "Laut BKA",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "21:2",
+                "21:3",
+                "21:4",
+                "21:5",
+                "21:6",
+                "21:7",
+                "21:8",
+                "21:9",
+                "21:10"
+            ],
+            "MessageText": "liegen bei den meisten Verschwindensfällen Streitigkeiten der Eltern vor",
+            "STWR": "SW",
+            "Source": [
+                "21:1"
+            ],
+            "SourceText": "BKA"
+        }
+    ],
+    "DocumentName": "21932 - Elterninitiative „Vermisste Kinder“ fand Kind nach sechs Jahren (2006-02-12)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Vor",
+                "knapp",
+                "sechs",
+                "Jahren",
+                ",",
+                "im",
+                "Juni",
+                "2000",
+                ",",
+                "verschwand",
+                "in",
+                "München",
+                "ein",
+                "kleiner",
+                "Junge",
+                "namens",
+                "Jean-Black",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Jetzt",
+                "wurde",
+                "er",
+                "mit",
+                "Hilfe",
+                "der",
+                "Internet-Suchseite",
+                "„",
+                "Gesuchte",
+                "Kinder",
+                "“",
+                "gefunden",
+                ":",
+                "in",
+                "Amsterdam",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Bekannt",
+                "wurde",
+                "das",
+                "Auffinden",
+                "des",
+                "Jungen",
+                "kongolesischer",
+                "Herkunft",
+                "am",
+                "Donnerstag",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Da",
+                "gab",
+                "die",
+                "Münchener",
+                "Polizei",
+                "die",
+                "erfreuliche",
+                "Nachricht",
+                "bekannt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "„",
+                "Gesuchte",
+                "Kinder",
+                "“",
+                "stellt",
+                "Fotos",
+                "vermisster",
+                "Kinder",
+                "ins",
+                "Internet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Ein",
+                "Sozialarbeiter",
+                "in",
+                "Amsterdam",
+                "hatte",
+                "das",
+                "Foto",
+                "dort",
+                "gesehen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Obwohl",
+                "der",
+                "Junge",
+                "mittlerweile",
+                "15",
+                "Jahre",
+                "alt",
+                "ist",
+                ",",
+                "hatte",
+                "er",
+                "ihn",
+                "erkannt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Der",
+                "Mann",
+                "verständigte",
+                "die",
+                "zuständigen",
+                "Behörden",
+                "in",
+                "Deutschland",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Danach",
+                "fand",
+                "ein",
+                "Treffen",
+                "des",
+                "Jungen",
+                "mit",
+                "seinen",
+                "Eltern",
+                "statt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Jetzt",
+                "ist",
+                "klar",
+                ",",
+                "dass",
+                "es",
+                "sich",
+                "um",
+                "den",
+                "gesuchten",
+                "Jungen",
+                "handelt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Ein",
+                "Polizeisprecher",
+                "erklärte",
+                ",",
+                "es",
+                "gehe",
+                "dem",
+                "Jungen",
+                "gut",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Die",
+                "Umstände",
+                "seines",
+                "Verschwindens",
+                "waren",
+                "mysteriös",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Sein",
+                "straffällig",
+                "gewordener",
+                "Vater",
+                "wurde",
+                "2000",
+                "verhaftet",
+                "und",
+                "ließ",
+                "den",
+                "Jungen",
+                "deshalb",
+                "unbeaufsichtigt",
+                "in",
+                "München",
+                "zurück",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Erst",
+                "im",
+                "Dezember",
+                "2001",
+                "wurde",
+                "das",
+                "Verschwinden",
+                "des",
+                "Jungen",
+                "an",
+                "die",
+                "Polizei",
+                "gemeldet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Der",
+                "Junge",
+                "war",
+                "aber",
+                "bereits",
+                "im",
+                "Sommer",
+                "2000",
+                "mit",
+                "einem",
+                "bisher",
+                "nicht",
+                "bekannten",
+                "Menschen",
+                "per",
+                "Bahn",
+                "nach",
+                "Den",
+                "Haag",
+                "gereist",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "Die",
+                "holländische",
+                "Polizei",
+                "übergab",
+                "den",
+                "Jungen",
+                "an",
+                "die",
+                "Jugendfürsorge",
+                "in",
+                "Den",
+                "Haag",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 16,
+            "Tokens": [
+                "Ob",
+                "der",
+                "Junge",
+                "nun",
+                "in",
+                "den",
+                "Niederlanden",
+                "bleibt",
+                "oder",
+                "nach",
+                "Deutschland",
+                "zurückkehrt",
+                ",",
+                "ist",
+                "unklar",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 17,
+            "Tokens": [
+                "Er",
+                "selbst",
+                "möchte",
+                "in",
+                "Holland",
+                "bleiben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 18,
+            "Tokens": [
+                "Dort",
+                "fühlt",
+                "er",
+                "sich",
+                "zuhause",
+                "und",
+                "hat",
+                "seine",
+                "Freunde",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 19,
+            "Tokens": [
+                "Zu",
+                "seinen",
+                "Eltern",
+                "möchte",
+                "er",
+                "nicht",
+                "zurück",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 20,
+            "Tokens": [
+                "Erfahrungsgemäß",
+                "werden",
+                "99",
+                "Prozent",
+                "aller",
+                "vermissten",
+                "Kinder",
+                "in",
+                "Deutschland",
+                "innerhalb",
+                "kürzester",
+                "Zeit",
+                "wieder",
+                "gefunden",
+                ",",
+                "so",
+                "eine",
+                "Information",
+                "des",
+                "Bundeskriminalamtes",
+                "(",
+                "BKA",
+                ")",
+                "in",
+                "Wiesbaden",
+                "nach",
+                "der",
+                "Bekanntgabe",
+                "des",
+                "Falles",
+                "am",
+                "Donnerstag",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 21,
+            "Tokens": [
+                "Laut",
+                "BKA",
+                "liegen",
+                "bei",
+                "den",
+                "meisten",
+                "Verschwindensfällen",
+                "Streitigkeiten",
+                "der",
+                "Eltern",
+                "vor",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 22,
+            "Tokens": [
+                "Meistens",
+                "geht",
+                "es",
+                "um",
+                "Sorgerechtsfälle",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 23,
+            "Tokens": [
+                "Oftmals",
+                "stammen",
+                "die",
+                "beiden",
+                "Eltern",
+                "nicht",
+                "aus",
+                "dem",
+                "gleichen",
+                "Land",
+                "und",
+                "die",
+                "unterschiedlichen",
+                "Kulturen",
+                "führen",
+                "zu",
+                "krassen",
+                "Gegensätzen",
+                "in",
+                "der",
+                "Erziehung",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 24,
+            "Tokens": [
+                "Infolgedessen",
+                "verschwinden",
+                "öfter",
+                "Kinder",
+                "."
+            ]
+        }
+    ]
+}

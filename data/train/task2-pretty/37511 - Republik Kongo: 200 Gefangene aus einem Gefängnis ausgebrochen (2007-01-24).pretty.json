@@ -1,0 +1,820 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "0:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3"
+            ],
+            "FrameText": "Nach Angaben der Sicherheitsbehörden",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "0:4",
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8",
+                "0:9",
+                "0:10",
+                "0:11",
+                "0:12",
+                "0:13",
+                "0:14",
+                "0:15",
+                "0:16",
+                "0:17",
+                "0:18",
+                "0:19",
+                "0:20",
+                "0:21",
+                "0:22",
+                "0:23",
+                "0:24"
+            ],
+            "MessageText": "sind in der gestrigen Nacht etwa 200 Gefangene aus einem Gefängnis in Brazzaville , der Hauptstadt der Republik Kongo , ausgebrochen",
+            "STWR": "Speech",
+            "Source": [
+                "0:1",
+                "0:2",
+                "0:3"
+            ],
+            "SourceText": "Angaben der Sicherheitsbehörden"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:8"
+            ],
+            "CueText": "sagte",
+            "Form": "Indirect",
+            "Frame": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8",
+                "1:9"
+            ],
+            "FrameText": "Gabriel Entcha-Ebia , der Justizminister des Landes , sagte ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:10",
+                "1:11",
+                "1:12",
+                "1:13",
+                "1:14",
+                "1:15",
+                "1:16",
+                "1:17",
+                "1:18",
+                "1:19",
+                "1:20"
+            ],
+            "MessageText": "dass sich durch den Ausbruch der Gefangenen ein Sicherheitsproblem ergeben könne",
+            "STWR": "Speech",
+            "Source": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6"
+            ],
+            "SourceText": "Gabriel Entcha-Ebia , der Justizminister des Landes"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:9"
+            ],
+            "CueText": "so",
+            "Form": "Indirect",
+            "Frame": [
+                "2:8",
+                "2:9",
+                "2:10",
+                "2:11"
+            ],
+            "FrameText": ", so der Justizminister",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7"
+            ],
+            "MessageText": "Einige der Inhaftierten hätten Verbindungen zur organisierten Kriminalität",
+            "STWR": "Speech",
+            "Source": [
+                "2:10",
+                "2:11"
+            ],
+            "SourceText": "der Justizminister"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:1"
+            ],
+            "CueText": "zufolge",
+            "Form": "Indirect",
+            "Frame": [
+                "3:0",
+                "3:1"
+            ],
+            "FrameText": "Medienberichten zufolge",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10"
+            ],
+            "MessageText": "war es vor dem Ausbruch zu einer Revolte gekommen",
+            "STWR": "SW",
+            "Source": [],
+            "SourceText": ""
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "FreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10",
+                "4:11",
+                "4:12",
+                "4:13",
+                "4:14"
+            ],
+            "MessageText": "Auslöser für die Revolte soll die schlechte Versorgung der Häftlinge mit Lebensmitteln gewesen sein .",
+            "STWR": "SW",
+            "Source": [
+                "3:0"
+            ],
+            "SourceText": "Medienberichten"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "6:4"
+            ],
+            "CueText": "laut",
+            "Form": "Indirect",
+            "Frame": [
+                "6:4",
+                "6:5",
+                "6:6",
+                "6:7"
+            ],
+            "FrameText": "laut Nachrichtenagentur Reuters ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3"
+            ],
+            "MessageText": "Heute bestätigte Gabriel Entcha-Ebia",
+            "STWR": "Writing",
+            "Source": [
+                "6:5",
+                "6:6"
+            ],
+            "SourceText": "Nachrichtenagentur Reuters"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "6:4"
+            ],
+            "CueText": "laut",
+            "Form": "Indirect",
+            "Frame": [
+                "6:4",
+                "6:5",
+                "6:6",
+                "6:7"
+            ],
+            "FrameText": "laut Nachrichtenagentur Reuters ,",
+            "HasNested": true,
+            "IsNested": true,
+            "Message": [
+                "6:8",
+                "6:9",
+                "6:10",
+                "6:11",
+                "6:12",
+                "6:13",
+                "6:14",
+                "6:15",
+                "6:16",
+                "6:17"
+            ],
+            "MessageText": "dass es im Gefängnis ein Problem mit der Nahrungsversorgung gibt",
+            "STWR": "Writing",
+            "Source": [
+                "6:5",
+                "6:6"
+            ],
+            "SourceText": "Nachrichtenagentur Reuters"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "6:1"
+            ],
+            "CueText": "bestätigte",
+            "Form": "Indirect",
+            "Frame": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3"
+            ],
+            "FrameText": "Heute bestätigte Gabriel Entcha-Ebia",
+            "HasNested": true,
+            "IsNested": true,
+            "Message": [
+                "6:8",
+                "6:9",
+                "6:10",
+                "6:11",
+                "6:12",
+                "6:13",
+                "6:14",
+                "6:15",
+                "6:16",
+                "6:17"
+            ],
+            "MessageText": "dass es im Gefängnis ein Problem mit der Nahrungsversorgung gibt",
+            "STWR": "Speech",
+            "Source": [
+                "6:2",
+                "6:3"
+            ],
+            "SourceText": "Gabriel Entcha-Ebia"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "9:4"
+            ],
+            "CueText": "berichtet",
+            "Form": "Indirect",
+            "Frame": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3",
+                "9:4",
+                "9:5",
+                "9:6",
+                "9:7",
+                "9:8",
+                "9:9",
+                "9:10"
+            ],
+            "FrameText": "„ BBC News “ berichtet unter Berufung auf einen Gefängniswärter ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "9:11",
+                "9:12",
+                "9:13",
+                "9:14",
+                "9:15",
+                "9:16",
+                "9:17",
+                "9:18",
+                "9:19",
+                "9:20",
+                "9:21",
+                "9:22",
+                "9:23",
+                "9:24",
+                "9:25",
+                "9:26",
+                "9:27",
+                "9:28",
+                "9:29"
+            ],
+            "MessageText": "dass die Gefangenen zunächst die Türen ihrer Zellen aufgebrochen haben und anschließend durch das Haupttor des Gebäudes ausgebrochen sind",
+            "STWR": "Speech",
+            "Source": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3"
+            ],
+            "SourceText": "„ BBC News “"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "10:4",
+                "10:5"
+            ],
+            "CueText": "einer Warnung",
+            "Form": "Indirect",
+            "Frame": [
+                "10:0",
+                "10:1",
+                "10:2",
+                "10:3",
+                "10:4",
+                "10:5",
+                "10:6",
+                "10:7",
+                "10:8"
+            ],
+            "FrameText": "Der Ausbruch erfolgte trotz einer Warnung der Wärter ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "10:9",
+                "10:10",
+                "10:11",
+                "10:12",
+                "10:13"
+            ],
+            "MessageText": "auf fliehende Häftlinge zu schießen",
+            "STWR": "Speech",
+            "Source": [
+                "10:6",
+                "10:7"
+            ],
+            "SourceText": "der Wärter"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "15:6"
+            ],
+            "CueText": "laut",
+            "Form": "Indirect",
+            "Frame": [
+                "15:6",
+                "15:7"
+            ],
+            "FrameText": "laut Gefängnisdirektion",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "15:0",
+                "15:1",
+                "15:2",
+                "15:3",
+                "15:4",
+                "15:5",
+                "15:8",
+                "15:9",
+                "15:10",
+                "15:11",
+                "15:12"
+            ],
+            "MessageText": "Zur Zeit des Ausbruchs haben sich 502 Menschen im Gebäude befunden",
+            "STWR": "Speech",
+            "Source": [
+                "15:7"
+            ],
+            "SourceText": "Gefängnisdirektion"
+        }
+    ],
+    "DocumentName": "37511 - Republik Kongo: 200 Gefangene aus einem Gefängnis ausgebrochen (2007-01-24)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Nach",
+                "Angaben",
+                "der",
+                "Sicherheitsbehörden",
+                "sind",
+                "in",
+                "der",
+                "gestrigen",
+                "Nacht",
+                "etwa",
+                "200",
+                "Gefangene",
+                "aus",
+                "einem",
+                "Gefängnis",
+                "in",
+                "Brazzaville",
+                ",",
+                "der",
+                "Hauptstadt",
+                "der",
+                "Republik",
+                "Kongo",
+                ",",
+                "ausgebrochen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Gabriel",
+                "Entcha-Ebia",
+                ",",
+                "der",
+                "Justizminister",
+                "des",
+                "Landes",
+                ",",
+                "sagte",
+                ",",
+                "dass",
+                "sich",
+                "durch",
+                "den",
+                "Ausbruch",
+                "der",
+                "Gefangenen",
+                "ein",
+                "Sicherheitsproblem",
+                "ergeben",
+                "könne",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Einige",
+                "der",
+                "Inhaftierten",
+                "hätten",
+                "Verbindungen",
+                "zur",
+                "organisierten",
+                "Kriminalität",
+                ",",
+                "so",
+                "der",
+                "Justizminister",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Medienberichten",
+                "zufolge",
+                "war",
+                "es",
+                "vor",
+                "dem",
+                "Ausbruch",
+                "zu",
+                "einer",
+                "Revolte",
+                "gekommen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Auslöser",
+                "für",
+                "die",
+                "Revolte",
+                "soll",
+                "die",
+                "schlechte",
+                "Versorgung",
+                "der",
+                "Häftlinge",
+                "mit",
+                "Lebensmitteln",
+                "gewesen",
+                "sein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "So",
+                "erhalten",
+                "die",
+                "Gefangenen",
+                "nur",
+                "eine",
+                "Mahlzeit",
+                "am",
+                "Tag",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Heute",
+                "bestätigte",
+                "Gabriel",
+                "Entcha-Ebia",
+                "laut",
+                "Nachrichtenagentur",
+                "Reuters",
+                ",",
+                "dass",
+                "es",
+                "im",
+                "Gefängnis",
+                "ein",
+                "Problem",
+                "mit",
+                "der",
+                "Nahrungsversorgung",
+                "gibt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Der",
+                "Minister",
+                "kündigte",
+                "eine",
+                "Lösung",
+                "des",
+                "Problems",
+                "an",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Menschenrechtsorganisationen",
+                "haben",
+                "die",
+                "Zustände",
+                "im",
+                "Zentralgefängnis",
+                "von",
+                "Brazzaville",
+                "mehrmals",
+                "kritisiert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "„",
+                "BBC",
+                "News",
+                "“",
+                "berichtet",
+                "unter",
+                "Berufung",
+                "auf",
+                "einen",
+                "Gefängniswärter",
+                ",",
+                "dass",
+                "die",
+                "Gefangenen",
+                "zunächst",
+                "die",
+                "Türen",
+                "ihrer",
+                "Zellen",
+                "aufgebrochen",
+                "haben",
+                "und",
+                "anschließend",
+                "durch",
+                "das",
+                "Haupttor",
+                "des",
+                "Gebäudes",
+                "ausgebrochen",
+                "sind",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Der",
+                "Ausbruch",
+                "erfolgte",
+                "trotz",
+                "einer",
+                "Warnung",
+                "der",
+                "Wärter",
+                ",",
+                "auf",
+                "fliehende",
+                "Häftlinge",
+                "zu",
+                "schießen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Ein",
+                "Gefangener",
+                "starb",
+                "beim",
+                "Ausbruch",
+                "an",
+                "einer",
+                "Schussverletzung",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Das",
+                "1938",
+                "während",
+                "der",
+                "französischen",
+                "Kolonialherrschaft",
+                "erbaute",
+                "Zentralgefängnis",
+                "von",
+                "Brazzaville",
+                "ist",
+                "für",
+                "etwa",
+                "100",
+                "Gefangene",
+                "ausgerichtet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Häufig",
+                "sind",
+                "aber",
+                "wesentlich",
+                "mehr",
+                "Häftlinge",
+                "inhaftiert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Oft",
+                "sollen",
+                "mehr",
+                "als",
+                "400",
+                "Gefangene",
+                "im",
+                "Zentralgefängnis",
+                "einsitzen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "Zur",
+                "Zeit",
+                "des",
+                "Ausbruchs",
+                "haben",
+                "sich",
+                "laut",
+                "Gefängnisdirektion",
+                "502",
+                "Menschen",
+                "im",
+                "Gebäude",
+                "befunden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 16,
+            "Tokens": [
+                "Bereits",
+                "im",
+                "April",
+                "2006",
+                "war",
+                "es",
+                "wegen",
+                "der",
+                "schlechten",
+                "Versorgung",
+                "der",
+                "Häftlinge",
+                "zu",
+                "einem",
+                "Zwischenfall",
+                "gekommen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 17,
+            "Tokens": [
+                "Damals",
+                "hatten",
+                "Häftlinge",
+                "den",
+                "Gefängnisdirektor",
+                "für",
+                "einige",
+                "Stunden",
+                "als",
+                "Geisel",
+                "genommen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 18,
+            "Tokens": [
+                "Nachdem",
+                "die",
+                "Regierung",
+                "den",
+                "Gefängnisinsassen",
+                "mehr",
+                "Essen",
+                "zur",
+                "Verfügung",
+                "gestellt",
+                "hatte",
+                ",",
+                "wurde",
+                "der",
+                "Gefängnisdirektor",
+                "freigelassen",
+                "."
+            ]
+        }
+    ]
+}

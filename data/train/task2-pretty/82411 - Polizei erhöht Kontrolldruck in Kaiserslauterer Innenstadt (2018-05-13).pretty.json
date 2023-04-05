@@ -1,0 +1,531 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "0:4",
+                "0:5"
+            ],
+            "CueText": "bekannt gab",
+            "Form": "Indirect",
+            "Frame": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4",
+                "0:5",
+                "0:6"
+            ],
+            "FrameText": "Wie das Polizeipräsidium Westpfalz bekannt gab ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "0:7",
+                "0:8",
+                "0:9",
+                "0:10",
+                "0:11",
+                "0:12",
+                "0:13",
+                "0:14",
+                "0:15",
+                "0:16",
+                "0:17",
+                "0:18",
+                "0:19",
+                "0:20",
+                "0:21"
+            ],
+            "MessageText": "wird es künftig rund um die Mall '' K-in-Lautern '' in Kaiserslautern mehr Polizeikontrollen geben",
+            "STWR": "SW",
+            "Source": [
+                "0:1",
+                "0:2",
+                "0:3"
+            ],
+            "SourceText": "das Polizeipräsidium Westpfalz"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:5"
+            ],
+            "CueText": "nach",
+            "Form": "Indirect",
+            "Frame": [
+                "1:3",
+                "1:4",
+                "1:5"
+            ],
+            "FrameText": "dem Vernehmen nach",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:6",
+                "1:7",
+                "1:8",
+                "1:9",
+                "1:10",
+                "1:11",
+                "1:12",
+                "1:13"
+            ],
+            "MessageText": "Dort treffen sich zunehmend stark alkoholisierte Gruppen , die Menschen anpöbeln",
+            "STWR": "SW",
+            "Source": [
+                "1:3",
+                "1:4"
+            ],
+            "SourceText": "dem Vernehmen"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9",
+                "2:10",
+                "2:11",
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10",
+                "3:11"
+            ],
+            "MessageText": "Es sei wiederholt zur Straftaten insbesondere Diebstahl und Körperverletzung , gekommen . Mit den Kontrollen solle das Sicherheitsgefühl der Bürger wieder erhöht werden .",
+            "STWR": "SW",
+            "Source": [
+                "0:1",
+                "0:2",
+                "0:3"
+            ],
+            "SourceText": "das Polizeipräsidium Westpfalz"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "7:1",
+                "7:2"
+            ],
+            "CueText": "gaben an",
+            "Form": "Indirect",
+            "Frame": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3"
+            ],
+            "FrameText": "Menschen gaben an ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7",
+                "7:8",
+                "7:9"
+            ],
+            "MessageText": "sich auch dort unsicher zu fühlen",
+            "STWR": "SW",
+            "Source": [
+                "7:0"
+            ],
+            "SourceText": "Menschen"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "9:1"
+            ],
+            "CueText": "beteuerte",
+            "Form": "Indirect",
+            "Frame": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3",
+                "9:4"
+            ],
+            "FrameText": "Dagegen beteuerte die Polizei ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "9:5",
+                "9:6",
+                "9:7",
+                "9:8",
+                "9:9",
+                "9:10",
+                "9:11",
+                "9:12",
+                "9:13"
+            ],
+            "MessageText": "ständig rund um den Hauptbahnhof auf Streife zu sein",
+            "STWR": "SW",
+            "Source": [
+                "9:2",
+                "9:3"
+            ],
+            "SourceText": "die Polizei"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "10:0",
+                "10:1",
+                "10:2",
+                "10:3",
+                "10:4",
+                "10:5",
+                "10:6",
+                "10:7",
+                "10:8",
+                "10:9",
+                "10:10",
+                "10:11",
+                "10:12",
+                "10:13",
+                "11:0",
+                "11:1",
+                "11:2",
+                "11:3",
+                "11:4",
+                "11:5",
+                "11:6",
+                "11:7",
+                "11:8",
+                "11:9",
+                "11:10",
+                "11:11",
+                "11:12",
+                "11:13",
+                "11:14",
+                "11:15",
+                "11:16",
+                "11:17",
+                "12:0",
+                "12:1",
+                "12:2",
+                "12:3",
+                "12:4",
+                "12:5",
+                "12:6",
+                "12:7",
+                "12:8",
+                "12:9",
+                "12:10",
+                "12:11",
+                "12:12",
+                "12:13",
+                "12:14",
+                "12:15"
+            ],
+            "MessageText": "Es bestehe trotz des tödlichen Ereignisses keinen Anlass , die Polizeipräsenz zu erhöhen . Vielmehr handele es sich um einen tragischen Einzelfall , wenngleich der Polizei die Probleme durchaus bekannt seien . Das Bahnhofsviertel sei dennoch insgesamt kein Problemgebiet , an dem mehr los sei als sonst .",
+            "STWR": "SW",
+            "Source": [
+                "9:2",
+                "9:3"
+            ],
+            "SourceText": "die Polizei"
+        }
+    ],
+    "DocumentName": "82411 - Polizei erhöht Kontrolldruck in Kaiserslauterer Innenstadt (2018-05-13)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Wie",
+                "das",
+                "Polizeipräsidium",
+                "Westpfalz",
+                "bekannt",
+                "gab",
+                ",",
+                "wird",
+                "es",
+                "künftig",
+                "rund",
+                "um",
+                "die",
+                "Mall",
+                "''",
+                "K-in-Lautern",
+                "''",
+                "in",
+                "Kaiserslautern",
+                "mehr",
+                "Polizeikontrollen",
+                "geben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Dort",
+                "treffen",
+                "sich",
+                "dem",
+                "Vernehmen",
+                "nach",
+                "zunehmend",
+                "stark",
+                "alkoholisierte",
+                "Gruppen",
+                ",",
+                "die",
+                "Menschen",
+                "anpöbeln",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Es",
+                "sei",
+                "wiederholt",
+                "zur",
+                "Straftaten",
+                "insbesondere",
+                "Diebstahl",
+                "und",
+                "Körperverletzung",
+                ",",
+                "gekommen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Mit",
+                "den",
+                "Kontrollen",
+                "solle",
+                "das",
+                "Sicherheitsgefühl",
+                "der",
+                "Bürger",
+                "wieder",
+                "erhöht",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Vor",
+                "allem",
+                "in",
+                "sozialen",
+                "Netzwerken",
+                "hatten",
+                "Anwohner",
+                "ihre",
+                "Unsicherheit",
+                "zum",
+                "Ausdruck",
+                "gebracht",
+                ",",
+                "nachdem",
+                "es",
+                "zu",
+                "zwei",
+                "Todesfällen",
+                "gekommen",
+                "war",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Anders",
+                "wird",
+                "offenbar",
+                "die",
+                "Lage",
+                "am",
+                "Hauptbahnhof",
+                "eingeschätzt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Dort",
+                "war",
+                "es",
+                "erst",
+                "unlängst",
+                "zu",
+                "einer",
+                "Schlägerei",
+                "mit",
+                "tödlichem",
+                "Ausgang",
+                "gekommen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Menschen",
+                "gaben",
+                "an",
+                ",",
+                "sich",
+                "auch",
+                "dort",
+                "unsicher",
+                "zu",
+                "fühlen",
+                ";"
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "vor",
+                "allem",
+                "Frauen",
+                "machen",
+                "im",
+                "Dunkeln",
+                "lieber",
+                "einen",
+                "Bogen",
+                "um",
+                "den",
+                "Bahnhofsvorplatz",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Dagegen",
+                "beteuerte",
+                "die",
+                "Polizei",
+                ",",
+                "ständig",
+                "rund",
+                "um",
+                "den",
+                "Hauptbahnhof",
+                "auf",
+                "Streife",
+                "zu",
+                "sein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Es",
+                "bestehe",
+                "trotz",
+                "des",
+                "tödlichen",
+                "Ereignisses",
+                "keinen",
+                "Anlass",
+                ",",
+                "die",
+                "Polizeipräsenz",
+                "zu",
+                "erhöhen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Vielmehr",
+                "handele",
+                "es",
+                "sich",
+                "um",
+                "einen",
+                "tragischen",
+                "Einzelfall",
+                ",",
+                "wenngleich",
+                "der",
+                "Polizei",
+                "die",
+                "Probleme",
+                "durchaus",
+                "bekannt",
+                "seien",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Das",
+                "Bahnhofsviertel",
+                "sei",
+                "dennoch",
+                "insgesamt",
+                "kein",
+                "Problemgebiet",
+                ",",
+                "an",
+                "dem",
+                "mehr",
+                "los",
+                "sei",
+                "als",
+                "sonst",
+                "."
+            ]
+        }
+    ]
+}

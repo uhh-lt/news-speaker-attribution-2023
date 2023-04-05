@@ -1,0 +1,177 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10"
+            ],
+            "MessageText": "Der spanische Rundfunk berichtet von einem Unwetter während des Fluges .",
+            "STWR": "Speech",
+            "Source": [
+                "4:0",
+                "4:1",
+                "4:2"
+            ],
+            "SourceText": "Der spanische Rundfunk"
+        }
+    ],
+    "DocumentName": "20929 - Spanisches Jagdflugzeug bei Übungsflug abgestürzt (2006-01-29)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Bei",
+                "einem",
+                "Übungsflug",
+                "ist",
+                "ein",
+                "Jagdflugzeug",
+                "der",
+                "spanischen",
+                "Luftwaffe",
+                "abgestürzt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Dabei",
+                "handelt",
+                "es",
+                "sich",
+                "um",
+                "eine",
+                "Maschine",
+                "des",
+                "Typs",
+                "Northrop",
+                "F-5."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Das",
+                "Flugzeug",
+                "war",
+                "mit",
+                "einem",
+                "31-jährigen",
+                "Fluglehrer",
+                "und",
+                "seinem",
+                "24-jährigen",
+                "Schüler",
+                "besetzt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Beide",
+                "starben",
+                "bei",
+                "dem",
+                "Unfall",
+                "in",
+                "der",
+                "Nähe",
+                "des",
+                "Luftwaffenstützpunktes",
+                "Talavera",
+                "la",
+                "Real",
+                "in",
+                "Badajoz",
+                "im",
+                "Südwesten",
+                "des",
+                "Landes",
+                "nahe",
+                "der",
+                "portugiesischen",
+                "Grenze",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Der",
+                "spanische",
+                "Rundfunk",
+                "berichtet",
+                "von",
+                "einem",
+                "Unwetter",
+                "während",
+                "des",
+                "Fluges",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Das",
+                "Flugzeug",
+                "verschwand",
+                "kurz",
+                "nach",
+                "zwölf",
+                "Uhr",
+                "mittags",
+                "über",
+                "der",
+                "Stadt",
+                "Burguillos",
+                "del",
+                "Cerro",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Ein",
+                "Bergungsteam",
+                "der",
+                "„",
+                "Guardia",
+                "Civil",
+                "“",
+                "hatte",
+                "die",
+                "beiden",
+                "Leichen",
+                "dann",
+                "auch",
+                "in",
+                "der",
+                "Nähe",
+                "gefunden",
+                "."
+            ]
+        }
+    ]
+}

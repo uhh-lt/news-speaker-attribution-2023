@@ -1,0 +1,393 @@
+{
+    "Annotations": [
+        {
+            "Addr": [
+                "2:0",
+                "2:1"
+            ],
+            "AddrText": "Der Ex-Ministerpräsidentin",
+            "Cue": [
+                "2:2",
+                "2:3"
+            ],
+            "CueText": "wird vorgeworfen",
+            "Form": "Indirect",
+            "Frame": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4"
+            ],
+            "FrameText": "Der Ex-Ministerpräsidentin wird vorgeworfen ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9",
+                "2:10",
+                "2:11",
+                "2:12",
+                "2:13",
+                "2:14",
+                "2:15",
+                "2:16",
+                "2:17",
+                "2:18",
+                "2:19",
+                "2:20",
+                "2:21",
+                "2:22"
+            ],
+            "MessageText": "Anfang 2009 einen für die Ukraine nachteiligen Gasvertrag mit Russland ohne die Zustimmung des Kabinetts geschlossen zu haben",
+            "STWR": "SW",
+            "Source": [],
+            "SourceText": ""
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10"
+            ],
+            "MessageText": "Sie habe sich in Vertragsverhandlungen eingemischt und ihre Amtsbefugnisse überschritten .",
+            "STWR": "SW",
+            "Source": [],
+            "SourceText": ""
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "FreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7",
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11",
+                "7:12",
+                "7:13",
+                "7:14",
+                "7:15",
+                "7:16",
+                "7:17",
+                "7:18"
+            ],
+            "MessageText": "Timoschenko soll jedoch neben der Haftstrafe wegen besonders schwerer Schuld drei Jahre lang nicht mehr politisch arbeiten dürfen .",
+            "STWR": "SW",
+            "Source": [
+                "6:4",
+                "6:5"
+            ],
+            "SourceText": "die Staatsanwaltschaft"
+        }
+    ],
+    "DocumentName": "69852 - Anklage fordert 7 Jahre Haft für Timoschenko (2011-09-27)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Im",
+                "Prozess",
+                "gegen",
+                "die",
+                "frühere",
+                "ukrainische",
+                "Regierungschefin",
+                "Julia",
+                "Timoschenko",
+                "hat",
+                "die",
+                "Anklage",
+                "eine",
+                "siebenjährige",
+                "Haftstrafe",
+                "gefordert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Die",
+                "Politikerin",
+                "sitzt",
+                "seit",
+                "Anfang",
+                "August",
+                "2011",
+                "in",
+                "Untersuchungshaft",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Der",
+                "Ex-Ministerpräsidentin",
+                "wird",
+                "vorgeworfen",
+                ",",
+                "Anfang",
+                "2009",
+                "einen",
+                "für",
+                "die",
+                "Ukraine",
+                "nachteiligen",
+                "Gasvertrag",
+                "mit",
+                "Russland",
+                "ohne",
+                "die",
+                "Zustimmung",
+                "des",
+                "Kabinetts",
+                "geschlossen",
+                "zu",
+                "haben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Sie",
+                "habe",
+                "sich",
+                "in",
+                "Vertragsverhandlungen",
+                "eingemischt",
+                "und",
+                "ihre",
+                "Amtsbefugnisse",
+                "überschritten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Der",
+                "Prozess",
+                "wurde",
+                "am",
+                "Dienstag",
+                "nach",
+                "einer",
+                "zweiwöchigen",
+                "Pause",
+                "fortgesetzt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Die",
+                "Anklage",
+                "gibt",
+                "den",
+                "Schaden",
+                "durch",
+                "den",
+                "Vertrag",
+                "mit",
+                "umgerechnet",
+                "137",
+                "Millionen",
+                "Euro",
+                "für",
+                "die",
+                "Ukraine",
+                "an",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Mit",
+                "ihrer",
+                "Forderung",
+                "blieb",
+                "die",
+                "Staatsanwaltschaft",
+                "unter",
+                "der",
+                "möglichen",
+                "Höchststrafe",
+                "von",
+                "zehn",
+                "Jahren",
+                "Haft",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Timoschenko",
+                "soll",
+                "jedoch",
+                "neben",
+                "der",
+                "Haftstrafe",
+                "wegen",
+                "besonders",
+                "schwerer",
+                "Schuld",
+                "drei",
+                "Jahre",
+                "lang",
+                "nicht",
+                "mehr",
+                "politisch",
+                "arbeiten",
+                "dürfen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Der",
+                "Richter",
+                "lehnte",
+                "die",
+                "Forderung",
+                "der",
+                "Verteidigung",
+                ",",
+                "Beweise",
+                "für",
+                "die",
+                "Unschuld",
+                "Timoschenko",
+                "´",
+                "s",
+                "erneut",
+                "zu",
+                "prüfen",
+                ",",
+                "ab",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Timoschenko",
+                "bezeichnete",
+                "den",
+                "Prozess",
+                "als",
+                "politische",
+                "Inszenierung",
+                "von",
+                "Präsident",
+                "Viktor",
+                "Janukowitsch",
+                "und",
+                "beteuerte",
+                "ihre",
+                "Unschuld",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Die",
+                "EU",
+                "und",
+                "die",
+                "USA",
+                "hatten",
+                "das",
+                "Verfahren",
+                "ebenfalls",
+                "kritisiert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Vor",
+                "dem",
+                "Gerichtsgebäude",
+                "kam",
+                "es",
+                "unterdessen",
+                "wieder",
+                "zu",
+                "Auseinandersetzungen",
+                "zwischen",
+                "der",
+                "Polizei",
+                "und",
+                "Anhängern",
+                "der",
+                "oppositionellen",
+                "Politikerin",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Links"
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Julia",
+                "Timoschenko",
+                "zu",
+                "sieben",
+                "Jahren",
+                "Haft",
+                "verurteilt",
+                "(",
+                "12.10.2011",
+                ")"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,691 @@
+{
+    "Annotations": [
+        {
+            "Addr": [
+                "17:11",
+                "17:12",
+                "17:13"
+            ],
+            "AddrText": "dem Hamburger Abendblatt",
+            "Cue": [
+                "17:9"
+            ],
+            "CueText": "äußerte",
+            "Form": "Direct",
+            "Frame": [
+                "17:0",
+                "17:1",
+                "17:2",
+                "17:3",
+                "17:4",
+                "17:5",
+                "17:6",
+                "17:7",
+                "17:8",
+                "17:9",
+                "17:10",
+                "17:11",
+                "17:12",
+                "17:13",
+                "17:14"
+            ],
+            "FrameText": "Erik Schweickert , der verbraucherschutzpolitische Sprecher der FDP-Bundestagsfraktion , äußerte gegenüber dem Hamburger Abendblatt :",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "18:0",
+                "18:1",
+                "18:2",
+                "18:3",
+                "18:4",
+                "18:5",
+                "18:6",
+                "18:7",
+                "19:0",
+                "19:1",
+                "19:2",
+                "19:3",
+                "19:4",
+                "19:5",
+                "19:6",
+                "19:7",
+                "19:8",
+                "19:9",
+                "19:10",
+                "19:11",
+                "19:12",
+                "19:13",
+                "19:14",
+                "19:15",
+                "19:16",
+                "19:17",
+                "20:0"
+            ],
+            "MessageText": "„ Wir sehen die Umsetzung auch kritisch . Viele Firmen , die sich an die Gesetze halten , könnten trotzdem an den Pranger gestellt werden . “",
+            "STWR": "Speech",
+            "Source": [
+                "17:0",
+                "17:1",
+                "17:2",
+                "17:3",
+                "17:4",
+                "17:5",
+                "17:6",
+                "17:7"
+            ],
+            "SourceText": "Erik Schweickert , der verbraucherschutzpolitische Sprecher der FDP-Bundestagsfraktion"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "21:9"
+            ],
+            "CueText": "kritisierte",
+            "Form": "Direct",
+            "Frame": [
+                "21:0",
+                "21:1",
+                "21:2",
+                "21:3",
+                "21:4",
+                "21:5",
+                "21:6",
+                "21:7",
+                "21:8",
+                "21:9",
+                "21:10"
+            ],
+            "FrameText": "Christel Happach-Kasan , die ernährungspolitische Sprecherin der FDP-Fraktion , kritisierte :",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "21:11",
+                "21:12",
+                "21:13",
+                "21:14",
+                "21:15",
+                "21:16",
+                "21:17",
+                "21:18",
+                "21:19",
+                "21:20",
+                "21:21",
+                "21:22",
+                "21:23",
+                "21:24",
+                "21:25",
+                "21:26",
+                "21:27"
+            ],
+            "MessageText": "„ Öffentlich finanzierte Stellen sollten über Hygienemaßnahmen aufklären , statt sich mit irreführenden Produktbezeichnungen zu beschäftigen “",
+            "STWR": "Speech",
+            "Source": [
+                "21:0",
+                "21:1",
+                "21:2",
+                "21:3",
+                "21:4",
+                "21:5",
+                "21:6",
+                "21:7"
+            ],
+            "SourceText": "Christel Happach-Kasan , die ernährungspolitische Sprecherin der FDP-Fraktion"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "25:0",
+                "25:1",
+                "25:2",
+                "25:3",
+                "25:4",
+                "25:5",
+                "25:6",
+                "25:7",
+                "25:8",
+                "25:9",
+                "25:10",
+                "25:11",
+                "25:12",
+                "25:13",
+                "25:14",
+                "25:15",
+                "25:16",
+                "25:17",
+                "25:18"
+            ],
+            "MessageText": "Sie fordert gesetzliche Regelungen zur Kennzeichnung von Lebensmitteln , die beispielsweise vor Dickmachern wie Fetten und Zucker warnt .",
+            "STWR": "Speech",
+            "Source": [
+                "25:0"
+            ],
+            "SourceText": "Sie"
+        }
+    ],
+    "DocumentName": "69135 - Lebensmittelklarheit.de geht online und dann in die Knie (2011-07-20)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Gerade",
+                "ins",
+                "Netz",
+                "gegangen",
+                "bricht",
+                "die",
+                "Seite",
+                "„",
+                "Lebensmittelklarheit.de",
+                "“",
+                "wegen",
+                "der",
+                "vielen",
+                "Anfragen",
+                "zusammen",
+                "und",
+                "ist",
+                "nicht",
+                "mehr",
+                "erreichbar",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Bis",
+                "zu",
+                "20.000",
+                "Anfragen",
+                "in",
+                "der",
+                "Sekunde",
+                "waren",
+                "zu",
+                "viel",
+                "für",
+                "die",
+                "Seite",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Ute",
+                "Bitter",
+                "ist",
+                "Sprecherin",
+                "der",
+                "Verbraucherzentrale",
+                "Hessen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Von",
+                "dort",
+                "wird",
+                "das",
+                "Verbraucherportal",
+                "betreut",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Mittwoch",
+                "war",
+                "die",
+                "Seite",
+                "freigeschaltet",
+                "worden",
+                ",",
+                "begleitet",
+                "von",
+                "unerwartet",
+                "hohem",
+                "Interesse",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Scharenweise",
+                "wollten",
+                "sich",
+                "die",
+                "Verbraucher",
+                "informieren",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Dies",
+                "führte",
+                "dazu",
+                ",",
+                "dass",
+                "die",
+                "Seite",
+                "nicht",
+                "mehr",
+                "aufgerufen",
+                "werden",
+                "konnte",
+                "oder",
+                "die",
+                "Anzeigen",
+                "mit",
+                "erheblichen",
+                "Verzögerungen",
+                "erschienen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Klarheit",
+                "und",
+                "Wahrheit",
+                "will",
+                "die",
+                "Seite",
+                "über",
+                "und",
+                "bei",
+                "der",
+                "Kennzeichnung",
+                "von",
+                "Lebensmitteln",
+                "schaffen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Informiert",
+                "wird",
+                "beispielsweise",
+                "über",
+                "Käse",
+                ",",
+                "der",
+                "keine",
+                "Milch",
+                "enthält",
+                ",",
+                "Erdbeerjoghurt",
+                "ohne",
+                "Erdbeeren",
+                "und",
+                "Schinkenimitate",
+                ",",
+                "bei",
+                "denen",
+                "ein",
+                "Teil",
+                "des",
+                "Fleisches",
+                "durch",
+                "Stärke-Gel",
+                "ersetzt",
+                "ist",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Es",
+                "ist",
+                "nicht",
+                "verboten",
+                ",",
+                "frische",
+                "Erdbeeren",
+                "auf",
+                "einem",
+                "Joghurtbecher",
+                "darzustellen",
+                ",",
+                "auch",
+                "wenn",
+                "nur",
+                "ein",
+                "minimaler",
+                "Teil",
+                "an",
+                "Frucht",
+                "im",
+                "Produkt",
+                "ist",
+                "und",
+                "der",
+                "Geschmack",
+                "durch",
+                "zugesetzte",
+                "Aromen",
+                "hervorgerufen",
+                "wird",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Es",
+                "täuscht",
+                "dem",
+                "Verbraucher",
+                "etwas",
+                "vor",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Solche",
+                "Informationen",
+                "werden",
+                "von",
+                "der",
+                "Seite",
+                "vorgehalten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Firmen",
+                ",",
+                "deren",
+                "Produkte",
+                "auf",
+                "der",
+                "Seite",
+                "gelistet",
+                "sind",
+                ",",
+                "haben",
+                "die",
+                "Möglichkeit",
+                ",",
+                "dazu",
+                "Stellung",
+                "zu",
+                "nehmen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Werden",
+                "Mängel",
+                "abgestellt",
+                ",",
+                "so",
+                "soll",
+                "gewährleistet",
+                "sein",
+                ",",
+                "dass",
+                "die",
+                "Verbesserung",
+                "auch",
+                "den",
+                "Verbrauchern",
+                "sichtbar",
+                "wird",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Verbraucherministerin",
+                "Ilse",
+                "Aigner",
+                "(",
+                "CSU",
+                ")",
+                "will",
+                "durch",
+                "die",
+                "Information",
+                "Klarheit",
+                "für",
+                "den",
+                "interessierten",
+                "Verbraucher",
+                "schaffen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "Vielleicht",
+                "wird",
+                "sich",
+                "durch",
+                "die",
+                "Verfügbarkeit",
+                "der",
+                "Information",
+                "auch",
+                "bei",
+                "den",
+                "Herstellern",
+                "etwas",
+                "ändern",
+                "und",
+                "die",
+                "Produktion",
+                "umgestellt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 16,
+            "Tokens": [
+                "Die",
+                "FDP",
+                "zeigt",
+                "sich",
+                "nicht",
+                "euphorisch",
+                "über",
+                "das",
+                "Projekt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 17,
+            "Tokens": [
+                "Erik",
+                "Schweickert",
+                ",",
+                "der",
+                "verbraucherschutzpolitische",
+                "Sprecher",
+                "der",
+                "FDP-Bundestagsfraktion",
+                ",",
+                "äußerte",
+                "gegenüber",
+                "dem",
+                "Hamburger",
+                "Abendblatt",
+                ":"
+            ]
+        },
+        {
+            "SentenceId": 18,
+            "Tokens": [
+                "„",
+                "Wir",
+                "sehen",
+                "die",
+                "Umsetzung",
+                "auch",
+                "kritisch",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 19,
+            "Tokens": [
+                "Viele",
+                "Firmen",
+                ",",
+                "die",
+                "sich",
+                "an",
+                "die",
+                "Gesetze",
+                "halten",
+                ",",
+                "könnten",
+                "trotzdem",
+                "an",
+                "den",
+                "Pranger",
+                "gestellt",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 20,
+            "Tokens": [
+                "“"
+            ]
+        },
+        {
+            "SentenceId": 21,
+            "Tokens": [
+                "Christel",
+                "Happach-Kasan",
+                ",",
+                "die",
+                "ernährungspolitische",
+                "Sprecherin",
+                "der",
+                "FDP-Fraktion",
+                ",",
+                "kritisierte",
+                ":",
+                "„",
+                "Öffentlich",
+                "finanzierte",
+                "Stellen",
+                "sollten",
+                "über",
+                "Hygienemaßnahmen",
+                "aufklären",
+                ",",
+                "statt",
+                "sich",
+                "mit",
+                "irreführenden",
+                "Produktbezeichnungen",
+                "zu",
+                "beschäftigen",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 22,
+            "Tokens": [
+                "Das",
+                "überwältigende",
+                "Interesse",
+                "der",
+                "Verbraucher",
+                "setzt",
+                "ein",
+                "deutliches",
+                "Zeichen",
+                ":"
+            ]
+        },
+        {
+            "SentenceId": 23,
+            "Tokens": [
+                "Die",
+                "Information",
+                "ist",
+                "willkommen",
+                ",",
+                "das",
+                "Angebot",
+                "wird",
+                "angenommen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 24,
+            "Tokens": [
+                "Der",
+                "Fraktion",
+                "der",
+                "Grünen",
+                "reicht",
+                "die",
+                "reine",
+                "Information",
+                "nicht",
+                "aus",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 25,
+            "Tokens": [
+                "Sie",
+                "fordert",
+                "gesetzliche",
+                "Regelungen",
+                "zur",
+                "Kennzeichnung",
+                "von",
+                "Lebensmitteln",
+                ",",
+                "die",
+                "beispielsweise",
+                "vor",
+                "Dickmachern",
+                "wie",
+                "Fetten",
+                "und",
+                "Zucker",
+                "warnt",
+                "."
+            ]
+        }
+    ]
+}

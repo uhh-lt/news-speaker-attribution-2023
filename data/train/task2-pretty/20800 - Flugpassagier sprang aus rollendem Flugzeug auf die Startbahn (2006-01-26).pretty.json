@@ -1,0 +1,321 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "5:13"
+            ],
+            "CueText": "rief",
+            "Form": "Direct",
+            "Frame": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "5:14"
+            ],
+            "FrameText": "Als ein Fluggast zu Hilfe eilte , biss der Randalierer den Fluggast und rief :",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:15",
+                "5:16",
+                "5:17",
+                "5:18",
+                "5:19",
+                "5:20"
+            ],
+            "MessageText": "„ Lasst mich raus ! “",
+            "STWR": "Speech",
+            "Source": [
+                "5:8",
+                "5:9"
+            ],
+            "SourceText": "der Randalierer"
+        }
+    ],
+    "DocumentName": "20800 - Flugpassagier sprang aus rollendem Flugzeug auf die Startbahn (2006-01-26)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Für",
+                "einen",
+                "28-jährigen",
+                "Flugpassagier",
+                "wird",
+                "die",
+                "geplante",
+                "Flugreise",
+                "vor",
+                "einem",
+                "Richter",
+                "eines",
+                "US-Gerichtes",
+                "enden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Er",
+                "wurde",
+                "wegen",
+                "„",
+                "groben",
+                "Unfugs",
+                "und",
+                "Körperverletzung",
+                "“",
+                "angezeigt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Der",
+                "Mann",
+                "befand",
+                "sich",
+                "am",
+                "Montag",
+                "zusammen",
+                "mit",
+                "rund",
+                "120",
+                "anderen",
+                "Personen",
+                "in",
+                "einem",
+                "Flugzeug",
+                "der",
+                "Continental",
+                "Airlines",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Während",
+                "des",
+                "Starts",
+                "rannte",
+                "er",
+                "durch",
+                "das",
+                "Flugzeug",
+                "in",
+                "den",
+                "Bug",
+                "der",
+                "Maschine",
+                "und",
+                "begann",
+                "auf",
+                "die",
+                "Fenster",
+                "und",
+                "Cockpit-Türe",
+                "einzuschlagen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Die",
+                "Flugbegleiter",
+                "wollten",
+                "den",
+                "Mann",
+                "beruhigen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Als",
+                "ein",
+                "Fluggast",
+                "zu",
+                "Hilfe",
+                "eilte",
+                ",",
+                "biss",
+                "der",
+                "Randalierer",
+                "den",
+                "Fluggast",
+                "und",
+                "rief",
+                ":",
+                "„",
+                "Lasst",
+                "mich",
+                "raus",
+                "!",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Daraufhin",
+                "senkte",
+                "der",
+                "Pilot",
+                "den",
+                "Luftdruck",
+                "in",
+                "der",
+                "Maschine",
+                ",",
+                "woraufhin",
+                "der",
+                "Passagier",
+                "die",
+                "Außentüre",
+                "öffnete",
+                "und",
+                "aus",
+                "dem",
+                "Flugzeug",
+                "auf",
+                "die",
+                "Asphaltbahn",
+                "sprang",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Das",
+                "Flugzeug",
+                "war",
+                "bereits",
+                "angerollt",
+                "und",
+                "sollte",
+                "in",
+                "Kürze",
+                "starten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Der",
+                "28-Jährige",
+                "rannte",
+                "in",
+                "Richtung",
+                "Flughafengebäude",
+                "davon",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Dort",
+                "wurde",
+                "er",
+                "von",
+                "Sicherheitskräften",
+                "überwältigt",
+                ",",
+                "die",
+                "ihn",
+                "mit",
+                "einem",
+                "Betäubungsgewehr",
+                "zur",
+                "Ruhe",
+                "brachten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Das",
+                "Flugzeug",
+                "konnte",
+                "mit",
+                "einer",
+                "halbstündigen",
+                "Verspätung",
+                "zu",
+                "seinem",
+                "Zielflughafen",
+                "in",
+                "Newark",
+                "(",
+                "New",
+                "Jersey",
+                ")",
+                "starten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Der",
+                "Mann",
+                "wurde",
+                "umgehend",
+                "in",
+                "ein",
+                "Krankenhaus",
+                "eingeliefert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Möglicherweise",
+                "litt",
+                "er",
+                "an",
+                "einer",
+                "plötzlich",
+                "auftretenden",
+                "klaustrophobischen",
+                "Panikattacke",
+                ",",
+                "durch",
+                "die",
+                "er",
+                "Angst",
+                "von",
+                "dem",
+                "Aufenthalt",
+                "in",
+                "geschlossenen",
+                "Räumen",
+                "bekam",
+                "."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,453 @@
+{
+    "Annotations": [],
+    "DocumentName": "39256 - Vollsperrung der A 2 nach Gefahrgutunfall (2007-03-23)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Am",
+                "Montag",
+                ",",
+                "dem",
+                "19.",
+                "März",
+                ",",
+                "gegen",
+                "0:55",
+                "Uhr",
+                "hatte",
+                "der",
+                "Unfall",
+                "eines",
+                "PKW",
+                "auf",
+                "der",
+                "A",
+                "2",
+                "weitreichende",
+                "Folgen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Weitere",
+                "Fahrzeuge",
+                "fuhren",
+                "auf",
+                "der",
+                "Bundesautobahn",
+                "2",
+                "(",
+                "A",
+                "2",
+                ")",
+                "bei",
+                "Rennau",
+                ",",
+                "Fahrtrichtung",
+                "Berlin",
+                "auf",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Der",
+                "anschließende",
+                "Verkehrsstau",
+                "dauerte",
+                "bis",
+                "in",
+                "die",
+                "Mittagsstunden",
+                "an",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Beide",
+                "Richtungen",
+                "waren",
+                "auf",
+                "Grund",
+                "der",
+                "Unfallbeteiligung",
+                "eines",
+                "Gefahrguttransporters",
+                "gesperrt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Gegen",
+                "0:55",
+                "überholte",
+                "eine",
+                "41-jährige",
+                "Seat-Fahrerin",
+                "einen",
+                "auf",
+                "dem",
+                "Hauptstreifen",
+                "fahrenden",
+                "litauischen",
+                "Lastkraftwagen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Aus",
+                "bisher",
+                "unbekannten",
+                "Gründen",
+                "berührte",
+                "sie",
+                "dabei",
+                "den",
+                "LKW",
+                "und",
+                "kam",
+                "ins",
+                "Schleudern",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Ihr",
+                "PKW",
+                "blieb",
+                "beschädigt",
+                "auf",
+                "dem",
+                "Hauptstreifen",
+                "stehen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Ein",
+                "anderer",
+                ",",
+                "53",
+                "Jahre",
+                "alter",
+                "Gefahrgutlastkraftfahrer",
+                "aus",
+                "Winsen",
+                "(",
+                "Luhe",
+                ")",
+                "blieb",
+                "daraufhin",
+                "mit",
+                "eingeschalteter",
+                "Warnblinkanlage",
+                "stehen",
+                "und",
+                "wollte",
+                "die",
+                "Unfallstelle",
+                "absichern",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Ein",
+                "folgender",
+                "48-jähriger",
+                "Autotransporterfahrer",
+                "aus",
+                "Litauen",
+                "fuhr",
+                "jedoch",
+                "auf",
+                "den",
+                "Gefahrguttransporter",
+                "auf",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Dieser",
+                "Fahrer",
+                "wurde",
+                "durch",
+                "die",
+                "Wucht",
+                "des",
+                "Aufpralls",
+                "in",
+                "seinem",
+                "Führerhaus",
+                "eingeklemmt",
+                "und",
+                "verstarb",
+                "noch",
+                "an",
+                "der",
+                "Unfallstelle",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Der",
+                "Aufprall",
+                "beschädigte",
+                "den",
+                "Gefahrguttransporter",
+                ",",
+                "so",
+                "dass",
+                "ein",
+                "Teil",
+                "der",
+                "Ladung",
+                "austrat",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Beim",
+                "Gefahrgut",
+                "handelte",
+                "es",
+                "sich",
+                "um",
+                "Nitroanilin",
+                ",",
+                "ein",
+                "kristallines",
+                "Granulat",
+                ",",
+                "das",
+                "beim",
+                "Einatmen",
+                "Lungenödeme",
+                "verursachen",
+                "kann",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Die",
+                "Feuerwehren",
+                "aus",
+                "Helmstedt",
+                "und",
+                "Braunschweig",
+                "begannen",
+                "unter",
+                "Zuhilfenahme",
+                "von",
+                "Atemschutzgeräten",
+                "mit",
+                "der",
+                "Bergung",
+                "und",
+                "Abdichtung",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Der",
+                "beschädigte",
+                "Container",
+                "konnte",
+                "bis",
+                "10:45",
+                "Uhr",
+                "mit",
+                "einem",
+                "Kran",
+                "vom",
+                "Laster",
+                "gehoben",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Danach",
+                "konnte",
+                "der",
+                "Fahrweg",
+                "Richtung",
+                "Hannover",
+                "wieder",
+                "freigegeben",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "Der",
+                "bisher",
+                "geschätzte",
+                "Unfallschaden",
+                "beläuft",
+                "sich",
+                "auf",
+                "160.000",
+                "Euro",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 16,
+            "Tokens": [
+                "Der",
+                "Gefahrguttransporter",
+                "ist",
+                "gegen",
+                "Mittag",
+                "abtransportiert",
+                "worden",
+                ",",
+                "die",
+                "Bergung",
+                "des",
+                "Autotransporters",
+                "und",
+                "dessen",
+                "Ladung",
+                "hielt",
+                "weiterhin",
+                "an",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 17,
+            "Tokens": [
+                "Aufgrund",
+                "dieser",
+                "Sperr-",
+                "und",
+                "Bergungsmaßnahmen",
+                "wurde",
+                "die",
+                "A",
+                "2",
+                "bis",
+                "in",
+                "den",
+                "Vormittag",
+                "des",
+                "19.",
+                "März",
+                "hinein",
+                "voll",
+                "gesperrt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 18,
+            "Tokens": [
+                "Es",
+                "bildete",
+                "sich",
+                "ein",
+                "kilometerlanger",
+                "Stau",
+                ",",
+                "der",
+                "bis",
+                "nach",
+                "Sachsen-Anhalt",
+                "reichte",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 19,
+            "Tokens": [
+                "Auf",
+                "den",
+                "Ausweichrouten",
+                "wie",
+                "der",
+                "Kreisstraße",
+                "14",
+                "kam",
+                "es",
+                "ebenfalls",
+                "zu",
+                "Staus",
+                "und",
+                "stockendem",
+                "Verkehr",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 20,
+            "Tokens": [
+                "Wann",
+                "die",
+                "A",
+                "2",
+                "in",
+                "Richtung",
+                "Berlin",
+                "wieder",
+                "freigegeben",
+                "werden",
+                "kann",
+                ",",
+                "stand",
+                "noch",
+                "nicht",
+                "fest",
+                ",",
+                "da",
+                "die",
+                "durch",
+                "das",
+                "Nitroanilin",
+                "verseuchte",
+                "Fahrbahndecke",
+                "auf",
+                "einer",
+                "Länge",
+                "von",
+                "100",
+                "Metern",
+                "komplett",
+                "erneuert",
+                "werden",
+                "muss",
+                "."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,350 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:0"
+            ],
+            "CueText": "Danach",
+            "Form": "Indirect",
+            "Frame": [
+                "2:0"
+            ],
+            "FrameText": "Danach",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9",
+                "2:10"
+            ],
+            "MessageText": "verzeichnet das Geldinstitut Verluste in Höhe von 12 Milliarden Franken",
+            "STWR": "Writing",
+            "Source": [
+                "2:0"
+            ],
+            "SourceText": "Danach"
+        }
+    ],
+    "DocumentName": "49378 - Nach Milliardenverlusten bei der Schweizer Bank UBS: Bankchef Marcel Ospel zurückgetreten (2008-04-01)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Die",
+                "internationale",
+                "Finanzkrise",
+                "zieht",
+                "weitere",
+                "Kreise",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Die",
+                "Schweizer",
+                "Großbank",
+                "UBS",
+                "veröffentlichte",
+                "heute",
+                "neue",
+                "Quartalszahlen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Danach",
+                "verzeichnet",
+                "das",
+                "Geldinstitut",
+                "Verluste",
+                "in",
+                "Höhe",
+                "von",
+                "12",
+                "Milliarden",
+                "Franken",
+                "(",
+                "umgerechnet",
+                "7,6",
+                "Milliarden",
+                "Euro",
+                ")",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Bereits",
+                "im",
+                "letzten",
+                "Quartal",
+                "des",
+                "Jahres",
+                "2007",
+                "hatte",
+                "die",
+                "Bank",
+                "ähnlich",
+                "hohe",
+                "Verluste",
+                "eingefahren",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Im",
+                "gesamten",
+                "Jahr",
+                "2007",
+                "machte",
+                "sie",
+                "einen",
+                "Verlust",
+                "in",
+                "Höhe",
+                "von",
+                "4,4",
+                "Milliarden",
+                "Franken",
+                "(",
+                "2,8",
+                "Milliarden",
+                "Euro",
+                ")",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Die",
+                "Aktionäre",
+                "sollen",
+                "nun",
+                "einer",
+                "Kapitalerhöhung",
+                "von",
+                "15",
+                "Milliarden",
+                "Franken",
+                "zustimmen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Verwaltungsratspräsident",
+                "Marcel",
+                "Ospel",
+                "zog",
+                "heute",
+                "die",
+                "Konsequenzen",
+                "und",
+                "erklärte",
+                "seinen",
+                "Rücktritt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Die",
+                "Bank",
+                "hatte",
+                "sich",
+                "auf",
+                "dem",
+                "US-amerikanischen",
+                "Hypothekenmarkt",
+                "verspekuliert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Nach",
+                "der",
+                "Nachricht",
+                "vom",
+                "Rücktritt",
+                "des",
+                "Bankpräsidenten",
+                "stiegen",
+                "die",
+                "Aktienkurse",
+                "der",
+                "Bank",
+                "am",
+                "Nachmittag",
+                "um",
+                "sieben",
+                "Prozent",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "An",
+                "die",
+                "Spitze",
+                "der",
+                "Bank",
+                "soll",
+                "künftig",
+                "Peter",
+                "Kurer",
+                "treten",
+                ",",
+                "der",
+                "seit",
+                "2002",
+                "der",
+                "Konzernleitung",
+                "angehört",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Auch",
+                "die",
+                "größte",
+                "deutsche",
+                "Privatbank",
+                ",",
+                "die",
+                "Deutsche",
+                "Bank",
+                ",",
+                "meldete",
+                "heute",
+                "Milliardenverluste",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "2,5",
+                "Milliarden",
+                "Euro",
+                "müssen",
+                "abgeschrieben",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Wegen",
+                "der",
+                "Hypothekenkrise",
+                "in",
+                "den",
+                "Vereinigten",
+                "Staaten",
+                "musste",
+                "die",
+                "Deutsche",
+                "Bank",
+                "bereits",
+                "im",
+                "letzten",
+                "Jahr",
+                "2,3",
+                "Milliarden",
+                "Euro",
+                "abschreiben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Trotz",
+                "der",
+                "hohen",
+                "Abschreibungen",
+                "im",
+                "Jahr",
+                "2007",
+                "konnte",
+                "die",
+                "Bank",
+                "allerdings",
+                "im",
+                "letzten",
+                "Jahr",
+                "einen",
+                "Vorsteuergewinn",
+                "von",
+                "8,7",
+                "Milliarden",
+                "Euro",
+                "ausweisen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Für",
+                "das",
+                "laufende",
+                "Jahr",
+                "gab",
+                "die",
+                "Bank",
+                "eine",
+                "Gewinnwarnung",
+                "aus",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "Das",
+                "Ziel",
+                "von",
+                "8,4",
+                "Milliarden",
+                "Euro",
+                "vor",
+                "Steuern",
+                "könnte",
+                "möglicherweise",
+                "wegen",
+                "weiterer",
+                "Abschreibungen",
+                "nicht",
+                "erreicht",
+                "werden",
+                "."
+            ]
+        }
+    ]
+}

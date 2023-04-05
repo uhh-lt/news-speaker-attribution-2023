@@ -1,0 +1,212 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "3:0",
+                "3:1",
+                "3:2"
+            ],
+            "FrameText": "Nach ersten Informationen",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:3",
+                "3:4",
+                "3:5",
+                "3:6"
+            ],
+            "MessageText": "wurden keine Menschen verletzt",
+            "STWR": "SW",
+            "Source": [
+                "3:1",
+                "3:2"
+            ],
+            "SourceText": "ersten Informationen"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:15",
+                "5:16",
+                "5:17",
+                "5:18"
+            ],
+            "MessageText": "die von Erschütterungen sprachen",
+            "STWR": "Speech",
+            "Source": [
+                "5:15"
+            ],
+            "SourceText": "die"
+        }
+    ],
+    "DocumentName": "15980 - Erneutes Erdbeben in der Rheinebene (2005-11-12)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Heute",
+                "Abend",
+                "um",
+                "20:31",
+                "MEZ",
+                "ereignete",
+                "sich",
+                "bei",
+                "Lauffenburg",
+                "in",
+                "der",
+                "Schweiz",
+                "ein",
+                "Erdbeben",
+                "der",
+                "Stärke",
+                "4,4",
+                "auf",
+                "der",
+                "Richter-Skala",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Lauffenburg",
+                "liegt",
+                "nahe",
+                "der",
+                "deutschen",
+                "Grenze",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Die",
+                "Auswirkungen",
+                "waren",
+                "in",
+                "einem",
+                "Umkreis",
+                "von",
+                "zirka",
+                "110",
+                "Kilometern",
+                "um",
+                "das",
+                "Epizentrum",
+                "herum",
+                "spürbar",
+                ",",
+                "bis",
+                "in",
+                "den",
+                "Süden",
+                "Baden-Württembergs",
+                "bebte",
+                "die",
+                "Erde",
+                "leicht",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Nach",
+                "ersten",
+                "Informationen",
+                "wurden",
+                "keine",
+                "Menschen",
+                "verletzt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Weitere",
+                "Informationen",
+                "über",
+                "Schäden",
+                "liegen",
+                "nicht",
+                "vor",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Bei",
+                "den",
+                "Polizeidienstellen",
+                "gingen",
+                "Notrufe",
+                "besorgter",
+                "Bürger",
+                "aus",
+                "der",
+                "Schweiz",
+                "und",
+                "aus",
+                "Baden",
+                "ein",
+                ",",
+                "die",
+                "von",
+                "Erschütterungen",
+                "sprachen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Das",
+                "letzte",
+                "Erdbeben",
+                "in",
+                "dieser",
+                "Region",
+                "ereignete",
+                "sich",
+                "im",
+                "Mai",
+                "dieses",
+                "Jahres",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Damals",
+                "hatte",
+                "es",
+                "eine",
+                "Stärke",
+                "von",
+                "3,2",
+                "erreicht",
+                "."
+            ]
+        }
+    ]
+}

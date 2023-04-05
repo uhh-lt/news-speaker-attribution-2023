@@ -1,0 +1,295 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "0:0"
+            ],
+            "CueText": "Laut",
+            "Form": "Indirect",
+            "Frame": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4"
+            ],
+            "FrameText": "Laut Eilmeldung des Nachrichtensenders N24",
+            "HasNested": true,
+            "IsNested": false,
+            "Message": [
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8",
+                "0:9",
+                "0:10",
+                "0:11",
+                "0:12",
+                "0:13",
+                "0:14",
+                "0:15",
+                "0:16",
+                "0:17",
+                "0:18",
+                "0:19",
+                "0:20",
+                "0:21",
+                "0:22",
+                "0:23",
+                "0:24",
+                "0:25",
+                "0:26",
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5"
+            ],
+            "MessageText": "ist im Londoner Stadtteil Stockwell im Zusammenhang mit den Anschlägen vom Donnerstag , 21. Juli , ein mutmaßlicher Terrorist festgenommen worden . Dies gab die britische Polizei bekannt",
+            "STWR": "Speech",
+            "Source": [
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4"
+            ],
+            "SourceText": "Eilmeldung des Nachrichtensenders N24"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:1",
+                "1:5"
+            ],
+            "CueText": "gab bekannt",
+            "Form": "Indirect",
+            "Frame": [
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5"
+            ],
+            "FrameText": "gab die britische Polizei bekannt",
+            "HasNested": false,
+            "IsNested": true,
+            "Message": [
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8",
+                "0:9",
+                "0:10",
+                "0:11",
+                "0:12",
+                "0:13",
+                "0:14",
+                "0:15",
+                "0:16",
+                "0:17",
+                "0:18",
+                "0:19",
+                "0:20",
+                "0:21",
+                "0:22",
+                "0:23",
+                "0:24",
+                "0:25",
+                "1:0"
+            ],
+            "MessageText": "ist im Londoner Stadtteil Stockwell im Zusammenhang mit den Anschlägen vom Donnerstag , 21. Juli , ein mutmaßlicher Terrorist festgenommen worden Dies",
+            "STWR": "SW",
+            "Source": [
+                "1:2",
+                "1:3",
+                "1:4"
+            ],
+            "SourceText": "die britische Polizei"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:0"
+            ],
+            "CueText": "Laut",
+            "Form": "Indirect",
+            "Frame": [
+                "2:0",
+                "2:1"
+            ],
+            "FrameText": "Laut BBC",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9",
+                "2:10",
+                "2:11",
+                "2:12",
+                "2:13",
+                "2:14",
+                "2:15"
+            ],
+            "MessageText": "handelt es sich bei dem jetzt Festgenommenen nicht um einen der vier gesuchten Tatverdächtigen",
+            "STWR": "Speech",
+            "Source": [
+                "2:1"
+            ],
+            "SourceText": "BBC"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:0"
+            ],
+            "CueText": "Laut",
+            "Form": "Indirect",
+            "Frame": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5",
+                "3:6"
+            ],
+            "FrameText": "Laut NDRInfo unter Berufung auf Scotland Yard",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10",
+                "3:11",
+                "3:12",
+                "3:13",
+                "3:14",
+                "3:15",
+                "3:16",
+                "3:17",
+                "3:18",
+                "3:19",
+                "3:20",
+                "3:21",
+                "3:22"
+            ],
+            "MessageText": "wurde der Mann bei einer Durchsuchung festgenommen , über dessen Identität sei noch nichts weiter bekannt",
+            "STWR": "Speech",
+            "Source": [
+                "3:1"
+            ],
+            "SourceText": "NDRInfo"
+        }
+    ],
+    "DocumentName": "9098 - Verdächtiger Terrorist im Londoner Stadtteil Stockwell festgenommen (2005-07-22)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Laut",
+                "Eilmeldung",
+                "des",
+                "Nachrichtensenders",
+                "N24",
+                "ist",
+                "im",
+                "Londoner",
+                "Stadtteil",
+                "Stockwell",
+                "im",
+                "Zusammenhang",
+                "mit",
+                "den",
+                "Anschlägen",
+                "vom",
+                "Donnerstag",
+                ",",
+                "21.",
+                "Juli",
+                ",",
+                "ein",
+                "mutmaßlicher",
+                "Terrorist",
+                "festgenommen",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Dies",
+                "gab",
+                "die",
+                "britische",
+                "Polizei",
+                "bekannt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Laut",
+                "BBC",
+                "handelt",
+                "es",
+                "sich",
+                "bei",
+                "dem",
+                "jetzt",
+                "Festgenommenen",
+                "nicht",
+                "um",
+                "einen",
+                "der",
+                "vier",
+                "gesuchten",
+                "Tatverdächtigen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Laut",
+                "NDRInfo",
+                "unter",
+                "Berufung",
+                "auf",
+                "Scotland",
+                "Yard",
+                "wurde",
+                "der",
+                "Mann",
+                "bei",
+                "einer",
+                "Durchsuchung",
+                "festgenommen",
+                ",",
+                "über",
+                "dessen",
+                "Identität",
+                "sei",
+                "noch",
+                "nichts",
+                "weiter",
+                "bekannt",
+                "."
+            ]
+        }
+    ]
+}

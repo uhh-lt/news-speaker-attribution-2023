@@ -1,0 +1,348 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:1",
+                "1:9"
+            ],
+            "CueText": "gab bekannt",
+            "Form": "Indirect",
+            "Frame": [
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8",
+                "1:9"
+            ],
+            "FrameText": "gab die Vereinsführung heute Nachmittag auf einer Pressekonferenz bekannt",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4",
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8",
+                "0:9",
+                "1:0"
+            ],
+            "MessageText": "Der Italiener Giovanni Trapattoni wird neuer Trainer beim VfB Stuttgart Dies",
+            "STWR": "Speech",
+            "Source": [
+                "1:2",
+                "1:3"
+            ],
+            "SourceText": "die Vereinsführung"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "6:13",
+                "6:15",
+                "6:19"
+            ],
+            "CueText": "meldete sich zurück",
+            "Form": "Direct",
+            "Frame": [
+                "6:9",
+                "6:10",
+                "6:11",
+                "6:12",
+                "6:13",
+                "6:14",
+                "6:15",
+                "6:16",
+                "6:17",
+                "6:18",
+                "6:19"
+            ],
+            "FrameText": ", mit diesen Worten meldete er sich auf der Pressekonferenz zurück",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:4",
+                "6:5",
+                "6:6",
+                "6:7",
+                "6:8"
+            ],
+            "MessageText": "„ Guten Tag , ich schon wieder da “",
+            "STWR": "Speech",
+            "Source": [
+                "6:14"
+            ],
+            "SourceText": "er"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Direct",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3",
+                "9:4"
+            ],
+            "MessageText": "„ Ich habe fertig “",
+            "STWR": "Speech",
+            "Source": [
+                "8:1",
+                "8:2"
+            ],
+            "SourceText": "seiner Wutrede"
+        }
+    ],
+    "DocumentName": "6399 - Giovanni Trapattoni wird neuer Trainer beim VFB Stuttgart (2005-06-17)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Der",
+                "Italiener",
+                "Giovanni",
+                "Trapattoni",
+                "wird",
+                "neuer",
+                "Trainer",
+                "beim",
+                "VfB",
+                "Stuttgart",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Dies",
+                "gab",
+                "die",
+                "Vereinsführung",
+                "heute",
+                "Nachmittag",
+                "auf",
+                "einer",
+                "Pressekonferenz",
+                "bekannt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Der",
+                "66-jährige",
+                "Trapattoni",
+                ",",
+                "der",
+                "sich",
+                "seit",
+                "Mittwoch",
+                "in",
+                "Stuttgart",
+                "befindet",
+                ",",
+                "unterschrieb",
+                "bei",
+                "dem",
+                "Fußball-Bundesligisten",
+                "einen",
+                "Zweijahresvertrag",
+                "bis",
+                "2007."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Er",
+                "war",
+                "vorher",
+                "beim",
+                "portugiesischen",
+                "Fußballverein",
+                "Benfica",
+                "Lissabon",
+                "tätig",
+                ",",
+                "mit",
+                "dem",
+                "er",
+                "auch",
+                "Landesmeister",
+                "wurde",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Für",
+                "Trappattoni",
+                "bedeutet",
+                "dieser",
+                "Wechsel",
+                "eine",
+                "Rückkehr",
+                "in",
+                "den",
+                "deutschen",
+                "Profi-Fußball",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Er",
+                "war",
+                "in",
+                "den",
+                "Neunzigern",
+                "Trainer",
+                "beim",
+                "FC",
+                "Bayern",
+                "München",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "„",
+                "Guten",
+                "Tag",
+                ",",
+                "ich",
+                "schon",
+                "wieder",
+                "da",
+                "“",
+                ",",
+                "mit",
+                "diesen",
+                "Worten",
+                "meldete",
+                "er",
+                "sich",
+                "auf",
+                "der",
+                "Pressekonferenz",
+                "zurück",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Der",
+                "Italiener",
+                "spielte",
+                "damit",
+                "auf",
+                "seine",
+                "berühmte",
+                "„",
+                "Was-erlauben-Strunz-Rede",
+                "“",
+                "an",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Seit",
+                "seiner",
+                "Wutrede",
+                "im",
+                "März",
+                "1998",
+                "erreichte",
+                "„",
+                "Trap",
+                "“",
+                ",",
+                "wie",
+                "er",
+                "weitläufig",
+                "genannt",
+                "wird",
+                ",",
+                "Kultstatus",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "„",
+                "Ich",
+                "habe",
+                "fertig",
+                "“"
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "ist",
+                "seit",
+                "damals",
+                "ein",
+                "geflügeltes",
+                "Wort",
+                "in",
+                "Deutschland",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "In",
+                "Stuttgart",
+                "wird",
+                "Trap",
+                "Nachfolger",
+                "des",
+                "vor",
+                "zwei",
+                "Wochen",
+                "entlassenen",
+                "Matthias",
+                "Sammer",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Themenverwandter",
+                "Artikel"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "Annotations": [],
+    "DocumentName": "22808 - Jean Todt: Der Ferrari-Teamchef wurde 60 (2006-03-02)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Jean",
+                "Todt",
+                "feierte",
+                "am",
+                "26.",
+                "Februar",
+                "einen",
+                "runden",
+                "Geburtstag",
+                ",",
+                "den",
+                "60."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Der",
+                "Franzose",
+                "Todt",
+                "ist",
+                "Teamchef",
+                "des",
+                "italienischen",
+                "Formel-1-Teams",
+                "Ferrari",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Seit",
+                "dem",
+                "1.",
+                "Juli",
+                "1993",
+                "steht",
+                "er",
+                "in",
+                "Diensten",
+                "der",
+                "Italiener",
+                ",",
+                "deren",
+                "Hauptsitz",
+                "sich",
+                "in",
+                "Maranello",
+                "befindet",
+                "."
+            ]
+        }
+    ]
+}

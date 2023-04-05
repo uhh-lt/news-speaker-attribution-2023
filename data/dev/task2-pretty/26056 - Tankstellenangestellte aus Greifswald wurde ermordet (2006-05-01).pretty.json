@@ -1,0 +1,321 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10",
+                "3:11",
+                "3:12"
+            ],
+            "MessageText": "die einen unnatürlichen Tod bekannt gab",
+            "STWR": "SW",
+            "Source": [
+                "3:7"
+            ],
+            "SourceText": "die"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "5:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "5:0",
+                "5:1",
+                "5:2"
+            ],
+            "FrameText": "Nach ersten Untersuchungen",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "5:14",
+                "5:15",
+                "5:16",
+                "5:17",
+                "5:18"
+            ],
+            "MessageText": "liegt keine Sexualstraftat vor , jedoch fehlte eine geringe Summe Bargeld aus der Kasse der Tankstelle",
+            "STWR": "SW",
+            "Source": [
+                "5:1",
+                "5:2"
+            ],
+            "SourceText": "ersten Untersuchungen"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:4",
+                "6:5",
+                "6:6",
+                "6:7",
+                "6:8",
+                "6:9",
+                "6:10",
+                "6:11",
+                "6:12",
+                "6:13",
+                "6:14",
+                "6:15",
+                "6:16",
+                "6:17",
+                "6:18",
+                "6:19"
+            ],
+            "MessageText": "Um die noch andauernden Ermittlungen nicht zu gefährden , wollte die Polizei keine weiteren Hinweise auf das Verbrechen geben .",
+            "STWR": "SW",
+            "Source": [
+                "6:10",
+                "6:11"
+            ],
+            "SourceText": "die Polizei"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7",
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11",
+                "7:12",
+                "7:13",
+                "7:14",
+                "7:15",
+                "7:16",
+                "7:17",
+                "7:18"
+            ],
+            "MessageText": "Die Sonderkommission der Kriminalpolizei in Anklam bittet weiterhin um sachdienliche Hinweise aus der Bevölkerung zur Aufklärung des Mordes .",
+            "STWR": "SW",
+            "Source": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5"
+            ],
+            "SourceText": "Die Sonderkommission der Kriminalpolizei in Anklam"
+        }
+    ],
+    "DocumentName": "26056 - Tankstellenangestellte aus Greifswald wurde ermordet (2006-05-01)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Die",
+                "am",
+                "Donnerstag",
+                ",",
+                "den",
+                "27.",
+                "April",
+                "aus",
+                "einer",
+                "Tankstelle",
+                "verschwundene",
+                "Frau",
+                "ist",
+                "ermordet",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Die",
+                "Leiche",
+                "der",
+                "Frau",
+                "wurde",
+                "am",
+                "Freitag",
+                "im",
+                "Greifswalder",
+                "Fluss",
+                "Ryck",
+                "aufgefunden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Noch",
+                "am",
+                "Freitag",
+                "fand",
+                "nachmittags",
+                "im",
+                "Gerichtsmedizinischen",
+                "Institut",
+                "in",
+                "der",
+                "Universität",
+                "Greifswald",
+                "die",
+                "Obduktion",
+                "statt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Sie",
+                "bestätigte",
+                "die",
+                "Angaben",
+                "der",
+                "Polizei",
+                ",",
+                "die",
+                "einen",
+                "unnatürlichen",
+                "Tod",
+                "bekannt",
+                "gab",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Die",
+                "Frau",
+                "starb",
+                "an",
+                "Stichverletzungen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Nach",
+                "ersten",
+                "Untersuchungen",
+                "liegt",
+                "keine",
+                "Sexualstraftat",
+                "vor",
+                ",",
+                "jedoch",
+                "fehlte",
+                "eine",
+                "geringe",
+                "Summe",
+                "Bargeld",
+                "aus",
+                "der",
+                "Kasse",
+                "der",
+                "Tankstelle",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Um",
+                "die",
+                "noch",
+                "andauernden",
+                "Ermittlungen",
+                "nicht",
+                "zu",
+                "gefährden",
+                ",",
+                "wollte",
+                "die",
+                "Polizei",
+                "keine",
+                "weiteren",
+                "Hinweise",
+                "auf",
+                "das",
+                "Verbrechen",
+                "geben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Die",
+                "Sonderkommission",
+                "der",
+                "Kriminalpolizei",
+                "in",
+                "Anklam",
+                "bittet",
+                "weiterhin",
+                "um",
+                "sachdienliche",
+                "Hinweise",
+                "aus",
+                "der",
+                "Bevölkerung",
+                "zur",
+                "Aufklärung",
+                "des",
+                "Mordes",
+                "."
+            ]
+        }
+    ]
+}

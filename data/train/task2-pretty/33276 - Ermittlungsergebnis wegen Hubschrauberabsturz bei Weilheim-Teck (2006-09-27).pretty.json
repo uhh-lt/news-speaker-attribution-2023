@@ -1,0 +1,275 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:2"
+            ],
+            "CueText": "berichteten",
+            "Form": "Indirect",
+            "Frame": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3"
+            ],
+            "FrameText": "Aber Zeitungen berichteten ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10",
+                "3:11",
+                "3:12",
+                "3:13",
+                "3:14",
+                "3:15",
+                "3:16",
+                "3:17",
+                "3:18",
+                "3:19",
+                "3:20"
+            ],
+            "MessageText": "es sei gegen den Arzt ermittelt worden , der dem Piloten die Genehmigung zum Fliegen ausgestellt habe",
+            "STWR": "Writing",
+            "Source": [
+                "3:1"
+            ],
+            "SourceText": "Zeitungen"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "4:0",
+                "4:1",
+                "4:2"
+            ],
+            "FrameText": "Nach diesen Erkenntnissen",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10"
+            ],
+            "MessageText": "könnte der Hubschrauberpilot unter Medikamenteneinfluss fluguntauglich gewesen sein",
+            "STWR": "SW",
+            "Source": [
+                "4:1",
+                "4:2"
+            ],
+            "SourceText": "diesen Erkenntnissen"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "5:14",
+                "5:15"
+            ],
+            "MessageText": "Somit wäre die Flugtauglichkeit , die dem Piloten bescheinigt wurde , nicht in Ordnung gewesen .",
+            "STWR": "SW",
+            "Source": [
+                "4:1",
+                "4:2"
+            ],
+            "SourceText": "diesen Erkenntnissen"
+        }
+    ],
+    "DocumentName": "33276 - Ermittlungsergebnis wegen Hubschrauberabsturz bei Weilheim-Teck (2006-09-27)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Vor",
+                "fast",
+                "genau",
+                "einem",
+                "Jahr",
+                ",",
+                "am",
+                "28.",
+                "September",
+                "2005",
+                ",",
+                "stürzte",
+                "bei",
+                "Weilheim",
+                "\/",
+                "Teck",
+                "der",
+                "Hubschrauber",
+                "„",
+                "Christoph",
+                "51",
+                "“",
+                "ab",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Eine",
+                "Patientin",
+                "an",
+                "Bord",
+                "starb",
+                ",",
+                "der",
+                "47-jährige",
+                "Pilot",
+                "überlebte",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Die",
+                "Ermittlungsergebnisse",
+                "nach",
+                "dem",
+                "Absturz",
+                "wurden",
+                "bis",
+                "jetzt",
+                "nicht",
+                "von",
+                "der",
+                "zuständigen",
+                "Staatsanwaltschaft",
+                "veröffentlicht",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Aber",
+                "Zeitungen",
+                "berichteten",
+                ",",
+                "es",
+                "sei",
+                "gegen",
+                "den",
+                "Arzt",
+                "ermittelt",
+                "worden",
+                ",",
+                "der",
+                "dem",
+                "Piloten",
+                "die",
+                "Genehmigung",
+                "zum",
+                "Fliegen",
+                "ausgestellt",
+                "habe",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Nach",
+                "diesen",
+                "Erkenntnissen",
+                "könnte",
+                "der",
+                "Hubschrauberpilot",
+                "unter",
+                "Medikamenteneinfluss",
+                "fluguntauglich",
+                "gewesen",
+                "sein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Somit",
+                "wäre",
+                "die",
+                "Flugtauglichkeit",
+                ",",
+                "die",
+                "dem",
+                "Piloten",
+                "bescheinigt",
+                "wurde",
+                ",",
+                "nicht",
+                "in",
+                "Ordnung",
+                "gewesen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Bereits",
+                "im",
+                "Oktober",
+                "2005",
+                "war",
+                "von",
+                "einer",
+                "Fluguntauglichkeit",
+                "die",
+                "Rede",
+                ",",
+                "damals",
+                "wurden",
+                "diese",
+                "Informationen",
+                "jedoch",
+                "noch",
+                "nicht",
+                "bestätigt",
+                "."
+            ]
+        }
+    ]
+}

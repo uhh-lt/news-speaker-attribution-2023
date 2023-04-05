@@ -1,0 +1,333 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:4",
+                "6:5",
+                "6:6",
+                "6:7",
+                "6:8",
+                "6:9",
+                "6:10",
+                "6:11",
+                "6:12",
+                "6:13",
+                "6:14"
+            ],
+            "MessageText": "In allen Bereichen arbeiten Mitarbeiter , die durch rauchende Gäste keinen rauchfreien Arbeitsplatz hätten .",
+            "STWR": "SW",
+            "Source": [
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9"
+            ],
+            "SourceText": "der Betreiber des Flughafens Brüssel National , BIAC"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "FreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7",
+                "7:8",
+                "7:9",
+                "7:10"
+            ],
+            "MessageText": "Sie sollen dadurch nach dem Gesetz am Arbeitsplatz geschützt werden .",
+            "STWR": "SW",
+            "Source": [
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9"
+            ],
+            "SourceText": "der Betreiber des Flughafens Brüssel National , BIAC"
+        }
+    ],
+    "DocumentName": "25575 - Rauchen auf dem Flughafen Brüssel seit Karsamstag verboten (2006-04-19)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Seit",
+                "Januar",
+                "2006",
+                "wurde",
+                "in",
+                "Belgien",
+                "per",
+                "Gesetz",
+                "das",
+                "Rauchen",
+                "am",
+                "Arbeitsplatz",
+                "verboten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "In",
+                "Restaurants",
+                "ist",
+                "es",
+                "derzeit",
+                "zwar",
+                "noch",
+                "erlaubt",
+                ",",
+                "soll",
+                "jedoch",
+                "in",
+                "2007",
+                "dort",
+                "auch",
+                "verboten",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Die",
+                "Maßnahme",
+                "dient",
+                "dem",
+                "Nichtraucherschutz",
+                "in",
+                "öffentlichen",
+                "Einrichtungen",
+                "und",
+                "in",
+                "der",
+                "Gastronomie",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Insbesondere",
+                "soll",
+                "damit",
+                "die",
+                "nicht",
+                "rauchende",
+                "Bevölkerung",
+                "vor",
+                "dem",
+                "Passivrauchen",
+                "geschützt",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Jetzt",
+                "hat",
+                "der",
+                "Betreiber",
+                "des",
+                "Flughafens",
+                "Brüssel",
+                "National",
+                ",",
+                "BIAC",
+                ",",
+                "Konsequenzen",
+                "daraus",
+                "gezogen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Der",
+                "gesamte",
+                "Flughafenbereich",
+                "wurde",
+                "am",
+                "15.",
+                "April",
+                "zur",
+                "rauchfreien",
+                "Zone",
+                "erklärt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "In",
+                "allen",
+                "Bereichen",
+                "arbeiten",
+                "Mitarbeiter",
+                ",",
+                "die",
+                "durch",
+                "rauchende",
+                "Gäste",
+                "keinen",
+                "rauchfreien",
+                "Arbeitsplatz",
+                "hätten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Sie",
+                "sollen",
+                "dadurch",
+                "nach",
+                "dem",
+                "Gesetz",
+                "am",
+                "Arbeitsplatz",
+                "geschützt",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Erste",
+                "Reaktionen",
+                "der",
+                "Fluggäste",
+                "sind",
+                "überwiegend",
+                "positiv",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Bereits",
+                "vor",
+                "dem",
+                "15.",
+                "April",
+                "gab",
+                "es",
+                "auf",
+                "dem",
+                "Brüsseler",
+                "Flughafen",
+                "rauchfreie",
+                "Zonen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Das",
+                "Rauchen",
+                "war",
+                "damals",
+                "nur",
+                "in",
+                "speziell",
+                "gekennzeichneten",
+                "Bereichen",
+                "erlaubt",
+                ",",
+                "wie",
+                "zum",
+                "Beispiel",
+                "in",
+                "Bars",
+                ",",
+                "Warteräumen",
+                "oder",
+                "Treppenhäusern",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Neuerdings",
+                "ist",
+                "der",
+                "gesamte",
+                "Flughafen",
+                "betroffen",
+                ",",
+                "darunter",
+                "auch",
+                "alle",
+                "Restaurants",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Somit",
+                "hat",
+                "der",
+                "Flughafen",
+                "Brüssel",
+                "die",
+                "Maßnahme",
+                "bereits",
+                "vor",
+                "der",
+                "gesetzlichen",
+                "Einführung",
+                "in",
+                "2007",
+                "komplett",
+                "umgesetzt",
+                "."
+            ]
+        }
+    ]
+}

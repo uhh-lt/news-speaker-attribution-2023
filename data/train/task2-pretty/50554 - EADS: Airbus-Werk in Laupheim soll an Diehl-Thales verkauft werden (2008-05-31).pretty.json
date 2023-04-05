@@ -1,0 +1,394 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:0",
+                "1:10"
+            ],
+            "CueText": "Wie mitteilte",
+            "Form": "Indirect",
+            "Frame": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8",
+                "1:9",
+                "1:10",
+                "1:11"
+            ],
+            "FrameText": "Wie ein Vertreter des Mutterkonzern von Airbus , EADS heute mitteilte ,",
+            "HasNested": true,
+            "IsNested": false,
+            "Message": [
+                "1:12",
+                "1:13",
+                "1:14",
+                "1:15",
+                "1:16",
+                "1:17",
+                "1:18",
+                "1:19",
+                "1:20",
+                "1:21",
+                "1:22",
+                "1:23",
+                "1:24",
+                "1:25",
+                "1:26",
+                "1:27",
+                "1:28",
+                "1:29",
+                "1:30",
+                "1:31",
+                "1:32"
+            ],
+            "MessageText": "wurde das aus dem deutschen Rüstungsproduzenten Diehl aus Nürnberg und dem französischen Thales-Konzern bestehende Joint-Venture „ als bevorzugter Bieter “ ausgewählt",
+            "STWR": "Speech",
+            "Source": [
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8"
+            ],
+            "SourceText": "ein Vertreter des Mutterkonzern von Airbus , EADS"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:0",
+                "1:10"
+            ],
+            "CueText": "Wie mitteilte",
+            "Form": "Direct",
+            "Frame": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8",
+                "1:9",
+                "1:10",
+                "1:11"
+            ],
+            "FrameText": "Wie ein Vertreter des Mutterkonzern von Airbus , EADS heute mitteilte ,",
+            "HasNested": false,
+            "IsNested": true,
+            "Message": [
+                "1:27",
+                "1:28",
+                "1:29",
+                "1:30",
+                "1:31"
+            ],
+            "MessageText": "„ als bevorzugter Bieter “",
+            "STWR": "Speech",
+            "Source": [
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8"
+            ],
+            "SourceText": "ein Vertreter des Mutterkonzern von Airbus , EADS"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "5:2",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8"
+            ],
+            "CueText": "war für gescheitert erklärt worden",
+            "Form": "Indirect",
+            "Frame": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9"
+            ],
+            "FrameText": "Im März war der Versuch für gescheitert erklärt worden ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "5:14",
+                "5:15",
+                "5:16",
+                "5:17",
+                "5:18",
+                "5:19"
+            ],
+            "MessageText": "die Werke in Varel , Nordenham und Augsburg zu verkaufen",
+            "STWR": "SW",
+            "Source": [],
+            "SourceText": ""
+        }
+    ],
+    "DocumentName": "50554 - EADS: Airbus-Werk in Laupheim soll an Diehl-Thales verkauft werden (2008-05-31)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Das",
+                "Airbus-Werk",
+                "im",
+                "baden-württembergischen",
+                "Laupheim",
+                "soll",
+                "an",
+                "das",
+                "deutsch-französische",
+                "Gemeinschaftsunternehmen",
+                "Diehl",
+                "\/",
+                "Thales",
+                "verkauft",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Wie",
+                "ein",
+                "Vertreter",
+                "des",
+                "Mutterkonzern",
+                "von",
+                "Airbus",
+                ",",
+                "EADS",
+                "heute",
+                "mitteilte",
+                ",",
+                "wurde",
+                "das",
+                "aus",
+                "dem",
+                "deutschen",
+                "Rüstungsproduzenten",
+                "Diehl",
+                "aus",
+                "Nürnberg",
+                "und",
+                "dem",
+                "französischen",
+                "Thales-Konzern",
+                "bestehende",
+                "Joint-Venture",
+                "„",
+                "als",
+                "bevorzugter",
+                "Bieter",
+                "“",
+                "ausgewählt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Das",
+                "Airbus-Werk",
+                "in",
+                "Laupheim",
+                "soll",
+                "im",
+                "Rahmen",
+                "des",
+                "großangelegten",
+                "Sparprogramms",
+                "„",
+                "Power8",
+                "“",
+                "aus",
+                "dem",
+                "Airbuskonzern",
+                "ausgegliedert",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Nach",
+                "den",
+                "Lieferschwierigkeiten",
+                "mit",
+                "dem",
+                "Airbus",
+                "A380",
+                "muss",
+                "der",
+                "Luftfahrtkonzern",
+                "mit",
+                "Milliardenverlusten",
+                "fertig",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Insgesamt",
+                "sechs",
+                "deutsche",
+                "und",
+                "französische",
+                "Airbus-Standorte",
+                "sollten",
+                "daher",
+                "verkauft",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Im",
+                "März",
+                "war",
+                "der",
+                "Versuch",
+                "für",
+                "gescheitert",
+                "erklärt",
+                "worden",
+                ",",
+                "die",
+                "Werke",
+                "in",
+                "Varel",
+                ",",
+                "Nordenham",
+                "und",
+                "Augsburg",
+                "zu",
+                "verkaufen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Mit",
+                "dem",
+                "Nürnberger",
+                "Rüstungskonzern",
+                "Diehl",
+                "und",
+                "seinem",
+                "französischen",
+                "Partner",
+                "bestehen",
+                "schon",
+                "seit",
+                "längerer",
+                "Zeit",
+                "intensive",
+                "Geschäftsbeziehungen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Diehl",
+                "\/",
+                "Thales",
+                "gilt",
+                "als",
+                "Hauptzulieferer",
+                "für",
+                "Airbus",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Die",
+                "beiden",
+                "Unternehmen",
+                "produzieren",
+                "für",
+                "Airbus",
+                "unter",
+                "anderem",
+                "Kabinenbeleuchtungen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Im",
+                "Airbus-Werk",
+                "Laupheim",
+                "werden",
+                "unter",
+                "anderem",
+                "Flugzeugkabinen",
+                ",",
+                "Ruheräume",
+                "für",
+                "die",
+                "Kabinenbesatzung",
+                "sowie",
+                "Klimarohre",
+                "für",
+                "alle",
+                "Airbusmodell",
+                "hergestellt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "In",
+                "Laupheim",
+                "sind",
+                "1.100",
+                "Beschäftigte",
+                "tätig",
+                "."
+            ]
+        }
+    ]
+}

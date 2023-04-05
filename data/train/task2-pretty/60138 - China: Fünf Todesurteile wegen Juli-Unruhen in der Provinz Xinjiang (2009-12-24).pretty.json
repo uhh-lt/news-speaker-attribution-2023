@@ -1,0 +1,341 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "0:2"
+            ],
+            "CueText": "berichtet",
+            "Form": "Indirect",
+            "Frame": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3"
+            ],
+            "FrameText": "Wie BBC berichtet ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "0:4",
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8",
+                "0:9",
+                "0:10",
+                "0:11",
+                "0:12",
+                "0:13",
+                "0:14",
+                "0:15",
+                "0:16",
+                "0:17",
+                "0:18",
+                "0:19",
+                "0:20",
+                "0:21",
+                "0:22",
+                "0:23",
+                "0:24",
+                "0:25",
+                "0:26",
+                "0:27",
+                "0:28",
+                "0:29",
+                "0:30"
+            ],
+            "MessageText": "wurden heute von einem chinesischen Gericht fünf weitere Personen wegen ihrer Beteiligung an den ethnischen Unruhen im Juli des Jahres in der Provinz Xinjiang zum Tode verurteilt",
+            "STWR": "Speech",
+            "Source": [
+                "0:1"
+            ],
+            "SourceText": "BBC"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:1"
+            ],
+            "CueText": "vermutet",
+            "Form": "Indirect",
+            "Frame": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5"
+            ],
+            "FrameText": "BBC vermutet aufgrund von Medienberichten ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10",
+                "3:11"
+            ],
+            "MessageText": "dass es sich um Uiguren handelt",
+            "STWR": "ST",
+            "Source": [
+                "3:0"
+            ],
+            "SourceText": "BBC"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:9"
+            ],
+            "CueText": "zufolge",
+            "Form": "Indirect",
+            "Frame": [
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9"
+            ],
+            "FrameText": "offiziellen chinesischen Angaben zufolge",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:10",
+                "4:11",
+                "4:12",
+                "4:13",
+                "4:14",
+                "4:15",
+                "4:16",
+                "4:17",
+                "4:18",
+                "4:19"
+            ],
+            "MessageText": "Bei den Unruhen im Juli waren etwa 200 Menschen getötet und weitere 1.700 Menschen verletzt worden",
+            "STWR": "SW",
+            "Source": [
+                "4:6",
+                "4:7",
+                "4:8"
+            ],
+            "SourceText": "offiziellen chinesischen Angaben"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "5:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11"
+            ],
+            "FrameText": "Nach offiziellen chinesischen Angaben , die aber nicht überprüft werden können ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:12",
+                "5:13",
+                "5:14",
+                "5:15",
+                "5:16"
+            ],
+            "MessageText": "waren die meisten Opfer Han-Chinesen",
+            "STWR": "SW",
+            "Source": [
+                "5:1",
+                "5:2",
+                "5:3"
+            ],
+            "SourceText": "offiziellen chinesischen Angaben"
+        }
+    ],
+    "DocumentName": "60138 - China: Fünf Todesurteile wegen Juli-Unruhen in der Provinz Xinjiang (2009-12-24)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Wie",
+                "BBC",
+                "berichtet",
+                ",",
+                "wurden",
+                "heute",
+                "von",
+                "einem",
+                "chinesischen",
+                "Gericht",
+                "fünf",
+                "weitere",
+                "Personen",
+                "wegen",
+                "ihrer",
+                "Beteiligung",
+                "an",
+                "den",
+                "ethnischen",
+                "Unruhen",
+                "im",
+                "Juli",
+                "des",
+                "Jahres",
+                "in",
+                "der",
+                "Provinz",
+                "Xinjiang",
+                "zum",
+                "Tode",
+                "verurteilt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Die",
+                "Provinz",
+                "Xinjiang",
+                "ist",
+                "ein",
+                "ursprünglich",
+                "mehrheitlich",
+                "von",
+                "Uiguren",
+                "bewohntes",
+                "Gebiet",
+                "im",
+                "Nordwesten",
+                "Chinas",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Es",
+                "ist",
+                "nicht",
+                "ganz",
+                "klar",
+                ",",
+                "welcher",
+                "Nationalität",
+                "die",
+                "Verurteilten",
+                "angehören",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "BBC",
+                "vermutet",
+                "aufgrund",
+                "von",
+                "Medienberichten",
+                ",",
+                "dass",
+                "es",
+                "sich",
+                "um",
+                "Uiguren",
+                "handelt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Bei",
+                "den",
+                "Unruhen",
+                "im",
+                "Juli",
+                "waren",
+                "offiziellen",
+                "chinesischen",
+                "Angaben",
+                "zufolge",
+                "etwa",
+                "200",
+                "Menschen",
+                "getötet",
+                "und",
+                "weitere",
+                "1.700",
+                "Menschen",
+                "verletzt",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Nach",
+                "offiziellen",
+                "chinesischen",
+                "Angaben",
+                ",",
+                "die",
+                "aber",
+                "nicht",
+                "überprüft",
+                "werden",
+                "können",
+                ",",
+                "waren",
+                "die",
+                "meisten",
+                "Opfer",
+                "Han-Chinesen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Im",
+                "November",
+                "waren",
+                "bereits",
+                "9",
+                "Menschen",
+                "ebenfalls",
+                "wegen",
+                "ihrer",
+                "Beteiligung",
+                "an",
+                "den",
+                "Unruhen",
+                "hingerichtet",
+                "worden",
+                "."
+            ]
+        }
+    ]
+}

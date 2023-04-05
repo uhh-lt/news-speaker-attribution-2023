@@ -1,0 +1,537 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:1"
+            ],
+            "CueText": "bestätigte",
+            "Form": "Indirect",
+            "Frame": [
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5"
+            ],
+            "FrameText": "bestätigte die Organisation in Bonn",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9",
+                "2:10",
+                "3:0"
+            ],
+            "MessageText": "In dem Fahrzeug befand sich auch eine weitere deutsche Mitarbeiterin . Das",
+            "STWR": "SW",
+            "Source": [
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5"
+            ],
+            "SourceText": "die Organisation in Bonn"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "9:13"
+            ],
+            "CueText": "erklärte",
+            "Form": "Indirect",
+            "Frame": [
+                "9:12",
+                "9:13",
+                "9:14",
+                "9:15",
+                "9:16",
+                "9:17",
+                "9:18"
+            ],
+            "FrameText": ", erklärte ein örtlicher Mitarbeiter der Welthungerhilfe",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3",
+                "9:4",
+                "9:5",
+                "9:6",
+                "9:7",
+                "9:8",
+                "9:9",
+                "9:10",
+                "9:11"
+            ],
+            "MessageText": "Bei dem Verschleppten habe es sich um den Projektleiter Daniel B. gehandelt",
+            "STWR": "Speech",
+            "Source": [
+                "9:14",
+                "9:15",
+                "9:16",
+                "9:17",
+                "9:18"
+            ],
+            "SourceText": "ein örtlicher Mitarbeiter der Welthungerhilfe"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "13:20"
+            ],
+            "CueText": "sagte",
+            "Form": "Indirect",
+            "Frame": [
+                "13:19",
+                "13:20",
+                "13:21",
+                "13:22",
+                "13:23"
+            ],
+            "FrameText": ", sagte ein somalischer Behördenvertreter",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "13:0",
+                "13:1",
+                "13:2",
+                "13:3",
+                "13:4",
+                "13:5",
+                "13:6",
+                "13:7",
+                "13:8",
+                "13:9",
+                "13:10",
+                "13:11",
+                "13:12",
+                "13:13",
+                "13:14",
+                "13:15",
+                "13:16",
+                "13:17",
+                "13:18"
+            ],
+            "MessageText": "Am Mittwoch sei der Deutsche nach einem Einsatz der Sicherheitskräfte in Somaliland aus der Gewalt der Entführer befreit worden",
+            "STWR": "Speech",
+            "Source": [
+                "13:21",
+                "13:22",
+                "13:23"
+            ],
+            "SourceText": "ein somalischer Behördenvertreter"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "14:8"
+            ],
+            "CueText": "bestätigte",
+            "Form": "Indirect",
+            "Frame": [
+                "14:7",
+                "14:8",
+                "14:9",
+                "14:10",
+                "14:11",
+                "14:12",
+                "14:13"
+            ],
+            "FrameText": ", bestätigte ein Sprecher des Auswärtigen Amtes",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "14:0",
+                "14:1",
+                "14:2",
+                "14:3",
+                "14:4",
+                "14:5",
+                "14:6"
+            ],
+            "MessageText": "Der Mann sei in Freiheit und wohlbehalten",
+            "STWR": "Speech",
+            "Source": [
+                "14:9",
+                "14:10",
+                "14:11",
+                "14:12",
+                "14:13"
+            ],
+            "SourceText": "ein Sprecher des Auswärtigen Amtes"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "15:0",
+                "15:1",
+                "15:2",
+                "15:3",
+                "15:4",
+                "15:5",
+                "15:6",
+                "15:7",
+                "15:8",
+                "15:9",
+                "15:10"
+            ],
+            "MessageText": "Auch einige der Täter seien bei der Befreiungsaktion verletzt worden .",
+            "STWR": "Speech",
+            "Source": [
+                "14:9",
+                "14:10",
+                "14:11",
+                "14:12",
+                "14:13"
+            ],
+            "SourceText": "ein Sprecher des Auswärtigen Amtes"
+        }
+    ],
+    "DocumentName": "48012 - Deutscher in Somalia entführt und wieder befreit (2008-02-13)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Im",
+                "Norden",
+                "von",
+                "Somalia",
+                ",",
+                "900",
+                "Kilometer",
+                "nördlich",
+                "der",
+                "Hauptstadt",
+                "Mogadischu",
+                ",",
+                "ist",
+                "am",
+                "Dienstag",
+                "ein",
+                "Mitarbeiter",
+                "der",
+                "Deutschen",
+                "Welthungerhilfe",
+                "entführt",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Der",
+                "Mann",
+                "wurde",
+                "etwa",
+                "60",
+                "Kilometer",
+                "nördlich",
+                "von",
+                "Erigabo",
+                ",",
+                "einer",
+                "Stadt",
+                "in",
+                "der",
+                "abtrünnigen",
+                "Region",
+                "Somaliland",
+                ",",
+                "von",
+                "Bewaffneten",
+                "verschleppt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "In",
+                "dem",
+                "Fahrzeug",
+                "befand",
+                "sich",
+                "auch",
+                "eine",
+                "weitere",
+                "deutsche",
+                "Mitarbeiterin",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Das",
+                "bestätigte",
+                "die",
+                "Organisation",
+                "in",
+                "Bonn",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Die",
+                "Hilfsorganisation",
+                "hatte",
+                "keine",
+                "Forderungen",
+                "der",
+                "Kidnapper",
+                "erhalten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Ob",
+                "es",
+                "einen",
+                "politischen",
+                "Hintergrund",
+                "der",
+                "Tat",
+                "gab",
+                ",",
+                "ist",
+                "unklar",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Das",
+                "Auswärtige",
+                "Amt",
+                "in",
+                "Berlin",
+                "hielt",
+                "sich",
+                "zunächst",
+                "mit",
+                "weiteren",
+                "Informationen",
+                "zurück",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Der",
+                "Entführte",
+                "wurde",
+                "vermutlich",
+                "in",
+                "einer",
+                "nahegelegenen",
+                "Bergregion",
+                "versteckt",
+                "gehalten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Die",
+                "lokalen",
+                "Behörden",
+                "bemühten",
+                "sich",
+                "intensiv",
+                "um",
+                "die",
+                "Freilassung",
+                "des",
+                "deutschen",
+                "Entwicklungshelfers",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Bei",
+                "dem",
+                "Verschleppten",
+                "habe",
+                "es",
+                "sich",
+                "um",
+                "den",
+                "Projektleiter",
+                "Daniel",
+                "B.",
+                "gehandelt",
+                ",",
+                "erklärte",
+                "ein",
+                "örtlicher",
+                "Mitarbeiter",
+                "der",
+                "Welthungerhilfe",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Er",
+                "war",
+                "vor",
+                "seinem",
+                "Einsatz",
+                "in",
+                "Somalia",
+                "in",
+                "Afghanistan",
+                "tätig",
+                "und",
+                "arbeitet",
+                "seit",
+                "fast",
+                "zwei",
+                "Jahren",
+                "in",
+                "der",
+                "Region",
+                "am",
+                "Horn",
+                "von",
+                "Afrika",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "In",
+                "Somalia",
+                "herrschen",
+                "seit",
+                "den",
+                "90-er",
+                "Jahren",
+                "bürgerkriegsähnliche",
+                "Zustände",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "In",
+                "den",
+                "letzten",
+                "Monaten",
+                "wurden",
+                "wiederholt",
+                "Mitarbeiter",
+                "von",
+                "Hilfsorganisationen",
+                "und",
+                "den",
+                "Vereinten",
+                "Nationen",
+                "überfallen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Am",
+                "Mittwoch",
+                "sei",
+                "der",
+                "Deutsche",
+                "nach",
+                "einem",
+                "Einsatz",
+                "der",
+                "Sicherheitskräfte",
+                "in",
+                "Somaliland",
+                "aus",
+                "der",
+                "Gewalt",
+                "der",
+                "Entführer",
+                "befreit",
+                "worden",
+                ",",
+                "sagte",
+                "ein",
+                "somalischer",
+                "Behördenvertreter",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Der",
+                "Mann",
+                "sei",
+                "in",
+                "Freiheit",
+                "und",
+                "wohlbehalten",
+                ",",
+                "bestätigte",
+                "ein",
+                "Sprecher",
+                "des",
+                "Auswärtigen",
+                "Amtes",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "Auch",
+                "einige",
+                "der",
+                "Täter",
+                "seien",
+                "bei",
+                "der",
+                "Befreiungsaktion",
+                "verletzt",
+                "worden",
+                "."
+            ]
+        }
+    ]
+}

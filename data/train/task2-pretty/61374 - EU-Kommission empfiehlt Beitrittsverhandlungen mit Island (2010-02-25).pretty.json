@@ -1,0 +1,334 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "0:4"
+            ],
+            "CueText": "empfahl",
+            "Form": "Indirect",
+            "Frame": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4",
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8",
+                "0:9",
+                "0:10",
+                "0:11",
+                "0:12",
+                "0:13",
+                "0:14"
+            ],
+            "FrameText": "Stellvertretend für die EU-Kommission empfahl der EU-Kommissar für Erweiterung und europäische Nachbarschaftspolitik Štefan Füle ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "0:15",
+                "0:16",
+                "0:17",
+                "0:18",
+                "0:19",
+                "0:20"
+            ],
+            "MessageText": "Verhandlungen über einen EU-Beitritt Islands einzuleiten",
+            "STWR": "Speech",
+            "Source": [
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8",
+                "0:9",
+                "0:10",
+                "0:11",
+                "0:12",
+                "0:13"
+            ],
+            "SourceText": "der EU-Kommissar für Erweiterung und europäische Nachbarschaftspolitik Štefan Füle"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "9:2",
+                "9:4"
+            ],
+            "CueText": "ist zuversichtlich",
+            "Form": "Indirect",
+            "Frame": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3",
+                "9:4",
+                "9:5"
+            ],
+            "FrameText": "Islands Regierung ist dennoch zuversichtlich ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "9:6",
+                "9:7",
+                "9:8",
+                "9:9",
+                "9:10",
+                "9:11",
+                "9:12",
+                "9:13",
+                "9:14"
+            ],
+            "MessageText": "im Jahre 2012 Mitglied der EU werden zu können",
+            "STWR": "ST",
+            "Source": [
+                "9:0",
+                "9:1"
+            ],
+            "SourceText": "Islands Regierung"
+        }
+    ],
+    "DocumentName": "61374 - EU-Kommission empfiehlt Beitrittsverhandlungen mit Island (2010-02-25)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Stellvertretend",
+                "für",
+                "die",
+                "EU-Kommission",
+                "empfahl",
+                "der",
+                "EU-Kommissar",
+                "für",
+                "Erweiterung",
+                "und",
+                "europäische",
+                "Nachbarschaftspolitik",
+                "Štefan",
+                "Füle",
+                ",",
+                "Verhandlungen",
+                "über",
+                "einen",
+                "EU-Beitritt",
+                "Islands",
+                "einzuleiten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Nun",
+                "liegt",
+                "es",
+                "an",
+                "dem",
+                "EU-Ministerrat",
+                ",",
+                "darüber",
+                "zu",
+                "entscheiden",
+                ",",
+                "ob",
+                "und",
+                "wann",
+                "die",
+                "Verhandlungen",
+                "mit",
+                "Island",
+                "aufgenommen",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Im",
+                "Ministerrat",
+                "sind",
+                "die",
+                "Regierungen",
+                "der",
+                "EU-Mitgliedsstaaten",
+                "vertreten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Jedes",
+                "Land",
+                "besitzt",
+                "ein",
+                "Veto-Recht",
+                "gegen",
+                "eine",
+                "EU-Erweiterung",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Dies",
+                "ist",
+                "vor",
+                "dem",
+                "Hintergrund",
+                "eines",
+                "Konflikts",
+                "zwischen",
+                "Großbritannien",
+                ",",
+                "Niederlande",
+                "und",
+                "Island",
+                "um",
+                "die",
+                "Entschädigung",
+                "von",
+                "Kunden",
+                "isländischer",
+                "Banken",
+                "interessant",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Großbritannien",
+                "und",
+                "die",
+                "Niederlande",
+                "sind",
+                "mit",
+                "5,3",
+                "Milliarden",
+                "Euro",
+                "in",
+                "Vorleistung",
+                "gegangen",
+                "und",
+                "haben",
+                "ihre",
+                "Staatsbürger",
+                "entschädigt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Nun",
+                "fordern",
+                "die",
+                "beiden",
+                "Länder",
+                "das",
+                "Geld",
+                "von",
+                "Island",
+                "ein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Ein",
+                "Gesetz",
+                ",",
+                "das",
+                "die",
+                "Zahlungen",
+                "regeln",
+                "sollte",
+                ",",
+                "wurde",
+                "vom",
+                "isländischen",
+                "Staatspräsidenten",
+                "Ólafur",
+                "Ragnar",
+                "Grímsson",
+                "gestoppt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Nun",
+                "wird",
+                "ein",
+                "Referendum",
+                "am",
+                "6.",
+                "März",
+                "über",
+                "die",
+                "Rückzahlung",
+                "entscheiden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Islands",
+                "Regierung",
+                "ist",
+                "dennoch",
+                "zuversichtlich",
+                ",",
+                "im",
+                "Jahre",
+                "2012",
+                "Mitglied",
+                "der",
+                "EU",
+                "werden",
+                "zu",
+                "können",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Weitere",
+                "Hindernisse",
+                "dabei",
+                "sind",
+                "jedoch",
+                "das",
+                "isländische",
+                "Fischereirecht",
+                ",",
+                "die",
+                "Einsetzung",
+                "der",
+                "Richter",
+                "durch",
+                "den",
+                "Justizminister",
+                "und",
+                "noch",
+                "nicht",
+                "umgesetzte",
+                "EU-Vorschriften",
+                "im",
+                "Finanzsektor",
+                "."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "7:15"
+            ],
+            "CueText": "so",
+            "Form": "Direct",
+            "Frame": [
+                "7:14",
+                "7:15",
+                "7:16"
+            ],
+            "FrameText": ", so Kondé",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:4",
+                "6:5",
+                "6:6",
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7",
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11",
+                "7:12",
+                "7:13"
+            ],
+            "MessageText": "„ Ich freue mich auf Rostock . Mein Ziel ist es , mit dem F.C. Hansa in die Bundesliga aufzusteigen “",
+            "STWR": "Speech",
+            "Source": [
+                "7:16"
+            ],
+            "SourceText": "Kondé"
+        }
+    ],
+    "DocumentName": "6620 - Hansa Rostock verpflichtet Oumar Kondé (2005-06-21)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Der",
+                "FC",
+                "Hansa",
+                "Rostock",
+                "hat",
+                "sich",
+                "für",
+                "die",
+                "kommende",
+                "2.",
+                "Liga-",
+                "Saison",
+                "mit",
+                "Abwehrspieler",
+                "Oumar",
+                "Kondé",
+                "verstärkt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Der",
+                "25-Jährige",
+                "wechselt",
+                "vom",
+                "SC",
+                "Freiburg",
+                "ablösefrei",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Der",
+                "Vertrag",
+                "läuft",
+                "zunächst",
+                "bis",
+                "zum",
+                "30.",
+                "Juni",
+                "2006."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Bei",
+                "einem",
+                "Aufstieg",
+                "in",
+                "die",
+                "1.",
+                "Bundesliga",
+                "verlängert",
+                "sich",
+                "dieser",
+                "um",
+                "ein",
+                "weiteres",
+                "Jahr",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Oumar",
+                "Kondé",
+                "spielte",
+                "für",
+                "den",
+                "SC",
+                "Freiburg",
+                "insgesamt",
+                "89",
+                "Bundesligaspiele",
+                ",",
+                "in",
+                "denen",
+                "er",
+                "zwei",
+                "Tore",
+                "geschossen",
+                "hat",
+                ",",
+                "sowie",
+                "24",
+                "Zweitligaspiele",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Zuvor",
+                "war",
+                "er",
+                "bei",
+                "den",
+                "Blackburn",
+                "Rovers",
+                "und",
+                "dem",
+                "FC",
+                "Basel",
+                "unter",
+                "Vertrag",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "„",
+                "Ich",
+                "freue",
+                "mich",
+                "auf",
+                "Rostock",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Mein",
+                "Ziel",
+                "ist",
+                "es",
+                ",",
+                "mit",
+                "dem",
+                "F.C.",
+                "Hansa",
+                "in",
+                "die",
+                "Bundesliga",
+                "aufzusteigen",
+                "“",
+                ",",
+                "so",
+                "Kondé",
+                "."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,334 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "0:3",
+                "0:7"
+            ],
+            "CueText": "hatte beschlossen",
+            "Form": "Indirect",
+            "Frame": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4",
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8"
+            ],
+            "FrameText": "Im Juni 2011 hatte die Deutsche Bischofskonferenz beschlossen ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "0:9",
+                "0:10",
+                "0:11",
+                "0:12",
+                "0:13",
+                "0:14",
+                "0:15",
+                "0:16",
+                "0:17",
+                "0:18",
+                "0:19",
+                "0:20",
+                "0:21",
+                "0:22",
+                "0:23",
+                "0:24",
+                "0:25",
+                "0:26",
+                "0:27",
+                "0:28"
+            ],
+            "MessageText": "zusammen mit dem Kriminologischen Forschungsinstitut Niedersachsen ( KFN ) eine Studie zum sexuellen Missbrauch in der römisch-katholischen Kirche zu erstellen",
+            "STWR": "SW",
+            "Source": [
+                "0:4",
+                "0:5",
+                "0:6"
+            ],
+            "SourceText": "die Deutsche Bischofskonferenz"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:2",
+                "2:4"
+            ],
+            "CueText": "wurde angegeben",
+            "Form": "Indirect",
+            "Frame": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5"
+            ],
+            "FrameText": "Als Begründung wurde auch angegeben ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9",
+                "2:10",
+                "2:11",
+                "2:12",
+                "2:13",
+                "2:14"
+            ],
+            "MessageText": "es werde ein neuer Partner für die Studie gesucht",
+            "STWR": "SW",
+            "Source": [],
+            "SourceText": ""
+        },
+        {
+            "Addr": [
+                "4:2",
+                "4:3",
+                "4:4"
+            ],
+            "AddrText": "der Deutschen Bischofskonferenz",
+            "Cue": [
+                "4:1",
+                "4:6"
+            ],
+            "CueText": "wirft vor",
+            "Form": "Indirect",
+            "Frame": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7"
+            ],
+            "FrameText": "Er wirft der Deutschen Bischofskonferenz jetzt vor ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:8",
+                "4:9",
+                "4:10",
+                "4:11",
+                "4:12",
+                "4:13",
+                "4:14"
+            ],
+            "MessageText": "die Ergebnisse der Missbrauchsstudie zensieren zu wollen",
+            "STWR": "Speech",
+            "Source": [
+                "4:0"
+            ],
+            "SourceText": "Er"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6"
+            ],
+            "MessageText": "Außerdem seien wichtige Unterlagen vernichtet worden .",
+            "STWR": "Speech",
+            "Source": [
+                "4:0"
+            ],
+            "SourceText": "Er"
+        }
+    ],
+    "DocumentName": "74636 - Deutsche Bischofskonferenz stoppt kriminologische Studie zum sexuellen Missbrauch (2013-01-13)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Im",
+                "Juni",
+                "2011",
+                "hatte",
+                "die",
+                "Deutsche",
+                "Bischofskonferenz",
+                "beschlossen",
+                ",",
+                "zusammen",
+                "mit",
+                "dem",
+                "Kriminologischen",
+                "Forschungsinstitut",
+                "Niedersachsen",
+                "(",
+                "KFN",
+                ")",
+                "eine",
+                "Studie",
+                "zum",
+                "sexuellen",
+                "Missbrauch",
+                "in",
+                "der",
+                "römisch-katholischen",
+                "Kirche",
+                "zu",
+                "erstellen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Am",
+                "Mittwoch",
+                "dieser",
+                "Woche",
+                "(",
+                "9.",
+                "Januar",
+                ")",
+                "wurde",
+                "der",
+                "Vertrag",
+                "mit",
+                "dem",
+                "Forschungsinstitut",
+                "gekündigt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Als",
+                "Begründung",
+                "wurde",
+                "auch",
+                "angegeben",
+                ",",
+                "es",
+                "werde",
+                "ein",
+                "neuer",
+                "Partner",
+                "für",
+                "die",
+                "Studie",
+                "gesucht",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Das",
+                "Kriminologische",
+                "Forschungsinstitut",
+                "wird",
+                "seit",
+                "2003",
+                "von",
+                "Christian",
+                "Pfeiffer",
+                "geleitet",
+                ",",
+                "der",
+                "zuvor",
+                "Justizminister",
+                "des",
+                "Landes",
+                "Niedersachsen",
+                "war",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Er",
+                "wirft",
+                "der",
+                "Deutschen",
+                "Bischofskonferenz",
+                "jetzt",
+                "vor",
+                ",",
+                "die",
+                "Ergebnisse",
+                "der",
+                "Missbrauchsstudie",
+                "zensieren",
+                "zu",
+                "wollen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Außerdem",
+                "seien",
+                "wichtige",
+                "Unterlagen",
+                "vernichtet",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Seine",
+                "Kritik",
+                "richtet",
+                "sich",
+                "insbesondere",
+                "gegen",
+                "die",
+                "Erzbistümer",
+                "München",
+                "und",
+                "Freising",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Wegen",
+                "dieser",
+                "Vorwürfe",
+                "hat",
+                "die",
+                "Deutsche",
+                "Bischofskonferenz",
+                "eine",
+                "Unterlassungsklage",
+                "gegen",
+                "Pfeiffer",
+                "erhoben",
+                "."
+            ]
+        }
+    ]
+}

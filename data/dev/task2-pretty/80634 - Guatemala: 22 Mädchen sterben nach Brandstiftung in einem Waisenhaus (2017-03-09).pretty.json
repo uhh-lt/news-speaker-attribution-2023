@@ -1,0 +1,770 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:2"
+            ],
+            "CueText": "berichteten",
+            "Form": "Indirect",
+            "Frame": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3"
+            ],
+            "FrameText": "Lokale Medien berichteten ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9",
+                "2:10",
+                "2:11",
+                "2:12",
+                "2:13",
+                "2:14",
+                "2:15",
+                "2:16",
+                "2:17",
+                "2:18",
+                "2:19",
+                "2:20",
+                "2:21"
+            ],
+            "MessageText": "dass 50 minderjährige Heimbewohner in einen Streit geraten waren , in dessen Verlauf sollen Matratzen angezündet worden sein",
+            "STWR": "SW",
+            "Source": [
+                "2:0",
+                "2:1"
+            ],
+            "SourceText": "Lokale Medien"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10"
+            ],
+            "MessageText": "Das Feuer habe sich anschließend rasend schnell im Gebäude ausgebreitet .",
+            "STWR": "SW",
+            "Source": [
+                "2:0",
+                "2:1"
+            ],
+            "SourceText": "Lokale Medien"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:5",
+                "4:8"
+            ],
+            "CueText": "bezeichnete als",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10"
+            ],
+            "MessageText": "Mayra Veliz von der Staatsanwaltschaft bezeichnete die Opferangaben als vorläufig ,",
+            "STWR": "SW",
+            "Source": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4"
+            ],
+            "SourceText": "Mayra Veliz von der Staatsanwaltschaft"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:5",
+                "4:8"
+            ],
+            "CueText": "bezeichnete als",
+            "Form": "Indirect",
+            "Frame": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10"
+            ],
+            "FrameText": "Mayra Veliz von der Staatsanwaltschaft bezeichnete die Opferangaben als vorläufig ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:11",
+                "4:12",
+                "4:13",
+                "4:14",
+                "4:15",
+                "4:16",
+                "4:17",
+                "4:18",
+                "4:19",
+                "4:20",
+                "4:21",
+                "4:22",
+                "4:23",
+                "4:24"
+            ],
+            "MessageText": "da der Tatort noch nicht ganz abgesucht sei und viele Leichen völlig verkohlt seien",
+            "STWR": "SW",
+            "Source": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4"
+            ],
+            "SourceText": "Mayra Veliz von der Staatsanwaltschaft"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "5:2",
+                "5:3"
+            ],
+            "CueText": "gab an",
+            "Form": "Indirect",
+            "Frame": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4"
+            ],
+            "FrameText": "Die Feuerwehr gab an ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12"
+            ],
+            "MessageText": "dass das Schicksal von Vermissten noch unklar sei",
+            "STWR": "SW",
+            "Source": [
+                "5:0",
+                "5:1"
+            ],
+            "SourceText": "Die Feuerwehr"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:4",
+                "6:5",
+                "6:6",
+                "6:7",
+                "6:8",
+                "6:9"
+            ],
+            "MessageText": "Angehörige beklagten sich über mangelnde Information durch die Behörden .",
+            "STWR": "SW",
+            "Source": [
+                "6:0"
+            ],
+            "SourceText": "Angehörige"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "10:0",
+                "10:1",
+                "10:2",
+                "10:3",
+                "10:4",
+                "10:5",
+                "10:6",
+                "10:7",
+                "10:8",
+                "10:9",
+                "10:10",
+                "10:11"
+            ],
+            "MessageText": "Ein Ex-Mitarbeiter sprach von einem Klima der Gewalt zwischen den Bewohnern .",
+            "STWR": "Speech",
+            "Source": [
+                "10:0",
+                "10:1"
+            ],
+            "SourceText": "Ein Ex-Mitarbeiter"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "11:4",
+                "11:5"
+            ],
+            "CueText": "gab es",
+            "Form": "Indirect",
+            "Frame": [
+                "11:0",
+                "11:1",
+                "11:2",
+                "11:3",
+                "11:4",
+                "11:5",
+                "11:6",
+                "11:7"
+            ],
+            "FrameText": "Seit dem Jahr 2015 gab es Hinweise ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "11:8",
+                "11:9",
+                "11:10",
+                "11:11",
+                "11:12",
+                "11:13",
+                "11:14",
+                "11:15",
+                "11:16"
+            ],
+            "MessageText": "dass Jugendliche aus dem Heim zur Prostitution angeworben wurden",
+            "STWR": "SW",
+            "Source": [
+                "11:6"
+            ],
+            "SourceText": "Hinweise"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "14:3"
+            ],
+            "CueText": "sagte",
+            "Form": "Direct",
+            "Frame": [
+                "14:0",
+                "14:1",
+                "14:2",
+                "14:3",
+                "14:4"
+            ],
+            "FrameText": "Sozialminister Carlos Rodas sagte :",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "14:5",
+                "14:6",
+                "14:7",
+                "14:8",
+                "14:9",
+                "14:10",
+                "14:11",
+                "14:12",
+                "14:13",
+                "14:14",
+                "14:15"
+            ],
+            "MessageText": "\" Die gemeinsame Unterbringung der Jugendlichen ist ein Fehler gewesen \"",
+            "STWR": "Speech",
+            "Source": [
+                "14:0",
+                "14:1",
+                "14:2"
+            ],
+            "SourceText": "Sozialminister Carlos Rodas"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "15:7",
+                "15:8"
+            ],
+            "CueText": "verwies darauf",
+            "Form": "Indirect",
+            "Frame": [
+                "15:0",
+                "15:1",
+                "15:2",
+                "15:3",
+                "15:4",
+                "15:5",
+                "15:6",
+                "15:7",
+                "15:8",
+                "15:9"
+            ],
+            "FrameText": "Die Chefjuristin der Regierung , Anabella Morfin verwies darauf ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "15:10",
+                "15:11",
+                "15:12",
+                "15:13",
+                "15:14",
+                "15:15",
+                "15:16",
+                "15:17",
+                "15:18",
+                "15:19",
+                "15:20",
+                "15:21",
+                "15:22",
+                "15:23",
+                "15:24",
+                "15:25",
+                "15:26",
+                "15:27"
+            ],
+            "MessageText": "dass man besonders auffällige Jugendliche aus der Einrichtung verlegen wollte , was von den Richtern abgelehnt worden war",
+            "STWR": "SW",
+            "Source": [
+                "15:0",
+                "15:1",
+                "15:2",
+                "15:3",
+                "15:4",
+                "15:5",
+                "15:6"
+            ],
+            "SourceText": "Die Chefjuristin der Regierung , Anabella Morfin"
+        }
+    ],
+    "DocumentName": "80634 - Guatemala: 22 Mädchen sterben nach Brandstiftung in einem Waisenhaus (2017-03-09)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Am",
+                "Mittwoch",
+                "starben",
+                "22",
+                "Mädchen",
+                "im",
+                "Alter",
+                "von",
+                "14",
+                "bis",
+                "17",
+                "Jahre",
+                "bei",
+                "einem",
+                "Brand",
+                "im",
+                "Mariä-Himmelfahrt-Waisenhaus",
+                "bei",
+                "Guatemala-Stadt",
+                ",",
+                "19",
+                "davon",
+                "noch",
+                "am",
+                "Brandort",
+                ",",
+                "drei",
+                "etwas",
+                "später",
+                "in",
+                "Krankenhäusern",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "38",
+                "weitere",
+                "Personen",
+                "wurden",
+                "verletzt",
+                ",",
+                "16",
+                "davon",
+                "lebensgefährlich",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Lokale",
+                "Medien",
+                "berichteten",
+                ",",
+                "dass",
+                "50",
+                "minderjährige",
+                "Heimbewohner",
+                "in",
+                "einen",
+                "Streit",
+                "geraten",
+                "waren",
+                ",",
+                "in",
+                "dessen",
+                "Verlauf",
+                "sollen",
+                "Matratzen",
+                "angezündet",
+                "worden",
+                "sein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Das",
+                "Feuer",
+                "habe",
+                "sich",
+                "anschließend",
+                "rasend",
+                "schnell",
+                "im",
+                "Gebäude",
+                "ausgebreitet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Mayra",
+                "Veliz",
+                "von",
+                "der",
+                "Staatsanwaltschaft",
+                "bezeichnete",
+                "die",
+                "Opferangaben",
+                "als",
+                "vorläufig",
+                ",",
+                "da",
+                "der",
+                "Tatort",
+                "noch",
+                "nicht",
+                "ganz",
+                "abgesucht",
+                "sei",
+                "und",
+                "viele",
+                "Leichen",
+                "völlig",
+                "verkohlt",
+                "seien",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Die",
+                "Feuerwehr",
+                "gab",
+                "an",
+                ",",
+                "dass",
+                "das",
+                "Schicksal",
+                "von",
+                "Vermissten",
+                "noch",
+                "unklar",
+                "sei",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Angehörige",
+                "beklagten",
+                "sich",
+                "über",
+                "mangelnde",
+                "Information",
+                "durch",
+                "die",
+                "Behörden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Das",
+                "Heim",
+                "war",
+                "2006",
+                "erbaut",
+                "worden",
+                "und",
+                "sollte",
+                "400",
+                "Minderjährigen",
+                "als",
+                "Unterkunft",
+                "dienen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Zuletzt",
+                "wurde",
+                "es",
+                "von",
+                "800",
+                "Personen",
+                "bewohnt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Anfangs",
+                "war",
+                "die",
+                "Einrichtung",
+                "für",
+                "Minderjährige",
+                "vorgesehen",
+                ",",
+                "die",
+                "wegen",
+                "häuslicher",
+                "Gewalt",
+                "aus",
+                "ihren",
+                "Familien",
+                "genommen",
+                "werden",
+                "mussten",
+                ",",
+                "später",
+                "waren",
+                "auch",
+                "andere",
+                "Jugendliche",
+                ",",
+                "darunter",
+                "kriminelle",
+                ",",
+                "dort",
+                "untergebracht",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Ein",
+                "Ex-Mitarbeiter",
+                "sprach",
+                "von",
+                "einem",
+                "Klima",
+                "der",
+                "Gewalt",
+                "zwischen",
+                "den",
+                "Bewohnern",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Seit",
+                "dem",
+                "Jahr",
+                "2015",
+                "gab",
+                "es",
+                "Hinweise",
+                ",",
+                "dass",
+                "Jugendliche",
+                "aus",
+                "dem",
+                "Heim",
+                "zur",
+                "Prostitution",
+                "angeworben",
+                "wurden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "In",
+                "der",
+                "Nacht",
+                "vor",
+                "dem",
+                "Brand",
+                "flohen",
+                "60",
+                "Bewohner",
+                "und",
+                "entgingen",
+                "so",
+                "dem",
+                "Feuer",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Nach",
+                "dem",
+                "Brand",
+                "wird",
+                "vom",
+                "Staat",
+                "die",
+                "Schließung",
+                "des",
+                "Heims",
+                "erwogen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Sozialminister",
+                "Carlos",
+                "Rodas",
+                "sagte",
+                ":",
+                "\"",
+                "Die",
+                "gemeinsame",
+                "Unterbringung",
+                "der",
+                "Jugendlichen",
+                "ist",
+                "ein",
+                "Fehler",
+                "gewesen",
+                "\"",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "Die",
+                "Chefjuristin",
+                "der",
+                "Regierung",
+                ",",
+                "Anabella",
+                "Morfin",
+                "verwies",
+                "darauf",
+                ",",
+                "dass",
+                "man",
+                "besonders",
+                "auffällige",
+                "Jugendliche",
+                "aus",
+                "der",
+                "Einrichtung",
+                "verlegen",
+                "wollte",
+                ",",
+                "was",
+                "von",
+                "den",
+                "Richtern",
+                "abgelehnt",
+                "worden",
+                "war",
+                "."
+            ]
+        }
+    ]
+}

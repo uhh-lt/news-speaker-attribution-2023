@@ -1,0 +1,318 @@
+{
+    "Annotations": [
+        {
+            "Addr": [
+                "3:0"
+            ],
+            "AddrText": "Klien",
+            "Cue": [
+                "3:1",
+                "3:2"
+            ],
+            "CueText": "wurde vorgeworfen",
+            "Form": "Indirect",
+            "Frame": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3"
+            ],
+            "FrameText": "Klien wurde vorgeworfen ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10"
+            ],
+            "MessageText": "an der Schlägerei beteiligt gewesen zu sein",
+            "STWR": "SW",
+            "Source": [],
+            "SourceText": ""
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:9"
+            ],
+            "CueText": "nach",
+            "Form": "Indirect",
+            "Frame": [
+                "4:9",
+                "4:10",
+                "4:11",
+                "4:12",
+                "4:13",
+                "4:14"
+            ],
+            "FrameText": "nach Angaben der österreichischen Nachrichtenagentur APA",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:15",
+                "4:16",
+                "4:17",
+                "4:18",
+                "4:19",
+                "4:20",
+                "4:21",
+                "4:22",
+                "4:23",
+                "4:24",
+                "4:25"
+            ],
+            "MessageText": "In einer schriftlichen Stellungnahme an die Medien hat Klien am Montag , dem 20. Februar 2006 , die Anzeige zurückgewiesen",
+            "STWR": "SW",
+            "Source": [
+                "4:10",
+                "4:11",
+                "4:12",
+                "4:13",
+                "4:14"
+            ],
+            "SourceText": "Angaben der österreichischen Nachrichtenagentur APA"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "5:3",
+                "5:4"
+            ],
+            "CueText": "gab bekannt",
+            "Form": "Direct",
+            "Frame": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5"
+            ],
+            "FrameText": "Der 23-jährige Sportler gab bekannt :",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:4",
+                "6:5",
+                "6:6",
+                "6:7",
+                "6:8",
+                "6:9",
+                "6:10"
+            ],
+            "MessageText": "„ Ich war an keiner Schlägerei beteiligt . Folglich habe ich auch keinen Gast des Lokals verletzt . “",
+            "STWR": "Writing",
+            "Source": [
+                "5:0",
+                "5:1",
+                "5:2"
+            ],
+            "SourceText": "Der 23-jährige Sportler"
+        }
+    ],
+    "DocumentName": "22510 - Formel-1-Pilot Christian Klien weist Vorwurf der Körperverletzung zurück (2006-02-23)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "In",
+                "der",
+                "Nacht",
+                "vom",
+                "10.",
+                "auf",
+                "den",
+                "11.",
+                "Februar",
+                "2006",
+                "hielt",
+                "sich",
+                "der",
+                "Vorarlberger",
+                "Formel-1-Fahrer",
+                "Christian",
+                "Klien",
+                "in",
+                "einer",
+                "Diskothek",
+                "in",
+                "Altach",
+                "auf",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Nach",
+                "dem",
+                "Besuch",
+                "wurde",
+                "gegen",
+                "Klien",
+                "Anzeige",
+                "wegen",
+                "Körperverletzung",
+                "erstattet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Grund",
+                "für",
+                "die",
+                "Anzeige",
+                "war",
+                "eine",
+                "Schlägerei",
+                "in",
+                "der",
+                "Disco",
+                ",",
+                "während",
+                "Klien",
+                "sich",
+                "mit",
+                "einer",
+                "Gruppe",
+                "von",
+                "rund",
+                "zehn",
+                "Personen",
+                "dort",
+                "aufhielt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Klien",
+                "wurde",
+                "vorgeworfen",
+                ",",
+                "an",
+                "der",
+                "Schlägerei",
+                "beteiligt",
+                "gewesen",
+                "zu",
+                "sein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "In",
+                "einer",
+                "schriftlichen",
+                "Stellungnahme",
+                "an",
+                "die",
+                "Medien",
+                "hat",
+                "Klien",
+                "nach",
+                "Angaben",
+                "der",
+                "österreichischen",
+                "Nachrichtenagentur",
+                "APA",
+                "am",
+                "Montag",
+                ",",
+                "dem",
+                "20.",
+                "Februar",
+                "2006",
+                ",",
+                "die",
+                "Anzeige",
+                "zurückgewiesen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Der",
+                "23-jährige",
+                "Sportler",
+                "gab",
+                "bekannt",
+                ":",
+                "„",
+                "Ich",
+                "war",
+                "an",
+                "keiner",
+                "Schlägerei",
+                "beteiligt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Folglich",
+                "habe",
+                "ich",
+                "auch",
+                "keinen",
+                "Gast",
+                "des",
+                "Lokals",
+                "verletzt",
+                ".",
+                "“"
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Klien",
+                "ist",
+                "derzeit",
+                "Fahrer",
+                "des",
+                "„",
+                "Red",
+                "Bull",
+                "Racing",
+                "Teams",
+                "“",
+                "."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,319 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:3",
+                "1:7"
+            ],
+            "CueText": "hat erklärt",
+            "Form": "Direct",
+            "Frame": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8"
+            ],
+            "FrameText": "Museumsdirektor Thomas Metz hat anlässlich der Eröffnung erklärt :",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:9",
+                "1:10",
+                "1:11",
+                "1:12",
+                "1:13",
+                "1:14",
+                "1:15",
+                "1:16",
+                "1:17",
+                "1:18",
+                "1:19",
+                "1:20",
+                "1:21",
+                "1:22",
+                "1:23"
+            ],
+            "MessageText": "\" Am Bespiel des Goldbären wird ein spannendes Stück deutscher Wirtschafts- und Kulturgeschichte aufgezeigt \"",
+            "STWR": "SW",
+            "Source": [
+                "1:0",
+                "1:1",
+                "1:2"
+            ],
+            "SourceText": "Museumsdirektor Thomas Metz"
+        }
+    ],
+    "DocumentName": "5906 - Zeitgenössische Kunstausstellung auf der Festung Ehrenbreitstein eröffnet (2005-06-05)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Auf",
+                "der",
+                "Festung",
+                "Ehrenbreitstein",
+                "hat",
+                "der",
+                "TV-Moderator",
+                "Thomas",
+                "Gottschalk",
+                "im",
+                "rheinland-pfälzischen",
+                "Landesmuseum",
+                "in",
+                "Koblenz",
+                "am",
+                "heutigen",
+                "Sonntag",
+                ",",
+                "den",
+                "05.06.2005",
+                ",",
+                "die",
+                "Ausstellung",
+                "„",
+                "Haribo",
+                "-",
+                "Mit",
+                "dem",
+                "Goldbären",
+                "zur",
+                "Kultmarke",
+                "”",
+                "über",
+                "die",
+                "Geschichte",
+                "der",
+                "Gummibärchen",
+                "eröffnet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Museumsdirektor",
+                "Thomas",
+                "Metz",
+                "hat",
+                "anlässlich",
+                "der",
+                "Eröffnung",
+                "erklärt",
+                ":",
+                "\"",
+                "Am",
+                "Bespiel",
+                "des",
+                "Goldbären",
+                "wird",
+                "ein",
+                "spannendes",
+                "Stück",
+                "deutscher",
+                "Wirtschafts-",
+                "und",
+                "Kulturgeschichte",
+                "aufgezeigt",
+                "\"",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Die",
+                "Ausstellung",
+                "handelt",
+                "von",
+                "der",
+                "Entwicklung",
+                "der",
+                "Produktion",
+                "vom",
+                "Bonbonkocher",
+                "bis",
+                "hin",
+                "zur",
+                "heutigen",
+                "Fertigungsstraße",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Anhand",
+                "verschiedener",
+                "Ausstellungsstücke",
+                "werden",
+                "die",
+                "Veränderungen",
+                "in",
+                "der",
+                "Süßwarenindustrie",
+                "hervorgehoben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Die",
+                "Besucher",
+                "der",
+                "Ausstellung",
+                "können",
+                "anhand",
+                "von",
+                "Aroma-Riechstationen",
+                ",",
+                "Beutelpackmaschinen",
+                "und",
+                "historischen",
+                "Werbeplakaten",
+                "die",
+                "Entwicklung",
+                "der",
+                "Gummibärchenherstellung",
+                "nachvollziehen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Neben",
+                "der",
+                "Herstellung",
+                "der",
+                "Süßwaren",
+                "werden",
+                "auch",
+                "Kunstgegenstände",
+                "im",
+                "Zusammenhang",
+                "mit",
+                "den",
+                "berühmten",
+                "Bärchen",
+                "gezeigt",
+                ":"
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Videoinstallation",
+                ",",
+                "Wandschirme",
+                "und",
+                "Gummibären-Lampen",
+                "im",
+                "Tiffany-Stil",
+                "aus",
+                "Keramik",
+                "sind",
+                "zu",
+                "sehen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Studenten",
+                "des",
+                "Instituts",
+                "für",
+                "Design",
+                "in",
+                "Düsseldorf",
+                "haben",
+                "mit",
+                "Hilfe",
+                "ihrer",
+                "Dozenten",
+                "Plakate",
+                "und",
+                "Kinospots",
+                "entworfen",
+                ",",
+                "die",
+                "auch",
+                "ausgestellt",
+                "sind",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Am",
+                "Eröffnungstag",
+                "findet",
+                "zusätzlich",
+                "eine",
+                "Modenschau",
+                "statt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Dabei",
+                "werden",
+                "Kleidungsstücke",
+                "gezeigt",
+                ",",
+                "die",
+                "aus",
+                "Süßwarenprodukten",
+                "und",
+                "Verpackungsmaterial",
+                "gefertigt",
+                "wurden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Während",
+                "der",
+                "Ausstellungsdauer",
+                "bis",
+                "zum",
+                "13.",
+                "November",
+                "2005",
+                "werden",
+                "auch",
+                "Workshops",
+                "für",
+                "Schulen",
+                ",",
+                "Familienprogramme",
+                "und",
+                "Ferienkurse",
+                "angeboten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Themenverwandter",
+                "Artikel"
+            ]
+        }
+    ]
+}

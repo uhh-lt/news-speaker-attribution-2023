@@ -1,0 +1,607 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "FreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10",
+                "4:11",
+                "4:12",
+                "4:13",
+                "4:14"
+            ],
+            "MessageText": "Bei den Festgenommenen soll es sich um Hintermänner der sogenannten Mafiamorde von Duisburg handeln .",
+            "STWR": "SW",
+            "Source": [
+                "3:4",
+                "3:5"
+            ],
+            "SourceText": "die Polizeieinheiten"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "8:8"
+            ],
+            "CueText": "zufolge",
+            "Form": "Indirect",
+            "Frame": [
+                "8:7",
+                "8:8"
+            ],
+            "FrameText": "Schätzungen zufolge",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "8:0",
+                "8:1",
+                "8:2",
+                "8:3",
+                "8:4",
+                "8:5",
+                "8:6",
+                "8:9",
+                "8:10",
+                "8:11",
+                "8:12",
+                "8:13",
+                "8:14",
+                "8:15"
+            ],
+            "MessageText": "Allein mit dem Drogengeschäft nimmt die Organisation jährlich 30 bis 40 Milliarden Euro ein",
+            "STWR": "ST",
+            "Source": [
+                "8:7"
+            ],
+            "SourceText": "Schätzungen"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "12:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "12:0",
+                "12:1",
+                "12:2",
+                "12:3",
+                "12:4",
+                "12:5",
+                "12:6"
+            ],
+            "FrameText": "Nach Einschätzung des italienischen Mafiajägers Salvatore Boemi",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "12:7",
+                "12:8",
+                "12:9",
+                "12:10",
+                "12:11",
+                "12:12",
+                "12:13",
+                "12:14",
+                "12:15",
+                "12:16",
+                "12:17",
+                "12:18",
+                "12:19"
+            ],
+            "MessageText": "ist die Organisation auf dem Sprung zur Ausweitung ihres Einflusses auf ganz Europa",
+            "STWR": "ST",
+            "Source": [
+                "12:1",
+                "12:2",
+                "12:3",
+                "12:4",
+                "12:5",
+                "12:6"
+            ],
+            "SourceText": "Einschätzung des italienischen Mafiajägers Salvatore Boemi"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "13:0",
+                "13:1",
+                "13:2",
+                "13:3",
+                "13:4",
+                "13:5",
+                "13:6",
+                "13:7",
+                "13:8",
+                "13:9",
+                "13:10",
+                "13:11",
+                "13:12",
+                "13:13",
+                "13:14",
+                "13:15",
+                "13:16",
+                "13:17",
+                "13:18",
+                "13:19",
+                "13:20",
+                "13:21",
+                "13:22"
+            ],
+            "MessageText": "Die Mafiamorde von Duisburg seien dafür ein eindeutiger Hinweis , auf den die europäischen Polizeibehörden jedoch nicht in angemessener Weise reagiert hätten .",
+            "STWR": "Speech",
+            "Source": [
+                "12:1",
+                "12:2",
+                "12:3",
+                "12:4",
+                "12:5",
+                "12:6"
+            ],
+            "SourceText": "Einschätzung des italienischen Mafiajägers Salvatore Boemi"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "14:11"
+            ],
+            "CueText": "so",
+            "Form": "Indirect",
+            "Frame": [
+                "14:10",
+                "14:11",
+                "14:12"
+            ],
+            "FrameText": ", so Boemi",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "14:0",
+                "14:1",
+                "14:2",
+                "14:3",
+                "14:4",
+                "14:5",
+                "14:6",
+                "14:7",
+                "14:8",
+                "14:9"
+            ],
+            "MessageText": "Die Zusammenarbeit zwischen den Länderpolizeibehörden bleibe hinter den Notwendigkeiten zurück",
+            "STWR": "Speech",
+            "Source": [
+                "14:12"
+            ],
+            "SourceText": "Boemi"
+        },
+        {
+            "Addr": [
+                "15:17",
+                "15:18",
+                "15:19"
+            ],
+            "AddrText": "der Financial Times",
+            "Cue": [
+                "15:11"
+            ],
+            "CueText": "sagte",
+            "Form": "Direct",
+            "Frame": [
+                "15:10",
+                "15:11",
+                "15:12",
+                "15:13",
+                "15:14",
+                "15:15",
+                "15:16",
+                "15:17",
+                "15:18",
+                "15:19"
+            ],
+            "FrameText": ", sagte er in einem Interview mit der Financial Times",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "15:0",
+                "15:1",
+                "15:2",
+                "15:3",
+                "15:4",
+                "15:5",
+                "15:6",
+                "15:7",
+                "15:8",
+                "15:9"
+            ],
+            "MessageText": "„ In 20 Jahren werden sie in Oslo sein “",
+            "STWR": "Speech",
+            "Source": [
+                "15:12"
+            ],
+            "SourceText": "er"
+        }
+    ],
+    "DocumentName": "50033 - Italienische Polizei führte Schlag gegen die ’Ndrangheta (2008-05-09)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Spezialeinheiten",
+                "der",
+                "italienischen",
+                "Polizei",
+                "führten",
+                "am",
+                "Freitag",
+                "in",
+                "der",
+                "Reggio",
+                "Calabria",
+                ",",
+                "der",
+                "„",
+                "Stiefelspitze",
+                "“",
+                "in",
+                "Italiens",
+                "Süden",
+                ",",
+                "eine",
+                "groß",
+                "angelegte",
+                "Polizeiaktion",
+                "gegen",
+                "die",
+                "’",
+                "Ndrangheta",
+                "durch",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "’"
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Ndrangheta",
+                "ist",
+                "der",
+                "Name",
+                "des",
+                "Mafiaclans",
+                "in",
+                "dieser",
+                "Region",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Mit",
+                "zehn",
+                "Haftbefehlen",
+                "waren",
+                "die",
+                "Polizeieinheiten",
+                "in",
+                "den",
+                "frühen",
+                "Morgenstunden",
+                "in",
+                "die",
+                "Häuser",
+                "des",
+                "süditalienischen",
+                "Mafiaclans",
+                "in",
+                "Kalabrien",
+                "sowie",
+                "in",
+                "Udine",
+                "und",
+                "Bologna",
+                "vorgedrungen",
+                "und",
+                "hatten",
+                "insgesamt",
+                "sieben",
+                "Personen",
+                "festgenommen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Bei",
+                "den",
+                "Festgenommenen",
+                "soll",
+                "es",
+                "sich",
+                "um",
+                "Hintermänner",
+                "der",
+                "sogenannten",
+                "Mafiamorde",
+                "von",
+                "Duisburg",
+                "handeln",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Am",
+                "15.",
+                "August",
+                "2007",
+                "waren",
+                "vor",
+                "einem",
+                "Duisburger",
+                "Restaurant",
+                "(",
+                "„",
+                "Da",
+                "Bruno",
+                "“",
+                ")",
+                "in",
+                "der",
+                "Nähe",
+                "des",
+                "Hauptbahnhofs",
+                "sechs",
+                "Italiener",
+                "erschossen",
+                "worden",
+                ",",
+                "die",
+                "zuvor",
+                "in",
+                "dem",
+                "Restaurant",
+                "gespeist",
+                "hatten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Die",
+                "Tatverdächtigen",
+                "der",
+                "Duisburger",
+                "Mafiamorde",
+                "sind",
+                "jedoch",
+                "noch",
+                "auf",
+                "freiem",
+                "Fuß",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Die",
+                "’",
+                "Ndrangheta",
+                "ist",
+                "inzwischen",
+                "zur",
+                "mächtigsten",
+                "Mafia-Organisation",
+                "Italiens",
+                "geworden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Allein",
+                "mit",
+                "dem",
+                "Drogengeschäft",
+                "nimmt",
+                "die",
+                "Organisation",
+                "Schätzungen",
+                "zufolge",
+                "jährlich",
+                "30",
+                "bis",
+                "40",
+                "Milliarden",
+                "Euro",
+                "ein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Hinzu",
+                "kommen",
+                "erschlichene",
+                "staatliche",
+                "Fördermittel",
+                "aus",
+                "der",
+                "italienischen",
+                "Staatskasse",
+                "sowie",
+                "der",
+                "Europäischen",
+                "Union",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Außerdem",
+                "besitzt",
+                "die",
+                "Organisation",
+                "Supermarktketten",
+                ",",
+                "Restaurants",
+                "und",
+                "sogar",
+                "Banken",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Auch",
+                "im",
+                "russischen",
+                "Ölgeschäft",
+                "ist",
+                "sie",
+                "aktiv",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Nach",
+                "Einschätzung",
+                "des",
+                "italienischen",
+                "Mafiajägers",
+                "Salvatore",
+                "Boemi",
+                "ist",
+                "die",
+                "Organisation",
+                "auf",
+                "dem",
+                "Sprung",
+                "zur",
+                "Ausweitung",
+                "ihres",
+                "Einflusses",
+                "auf",
+                "ganz",
+                "Europa",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Die",
+                "Mafiamorde",
+                "von",
+                "Duisburg",
+                "seien",
+                "dafür",
+                "ein",
+                "eindeutiger",
+                "Hinweis",
+                ",",
+                "auf",
+                "den",
+                "die",
+                "europäischen",
+                "Polizeibehörden",
+                "jedoch",
+                "nicht",
+                "in",
+                "angemessener",
+                "Weise",
+                "reagiert",
+                "hätten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Die",
+                "Zusammenarbeit",
+                "zwischen",
+                "den",
+                "Länderpolizeibehörden",
+                "bleibe",
+                "hinter",
+                "den",
+                "Notwendigkeiten",
+                "zurück",
+                ",",
+                "so",
+                "Boemi",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "„",
+                "In",
+                "20",
+                "Jahren",
+                "werden",
+                "sie",
+                "in",
+                "Oslo",
+                "sein",
+                "“",
+                ",",
+                "sagte",
+                "er",
+                "in",
+                "einem",
+                "Interview",
+                "mit",
+                "der",
+                "Financial",
+                "Times",
+                "."
+            ]
+        }
+    ]
+}

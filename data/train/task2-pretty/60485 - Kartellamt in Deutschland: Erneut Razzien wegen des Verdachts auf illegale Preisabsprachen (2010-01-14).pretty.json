@@ -1,0 +1,331 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10"
+            ],
+            "MessageText": "Vermutet werden Absprachen zwischen Händlern und Lieferanten über die Preisgestaltung .",
+            "STWR": "ST",
+            "Source": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3"
+            ],
+            "SourceText": "Das Bundeskartellamt in Deutschland"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "7:2"
+            ],
+            "CueText": "schreibt",
+            "Form": "Indirect",
+            "Frame": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3"
+            ],
+            "FrameText": "Das Handelsblatt schreibt ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7",
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11",
+                "7:12",
+                "7:13",
+                "7:14",
+                "7:15",
+                "7:16",
+                "7:17",
+                "7:18",
+                "7:19",
+                "7:20",
+                "7:21"
+            ],
+            "MessageText": "Verstöße gegen das Kartellrecht könnten mit Strafen in Höhe von bis zu zehn Prozent des Umsatzes geahndet werden",
+            "STWR": "Writing",
+            "Source": [
+                "7:0",
+                "7:1"
+            ],
+            "SourceText": "Das Handelsblatt"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "8:2"
+            ],
+            "CueText": "hofft",
+            "Form": "Indirect",
+            "Frame": [
+                "8:0",
+                "8:1",
+                "8:2",
+                "8:3"
+            ],
+            "FrameText": "Das Kartellamt hofft ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "8:4",
+                "8:5",
+                "8:6",
+                "8:7",
+                "8:8",
+                "8:9",
+                "8:10",
+                "8:11",
+                "8:12",
+                "8:13",
+                "8:14",
+                "8:15",
+                "8:16",
+                "8:17",
+                "8:18",
+                "8:19",
+                "8:20",
+                "8:21",
+                "8:22",
+                "8:23",
+                "8:24"
+            ],
+            "MessageText": "durch die seit einigen Jahren in Deutschland geltende Kronzeugenregelung beteiligte Firmen zu belastenden Aussagen gegen ihre „ Mitverschwörer “ zu locken",
+            "STWR": "ST",
+            "Source": [
+                "8:0",
+                "8:1"
+            ],
+            "SourceText": "Das Kartellamt"
+        }
+    ],
+    "DocumentName": "60485 - Kartellamt in Deutschland: Erneut Razzien wegen des Verdachts auf illegale Preisabsprachen (2010-01-14)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Das",
+                "Bundeskartellamt",
+                "in",
+                "Deutschland",
+                "sorgt",
+                "erneut",
+                "für",
+                "Schlagzeilen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Kurz",
+                "vor",
+                "Weihnachten",
+                "(",
+                "Wikinews",
+                "berichtete",
+                ")",
+                "hatte",
+                "die",
+                "Kartellbehörde",
+                "gegen",
+                "drei",
+                "führende",
+                "deutsche",
+                "Kaffeeröster",
+                "ermittelt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Dieses",
+                "Mal",
+                "geht",
+                "es",
+                "um",
+                "prominente",
+                "deutsche",
+                "Einzelhandelsunternehmen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Ins",
+                "Visier",
+                "der",
+                "Kartellwächter",
+                "gerieten",
+                "dieses",
+                "Mal",
+                "unter",
+                "anderem",
+                "Edeka",
+                ",",
+                "Metro",
+                ",",
+                "Rewe",
+                ",",
+                "Lidl",
+                ",",
+                "die",
+                "Drogeriekette",
+                "Rossmann",
+                "sowie",
+                "die",
+                "Handelskette",
+                "Fressnapf",
+                ",",
+                "die",
+                "Tiernahrung",
+                "und",
+                "-zubehör",
+                "vertreibt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Vermutet",
+                "werden",
+                "Absprachen",
+                "zwischen",
+                "Händlern",
+                "und",
+                "Lieferanten",
+                "über",
+                "die",
+                "Preisgestaltung",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Offenbar",
+                "haben",
+                "sich",
+                "die",
+                "Konkurrenten",
+                "seit",
+                "dem",
+                "Jahr",
+                "2005",
+                "auf",
+                "Mindestpreise",
+                "geeinigt",
+                ",",
+                "um",
+                "ihre",
+                "Gewinnmargen",
+                "zu",
+                "schützen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Solche",
+                "Preisabsprachen",
+                "verstoßen",
+                "gegen",
+                "das",
+                "deutsche",
+                "Kartellrecht",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Das",
+                "Handelsblatt",
+                "schreibt",
+                ",",
+                "Verstöße",
+                "gegen",
+                "das",
+                "Kartellrecht",
+                "könnten",
+                "mit",
+                "Strafen",
+                "in",
+                "Höhe",
+                "von",
+                "bis",
+                "zu",
+                "zehn",
+                "Prozent",
+                "des",
+                "Umsatzes",
+                "geahndet",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Das",
+                "Kartellamt",
+                "hofft",
+                ",",
+                "durch",
+                "die",
+                "seit",
+                "einigen",
+                "Jahren",
+                "in",
+                "Deutschland",
+                "geltende",
+                "Kronzeugenregelung",
+                "beteiligte",
+                "Firmen",
+                "zu",
+                "belastenden",
+                "Aussagen",
+                "gegen",
+                "ihre",
+                "„",
+                "Mitverschwörer",
+                "“",
+                "zu",
+                "locken",
+                "."
+            ]
+        }
+    ]
+}

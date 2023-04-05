@@ -1,0 +1,618 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:5",
+                "1:9"
+            ],
+            "CueText": "hatte festgestellt",
+            "Form": "Indirect",
+            "Frame": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8",
+                "1:9",
+                "1:10"
+            ],
+            "FrameText": "Der 81-jährige Besitzer eines Hauses hatte vor längerer Zeit festgestellt ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:11",
+                "1:12",
+                "1:13",
+                "1:14",
+                "1:15",
+                "1:16"
+            ],
+            "MessageText": "dass Mäuse sein Haus bevölkert hatten",
+            "STWR": "none",
+            "Source": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4"
+            ],
+            "SourceText": "Der 81-jährige Besitzer eines Hauses"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "9:5"
+            ],
+            "CueText": "sagte",
+            "Form": "Direct",
+            "Frame": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3",
+                "9:4",
+                "9:5",
+                "9:6"
+            ],
+            "FrameText": "Einer der 13 beteiligten Feuerwehrmänner sagte :",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "9:7",
+                "9:8",
+                "9:9",
+                "9:10",
+                "9:11",
+                "9:12",
+                "9:13",
+                "9:14",
+                "9:15",
+                "9:16",
+                "9:17",
+                "9:18",
+                "9:19",
+                "9:20",
+                "9:21",
+                "9:22",
+                "9:23"
+            ],
+            "MessageText": "„ Ich habe schon viele Hausbrände gesehen , aber noch keinen so Ungewöhnlichen wie diesen . “",
+            "STWR": "Speech",
+            "Source": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3",
+                "9:4"
+            ],
+            "SourceText": "Einer der 13 beteiligten Feuerwehrmänner"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "10:0",
+                "10:1",
+                "10:4",
+                "10:5"
+            ],
+            "CueText": "Es gibt Zweifel daran",
+            "Form": "Indirect",
+            "Frame": [
+                "10:0",
+                "10:1",
+                "10:2",
+                "10:3",
+                "10:4",
+                "10:5",
+                "10:6"
+            ],
+            "FrameText": "Es gibt aber auch Zweifel daran ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "10:7",
+                "10:8",
+                "10:9",
+                "10:10",
+                "10:11",
+                "10:12",
+                "10:13",
+                "10:14",
+                "10:15",
+                "10:16",
+                "10:17"
+            ],
+            "MessageText": "ob das Haus tatsächlich von der Maus in Brand gesteckt wurde",
+            "STWR": "ST",
+            "Source": [],
+            "SourceText": ""
+        },
+        {
+            "Addr": [
+                "12:9",
+                "12:10"
+            ],
+            "AddrText": "einem Fersehsender",
+            "Cue": [
+                "12:2"
+            ],
+            "CueText": "sagte",
+            "Form": "Indirect",
+            "Frame": [
+                "12:0",
+                "12:1",
+                "12:2",
+                "12:3",
+                "12:4",
+                "12:5",
+                "12:6",
+                "12:7",
+                "12:8",
+                "12:9",
+                "12:10",
+                "12:11"
+            ],
+            "FrameText": "Am Montag sagte der 81-jährige in einem Interview mit einem Fersehsender ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "12:12",
+                "12:13",
+                "12:14",
+                "12:15",
+                "12:16",
+                "12:17",
+                "12:18",
+                "12:19",
+                "12:20",
+                "12:21",
+                "12:22",
+                "12:23",
+                "12:24",
+                "12:25",
+                "12:26",
+                "12:27",
+                "12:28",
+                "12:29"
+            ],
+            "MessageText": "dass die Maus sofort tot gewesen sei , als sie mit den brennenden Blättern in Kontakt geraten war",
+            "STWR": "Speech",
+            "Source": [
+                "12:3",
+                "12:4"
+            ],
+            "SourceText": "der 81-jährige"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "13:0",
+                "13:1",
+                "13:2",
+                "13:3",
+                "13:4",
+                "13:5",
+                "13:6"
+            ],
+            "MessageText": "Starke Winde hätten die Brandübertragung verursacht .",
+            "STWR": "Speech",
+            "Source": [
+                "12:3",
+                "12:4"
+            ],
+            "SourceText": "der 81-jährige"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "14:15"
+            ],
+            "CueText": "wonach",
+            "Form": "Indirect",
+            "Frame": [
+                "14:0",
+                "14:1",
+                "14:2",
+                "14:3",
+                "14:4",
+                "14:5",
+                "14:6",
+                "14:7",
+                "14:8",
+                "14:9",
+                "14:10",
+                "14:11",
+                "14:12",
+                "14:13",
+                "14:14",
+                "14:15"
+            ],
+            "FrameText": "Einen Tag später kehrten der Hausbesitzer und sein Neffe wieder zur ursprünglichen Version zurück , wonach",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "14:16",
+                "14:17",
+                "14:18",
+                "14:19",
+                "14:20",
+                "14:21",
+                "14:22",
+                "14:23"
+            ],
+            "MessageText": "die Maus für den Brand verantwortlich sein soll",
+            "STWR": "Speech",
+            "Source": [
+                "14:15"
+            ],
+            "SourceText": "wonach"
+        }
+    ],
+    "DocumentName": "19927 - Eine Maus wurde zur Brandstifterin (2006-01-13)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Eine",
+                "fatale",
+                "Tat",
+                "hat",
+                "einen",
+                "Mann",
+                "des",
+                "US-Staates",
+                "New",
+                "Mexico",
+                "um",
+                "Hab",
+                "und",
+                "Gut",
+                "gebracht",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Der",
+                "81-jährige",
+                "Besitzer",
+                "eines",
+                "Hauses",
+                "hatte",
+                "vor",
+                "längerer",
+                "Zeit",
+                "festgestellt",
+                ",",
+                "dass",
+                "Mäuse",
+                "sein",
+                "Haus",
+                "bevölkert",
+                "hatten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Daraufhin",
+                "hatte",
+                "er",
+                "Mäusefallen",
+                "aufgestellt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Anfang",
+                "Januar",
+                "verfing",
+                "sich",
+                "eine",
+                "Maus",
+                "darin",
+                ",",
+                "und",
+                "der",
+                "Mann",
+                "warf",
+                "sie",
+                "lebend",
+                "in",
+                "einen",
+                "Haufen",
+                "brennender",
+                "Blätter",
+                ",",
+                "der",
+                "vor",
+                "seinem",
+                "Haus",
+                "aufgeschichtet",
+                "war",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Das",
+                "Tier",
+                "konnte",
+                "sich",
+                "aus",
+                "dem",
+                "Feuer",
+                "retten",
+                "und",
+                "lief",
+                "brennend",
+                "zum",
+                "Haus",
+                "zurück",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Damit",
+                "steckte",
+                "das",
+                "Tier",
+                "das",
+                "Gebäude",
+                "in",
+                "Brand",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Die",
+                "Feuerwehr",
+                "konnte",
+                "trotz",
+                "des",
+                "Kampfes",
+                "gegen",
+                "die",
+                "Flammen",
+                "das",
+                "Haus",
+                "nicht",
+                "mehr",
+                "retten",
+                ":"
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Es",
+                "brannte",
+                "komplett",
+                "aus",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Der",
+                "zuständige",
+                "Feuerwehrchef",
+                "Juan",
+                "Chavez",
+                "bestätigte",
+                "den",
+                "Vorfall",
+                "am",
+                "Sonntag",
+                "gegenüber",
+                "der",
+                "Presse",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Einer",
+                "der",
+                "13",
+                "beteiligten",
+                "Feuerwehrmänner",
+                "sagte",
+                ":",
+                "„",
+                "Ich",
+                "habe",
+                "schon",
+                "viele",
+                "Hausbrände",
+                "gesehen",
+                ",",
+                "aber",
+                "noch",
+                "keinen",
+                "so",
+                "Ungewöhnlichen",
+                "wie",
+                "diesen",
+                ".",
+                "“"
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Es",
+                "gibt",
+                "aber",
+                "auch",
+                "Zweifel",
+                "daran",
+                ",",
+                "ob",
+                "das",
+                "Haus",
+                "tatsächlich",
+                "von",
+                "der",
+                "Maus",
+                "in",
+                "Brand",
+                "gesteckt",
+                "wurde",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Der",
+                "Hausbesitzer",
+                "machte",
+                "in",
+                "Interviews",
+                "widersprüchliche",
+                "Aussagen",
+                "zur",
+                "Brandursache",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Am",
+                "Montag",
+                "sagte",
+                "der",
+                "81-jährige",
+                "in",
+                "einem",
+                "Interview",
+                "mit",
+                "einem",
+                "Fersehsender",
+                ",",
+                "dass",
+                "die",
+                "Maus",
+                "sofort",
+                "tot",
+                "gewesen",
+                "sei",
+                ",",
+                "als",
+                "sie",
+                "mit",
+                "den",
+                "brennenden",
+                "Blättern",
+                "in",
+                "Kontakt",
+                "geraten",
+                "war",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Starke",
+                "Winde",
+                "hätten",
+                "die",
+                "Brandübertragung",
+                "verursacht",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Einen",
+                "Tag",
+                "später",
+                "kehrten",
+                "der",
+                "Hausbesitzer",
+                "und",
+                "sein",
+                "Neffe",
+                "wieder",
+                "zur",
+                "ursprünglichen",
+                "Version",
+                "zurück",
+                ",",
+                "wonach",
+                "die",
+                "Maus",
+                "für",
+                "den",
+                "Brand",
+                "verantwortlich",
+                "sein",
+                "soll",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "Der",
+                "Mann",
+                "steht",
+                "nun",
+                "ohne",
+                "Wohnung",
+                "da",
+                ",",
+                "blieb",
+                "aber",
+                "unverletzt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 16,
+            "Tokens": [
+                "Über",
+                "das",
+                "Schicksal",
+                "der",
+                "Maus",
+                "wurde",
+                "nichts",
+                "bekannt",
+                "."
+            ]
+        }
+    ]
+}

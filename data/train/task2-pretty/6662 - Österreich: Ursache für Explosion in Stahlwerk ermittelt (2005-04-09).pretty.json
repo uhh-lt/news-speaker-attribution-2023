@@ -1,0 +1,226 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4",
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8",
+                "0:9",
+                "0:10",
+                "0:11",
+                "0:12",
+                "0:13",
+                "0:14",
+                "0:15",
+                "0:16",
+                "0:17",
+                "0:18"
+            ],
+            "MessageText": "In ersten Berichten über das gestrige Unglück im Stahlwerk Böhler-Uddeholm wurde als Ursache die Explosion eines Stahlofens vermutet .",
+            "STWR": "SW",
+            "Source": [
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4",
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8",
+                "0:9"
+            ],
+            "SourceText": "ersten Berichten über das gestrige Unglück im Stahlwerk Böhler-Uddeholm"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:0"
+            ],
+            "CueText": "Demnach",
+            "Form": "Indirect",
+            "Frame": [
+                "2:0"
+            ],
+            "FrameText": "Demnach",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5"
+            ],
+            "MessageText": "ereignete sich eine chemische Reaktion",
+            "STWR": "SW",
+            "Source": [],
+            "SourceText": ""
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10",
+                "3:11",
+                "3:12"
+            ],
+            "MessageText": "Diese ließ sich auf eine explosionsartige Verpuffung in der offenen Gießpfanne zurückführen .",
+            "STWR": "SW",
+            "Source": [
+                "2:0"
+            ],
+            "SourceText": "Demnach"
+        }
+    ],
+    "DocumentName": "6662 - Österreich: Ursache für Explosion in Stahlwerk ermittelt (2005-04-09)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "In",
+                "ersten",
+                "Berichten",
+                "über",
+                "das",
+                "gestrige",
+                "Unglück",
+                "im",
+                "Stahlwerk",
+                "Böhler-Uddeholm",
+                "wurde",
+                "als",
+                "Ursache",
+                "die",
+                "Explosion",
+                "eines",
+                "Stahlofens",
+                "vermutet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Mittlerweile",
+                "hat",
+                "die",
+                "Kriminalabteilung",
+                "des",
+                "Landesgendarmeriekommandos",
+                "nähere",
+                "Einzelheiten",
+                "bekannt",
+                "gegeben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Demnach",
+                "ereignete",
+                "sich",
+                "eine",
+                "chemische",
+                "Reaktion",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Diese",
+                "ließ",
+                "sich",
+                "auf",
+                "eine",
+                "explosionsartige",
+                "Verpuffung",
+                "in",
+                "der",
+                "offenen",
+                "Gießpfanne",
+                "zurückführen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Es",
+                "befanden",
+                "sich",
+                "rund",
+                "55",
+                "Tonnen",
+                "1.800",
+                "Grad",
+                "Celsius",
+                "heißen",
+                "flüssigen",
+                "Stahls",
+                "in",
+                "der",
+                "Pfanne",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Im",
+                "Anschluss",
+                "an",
+                "die",
+                "Rettungsarbeiten",
+                "wurde",
+                "ein",
+                "Kriseninterventionsteam",
+                "angefordert",
+                ",",
+                "das",
+                "Kollegen",
+                "und",
+                "Angehörige",
+                "der",
+                "Opfer",
+                "psychologisch",
+                "betreut",
+                "."
+            ]
+        }
+    ]
+}

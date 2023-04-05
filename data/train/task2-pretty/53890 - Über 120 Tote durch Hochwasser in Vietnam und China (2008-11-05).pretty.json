@@ -1,0 +1,575 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5"
+            ],
+            "FrameText": "Nach Angaben der Zeitung China Daily",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9",
+                "2:10",
+                "2:11",
+                "2:12",
+                "2:13",
+                "2:14",
+                "2:15",
+                "2:16",
+                "2:17"
+            ],
+            "MessageText": "sind die Fluten in der Provinz Guangxi die schwersten seit 101 Jahren",
+            "STWR": "Writing",
+            "Source": [
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5"
+            ],
+            "SourceText": "Angaben der Zeitung China Daily"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "7:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7",
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11"
+            ],
+            "FrameText": "Nach den Worten des kommunistischen Parteichefs Hanois , Pham Quang Nghi ,",
+            "HasNested": true,
+            "IsNested": false,
+            "Message": [
+                "7:12",
+                "7:13",
+                "7:14",
+                "7:15",
+                "7:16",
+                "7:17",
+                "7:18",
+                "7:19",
+                "7:20",
+                "7:21",
+                "7:22",
+                "7:23",
+                "7:24"
+            ],
+            "MessageText": "handelt es sich um „ die schwerste Naturkatastrophe in der Geschichte Hanois “",
+            "STWR": "Speech",
+            "Source": [
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7",
+                "7:8",
+                "7:9",
+                "7:10"
+            ],
+            "SourceText": "den Worten des kommunistischen Parteichefs Hanois , Pham Quang Nghi"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "7:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Direct",
+            "Frame": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7",
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11"
+            ],
+            "FrameText": "Nach den Worten des kommunistischen Parteichefs Hanois , Pham Quang Nghi ,",
+            "HasNested": false,
+            "IsNested": true,
+            "Message": [
+                "7:16",
+                "7:17",
+                "7:18",
+                "7:19",
+                "7:20",
+                "7:21",
+                "7:22",
+                "7:23",
+                "7:24"
+            ],
+            "MessageText": "„ die schwerste Naturkatastrophe in der Geschichte Hanois “",
+            "STWR": "Speech",
+            "Source": [
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7",
+                "7:8",
+                "7:9",
+                "7:10"
+            ],
+            "SourceText": "den Worten des kommunistischen Parteichefs Hanois , Pham Quang Nghi"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "8:0",
+                "8:1",
+                "8:2",
+                "8:3",
+                "8:4",
+                "8:5",
+                "8:6",
+                "8:7",
+                "8:8",
+                "8:9",
+                "8:10",
+                "8:11",
+                "8:12",
+                "8:13",
+                "8:14",
+                "8:15"
+            ],
+            "MessageText": "Das vietnamesische Gesundheitsministerium erwartete in den am meisten betroffenen Gebieten Seuchen wie Cholera und Typhus .",
+            "STWR": "ST",
+            "Source": [
+                "8:0",
+                "8:1",
+                "8:2"
+            ],
+            "SourceText": "Das vietnamesische Gesundheitsministerium"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "12:0",
+                "12:1",
+                "12:2",
+                "12:3",
+                "12:4",
+                "12:5",
+                "12:6",
+                "12:7",
+                "12:8",
+                "12:9",
+                "12:10"
+            ],
+            "MessageText": "Die Meteorologen sagten für die kommenden Tage weitere Regenfälle voraus .",
+            "STWR": "Speech",
+            "Source": [
+                "12:0",
+                "12:1"
+            ],
+            "SourceText": "Die Meteorologen"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "14:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "14:0",
+                "14:1",
+                "14:2",
+                "14:3"
+            ],
+            "FrameText": "Nach Schätzungen der Regierung",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "14:4",
+                "14:5",
+                "14:6",
+                "14:7",
+                "14:8",
+                "14:9",
+                "14:10"
+            ],
+            "MessageText": "wurden etwa 260.000 Hektar landwirtschaftliche Nutzflächen überschwemmt",
+            "STWR": "ST",
+            "Source": [
+                "14:1",
+                "14:2",
+                "14:3"
+            ],
+            "SourceText": "Schätzungen der Regierung"
+        }
+    ],
+    "DocumentName": "53890 - Über 120 Tote durch Hochwasser in Vietnam und China (2008-11-05)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Dreitägiger",
+                "Dauerregen",
+                "hat",
+                "in",
+                "Vietnam",
+                "und",
+                "in",
+                "China",
+                "zu",
+                "Hochwasser",
+                "und",
+                "Überschwemmungen",
+                "geführt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Im",
+                "chinesischen",
+                "Südwesten",
+                "wurden",
+                "51",
+                "Personen",
+                "durch",
+                "Schlammlawinen",
+                "und",
+                "Flutwasser",
+                "getötet",
+                ",",
+                "und",
+                "mindestens",
+                "43",
+                "Personen",
+                "werden",
+                "vermisst",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Nach",
+                "Angaben",
+                "der",
+                "Zeitung",
+                "China",
+                "Daily",
+                "sind",
+                "die",
+                "Fluten",
+                "in",
+                "der",
+                "Provinz",
+                "Guangxi",
+                "die",
+                "schwersten",
+                "seit",
+                "101",
+                "Jahren",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "In",
+                "Vietnam",
+                "forderte",
+                "die",
+                "Naturkatastrophe",
+                "92",
+                "Menschenleben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Betroffen",
+                "ist",
+                "auch",
+                "Hanoi",
+                ",",
+                "wo",
+                "alleine",
+                "20",
+                "Personen",
+                "durch",
+                "Blitzschlag",
+                ",",
+                "Ertrinken",
+                "oder",
+                "Stromschlag",
+                "ihr",
+                "Leben",
+                "verloren",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "In",
+                "der",
+                "drei",
+                "Millionen",
+                "Einwohner",
+                "zählenden",
+                "Hauptstadt",
+                "sind",
+                "35.000",
+                "Haushalte",
+                "von",
+                "den",
+                "Überflutungen",
+                "betroffen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "In",
+                "Zentralvietnam",
+                "wurden",
+                "41",
+                "Personen",
+                "getötet",
+                ",",
+                "44",
+                "entfallen",
+                "auf",
+                "die",
+                "nördlichen",
+                "Provinzen",
+                "einschließlich",
+                "der",
+                "Hauptstadt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Nach",
+                "den",
+                "Worten",
+                "des",
+                "kommunistischen",
+                "Parteichefs",
+                "Hanois",
+                ",",
+                "Pham",
+                "Quang",
+                "Nghi",
+                ",",
+                "handelt",
+                "es",
+                "sich",
+                "um",
+                "„",
+                "die",
+                "schwerste",
+                "Naturkatastrophe",
+                "in",
+                "der",
+                "Geschichte",
+                "Hanois",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Das",
+                "vietnamesische",
+                "Gesundheitsministerium",
+                "erwartete",
+                "in",
+                "den",
+                "am",
+                "meisten",
+                "betroffenen",
+                "Gebieten",
+                "Seuchen",
+                "wie",
+                "Cholera",
+                "und",
+                "Typhus",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Die",
+                "Regenfälle",
+                "haben",
+                "am",
+                "Montag",
+                ",",
+                "dem",
+                "3.",
+                "November",
+                ",",
+                "zwar",
+                "nachgelassen",
+                ",",
+                "nahmen",
+                "aber",
+                "am",
+                "4.",
+                "November",
+                "wieder",
+                "an",
+                "Intensität",
+                "zu",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Viele",
+                "Straßenverbindungen",
+                "zu",
+                "abgelegenen",
+                "Ortschaften",
+                "sind",
+                "unterbrochen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "9.000",
+                "Soldaten",
+                "wurden",
+                "in",
+                "die",
+                "Mündungsregion",
+                "des",
+                "Roten",
+                "Flusses",
+                "beordert",
+                ",",
+                "weil",
+                "durch",
+                "das",
+                "Hochwasser",
+                "der",
+                "Bruch",
+                "von",
+                "Deichen",
+                "befürchtet",
+                "wurde",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Die",
+                "Meteorologen",
+                "sagten",
+                "für",
+                "die",
+                "kommenden",
+                "Tage",
+                "weitere",
+                "Regenfälle",
+                "voraus",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Die",
+                "Preise",
+                "für",
+                "Lebensmittel",
+                "stiegen",
+                "infolge",
+                "der",
+                "Flut",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Nach",
+                "Schätzungen",
+                "der",
+                "Regierung",
+                "wurden",
+                "etwa",
+                "260.000",
+                "Hektar",
+                "landwirtschaftliche",
+                "Nutzflächen",
+                "überschwemmt",
+                "."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,471 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "8:12",
+                "8:13"
+            ],
+            "CueText": "hieß es",
+            "Form": "Direct",
+            "Frame": [
+                "8:11",
+                "8:12",
+                "8:13",
+                "8:14",
+                "8:15",
+                "8:16"
+            ],
+            "FrameText": ", hieß es in der Rede",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "8:0",
+                "8:1",
+                "8:2",
+                "8:3",
+                "8:4",
+                "8:5",
+                "8:6",
+                "8:7",
+                "8:8",
+                "8:9",
+                "8:10"
+            ],
+            "MessageText": "„ Änderungen in einem Minderheitenparlament voran zu treiben bedeutet zusammenzuarbeiten “",
+            "STWR": "Speech",
+            "Source": [
+                "5:22"
+            ],
+            "SourceText": "Harper"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "11:2",
+                "11:3",
+                "11:5"
+            ],
+            "CueText": "haben sich geäußert",
+            "Form": "Indirect",
+            "Frame": [
+                "11:0",
+                "11:1",
+                "11:2",
+                "11:3",
+                "11:4",
+                "11:5",
+                "11:6"
+            ],
+            "FrameText": "Die Oppositionsparteien haben sich zuversichtlich geäußert ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "11:7",
+                "11:8",
+                "11:9",
+                "11:10",
+                "11:11",
+                "11:12"
+            ],
+            "MessageText": "dass keine Neuwahl nötig sein wird",
+            "STWR": "Speech",
+            "Source": [
+                "11:0",
+                "11:1"
+            ],
+            "SourceText": "Die Oppositionsparteien"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "14:15"
+            ],
+            "CueText": "sagte",
+            "Form": "Direct",
+            "Frame": [
+                "14:14",
+                "14:15",
+                "14:16",
+                "14:17",
+                "14:18",
+                "14:19",
+                "14:20",
+                "14:21"
+            ],
+            "FrameText": ", sagte Bill Graham , Parteichef der Liberalen",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "12:0",
+                "12:1",
+                "12:2",
+                "12:3",
+                "12:4",
+                "12:5",
+                "12:6",
+                "13:0",
+                "13:1",
+                "13:2",
+                "13:3",
+                "13:4",
+                "13:5",
+                "13:6",
+                "13:7",
+                "13:8",
+                "13:9",
+                "13:10",
+                "13:11",
+                "13:12",
+                "14:0",
+                "14:1",
+                "14:2",
+                "14:3",
+                "14:4",
+                "14:5",
+                "14:6",
+                "14:7",
+                "14:8",
+                "14:9",
+                "14:10",
+                "14:11",
+                "14:12",
+                "14:13"
+            ],
+            "MessageText": "„ Niemand spricht von einer Wahl . In diesem Augenblick unserer Geschichte haben wir gerade eine Wahl hinter uns . Wir diskutieren alle , wie wir sicherstellen können , dass dieses Haus funktioniert “",
+            "STWR": "Speech",
+            "Source": [
+                "14:16",
+                "14:17",
+                "14:18",
+                "14:19",
+                "14:20",
+                "14:21"
+            ],
+            "SourceText": "Bill Graham , Parteichef der Liberalen"
+        }
+    ],
+    "DocumentName": "24911 - Nach Parlamentswahl in Kanada: Stephen Harper stellte Regierungsprogramm vor (2006-04-05)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Einen",
+                "Tag",
+                "nach",
+                "der",
+                "Konstituierung",
+                "des",
+                "neuen",
+                "kanadischen",
+                "Abgeordnetenhauses",
+                "stellte",
+                "der",
+                "Ministerpräsident",
+                "Kanadas",
+                ",",
+                "Stephen",
+                "Harper",
+                ",",
+                "gestern",
+                "sein",
+                "Regierungsprogramm",
+                "vor",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Bei",
+                "der",
+                "Wahl",
+                "vor",
+                "zwei",
+                "Monaten",
+                "hatte",
+                "seine",
+                "Konservative",
+                "Partei",
+                "Kanadas",
+                "125",
+                "der",
+                "308",
+                "Sitze",
+                "errungen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Sie",
+                "stellt",
+                "eine",
+                "Minderheitenregierung",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Die",
+                "größte",
+                "Oppositionspartei",
+                "ist",
+                "die",
+                "Liberale",
+                "Partei",
+                "Kanadas",
+                ",",
+                "die",
+                "zuvor",
+                "über",
+                "zwölf",
+                "Jahre",
+                "regierte",
+                "und",
+                "102",
+                "Abgeordnete",
+                "stellt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Unterstützung",
+                "für",
+                "die",
+                "neue",
+                "Regierung",
+                "könnte",
+                "vom",
+                "Bloc",
+                "Québécois",
+                "mit",
+                "51",
+                "und",
+                "der",
+                "Neuen",
+                "Demokratische",
+                "Partei",
+                "Kanadas",
+                "mit",
+                "29",
+                "Sitzen",
+                "kommen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "In",
+                "seiner",
+                "„",
+                "Thronrede",
+                "“",
+                ",",
+                "die",
+                "in",
+                "Vertretung",
+                "des",
+                "Staatsoberhaupts",
+                "Königin",
+                "Elizabeth",
+                "II.",
+                "von",
+                "Generalgouverneurin",
+                "Michaëlle",
+                "Jean",
+                "verlesen",
+                "wurde",
+                ",",
+                "mahnte",
+                "Harper",
+                "zu",
+                "einem",
+                "finanzpolitisch",
+                "verantwortungsvollen",
+                "Haushalt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Weitere",
+                "Punkte",
+                "waren",
+                "die",
+                "Senkung",
+                "der",
+                "unbeliebten",
+                "Mehrwertsteuer",
+                "und",
+                "der",
+                "Kampf",
+                "gegen",
+                "Korruption",
+                "in",
+                "der",
+                "Regierung",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Auch",
+                "die",
+                "Problematik",
+                "einer",
+                "Minderheitenregierung",
+                "wurde",
+                "thematisiert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "„",
+                "Änderungen",
+                "in",
+                "einem",
+                "Minderheitenparlament",
+                "voran",
+                "zu",
+                "treiben",
+                "bedeutet",
+                "zusammenzuarbeiten",
+                "“",
+                ",",
+                "hieß",
+                "es",
+                "in",
+                "der",
+                "Rede",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Die",
+                "Thronrede",
+                "muss",
+                "vom",
+                "Parlament",
+                "ratifiziert",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "In",
+                "den",
+                "nächsten",
+                "Tagen",
+                "sollen",
+                "Änderungsvorschläge",
+                "diskutiert",
+                "werden",
+                ",",
+                "die",
+                "engültige",
+                "Abstimmung",
+                "ist",
+                "für",
+                "den",
+                "24.",
+                "April",
+                "vorgesehen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Die",
+                "Oppositionsparteien",
+                "haben",
+                "sich",
+                "zuversichtlich",
+                "geäußert",
+                ",",
+                "dass",
+                "keine",
+                "Neuwahl",
+                "nötig",
+                "sein",
+                "wird",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "„",
+                "Niemand",
+                "spricht",
+                "von",
+                "einer",
+                "Wahl",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "In",
+                "diesem",
+                "Augenblick",
+                "unserer",
+                "Geschichte",
+                "haben",
+                "wir",
+                "gerade",
+                "eine",
+                "Wahl",
+                "hinter",
+                "uns",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Wir",
+                "diskutieren",
+                "alle",
+                ",",
+                "wie",
+                "wir",
+                "sicherstellen",
+                "können",
+                ",",
+                "dass",
+                "dieses",
+                "Haus",
+                "funktioniert",
+                "“",
+                ",",
+                "sagte",
+                "Bill",
+                "Graham",
+                ",",
+                "Parteichef",
+                "der",
+                "Liberalen",
+                "."
+            ]
+        }
+    ]
+}

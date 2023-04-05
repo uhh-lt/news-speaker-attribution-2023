@@ -1,0 +1,278 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4"
+            ],
+            "FrameText": "Nach Angaben der zentralen Wahlkommission",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9",
+                "2:10",
+                "2:11",
+                "2:12",
+                "2:13",
+                "2:14"
+            ],
+            "MessageText": "gewann er die Wahl mit 62,21 Prozent der abgegebenen Stimmen",
+            "STWR": "SW",
+            "Source": [
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4"
+            ],
+            "SourceText": "Angaben der zentralen Wahlkommission"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "5:0",
+                "5:5",
+                "5:6",
+                "5:10"
+            ],
+            "CueText": "Als sieht es an",
+            "Form": "Indirect",
+            "Frame": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11"
+            ],
+            "FrameText": "Als eine seiner wichtigsten Aufgaben sieht es der 53-jährige Uribe an ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:12",
+                "5:13",
+                "5:14",
+                "5:15",
+                "5:16",
+                "5:17",
+                "5:18",
+                "5:19"
+            ],
+            "MessageText": "Frieden mit den großen Rebellengruppen Kolumbiens zu schließen",
+            "STWR": "ST",
+            "Source": [
+                "5:7",
+                "5:8",
+                "5:9"
+            ],
+            "SourceText": "der 53-jährige Uribe"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "6:1",
+                "6:3"
+            ],
+            "CueText": "kündigte an",
+            "Form": "Indirect",
+            "Frame": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:4"
+            ],
+            "FrameText": "Zudem kündigte er an ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "6:5",
+                "6:6",
+                "6:7",
+                "6:8",
+                "6:9",
+                "6:10"
+            ],
+            "MessageText": "weiterhin gegen den Drogenschmuggel zu kämpfen",
+            "STWR": "SW",
+            "Source": [
+                "6:2"
+            ],
+            "SourceText": "er"
+        }
+    ],
+    "DocumentName": "27753 - Kolumbien: Präsident Álvaro Uribe Vélez wiedergewählt (2006-05-31)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Am",
+                "vergangenen",
+                "Sonntag",
+                "fanden",
+                "in",
+                "Kolumbien",
+                "Präsidentschaftswahlen",
+                "statt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Für",
+                "eine",
+                "zweite",
+                "Amtszeit",
+                "hatte",
+                "sich",
+                "der",
+                "bisherige",
+                "Präsident",
+                "Álvaro",
+                "Uribe",
+                "Vélez",
+                "gestellt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Nach",
+                "Angaben",
+                "der",
+                "zentralen",
+                "Wahlkommission",
+                "gewann",
+                "er",
+                "die",
+                "Wahl",
+                "mit",
+                "62,21",
+                "Prozent",
+                "der",
+                "abgegebenen",
+                "Stimmen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "In",
+                "den",
+                "vergangenen",
+                "120",
+                "Jahren",
+                "hatte",
+                "dies",
+                "kein",
+                "kolumbianischer",
+                "Staatschef",
+                "geschafft",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Seine",
+                "zweite",
+                "Amtszeit",
+                "läuft",
+                "bis",
+                "2010."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Als",
+                "eine",
+                "seiner",
+                "wichtigsten",
+                "Aufgaben",
+                "sieht",
+                "es",
+                "der",
+                "53-jährige",
+                "Uribe",
+                "an",
+                ",",
+                "Frieden",
+                "mit",
+                "den",
+                "großen",
+                "Rebellengruppen",
+                "Kolumbiens",
+                "zu",
+                "schließen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Zudem",
+                "kündigte",
+                "er",
+                "an",
+                ",",
+                "weiterhin",
+                "gegen",
+                "den",
+                "Drogenschmuggel",
+                "zu",
+                "kämpfen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Obwohl",
+                "die",
+                "Wahl",
+                "von",
+                "insgesamt",
+                "220.000",
+                "Sicherheitskräften",
+                "wie",
+                "Soldaten",
+                "und",
+                "Polizeikräften",
+                "gut",
+                "geschützt",
+                "war",
+                ",",
+                "wurden",
+                "35",
+                "Wahlkämpfer",
+                "entführt",
+                "."
+            ]
+        }
+    ]
+}

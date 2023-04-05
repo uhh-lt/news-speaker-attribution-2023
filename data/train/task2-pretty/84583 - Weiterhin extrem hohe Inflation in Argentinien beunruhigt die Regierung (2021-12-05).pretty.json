@@ -1,0 +1,377 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:1"
+            ],
+            "CueText": "berichtet",
+            "Form": "Indirect",
+            "Frame": [
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8"
+            ],
+            "FrameText": "berichtet die Tageszeitung '' La Nacion '' .",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8",
+                "1:9",
+                "1:10",
+                "1:11",
+                "1:12",
+                "1:13",
+                "1:14",
+                "1:15",
+                "1:16",
+                "1:17",
+                "1:18",
+                "1:19",
+                "1:20",
+                "1:21",
+                "1:22",
+                "1:23",
+                "1:24",
+                "2:0"
+            ],
+            "MessageText": "Nach Spannungen in der Regierung kam es zuletzt wieder zu Kabinettsberatungen zwischen Vertretern des Wirtschafts- und Finanzministeriums , um die weitere Preispolitik zu diskutieren . Das",
+            "STWR": "Writing",
+            "Source": [
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7"
+            ],
+            "SourceText": "die Tageszeitung '' La Nacion ''"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:5"
+            ],
+            "CueText": "nach",
+            "Form": "Indirect",
+            "Frame": [
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10"
+            ],
+            "FrameText": "nach der Vorhersage der argentinischen Zentralbank",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:11",
+                "3:12",
+                "3:13",
+                "3:14",
+                "3:15",
+                "3:16",
+                "3:17",
+                "3:18",
+                "3:19",
+                "3:20",
+                "3:21",
+                "3:22",
+                "3:23",
+                "3:24",
+                "3:25"
+            ],
+            "MessageText": "Die Inflation des Landes wird im Jahr 2021 bei 51 Prozent liegen , im kommenden Jahr werden 52 Prozent prognostiziert",
+            "STWR": "SW",
+            "Source": [
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10"
+            ],
+            "SourceText": "der Vorhersage der argentinischen Zentralbank"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "9:0"
+            ],
+            "CueText": "Laut",
+            "Form": "Indirect",
+            "Frame": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3"
+            ],
+            "FrameText": "Laut nationalem statistischen Institut",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "9:4",
+                "9:5",
+                "9:6",
+                "9:7",
+                "9:8",
+                "9:9",
+                "9:10",
+                "9:11",
+                "9:12",
+                "9:13",
+                "9:14",
+                "9:15",
+                "9:16",
+                "9:17",
+                "9:18",
+                "9:19"
+            ],
+            "MessageText": "lebten schon bis zum ersten Halbjahr 2021 mehr als 40 Prozent der Bevölkerung unter der Armutsgrenze",
+            "STWR": "SW",
+            "Source": [
+                "9:1",
+                "9:2",
+                "9:3"
+            ],
+            "SourceText": "nationalem statistischen Institut"
+        }
+    ],
+    "DocumentName": "84583 - Weiterhin extrem hohe Inflation in Argentinien beunruhigt die Regierung (2021-12-05)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Die",
+                "Inflation",
+                "in",
+                "Argentinien",
+                "bleibt",
+                "weiterhin",
+                "ein",
+                "zentrales",
+                "Problem",
+                "für",
+                "Wirtschaft",
+                "und",
+                "Gesellschaft",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Nach",
+                "Spannungen",
+                "in",
+                "der",
+                "Regierung",
+                "kam",
+                "es",
+                "zuletzt",
+                "wieder",
+                "zu",
+                "Kabinettsberatungen",
+                "zwischen",
+                "Vertretern",
+                "des",
+                "Wirtschafts-",
+                "und",
+                "Finanzministeriums",
+                ",",
+                "um",
+                "die",
+                "weitere",
+                "Preispolitik",
+                "zu",
+                "diskutieren",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Das",
+                "berichtet",
+                "die",
+                "Tageszeitung",
+                "''",
+                "La",
+                "Nacion",
+                "''",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Die",
+                "Inflation",
+                "des",
+                "Landes",
+                "wird",
+                "nach",
+                "der",
+                "Vorhersage",
+                "der",
+                "argentinischen",
+                "Zentralbank",
+                "im",
+                "Jahr",
+                "2021",
+                "bei",
+                "51",
+                "Prozent",
+                "liegen",
+                ",",
+                "im",
+                "kommenden",
+                "Jahr",
+                "werden",
+                "52",
+                "Prozent",
+                "prognostiziert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Die",
+                "Mitte-Links-Regierung",
+                "setzt",
+                "zur",
+                "Bekämpfung",
+                "unter",
+                "anderem",
+                "auf",
+                "das",
+                "umstrittene",
+                "Instrument",
+                "der",
+                "Preisregulierung",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "So",
+                "werden",
+                "besonders",
+                "Preise",
+                "vieler",
+                "Grundnahrungsmittel",
+                "in",
+                "Absprachen",
+                "mit",
+                "dem",
+                "Privatsektor",
+                "zumindest",
+                "periodisch",
+                "gedeckelt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Argentinien",
+                "leidet",
+                "seit",
+                "mehr",
+                "als",
+                "einem",
+                "Jahrzehnt",
+                "unter",
+                "Inflationsraten",
+                "im",
+                "zweistelligen",
+                "Bereich",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Das",
+                "Land",
+                "liegt",
+                "damit",
+                "im",
+                "CIA",
+                "World",
+                "Factbook",
+                "unter",
+                "den",
+                "Inflations-Spitzenreitern",
+                "weltweit",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Diese",
+                "Entwicklung",
+                "und",
+                "eine",
+                "massive",
+                "Wirtschaftskrise",
+                "treffen",
+                "die",
+                "argentinische",
+                "Gesellschaft",
+                "hart",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Laut",
+                "nationalem",
+                "statistischen",
+                "Institut",
+                "lebten",
+                "schon",
+                "bis",
+                "zum",
+                "ersten",
+                "Halbjahr",
+                "2021",
+                "mehr",
+                "als",
+                "40",
+                "Prozent",
+                "der",
+                "Bevölkerung",
+                "unter",
+                "der",
+                "Armutsgrenze",
+                "."
+            ]
+        }
+    ]
+}

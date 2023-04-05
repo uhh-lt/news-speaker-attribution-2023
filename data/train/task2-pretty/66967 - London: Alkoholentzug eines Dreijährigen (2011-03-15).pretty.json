@@ -1,0 +1,186 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:0",
+                "1:3"
+            ],
+            "CueText": "Wie ergab",
+            "Form": "Indirect",
+            "Frame": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4"
+            ],
+            "FrameText": "Wie eine Studie ergab ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8",
+                "1:9",
+                "1:10",
+                "1:11",
+                "1:12",
+                "1:13",
+                "1:14"
+            ],
+            "MessageText": "trinken viele Kinder bereits vor dem 13. Lebensjahr regelmäßig Alkohol",
+            "STWR": "Writing",
+            "Source": [
+                "1:1",
+                "1:2"
+            ],
+            "SourceText": "eine Studie"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:10"
+            ],
+            "CueText": "so",
+            "Form": "Indirect",
+            "Frame": [
+                "2:9",
+                "2:10",
+                "2:11",
+                "2:12",
+                "2:13",
+                "2:14",
+                "2:15",
+                "2:16",
+                "2:17",
+                "2:18"
+            ],
+            "FrameText": ", so der staatliche National Health Service ( NHS )",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8"
+            ],
+            "MessageText": "Kaum nachvollziehbar , ein dreijähriges Kleinkind musste auf Alkoholentzug",
+            "STWR": "SW",
+            "Source": [
+                "2:11",
+                "2:12",
+                "2:13",
+                "2:14",
+                "2:15",
+                "2:16",
+                "2:17",
+                "2:18"
+            ],
+            "SourceText": "der staatliche National Health Service ( NHS )"
+        }
+    ],
+    "DocumentName": "66967 - London: Alkoholentzug eines Dreijährigen (2011-03-15)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Großbritannien",
+                "ist",
+                "geschockt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Wie",
+                "eine",
+                "Studie",
+                "ergab",
+                ",",
+                "trinken",
+                "viele",
+                "Kinder",
+                "bereits",
+                "vor",
+                "dem",
+                "13.",
+                "Lebensjahr",
+                "regelmäßig",
+                "Alkohol",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Kaum",
+                "nachvollziehbar",
+                ",",
+                "ein",
+                "dreijähriges",
+                "Kleinkind",
+                "musste",
+                "auf",
+                "Alkoholentzug",
+                ",",
+                "so",
+                "der",
+                "staatliche",
+                "National",
+                "Health",
+                "Service",
+                "(",
+                "NHS",
+                ")",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Die",
+                "Identität",
+                "des",
+                "Kindes",
+                "gab",
+                "die",
+                "Behörde",
+                "nicht",
+                "bekannt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "13",
+                "Kinder",
+                "unter",
+                "13",
+                "Jahren",
+                "mussten",
+                "zwischen",
+                "2008",
+                "und",
+                "2010",
+                "wegen",
+                "Alkoholmissbrauch",
+                "in",
+                "England",
+                "behandelt",
+                "werden",
+                "."
+            ]
+        }
+    ]
+}

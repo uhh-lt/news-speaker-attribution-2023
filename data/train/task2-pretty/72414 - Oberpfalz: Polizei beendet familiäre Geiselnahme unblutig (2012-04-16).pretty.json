@@ -1,0 +1,285 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:9",
+                "1:10"
+            ],
+            "CueText": "teilte mit",
+            "Form": "Indirect",
+            "Frame": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8",
+                "1:9",
+                "1:10",
+                "1:11"
+            ],
+            "FrameText": "Er verständigte gegen 19.30 Uhr selbst die Polizei und teilte mit ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:12",
+                "1:13",
+                "1:14",
+                "1:15",
+                "1:16",
+                "1:17",
+                "1:18",
+                "1:19",
+                "1:20",
+                "1:21",
+                "1:22"
+            ],
+            "MessageText": "dass er bewaffnet sei und seine Familie in der Gewalt habe",
+            "STWR": "Speech",
+            "Source": [
+                "1:0"
+            ],
+            "SourceText": "Er"
+        }
+    ],
+    "DocumentName": "72414 - Oberpfalz: Polizei beendet familiäre Geiselnahme unblutig (2012-04-16)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Seit",
+                "Sonntagabend",
+                "hatte",
+                "sich",
+                "ein",
+                "45-jähriger",
+                "Mann",
+                "mit",
+                "seiner",
+                "31-jährigen",
+                "Ehefrau",
+                ",",
+                "seiner",
+                "Schwiegermutter",
+                "und",
+                "seinen",
+                "fünf",
+                "und",
+                "sieben",
+                "Jahre",
+                "alten",
+                "Töchtern",
+                "in",
+                "seinem",
+                "Haus",
+                "in",
+                "Postbauer-Heng",
+                "in",
+                "der",
+                "Oberpfalz",
+                "verschanzt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Er",
+                "verständigte",
+                "gegen",
+                "19.30",
+                "Uhr",
+                "selbst",
+                "die",
+                "Polizei",
+                "und",
+                "teilte",
+                "mit",
+                ",",
+                "dass",
+                "er",
+                "bewaffnet",
+                "sei",
+                "und",
+                "seine",
+                "Familie",
+                "in",
+                "der",
+                "Gewalt",
+                "habe",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Als",
+                "Polizeibeamte",
+                "bei",
+                "dem",
+                "Haus",
+                "angekommen",
+                "waren",
+                ",",
+                "konnten",
+                "sie",
+                "keinen",
+                "Kontakt",
+                "zu",
+                "dem",
+                "45-Jährigen",
+                "aufnehmen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Nachdem",
+                "einige",
+                "Schüsse",
+                "fielen",
+                ",",
+                "zogen",
+                "sie",
+                "sich",
+                "zurück",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Spezialeinheiten",
+                "aus",
+                "Nordbayern",
+                "wurden",
+                "zugezogen",
+                "und",
+                "die",
+                "Verhandlungsgruppe",
+                "aus",
+                "Regensburg",
+                "alarmiert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Feuerwehr",
+                ",",
+                "Kräfte",
+                "des",
+                "Rettungsdienstes",
+                "und",
+                "Angehörige",
+                "des",
+                "Kriseninterventionsteams",
+                "wurden",
+                "für",
+                "den",
+                "Fall",
+                "einer",
+                "Eskalation",
+                "bereitgestellt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Der",
+                "Verhandlungsgruppe",
+                "gelang",
+                "es",
+                ",",
+                "Kontakt",
+                "mit",
+                "dem",
+                "Mann",
+                "herzustellen",
+                "und",
+                "ihn",
+                "zur",
+                "Aufgabe",
+                "zu",
+                "bewegen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Gegen",
+                "00.30",
+                "Uhr",
+                "wurde",
+                "er",
+                "festgenommen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Im",
+                "Haus",
+                "fanden",
+                "die",
+                "Beamten",
+                "eine",
+                "Schusswaffe",
+                ",",
+                "für",
+                "die",
+                "der",
+                "Tatverdächtige",
+                "keine",
+                "Erlaubnis",
+                "hatte",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Alle",
+                "Personen",
+                "im",
+                "Haus",
+                "blieben",
+                "unverletzt",
+                "und",
+                "wurden",
+                "nach",
+                "der",
+                "Befreiung",
+                "betreut",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Bild",
+                ":"
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Nächtliche",
+                "Szene",
+                "vor",
+                "dem",
+                "Haus"
+            ]
+        }
+    ]
+}

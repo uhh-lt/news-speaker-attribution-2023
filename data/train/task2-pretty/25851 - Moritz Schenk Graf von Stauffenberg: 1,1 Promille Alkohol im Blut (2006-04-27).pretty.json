@@ -1,0 +1,127 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "0:17"
+            ],
+            "CueText": "laut",
+            "Form": "Indirect",
+            "Frame": [
+                "0:17",
+                "0:18"
+            ],
+            "FrameText": "laut Polizeiangaben",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4",
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8",
+                "0:9",
+                "0:10",
+                "0:11",
+                "0:12",
+                "0:13",
+                "0:14",
+                "0:15",
+                "0:16",
+                "0:19",
+                "0:20",
+                "0:21",
+                "0:22",
+                "0:23",
+                "0:24"
+            ],
+            "MessageText": "Der am Karfreitag auf der Hamburger Elbchaussee in Blankenese tödlich verunglückte Moritz Schenk Graf von Stauffenberg hatte rund 1,1 Promille Alkohol im Blut",
+            "STWR": "SW",
+            "Source": [
+                "0:18"
+            ],
+            "SourceText": "Polizeiangaben"
+        }
+    ],
+    "DocumentName": "25851 - Moritz Schenk Graf von Stauffenberg: 1,1 Promille Alkohol im Blut (2006-04-27)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Der",
+                "am",
+                "Karfreitag",
+                "auf",
+                "der",
+                "Hamburger",
+                "Elbchaussee",
+                "in",
+                "Blankenese",
+                "tödlich",
+                "verunglückte",
+                "Moritz",
+                "Schenk",
+                "Graf",
+                "von",
+                "Stauffenberg",
+                "hatte",
+                "laut",
+                "Polizeiangaben",
+                "rund",
+                "1,1",
+                "Promille",
+                "Alkohol",
+                "im",
+                "Blut",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Der",
+                "17",
+                "Jahre",
+                "alte",
+                "Urgroßneffe",
+                "des",
+                "Hitler-Attentäters",
+                "Claus",
+                "Schenk",
+                "Graf",
+                "von",
+                "Stauffenberg",
+                ",",
+                "hatte",
+                "bei",
+                "dem",
+                "Unfall",
+                "wegen",
+                "überhöhter",
+                "Geschwindigkeit",
+                "offenbar",
+                "die",
+                "Kontrolle",
+                "über",
+                "den",
+                "von",
+                "ihm",
+                "gesteuerten",
+                "Opel",
+                "verloren",
+                "und",
+                "war",
+                "gegen",
+                "einen",
+                "Baum",
+                "geprallt",
+                "."
+            ]
+        }
+    ]
+}

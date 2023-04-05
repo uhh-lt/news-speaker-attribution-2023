@@ -1,0 +1,172 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3"
+            ],
+            "FrameText": "Nach Ansicht der Ärzte",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9"
+            ],
+            "MessageText": "besteht eine hohe Wahrscheinlichkeit einer Querschnittslähmung",
+            "STWR": "ST",
+            "Source": [
+                "4:1",
+                "4:2",
+                "4:3"
+            ],
+            "SourceText": "Ansicht der Ärzte"
+        }
+    ],
+    "DocumentName": "51344 - 34-jähriger Balver wegen versuchten Totschlags in Untersuchungshaft (2008-06-28)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Ein",
+                "34-jähriger",
+                "Mann",
+                "aus",
+                "der",
+                "nordrhein-westfälischen",
+                "Stadt",
+                "Balve",
+                "wird",
+                "voraussichtlich",
+                "wegen",
+                "versuchten",
+                "Mordes",
+                "vor",
+                "Gericht",
+                "gestellt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Er",
+                "hatte",
+                "bei",
+                "einem",
+                "Streit",
+                "mit",
+                "einem",
+                "Bekannten",
+                "aus",
+                "Hagen",
+                "einen",
+                "unbeteiligten",
+                "19-jährigen",
+                "Balver",
+                "auf",
+                "die",
+                "Straße",
+                "geschleudert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Der",
+                "Passant",
+                "wurde",
+                "anschließend",
+                "von",
+                "einem",
+                "Auto",
+                "überrollt",
+                "und",
+                "erlitt",
+                "dabei",
+                "lebensgefährliche",
+                "Verletzungen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Das",
+                "weitere",
+                "Schicksal",
+                "des",
+                "Opfers",
+                "hängt",
+                "von",
+                "den",
+                "Folgen",
+                "der",
+                "schweren",
+                "Brust-",
+                "und",
+                "Wirbelsäulenverletzungen",
+                "ab",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Nach",
+                "Ansicht",
+                "der",
+                "Ärzte",
+                "besteht",
+                "eine",
+                "hohe",
+                "Wahrscheinlichkeit",
+                "einer",
+                "Querschnittslähmung",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Am",
+                "Samstag",
+                "erging",
+                "nun",
+                "der",
+                "Haftbefehl",
+                "gegen",
+                "den",
+                "34-jährigen",
+                "Täter",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Die",
+                "Staatsanwaltschaft",
+                "Arnsberg",
+                "ermittelt",
+                "wegen",
+                "versuchten",
+                "Mordes",
+                "."
+            ]
+        }
+    ]
+}

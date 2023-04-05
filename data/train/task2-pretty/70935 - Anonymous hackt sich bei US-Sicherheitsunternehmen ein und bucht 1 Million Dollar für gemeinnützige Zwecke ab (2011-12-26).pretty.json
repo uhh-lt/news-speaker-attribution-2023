@@ -1,0 +1,591 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "1:0",
+                "1:1",
+                "1:2",
+                "1:3"
+            ],
+            "FrameText": "Nach Angaben der Hacker",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8",
+                "1:9"
+            ],
+            "MessageText": "wurden Zugangsdaten für 90.000 Kreditkarten entwendet",
+            "STWR": "Writing",
+            "Source": [
+                "1:1",
+                "1:2",
+                "1:3"
+            ],
+            "SourceText": "Angaben der Hacker"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "FreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7",
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11"
+            ],
+            "MessageText": "4.000 Kreditkartennummern sollen von Angestellten der betroffenen Kunden von Stratfor stammen .",
+            "STWR": "Writing",
+            "Source": [
+                "1:1",
+                "1:2",
+                "1:3"
+            ],
+            "SourceText": "Angaben der Hacker"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "13:3"
+            ],
+            "CueText": "bezeichnete",
+            "Form": "Direct",
+            "Frame": [
+                "13:0",
+                "13:1",
+                "13:2",
+                "13:3",
+                "13:4",
+                "13:5",
+                "13:6",
+                "13:7",
+                "13:8",
+                "13:9",
+                "13:10"
+            ],
+            "FrameText": "Das US-Magazin Barrons bezeichnete Stratfor aufgrund seiner nachrichtendienstlichen Eigenschaften 2010 als",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "13:11",
+                "13:12",
+                "13:13"
+            ],
+            "MessageText": "„ Schatten-CIA “",
+            "STWR": "Writing",
+            "Source": [
+                "13:0",
+                "13:1",
+                "13:2"
+            ],
+            "SourceText": "Das US-Magazin Barrons"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "14:1"
+            ],
+            "CueText": "bekundete",
+            "Form": "Indirect",
+            "Frame": [
+                "14:0",
+                "14:1",
+                "14:2"
+            ],
+            "FrameText": "Anonymous bekundete ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "14:3",
+                "14:4",
+                "14:5",
+                "14:6",
+                "14:7",
+                "14:8",
+                "14:9",
+                "14:10",
+                "14:11",
+                "14:12",
+                "14:13"
+            ],
+            "MessageText": "dass die Daten leicht zugänglich gewesen seien und nicht verschlüsselt waren",
+            "STWR": "Writing",
+            "Source": [
+                "14:0"
+            ],
+            "SourceText": "Anonymous"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "15:10"
+            ],
+            "CueText": "schrieben",
+            "Form": "Direct",
+            "Frame": [
+                "15:10",
+                "15:11",
+                "15:12"
+            ],
+            "FrameText": "schrieben die Hacker",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "15:0",
+                "15:1",
+                "15:2",
+                "15:3",
+                "15:4",
+                "15:5",
+                "15:6",
+                "15:7",
+                "15:8",
+                "15:9"
+            ],
+            "MessageText": "„ Gar nicht mehr so privat und sicher ? “",
+            "STWR": "Writing",
+            "Source": [],
+            "SourceText": ""
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "15:13",
+                "15:14",
+                "15:15",
+                "15:16",
+                "15:17"
+            ],
+            "MessageText": "und kündigten weitere Aktionen an",
+            "STWR": "Writing",
+            "Source": [
+                "15:11",
+                "15:12"
+            ],
+            "SourceText": "die Hacker"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "16:3",
+                "16:4"
+            ],
+            "CueText": "teilte mit",
+            "Form": "Indirect",
+            "Frame": [
+                "16:0",
+                "16:1",
+                "16:2",
+                "16:3",
+                "16:4",
+                "16:5"
+            ],
+            "FrameText": "Unternehmenschef George Friedman teilte mit ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "16:6",
+                "16:7",
+                "16:8",
+                "16:9",
+                "16:10",
+                "16:11",
+                "16:12",
+                "16:13",
+                "16:14",
+                "16:15",
+                "16:16",
+                "16:17",
+                "16:18"
+            ],
+            "MessageText": "dass man mit den zuständigen Behörden zusammenarbeitet , um die Verantwortlichen zu überführen",
+            "STWR": "SW",
+            "Source": [
+                "16:0",
+                "16:1",
+                "16:2"
+            ],
+            "SourceText": "Unternehmenschef George Friedman"
+        }
+    ],
+    "DocumentName": "70935 - Anonymous hackt sich bei US-Sicherheitsunternehmen ein und bucht 1 Million Dollar für gemeinnützige Zwecke ab (2011-12-26)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Anonymous",
+                "suchte",
+                "das",
+                "US-Institut",
+                "Stratfor",
+                "an",
+                "Weihnachten",
+                "heim",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Nach",
+                "Angaben",
+                "der",
+                "Hacker",
+                "wurden",
+                "Zugangsdaten",
+                "für",
+                "90.000",
+                "Kreditkarten",
+                "entwendet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Über",
+                "Twitter",
+                "wurde",
+                "ein",
+                "Internet-Link",
+                "veröffentlicht",
+                ",",
+                "über",
+                "den",
+                "man",
+                "Einsicht",
+                "in",
+                "die",
+                "sonst",
+                "geheimgehaltenen",
+                "Kundendaten",
+                "von",
+                "Stratfor",
+                "nehmen",
+                "konnte",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Anonymous",
+                "hat",
+                "mit",
+                "den",
+                "Kreditkartendaten",
+                "1",
+                "Million",
+                "Dollar",
+                "an",
+                "wohltätige",
+                "Organisationen",
+                "überwiesen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Unfreiwillig",
+                "wurden",
+                "Stratfor-Kunden",
+                "so",
+                "zu",
+                "Spendern",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Kunden",
+                "von",
+                "Stratfor",
+                "sollen",
+                "sein",
+                ":",
+                "das",
+                "US-Verteidigungsministerium",
+                ",",
+                "die",
+                "US-Armee",
+                ",",
+                "die",
+                "US-Luftwaffe",
+                "und",
+                "Technologiekonzerne",
+                "wie",
+                "Apple",
+                "und",
+                "Microsoft",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Zum",
+                "Beispiel",
+                "gab",
+                "es",
+                "eine",
+                "Spende",
+                "von",
+                "180",
+                "Dollar",
+                "vom",
+                "Heimatschutz-Ministerium",
+                "an",
+                "das",
+                "Rote",
+                "Kreuz",
+                "in",
+                "den",
+                "USA",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "4.000",
+                "Kreditkartennummern",
+                "sollen",
+                "von",
+                "Angestellten",
+                "der",
+                "betroffenen",
+                "Kunden",
+                "von",
+                "Stratfor",
+                "stammen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Über",
+                "die",
+                "YouTube-Seite",
+                "sind",
+                "Berichte",
+                "des",
+                "Instituts",
+                "noch",
+                "abrufbar",
+                ";"
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "die",
+                "offizielle",
+                "Homepage",
+                "arbeitet",
+                "nicht",
+                "mehr",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Strategic",
+                "Forecasting",
+                ",",
+                "Inc",
+                "–",
+                "bekannt",
+                "als",
+                "STRATFOR",
+                "–",
+                "ist",
+                "ein",
+                "1996",
+                "gegründetes",
+                ",",
+                "privatwirtschaftlich",
+                "betriebenes",
+                "Unternehmen",
+                ",",
+                "das",
+                "Analysen",
+                ",",
+                "Berichte",
+                "und",
+                "Zukunftsprojektionen",
+                "zur",
+                "Geopolitik",
+                "anbietet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Meist",
+                "sind",
+                "die",
+                "außenpolitischen",
+                "Spielräume",
+                "der",
+                "Vereinigten",
+                "Staaten",
+                "im",
+                "Fokus",
+                "der",
+                "Untersuchungen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Für",
+                "Projektionen",
+                "und",
+                "Szenarien",
+                "werden",
+                "aber",
+                "auch",
+                "die",
+                "internationalen",
+                "Ausgangslagen",
+                "und",
+                "Interessen",
+                "berücksichtigt",
+                "und",
+                "analysiert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Das",
+                "US-Magazin",
+                "Barrons",
+                "bezeichnete",
+                "Stratfor",
+                "aufgrund",
+                "seiner",
+                "nachrichtendienstlichen",
+                "Eigenschaften",
+                "2010",
+                "als",
+                "„",
+                "Schatten-CIA",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Anonymous",
+                "bekundete",
+                ",",
+                "dass",
+                "die",
+                "Daten",
+                "leicht",
+                "zugänglich",
+                "gewesen",
+                "seien",
+                "und",
+                "nicht",
+                "verschlüsselt",
+                "waren",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "„",
+                "Gar",
+                "nicht",
+                "mehr",
+                "so",
+                "privat",
+                "und",
+                "sicher",
+                "?",
+                "“",
+                "schrieben",
+                "die",
+                "Hacker",
+                "und",
+                "kündigten",
+                "weitere",
+                "Aktionen",
+                "an",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 16,
+            "Tokens": [
+                "Unternehmenschef",
+                "George",
+                "Friedman",
+                "teilte",
+                "mit",
+                ",",
+                "dass",
+                "man",
+                "mit",
+                "den",
+                "zuständigen",
+                "Behörden",
+                "zusammenarbeitet",
+                ",",
+                "um",
+                "die",
+                "Verantwortlichen",
+                "zu",
+                "überführen",
+                "."
+            ]
+        }
+    ]
+}

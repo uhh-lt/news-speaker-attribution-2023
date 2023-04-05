@@ -1,0 +1,110 @@
+{
+    "Annotations": [],
+    "DocumentName": "12120 - Apple bringt „iPod nano“ auf den Markt (2005-09-11)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Das",
+                "Computerunternehmen",
+                "Apple",
+                "präsentierte",
+                "am",
+                "Donnerstag",
+                "sein",
+                "neuestes",
+                "Produkt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Der",
+                "„",
+                "iPod",
+                "nano",
+                "“",
+                "soll",
+                "der",
+                "Nachfolger",
+                "des",
+                "tragbaren",
+                "Musikplayers",
+                "„",
+                "iPod",
+                "mini",
+                "“",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Der",
+                "Winzling",
+                "ist",
+                "kaum",
+                "größer",
+                "als",
+                "eine",
+                "Visitenkarte",
+                "und",
+                "fasst",
+                "rund",
+                "eintausend",
+                "Musikstücke",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Erwartungsgemäß",
+                "stellte",
+                "Apple",
+                "zusammen",
+                "mit",
+                "der",
+                "neuen",
+                "iTunes-Software",
+                "auch",
+                "erstmals",
+                "ein",
+                "„",
+                "iTunes-Musik-Handy",
+                "“",
+                "vor",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Hierauf",
+                "können",
+                "insgesamt",
+                "einhundert",
+                "Musikstücke",
+                "gespeichert",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Beide",
+                "Produkte",
+                "wurden",
+                "in",
+                "Branchenkreisen",
+                "mit",
+                "Spannung",
+                "erwartet",
+                "."
+            ]
+        }
+    ]
+}

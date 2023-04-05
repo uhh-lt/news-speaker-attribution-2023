@@ -1,0 +1,205 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:3"
+            ],
+            "CueText": "mitteilte",
+            "Form": "Indirect",
+            "Frame": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:4"
+            ],
+            "FrameText": "Wie die Feuerwehr mitteilte ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10",
+                "4:11",
+                "4:12",
+                "4:13",
+                "4:14",
+                "4:15"
+            ],
+            "MessageText": "sind aus den Trümmern die Leichen von zwei Frauen geborgen worden",
+            "STWR": "SW",
+            "Source": [
+                "4:1",
+                "4:2"
+            ],
+            "SourceText": "die Feuerwehr"
+        }
+    ],
+    "DocumentName": "83439 - Erdrutsch in Chile: Mindestens sechs Tote bei Einsturz von zwei Häusern (2019-08-20)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "In",
+                "der",
+                "chilenischen",
+                "Hafenstadt",
+                "Valparaíso",
+                "kostete",
+                "der",
+                "Einsturz",
+                "von",
+                "zwei",
+                "Häusern",
+                "mindestens",
+                "sechs",
+                "Menschen",
+                "das",
+                "Leben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Infolge",
+                "eines",
+                "Erdrutsches",
+                "auf",
+                "dem",
+                "Hügel",
+                "Bellavista",
+                "waren",
+                "die",
+                "beiden",
+                "an",
+                "einem",
+                "Hang",
+                "gelegenen",
+                "Häuser",
+                "auf",
+                "eine",
+                "darunter",
+                "liegende",
+                "Gasse",
+                "gestürzt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Das",
+                "Unglück",
+                "ereignete",
+                "sich",
+                "unerwartet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Weder",
+                "starker",
+                "Regen",
+                "noch",
+                "Erdbeben",
+                "waren",
+                "dem",
+                "Erdrutsch",
+                "vorausgegangen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Wie",
+                "die",
+                "Feuerwehr",
+                "mitteilte",
+                ",",
+                "sind",
+                "aus",
+                "den",
+                "Trümmern",
+                "die",
+                "Leichen",
+                "von",
+                "zwei",
+                "Frauen",
+                "geborgen",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Die",
+                "beiden",
+                "bereits",
+                "identifizierten",
+                "Toten",
+                "hatten",
+                "sich",
+                "zum",
+                "Zeitpunkt",
+                "des",
+                "Unglücks",
+                "im",
+                "Haus",
+                "aufgehalten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Passanten",
+                ",",
+                "die",
+                "unterhalb",
+                "der",
+                "Gebäude",
+                "unterwegs",
+                "waren",
+                ",",
+                "wurden",
+                "ebenfalls",
+                "verschüttet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Zahlreiche",
+                "Einsatzkräfte",
+                "suchten",
+                "nach",
+                "möglichen",
+                "weiteren",
+                "Verschütteten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Zwei",
+                "Kinder",
+                "wurden",
+                "lebend",
+                "gerettet",
+                "."
+            ]
+        }
+    ]
+}

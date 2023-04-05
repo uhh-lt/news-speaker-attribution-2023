@@ -1,0 +1,339 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "FreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:4",
+                "6:5",
+                "6:6",
+                "6:7",
+                "6:8",
+                "6:9",
+                "6:10",
+                "6:11"
+            ],
+            "MessageText": "Das Motiv für den Doppelmord soll eine Kränkung der Familienehre sein .",
+            "STWR": "Speech",
+            "Source": [
+                "4:3",
+                "4:4",
+                "4:5",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9"
+            ],
+            "SourceText": "die Staatsanwaltschaft auf einer Pressekonferenz in Iserlohn"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "9:16",
+                "9:17",
+                "9:20"
+            ],
+            "CueText": "war sich sicher",
+            "Form": "Indirect",
+            "Frame": [
+                "9:0",
+                "9:1",
+                "9:2",
+                "9:3",
+                "9:4",
+                "9:5",
+                "9:6",
+                "9:7",
+                "9:8",
+                "9:9",
+                "9:10",
+                "9:11",
+                "9:12",
+                "9:13",
+                "9:14",
+                "9:15",
+                "9:16",
+                "9:17",
+                "9:18",
+                "9:19",
+                "9:20",
+                "9:21"
+            ],
+            "FrameText": "Als dann auch noch Schmauchspuren an den Opfern mit den Spuren an dem 38-jährigen übereinstimmten , war sich die Staatsanwaltschat sicher ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "9:22",
+                "9:23",
+                "9:24",
+                "9:25",
+                "9:26",
+                "9:27",
+                "9:28",
+                "9:29"
+            ],
+            "MessageText": "dass diese Beweismittel für einen Prozess ausreichen würden",
+            "STWR": "ST",
+            "Source": [
+                "9:18",
+                "9:19"
+            ],
+            "SourceText": "die Staatsanwaltschat"
+        }
+    ],
+    "DocumentName": "25051 - Iserlohn: Mutmaßlicher Täter im Doppelmordfall war einer der drei verhafteten Männer (2006-04-07)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "In",
+                "der",
+                "Silvesternacht",
+                "2005",
+                "\/",
+                "06",
+                "ereignete",
+                "sich",
+                "ein",
+                "Doppelmord",
+                "in",
+                "Iserlohn",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Gut",
+                "drei",
+                "Monate",
+                "später",
+                "hat",
+                "die",
+                "Polizei",
+                "am",
+                "Montag",
+                "einen",
+                "38-jährigen",
+                "Mann",
+                "türkischer",
+                "Staatsangehörigkeit",
+                "verhaftet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Er",
+                "befindet",
+                "sich",
+                "derzeit",
+                "im",
+                "Untersuchungsgefängnis",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Kurz",
+                "nach",
+                "der",
+                "Tat",
+                "wurden",
+                "Anfang",
+                "Januar",
+                "drei",
+                "Tatverdächtige",
+                "verhaftet",
+                ",",
+                "die",
+                "jedoch",
+                "wieder",
+                "freigelassen",
+                "werden",
+                "mussten",
+                ",",
+                "weil",
+                "sie",
+                "für",
+                "die",
+                "Tatzeit",
+                "ein",
+                "Alibi",
+                "vorweisen",
+                "konnten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Am",
+                "Dienstag",
+                "erklärte",
+                "die",
+                "Staatsanwaltschaft",
+                "auf",
+                "einer",
+                "Pressekonferenz",
+                "in",
+                "Iserlohn",
+                "die",
+                "Hintergründe",
+                "der",
+                "Verhaftung",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Bei",
+                "dem",
+                "Mann",
+                "handelt",
+                "es",
+                "sich",
+                "tatsächlich",
+                "um",
+                "einen",
+                "der",
+                "drei",
+                "Männer",
+                ",",
+                "die",
+                "bereits",
+                "im",
+                "Januar",
+                "tatverdächtig",
+                "waren",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Das",
+                "Motiv",
+                "für",
+                "den",
+                "Doppelmord",
+                "soll",
+                "eine",
+                "Kränkung",
+                "der",
+                "Familienehre",
+                "sein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Wochenlange",
+                "Ermittlungen",
+                "haben",
+                "jetzt",
+                "zu",
+                "einem",
+                "Ergebnis",
+                "geführt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "So",
+                "konnte",
+                "die",
+                "Polizei",
+                "nach",
+                "und",
+                "nach",
+                "die",
+                "Alibis",
+                "der",
+                "drei",
+                "Männer",
+                "erschüttern",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Als",
+                "dann",
+                "auch",
+                "noch",
+                "Schmauchspuren",
+                "an",
+                "den",
+                "Opfern",
+                "mit",
+                "den",
+                "Spuren",
+                "an",
+                "dem",
+                "38-jährigen",
+                "übereinstimmten",
+                ",",
+                "war",
+                "sich",
+                "die",
+                "Staatsanwaltschat",
+                "sicher",
+                ",",
+                "dass",
+                "diese",
+                "Beweismittel",
+                "für",
+                "einen",
+                "Prozess",
+                "ausreichen",
+                "würden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Der",
+                "38-Jährige",
+                "schweigt",
+                "zu",
+                "den",
+                "Vorwürfen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Die",
+                "Mordwaffe",
+                "ist",
+                "bis",
+                "heute",
+                "nicht",
+                "aufgetaucht",
+                "."
+            ]
+        }
+    ]
+}

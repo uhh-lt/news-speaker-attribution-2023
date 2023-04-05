@@ -1,0 +1,240 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:4",
+                "6:5",
+                "6:6",
+                "6:7",
+                "6:8",
+                "6:9",
+                "6:10",
+                "6:11",
+                "6:12",
+                "6:13",
+                "6:14",
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7"
+            ],
+            "MessageText": "Die Studenten forderten damals die Machthaber in China zu einer Umkehr zur Demokratie auf . Sie forderten Presse- , Meinungs- und Versammlungsfreiheit .",
+            "STWR": "Speech",
+            "Source": [
+                "6:0",
+                "6:1"
+            ],
+            "SourceText": "Die Studenten"
+        }
+    ],
+    "DocumentName": "5886 - Gedenkveranstaltung anlässlich des 16. Jahrestages des Tiananmen-Massakers (2005-06-05)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "In",
+                "Hongkong",
+                "fand",
+                "am",
+                "vergangenen",
+                "Freitag",
+                "anlässlich",
+                "des",
+                "16.",
+                "Jahrestages",
+                "der",
+                "blutigen",
+                "Niederschlagung",
+                "der",
+                "Demokratiebewegung",
+                "in",
+                "Peking",
+                "am",
+                "4.",
+                "Juni",
+                "1989",
+                "eine",
+                "große",
+                "Gedenkveranstaltung",
+                "statt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Zehntausende",
+                "Menschen",
+                "nahmen",
+                "an",
+                "der",
+                "Veranstaltung",
+                "im",
+                "Kulturzentrum",
+                "Hongkongs",
+                ",",
+                "in",
+                "der",
+                "ehemaligen",
+                "Stadt",
+                "Victoria",
+                "City",
+                ",",
+                "teil",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "In",
+                "China",
+                "sind",
+                "Gedenkfeiern",
+                "anlässlich",
+                "des",
+                "Massakers",
+                "auf",
+                "dem",
+                "Tiananmen",
+                ",",
+                "dem",
+                "Platz",
+                "des",
+                "Himmlischen",
+                "Friedens",
+                "in",
+                "Peking",
+                ",",
+                "verboten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Daher",
+                "wichen",
+                "die",
+                "Einwohner",
+                "auf",
+                "die",
+                "Sonderverwaltungsregion",
+                "Hongkong",
+                "aus",
+                ",",
+                "wo",
+                "es",
+                "kein",
+                "Verbot",
+                "gibt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Mit",
+                "einer",
+                "Mahnwache",
+                "und",
+                "Kerzenandacht",
+                "wurde",
+                "an",
+                "die",
+                "Menschen",
+                "erinnert",
+                ",",
+                "die",
+                "nach",
+                "wochenlangen",
+                "Studentenprotesten",
+                "in",
+                "einer",
+                "nächtlichen",
+                "Militäraktion",
+                "1989",
+                "ums",
+                "Leben",
+                "kamen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "In",
+                "ganz",
+                "China",
+                "wurden",
+                "anschließend",
+                "Tausende",
+                "inhaftiert",
+                "und",
+                "viele",
+                "später",
+                "hingerichtet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Die",
+                "Studenten",
+                "forderten",
+                "damals",
+                "die",
+                "Machthaber",
+                "in",
+                "China",
+                "zu",
+                "einer",
+                "Umkehr",
+                "zur",
+                "Demokratie",
+                "auf",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Sie",
+                "forderten",
+                "Presse-",
+                ",",
+                "Meinungs-",
+                "und",
+                "Versammlungsfreiheit",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Weitere",
+                "Artikel",
+                "zum",
+                "Thema"
+            ]
+        }
+    ]
+}

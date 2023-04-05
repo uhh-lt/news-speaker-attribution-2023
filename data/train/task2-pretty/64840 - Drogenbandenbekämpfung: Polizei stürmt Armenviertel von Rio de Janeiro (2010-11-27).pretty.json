@@ -1,0 +1,220 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "4:4"
+            ],
+            "CueText": "laut",
+            "Form": "Indirect",
+            "Frame": [
+                "4:4",
+                "4:5"
+            ],
+            "FrameText": "laut Medienberichten",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "4:0",
+                "4:1",
+                "4:2",
+                "4:3",
+                "4:6",
+                "4:7",
+                "4:8",
+                "4:9",
+                "4:10",
+                "4:11",
+                "4:12",
+                "4:13",
+                "4:14",
+                "4:15",
+                "4:16"
+            ],
+            "MessageText": "Seit vergangenem Montag sind mindestens vierzig Menschen getötet und mehr als 100 Autos zerstört worden",
+            "STWR": "SW",
+            "Source": [
+                "4:5"
+            ],
+            "SourceText": "Medienberichten"
+        }
+    ],
+    "DocumentName": "64840 - Drogenbandenbekämpfung: Polizei stürmt Armenviertel von Rio de Janeiro (2010-11-27)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Die",
+                "Polizei",
+                "von",
+                "Rio",
+                "de",
+                "Janeiro",
+                "hat",
+                "das",
+                "dortige",
+                "Armenviertel",
+                "Vila",
+                "Cruzeiro",
+                "mit",
+                "Hilfe",
+                "von",
+                "Hubschraubern",
+                "und",
+                "Panzern",
+                "gestürmt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "In",
+                "dem",
+                "Viertel",
+                "hielten",
+                "sich",
+                "etwa",
+                "200",
+                "Mitglieder",
+                "der",
+                "Drogenbande",
+                "Comando",
+                "Vermelho",
+                "auf",
+                ",",
+                "die",
+                "daraufhin",
+                "in",
+                "das",
+                "benachbarte",
+                "Armenviertel",
+                "Alemão",
+                "flohen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Polizisten",
+                "und",
+                "Bandenmitglieder",
+                "beschossen",
+                "sich",
+                "dabei",
+                "heftig",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Nun",
+                "durchsuchen",
+                "die",
+                "Einsatzkräfte",
+                "die",
+                "Wohnungen",
+                "nach",
+                "Drogen",
+                "und",
+                "Waffen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Seit",
+                "vergangenem",
+                "Montag",
+                "sind",
+                "laut",
+                "Medienberichten",
+                "mindestens",
+                "vierzig",
+                "Menschen",
+                "getötet",
+                "und",
+                "mehr",
+                "als",
+                "100",
+                "Autos",
+                "zerstört",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Einen",
+                "Tag",
+                "zuvor",
+                "hatten",
+                "Mitglieder",
+                "der",
+                "Drogenbande",
+                "Polizeiwachen",
+                "gestürmt",
+                "und",
+                "Verkehrsstaus",
+                "verursacht",
+                ",",
+                "bei",
+                "welchen",
+                "sie",
+                "Fahrzeuge",
+                "überfielen",
+                ",",
+                "ausraubten",
+                "und",
+                "in",
+                "Brand",
+                "steckten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Ob",
+                "weitere",
+                "Stürmungen",
+                "von",
+                "Armenvierteln",
+                "durchgeführt",
+                "werden",
+                ",",
+                "ist",
+                "noch",
+                "unklar",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "In",
+                "Brasilien",
+                "sollen",
+                "im",
+                "Jahr",
+                "2014",
+                "die",
+                "Fußball-Weltmeisterschaft",
+                "und",
+                "im",
+                "Jahr",
+                "2016",
+                "die",
+                "Olympischen",
+                "Sommerspiele",
+                "stattfinden",
+                "."
+            ]
+        }
+    ]
+}

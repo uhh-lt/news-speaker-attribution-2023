@@ -1,0 +1,463 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:27",
+                "1:30"
+            ],
+            "CueText": "hatte angekündigt",
+            "Form": "Indirect",
+            "Frame": [
+                "1:12",
+                "1:13",
+                "1:14",
+                "1:15",
+                "1:16",
+                "1:17",
+                "1:18",
+                "1:19",
+                "1:20",
+                "1:21",
+                "1:22",
+                "1:23",
+                "1:24",
+                "1:25",
+                "1:26",
+                "1:27",
+                "1:28",
+                "1:29",
+                "1:30"
+            ],
+            "FrameText": "Mubarak , der seit der Ermordung Anwar as-Sadats 1981 in Ägypten im Ausnahmezustand regiert , hatte am Donnerstag angekündigt",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "1:31",
+                "1:32",
+                "1:33",
+                "1:34",
+                "1:35",
+                "1:36",
+                "1:37"
+            ],
+            "MessageText": "bei der Präsidentenwahl im September erneut anzutreten",
+            "STWR": "Speech",
+            "Source": [
+                "1:12"
+            ],
+            "SourceText": "Mubarak"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "8:0"
+            ],
+            "CueText": "Nach",
+            "Form": "Indirect",
+            "Frame": [
+                "8:0",
+                "8:1",
+                "8:2",
+                "8:3"
+            ],
+            "FrameText": "Nach Aussagen des Innenministeriums",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "8:4",
+                "8:5",
+                "8:6",
+                "8:7",
+                "8:8",
+                "8:9",
+                "8:10",
+                "8:11",
+                "8:12",
+                "8:13",
+                "8:14",
+                "8:15",
+                "8:16",
+                "8:17",
+                "8:18",
+                "8:19",
+                "8:20",
+                "8:21",
+                "8:22",
+                "8:23",
+                "8:24",
+                "8:25",
+                "8:26"
+            ],
+            "MessageText": "haben sich die Menschen illegal versammelt und Steine auf die Polizei geworfen , nachdem eine Warnung zur Beendigung der Versammlung missachtet worden sei",
+            "STWR": "Speech",
+            "Source": [
+                "8:1",
+                "8:2",
+                "8:3"
+            ],
+            "SourceText": "Aussagen des Innenministeriums"
+        }
+    ],
+    "DocumentName": "9686 - Kundgebung von Mubarak-Gegnern in Kairo gewaltsam beendet (2005-07-31)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Am",
+                "Samstag",
+                "wurde",
+                "in",
+                "der",
+                "Innenstadt",
+                "von",
+                "Kairo",
+                "eine",
+                "Kundgebung",
+                "von",
+                "Gegnern",
+                "des",
+                "ägyptischen",
+                "Präsidenten",
+                "Muhammad",
+                "Husni",
+                "Mubarak",
+                "gewaltsam",
+                "beendet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Polizisten",
+                "und",
+                "Unterstützer",
+                "der",
+                "Regierung",
+                "schlugen",
+                "mit",
+                "Knüppeln",
+                "auf",
+                "Demonstranten",
+                "ein",
+                ".",
+                "Mubarak",
+                ",",
+                "der",
+                "seit",
+                "der",
+                "Ermordung",
+                "Anwar",
+                "as-Sadats",
+                "1981",
+                "in",
+                "Ägypten",
+                "im",
+                "Ausnahmezustand",
+                "regiert",
+                ",",
+                "hatte",
+                "am",
+                "Donnerstag",
+                "angekündigt",
+                "bei",
+                "der",
+                "Präsidentenwahl",
+                "im",
+                "September",
+                "erneut",
+                "anzutreten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Bei",
+                "der",
+                "Wahl",
+                "am",
+                "7.",
+                "September",
+                "werden",
+                "erstmals",
+                "Gegenkandidaten",
+                "zugelassen",
+                "sein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Etwa",
+                "200",
+                "Menschen",
+                "wollten",
+                "mit",
+                "einem",
+                "Marsch",
+                "durch",
+                "ein",
+                "zentrales",
+                "Viertel",
+                "von",
+                "Kairo",
+                "gegen",
+                "eine",
+                "fünfte",
+                "sechsjährige",
+                "Amtszeit",
+                "von",
+                "Mubarak",
+                "demonstrieren",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Die",
+                "Demonstration",
+                "sollte",
+                "auch",
+                "am",
+                "Sitz",
+                "der",
+                "Regierungspartei",
+                "„",
+                "National",
+                "Democratic",
+                "Party",
+                "“",
+                "(",
+                "NDP",
+                ")",
+                "vorbeiführen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Dabei",
+                "wurden",
+                "die",
+                "Demonstranten",
+                "von",
+                "Männern",
+                "in",
+                "Zivilkleidung",
+                "angegriffen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Unterstützer",
+                "der",
+                "Regierung",
+                "umringten",
+                "die",
+                "Demonstranten",
+                "und",
+                "schlugen",
+                "mit",
+                "Knüppeln",
+                "auf",
+                "sie",
+                "ein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Es",
+                "ist",
+                "nicht",
+                "bekannt",
+                "ob",
+                "die",
+                "Männer",
+                "in",
+                "Zivilkleidung",
+                "Mitglieder",
+                "der",
+                "Sicherheitskräfte",
+                "oder",
+                "Passanten",
+                "waren",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Nach",
+                "Aussagen",
+                "des",
+                "Innenministeriums",
+                "haben",
+                "sich",
+                "die",
+                "Menschen",
+                "illegal",
+                "versammelt",
+                "und",
+                "Steine",
+                "auf",
+                "die",
+                "Polizei",
+                "geworfen",
+                ",",
+                "nachdem",
+                "eine",
+                "Warnung",
+                "zur",
+                "Beendigung",
+                "der",
+                "Versammlung",
+                "missachtet",
+                "worden",
+                "sei",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Spezialeinheiten",
+                "der",
+                "Polizei",
+                "lösten",
+                "die",
+                "Versammlung",
+                "auf",
+                "und",
+                "nahmen",
+                "zwischen",
+                "20",
+                "Menschen",
+                "und",
+                "40",
+                "Menschen",
+                "fest",
+                ",",
+                "darunter",
+                "auch",
+                "Ayman",
+                "Barakat",
+                ",",
+                "der",
+                "Anwalt",
+                "von",
+                "Ayman",
+                "Nour",
+                ",",
+                "dem",
+                "bekanntesten",
+                "Herausforderer",
+                "von",
+                "Mubarak",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Die",
+                "Demonstranten",
+                "bestreiten",
+                "die",
+                "Steinewürfe",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Anwesende",
+                "Reporter",
+                "der",
+                "Nachrichtenagentur",
+                "AFP",
+                "bestätigen",
+                "die",
+                "Darstellung",
+                "der",
+                "Demonstranten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Bekannte",
+                "Führungspersönlichkeiten",
+                "der",
+                "Kifaya-Bewegung",
+                "(",
+                "übersetzt",
+                ":",
+                "Es",
+                "ist",
+                "genug"
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "!",
+                ")",
+                "wurden",
+                "am",
+                "Sonntag",
+                "aus",
+                "der",
+                "Haft",
+                "entlassen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Mehrere",
+                "Demonstranten",
+                "bleiben",
+                "jedoch",
+                "noch",
+                "inhaftiert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "Einige",
+                "Mubarak-Gegner",
+                "protestierten",
+                "mit",
+                "einer",
+                "Sitzblockade",
+                "vor",
+                "dem",
+                "Gebäude",
+                "der",
+                "Jounalistengewerkschaft",
+                "gegen",
+                "die",
+                "gewaltsame",
+                "Auflösung",
+                "der",
+                "Demonstration",
+                "."
+            ]
+        }
+    ]
+}

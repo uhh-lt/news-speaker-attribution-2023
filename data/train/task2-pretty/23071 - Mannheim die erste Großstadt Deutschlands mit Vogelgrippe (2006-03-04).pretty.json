@@ -1,0 +1,55 @@
+{
+    "Annotations": [],
+    "DocumentName": "23071 - Mannheim die erste Großstadt Deutschlands mit Vogelgrippe (2006-03-04)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Das",
+                "baden-württembergische",
+                "Agrarministerium",
+                "hat",
+                "gestern",
+                ",",
+                "am",
+                "3.",
+                "März",
+                "2006",
+                ",",
+                "den",
+                "ersten",
+                "Fall",
+                "von",
+                "Vogelgrippe",
+                "in",
+                "einer",
+                "Großstadt",
+                "Deutschlands",
+                "bekannt",
+                "gegeben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "In",
+                "Mannheim",
+                "wurde",
+                "eine",
+                "tote",
+                "Wildente",
+                "gefunden",
+                ",",
+                "die",
+                "den",
+                "Virus",
+                "H5N1",
+                "in",
+                "sich",
+                "trug",
+                "."
+            ]
+        }
+    ]
+}

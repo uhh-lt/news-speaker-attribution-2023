@@ -1,0 +1,339 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9",
+                "2:10",
+                "2:11",
+                "2:12",
+                "2:13"
+            ],
+            "MessageText": "Als Grund wurden unter anderem die an den Örtlichkeiten herrschenden unhygienischen Bedingungen genannt .",
+            "STWR": "Speech",
+            "Source": [
+                "0:0"
+            ],
+            "SourceText": "Frankreich"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "10:2"
+            ],
+            "CueText": "gemäß",
+            "Form": "Indirect",
+            "Frame": [
+                "10:2",
+                "10:3",
+                "10:4",
+                "10:5",
+                "10:6",
+                "10:7",
+                "10:8"
+            ],
+            "FrameText": "gemäß dem Dekret Nr. 72 - 186",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "10:0",
+                "10:1",
+                "10:9",
+                "10:10",
+                "10:11",
+                "10:12",
+                "10:13",
+                "10:14",
+                "10:15",
+                "10:16",
+                "10:17",
+                "10:18",
+                "10:19",
+                "10:20",
+                "10:21",
+                "10:22",
+                "10:23"
+            ],
+            "MessageText": "Sie werden unter dem Begriff „ Fahrendes Volk “ ( „ gens du voyage “ ) zusammengefasst",
+            "STWR": "Writing",
+            "Source": [
+                "10:3",
+                "10:4",
+                "10:5",
+                "10:6",
+                "10:7",
+                "10:8"
+            ],
+            "SourceText": "dem Dekret Nr. 72 - 186"
+        }
+    ],
+    "DocumentName": "73970 - Frankreich will 15.000 Roma zur Rückkehr in ihre Heimatländer bewegen (2012-09-14)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Frankreich",
+                "verfolgt",
+                "eine",
+                "Politik",
+                ",",
+                "durch",
+                "die",
+                "etwa",
+                "15.000",
+                "Roma",
+                ",",
+                "die",
+                "zumeist",
+                "aus",
+                "Rumänien",
+                "und",
+                "Bulgarien",
+                "kommen",
+                ",",
+                "zur",
+                "Rückkehr",
+                "in",
+                "ihre",
+                "Heimatländer",
+                "bewegt",
+                "werden",
+                "sollen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "In",
+                "den",
+                "letzten",
+                "Wochen",
+                "häufen",
+                "sich",
+                "in",
+                "Frankreich",
+                "Räumungen",
+                "von",
+                "Romalagern",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Als",
+                "Grund",
+                "wurden",
+                "unter",
+                "anderem",
+                "die",
+                "an",
+                "den",
+                "Örtlichkeiten",
+                "herrschenden",
+                "unhygienischen",
+                "Bedingungen",
+                "genannt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Jetzt",
+                "kam",
+                "es",
+                "erneut",
+                "zu",
+                "einer",
+                "Räumung",
+                "durch",
+                "die",
+                "Behörden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Im",
+                "Lager",
+                "Sucy-en-Brie",
+                "südöstlich",
+                "von",
+                "Lyon",
+                "wurden",
+                "800",
+                "Roma",
+                "aus",
+                "ihren",
+                "Unterkünften",
+                "vertrieben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Die",
+                "Räumung",
+                "wurde",
+                "von",
+                "einem",
+                "Gericht",
+                "angeordnet",
+                ",",
+                "der",
+                "Platz",
+                "würde",
+                "für",
+                "den",
+                "Bau",
+                "einer",
+                "Autobahn",
+                "gebraucht",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Die",
+                "Anzahl",
+                "der",
+                "Bewohner",
+                "war",
+                "durch",
+                "die",
+                "Auflösung",
+                "anderer",
+                "Unterkünfte",
+                "von",
+                "Roma",
+                "angestiegen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Asylsuchenden",
+                "waren",
+                "von",
+                "den",
+                "Behörden",
+                "Ersatzunterkünfte",
+                "angeboten",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Die",
+                "Aktion",
+                "verlief",
+                "friedlich",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Seit",
+                "1972",
+                "gibt",
+                "es",
+                "in",
+                "Frankreich",
+                "eine",
+                "juristische",
+                "Kategorie",
+                "für",
+                "Personen",
+                ",",
+                "die",
+                "nomadisch",
+                "leben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Sie",
+                "werden",
+                "gemäß",
+                "dem",
+                "Dekret",
+                "Nr.",
+                "72",
+                "-",
+                "186",
+                "unter",
+                "dem",
+                "Begriff",
+                "„",
+                "Fahrendes",
+                "Volk",
+                "“",
+                "(",
+                "„",
+                "gens",
+                "du",
+                "voyage",
+                "“",
+                ")",
+                "zusammengefasst",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Die",
+                "Zahl",
+                "dieser",
+                "in",
+                "Frankreich",
+                "nomadisch",
+                "lebenden",
+                "Personen",
+                "wird",
+                "auf",
+                "etwa",
+                "400.000",
+                "geschätzt",
+                ",",
+                "die",
+                "meisten",
+                "davon",
+                "haben",
+                "die",
+                "französische",
+                "Staatsbürgerschaft",
+                "."
+            ]
+        }
+    ]
+}

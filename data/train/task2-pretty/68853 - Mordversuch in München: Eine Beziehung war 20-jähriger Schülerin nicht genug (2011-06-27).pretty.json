@@ -1,0 +1,416 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:8",
+                "2:9"
+            ],
+            "CueText": "gab vor",
+            "Form": "Indirect",
+            "Frame": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9",
+                "2:10"
+            ],
+            "FrameText": "Dies wollte die 20-jährige Schülerin nicht akzeptieren und gab vor ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "2:11",
+                "2:12",
+                "2:13",
+                "2:14",
+                "2:15"
+            ],
+            "MessageText": "eine Aussprache herbeiführen zu wollen",
+            "STWR": "SW",
+            "Source": [
+                "2:2",
+                "2:3",
+                "2:4"
+            ],
+            "SourceText": "die 20-jährige Schülerin"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "5:0",
+                "5:1",
+                "5:2",
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9"
+            ],
+            "MessageText": "Er sollte die Beziehung fortsetzen und sie später heiraten .",
+            "STWR": "Speech",
+            "Source": [
+                "4:12",
+                "4:13"
+            ],
+            "SourceText": "die Schülerin"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "12:2",
+                "12:4",
+                "12:5"
+            ],
+            "CueText": "ging davon aus",
+            "Form": "Indirect",
+            "Frame": [
+                "12:0",
+                "12:1",
+                "12:2",
+                "12:3",
+                "12:4",
+                "12:5",
+                "12:6"
+            ],
+            "FrameText": "Der Richter ging dabei davon aus ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "12:7",
+                "12:8",
+                "12:9",
+                "12:10",
+                "12:11",
+                "12:12",
+                "12:13",
+                "12:14",
+                "12:15",
+                "12:16"
+            ],
+            "MessageText": "dass ein solcher Angriff zum Tod des Opfers führen könne",
+            "STWR": "ST",
+            "Source": [
+                "12:0",
+                "12:1"
+            ],
+            "SourceText": "Der Richter"
+        }
+    ],
+    "DocumentName": "68853 - Mordversuch in München: Eine Beziehung war 20-jähriger Schülerin nicht genug (2011-06-27)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Eine",
+                "20-jährige",
+                "türkische",
+                "Schülerin",
+                "hatte",
+                "seit",
+                "geraumer",
+                "Zeit",
+                "Beziehungen",
+                "zu",
+                "zwei",
+                "Männern",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Als",
+                "einer",
+                "der",
+                "Männer",
+                ",",
+                "ein",
+                "türkischer",
+                "24-jähriger",
+                "Student",
+                ",",
+                "erfuhr",
+                ",",
+                "dass",
+                "ihm",
+                "Hörner",
+                "aufgesetzt",
+                "worden",
+                "waren",
+                ",",
+                "beendete",
+                "er",
+                "die",
+                "Beziehung",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Dies",
+                "wollte",
+                "die",
+                "20-jährige",
+                "Schülerin",
+                "nicht",
+                "akzeptieren",
+                "und",
+                "gab",
+                "vor",
+                ",",
+                "eine",
+                "Aussprache",
+                "herbeiführen",
+                "zu",
+                "wollen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Bei",
+                "dem",
+                "Treffen",
+                "am",
+                "Samstagnachmittag",
+                "in",
+                "einem",
+                "Parkhaus",
+                "im",
+                "Münchner",
+                "Stadtteil",
+                "Freiham",
+                "stach",
+                "sie",
+                "auf",
+                "den",
+                "Studenten",
+                "mit",
+                "einem",
+                "Messer",
+                "ein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Vor",
+                "der",
+                "angeblichen",
+                "Aussprache",
+                ",",
+                "die",
+                "sich",
+                "als",
+                "Falle",
+                "herausstellte",
+                ",",
+                "hatte",
+                "die",
+                "Schülerin",
+                "versucht",
+                ",",
+                "ihren",
+                "Ex-Freund",
+                "umzustimmen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Er",
+                "sollte",
+                "die",
+                "Beziehung",
+                "fortsetzen",
+                "und",
+                "sie",
+                "später",
+                "heiraten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Darauf",
+                "ging",
+                "der",
+                "Mann",
+                "nicht",
+                "ein",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Im",
+                "Parkhaus",
+                "gelang",
+                "es",
+                "dem",
+                "Opfer",
+                ",",
+                "aus",
+                "dem",
+                "Personenwagen",
+                "zu",
+                "fliehen",
+                ",",
+                "in",
+                "dem",
+                "der",
+                "Messerangriff",
+                "stattfand",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Als",
+                "die",
+                "Täterin",
+                "bemerkte",
+                ",",
+                "dass",
+                "ihr",
+                "Ex-Freund",
+                "das",
+                "Aufsehen",
+                "von",
+                "Passanten",
+                "erregt",
+                "hatte",
+                ",",
+                "flüchtete",
+                "sie",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "In",
+                "der",
+                "Nähe",
+                "des",
+                "Westparks",
+                "konnte",
+                "sie",
+                "von",
+                "einer",
+                "Polizeistreife",
+                "festgenommen",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Bei",
+                "der",
+                "Münchner",
+                "Mordkommission",
+                "legte",
+                "sie",
+                "anschließend",
+                "ein",
+                "Geständnis",
+                "ab",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Sie",
+                "wurde",
+                "dem",
+                "Ermittlungsrichter",
+                "vorgeführt",
+                ",",
+                "der",
+                "Haftbefehl",
+                "wegen",
+                "versuchtem",
+                "Mordes",
+                "erließ",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Der",
+                "Richter",
+                "ging",
+                "dabei",
+                "davon",
+                "aus",
+                ",",
+                "dass",
+                "ein",
+                "solcher",
+                "Angriff",
+                "zum",
+                "Tod",
+                "des",
+                "Opfers",
+                "führen",
+                "könne",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Selbst",
+                "wenn",
+                "die",
+                "Türkin",
+                "im",
+                "Verfahren",
+                "als",
+                "Heranwachsende",
+                "gesehen",
+                "wird",
+                ",",
+                "droht",
+                "ihr",
+                "im",
+                "Falle",
+                "einer",
+                "Verurteilung",
+                "eine",
+                "langjährige",
+                "Freiheitsstrafe",
+                "."
+            ]
+        }
+    ]
+}

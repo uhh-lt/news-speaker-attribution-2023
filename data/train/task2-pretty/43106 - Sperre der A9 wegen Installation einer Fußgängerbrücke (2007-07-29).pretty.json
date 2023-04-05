@@ -1,0 +1,185 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "FreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7",
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11",
+                "7:12"
+            ],
+            "MessageText": "Die Autofahrer sollten über die Bundesautobahn 14 und die Bundesstraße 100 fahren .",
+            "STWR": "Speech",
+            "Source": [
+                "6:3",
+                "6:4",
+                "6:5"
+            ],
+            "SourceText": "der Mitteldeutsche Rundfunk"
+        }
+    ],
+    "DocumentName": "43106 - Sperre der A9 wegen Installation einer Fußgängerbrücke (2007-07-29)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Baumaßnahmen",
+                "sorgten",
+                "am",
+                "Wochenende",
+                "für",
+                "Behinderungen",
+                "auf",
+                "der",
+                "Bundesautobahn",
+                "9."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Sie",
+                "wurde",
+                "in",
+                "Fahrtrichtung",
+                "München",
+                "am",
+                "Freitag",
+                ",",
+                "den",
+                "27.",
+                "Juli",
+                "2007",
+                "um",
+                "21.00",
+                "Uhr",
+                "gesperrt",
+                "und",
+                "heute",
+                "um",
+                "18.30",
+                "Uhr",
+                "wieder",
+                "freigegeben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Auch",
+                "die",
+                "Gegenrichtung",
+                "nach",
+                "Berlin",
+                "war",
+                "betroffen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Abgesperrt",
+                "wurde",
+                "das",
+                "Teilstück",
+                "zwischen",
+                "der",
+                "Anschlussstelle",
+                "Halle",
+                "und",
+                "dem",
+                "Autobahnkreuz",
+                "Schkeuditz",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Beginn",
+                "war",
+                "gestern",
+                "um",
+                "5.30",
+                "Uhr",
+                ",",
+                "wieder",
+                "zu",
+                "befahren",
+                "war",
+                "sie",
+                "heute",
+                "um",
+                "14.00",
+                "Uhr",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Die",
+                "Maßnahmen",
+                "wurden",
+                "notwendig",
+                ",",
+                "da",
+                "zurzeit",
+                "eine",
+                "Fußgängerbrücke",
+                "errichtet",
+                "wird",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Eine",
+                "Umleitungsempfehlung",
+                "gab",
+                "der",
+                "Mitteldeutsche",
+                "Rundfunk",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Die",
+                "Autofahrer",
+                "sollten",
+                "über",
+                "die",
+                "Bundesautobahn",
+                "14",
+                "und",
+                "die",
+                "Bundesstraße",
+                "100",
+                "fahren",
+                "."
+            ]
+        }
+    ]
+}

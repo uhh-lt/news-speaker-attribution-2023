@@ -1,0 +1,255 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "6:3",
+                "6:5"
+            ],
+            "CueText": "gab bekannt",
+            "Form": "Indirect",
+            "Frame": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3",
+                "6:4",
+                "6:5",
+                "6:6"
+            ],
+            "FrameText": "Die Staatsanwaltschaft Oslo gab heute bekannt ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "6:7",
+                "6:8",
+                "6:9",
+                "6:10",
+                "6:11",
+                "6:12",
+                "6:13",
+                "6:14",
+                "6:15",
+                "6:16",
+                "6:17",
+                "6:18",
+                "6:19",
+                "6:20",
+                "6:21",
+                "6:22",
+                "6:23",
+                "6:24",
+                "6:25",
+                "6:26",
+                "6:27",
+                "6:28",
+                "6:29"
+            ],
+            "MessageText": "dass den Tätern eventuell ein Strafnachlass bis zu einem Drittel der Gesamtstrafe zugebilligt wird , falls sie den Aufenthaltsort der Bilder bekannt geben",
+            "STWR": "Speech",
+            "Source": [
+                "6:0",
+                "6:1",
+                "6:2"
+            ],
+            "SourceText": "Die Staatsanwaltschaft Oslo"
+        }
+    ],
+    "DocumentName": "22065 - Oslo: Prozessbeginn um Raub der Munch-Gemälde (2006-02-14)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Am",
+                "22.",
+                "August",
+                "2004",
+                "wurden",
+                "im",
+                "Osloer",
+                "Munch-Museum",
+                "die",
+                "Gemälde",
+                "„",
+                "Madonna",
+                "“",
+                "und",
+                "„",
+                "Der",
+                "Schrei",
+                "“",
+                "des",
+                "norwegischen",
+                "Expressionisten",
+                "Edvard",
+                "Munch",
+                "gestohlen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Heute",
+                "begann",
+                "in",
+                "Oslo",
+                "der",
+                "Prozess",
+                "gegen",
+                "die",
+                "mutmaßlichen",
+                "Täter",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Wegen",
+                "Raubes",
+                "sind",
+                "fünf",
+                "Norweger",
+                "angeklagt",
+                ",",
+                "ein",
+                "sechster",
+                "Mann",
+                "wegen",
+                "Hehlerei",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Die",
+                "fünf",
+                "Männer",
+                "waren",
+                "während",
+                "des",
+                "Überfalles",
+                "bewaffnet",
+                "und",
+                "maskiert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Die",
+                "Höchststrafe",
+                "für",
+                "diesen",
+                "Raub",
+                "beträgt",
+                "in",
+                "Norwegen",
+                "17",
+                "Jahre",
+                ",",
+                "für",
+                "Hehlerei",
+                "sechs",
+                "Jahre",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Die",
+                "Gemälde",
+                "sind",
+                "bis",
+                "heute",
+                "verschwunden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Die",
+                "Staatsanwaltschaft",
+                "Oslo",
+                "gab",
+                "heute",
+                "bekannt",
+                ",",
+                "dass",
+                "den",
+                "Tätern",
+                "eventuell",
+                "ein",
+                "Strafnachlass",
+                "bis",
+                "zu",
+                "einem",
+                "Drittel",
+                "der",
+                "Gesamtstrafe",
+                "zugebilligt",
+                "wird",
+                ",",
+                "falls",
+                "sie",
+                "den",
+                "Aufenthaltsort",
+                "der",
+                "Bilder",
+                "bekannt",
+                "geben",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Beide",
+                "Bilder",
+                "zusammen",
+                "haben",
+                "schätzungsweise",
+                "einen",
+                "Marktwert",
+                "von",
+                "rund",
+                "86",
+                "Millionen",
+                "Euro",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Der",
+                "Prozess",
+                "dauert",
+                "voraussichtlich",
+                "bis",
+                "zum",
+                "14.",
+                "März",
+                "2006",
+                ",",
+                "das",
+                "Urteil",
+                "sprechen",
+                "die",
+                "Richter",
+                "erst",
+                "zu",
+                "einem",
+                "späteren",
+                "Zeitpunkt",
+                "."
+            ]
+        }
+    ]
+}

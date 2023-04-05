@@ -1,0 +1,238 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "2:11",
+                "2:19"
+            ],
+            "CueText": "teilte mit",
+            "Form": "Direct",
+            "Frame": [
+                "2:0",
+                "2:1",
+                "2:2",
+                "2:3",
+                "2:4",
+                "2:5",
+                "2:6",
+                "2:7",
+                "2:8",
+                "2:9",
+                "2:10",
+                "2:11",
+                "2:12",
+                "2:13",
+                "2:14",
+                "2:15",
+                "2:16",
+                "2:17",
+                "2:18",
+                "2:19",
+                "2:20"
+            ],
+            "FrameText": "Nach Gerüchten über eine mögliche Festnahme nach Eintreffen auf der Landebahn teilte dessen Stellvertreter über die Sicherheitsvorkehrungen seines Chefs mit :",
+            "HasNested": true,
+            "IsNested": false,
+            "Message": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10",
+                "3:11",
+                "3:12",
+                "3:13"
+            ],
+            "MessageText": "„ Er sagte , er ruft uns an , wenn er zurückkommt . “",
+            "STWR": "Speech",
+            "Source": [
+                "2:12",
+                "2:13"
+            ],
+            "SourceText": "dessen Stellvertreter"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "3:2"
+            ],
+            "CueText": "sagte",
+            "Form": "Indirect",
+            "Frame": [
+                "3:1",
+                "3:2",
+                "3:3"
+            ],
+            "FrameText": "Er sagte ,",
+            "HasNested": false,
+            "IsNested": true,
+            "Message": [
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10",
+                "3:11"
+            ],
+            "MessageText": "er ruft uns an , wenn er zurückkommt",
+            "STWR": "Speech",
+            "Source": [
+                "3:1"
+            ],
+            "SourceText": "Er"
+        }
+    ],
+    "DocumentName": "34731 - Putschvorbereitungen in Fidschi (2006-11-04)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Nachdem",
+                "der",
+                "oberste",
+                "Militärführer",
+                "des",
+                "Landes",
+                ",",
+                "Voreqe",
+                "(",
+                "Frank",
+                ")",
+                "Bainirama",
+                ",",
+                "dem",
+                "Ministerpräsidenten",
+                "Fidschis",
+                ",",
+                "Qarase",
+                ",",
+                "ein",
+                "Rücktrittsultimatum",
+                "gestellt",
+                "hatte",
+                ",",
+                "das",
+                "fruchtlos",
+                "verstrichen",
+                "ist",
+                ",",
+                "hat",
+                "Polizeichef",
+                "Andrew",
+                "Hughes",
+                "ein",
+                "Ermittlungsverfahren",
+                "wegen",
+                "Aufruhrs",
+                "gegen",
+                "Bainirama",
+                "in",
+                "Aussicht",
+                "gestellt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Bainirama",
+                "befindet",
+                "sich",
+                "derzeit",
+                "zu",
+                "einem",
+                "Besuch",
+                "fidschianischer",
+                "Armeeangehöriger",
+                "im",
+                "Irak",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Nach",
+                "Gerüchten",
+                "über",
+                "eine",
+                "mögliche",
+                "Festnahme",
+                "nach",
+                "Eintreffen",
+                "auf",
+                "der",
+                "Landebahn",
+                "teilte",
+                "dessen",
+                "Stellvertreter",
+                "über",
+                "die",
+                "Sicherheitsvorkehrungen",
+                "seines",
+                "Chefs",
+                "mit",
+                ":"
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "„",
+                "Er",
+                "sagte",
+                ",",
+                "er",
+                "ruft",
+                "uns",
+                "an",
+                ",",
+                "wenn",
+                "er",
+                "zurückkommt",
+                ".",
+                "“"
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Am",
+                "31.",
+                "Oktober",
+                "traf",
+                "eine",
+                "größere",
+                "Waffenlieferung",
+                "in",
+                "Suva",
+                "ein",
+                ",",
+                "die",
+                "sich",
+                "das",
+                "Militär",
+                "trotz",
+                "einer",
+                "anderslautenden",
+                "Anweisung",
+                "von",
+                "Polizeichef",
+                "Hughes",
+                "aneignete",
+                "."
+            ]
+        }
+    ]
+}

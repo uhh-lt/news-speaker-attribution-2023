@@ -1,0 +1,316 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "13:0",
+                "13:1",
+                "13:2",
+                "13:3",
+                "13:4",
+                "13:5",
+                "13:6",
+                "13:7",
+                "13:8",
+                "13:9",
+                "13:10",
+                "13:11",
+                "13:12",
+                "13:13",
+                "13:14",
+                "13:15",
+                "13:16"
+            ],
+            "MessageText": "Vor dem Unfall habe sich der 22-Jährige in unmittelbarer Nachbarschaft zur Unfallstelle bei einer Party befunden .",
+            "STWR": "SW",
+            "Source": [],
+            "SourceText": ""
+        }
+    ],
+    "DocumentName": "82125 - Betrunkener Autofahrer stößt Fußgängerin von Brücke (2018-01-02)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Das",
+                "neue",
+                "Jahr",
+                "war",
+                "noch",
+                "keine",
+                "Stunde",
+                "alt",
+                ",",
+                "als",
+                "sich",
+                "in",
+                "Kaiserslautern",
+                "ein",
+                "tragischer",
+                "Verkehrsunfall",
+                "unter",
+                "Alkoholeinfluss",
+                "ereignete",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Ein",
+                "22-Jähriger",
+                "befuhr",
+                "mit",
+                "überhöhter",
+                "Geschwindigkeit",
+                "die",
+                "Herzog-von-Weimar-Straße",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Er",
+                "verlor",
+                "die",
+                "Kontrolle",
+                "über",
+                "den",
+                "Wagen",
+                "und",
+                "fuhr",
+                "gegen",
+                "das",
+                "Geländer",
+                "der",
+                "Pfaffbrücke",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Eine",
+                "57-Jährige",
+                "Frau",
+                ",",
+                "die",
+                "mit",
+                "ihrem",
+                "Mann",
+                "und",
+                "ihrer",
+                "Tochter",
+                "dort",
+                "das",
+                "neue",
+                "Jahr",
+                "begrüßten",
+                ",",
+                "wurden",
+                "von",
+                "dem",
+                "Pkw",
+                "erfasst",
+                "und",
+                "über",
+                "das",
+                "Brückengeländer",
+                "geschleudert",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Sie",
+                "stürzte",
+                "fünf",
+                "Meter",
+                "in",
+                "die",
+                "Tiefe",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Bei",
+                "dem",
+                "Unfall",
+                "wurde",
+                "die",
+                "Frau",
+                "lebensgefährlich",
+                "verletzt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Die",
+                "Rettungsarbeiten",
+                "an",
+                "der",
+                "unzugänglichen",
+                "Unfallstelle",
+                "gestalteten",
+                "sich",
+                "schwierig",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Die",
+                "Feuerwehr",
+                "gelange",
+                "es",
+                "mithilfe",
+                "von",
+                "Leitern",
+                "zur",
+                "Verunglückten",
+                "vorzudringen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Mit",
+                "einem",
+                "Kran",
+                "konnte",
+                "die",
+                "Verletzte",
+                "geborgen",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Die",
+                "57-Jährige",
+                "schwebt",
+                "in",
+                "Lebensgefahr",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Der",
+                "Fahrzeugführer",
+                "wurde",
+                "bei",
+                "dem",
+                "Unglück",
+                "schwer",
+                "verletzt",
+                ",",
+                "er",
+                "flüchtete",
+                "zu",
+                "Fuß",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Später",
+                "brachten",
+                "ihn",
+                "Familienangehörige",
+                "in",
+                "ein",
+                "Klinikum",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "An",
+                "der",
+                "Rettung",
+                "mussten",
+                "sich",
+                "neben",
+                "Rettungsdienst",
+                ",",
+                "Feuerwehr",
+                "und",
+                "Polizei",
+                "auch",
+                "Helfer",
+                "des",
+                "Katastrophenschutzes",
+                "beteiligen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Vor",
+                "dem",
+                "Unfall",
+                "habe",
+                "sich",
+                "der",
+                "22-Jährige",
+                "in",
+                "unmittelbarer",
+                "Nachbarschaft",
+                "zur",
+                "Unfallstelle",
+                "bei",
+                "einer",
+                "Party",
+                "befunden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Sein",
+                "Fahrzeug",
+                "blieb",
+                "vor",
+                "Ort",
+                "liegen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "Der",
+                "Sachschaden",
+                "beträgt",
+                "rund",
+                "20.000",
+                "Euro",
+                "."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,722 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "1:1"
+            ],
+            "CueText": "meldet",
+            "Form": "Indirect",
+            "Frame": [
+                "1:1",
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8"
+            ],
+            "FrameText": "meldet die israelische Tageszeitung Haaretz in ihrer Onlineausgabe",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4",
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8",
+                "0:9",
+                "0:10",
+                "0:11",
+                "1:0"
+            ],
+            "MessageText": "Israel startete am Samstagabend die seit Tagen erwartete Bodenoffensive in den Gazastreifen Das",
+            "STWR": "Writing",
+            "Source": [
+                "1:2",
+                "1:3",
+                "1:4",
+                "1:5",
+                "1:6",
+                "1:7",
+                "1:8"
+            ],
+            "SourceText": "die israelische Tageszeitung Haaretz in ihrer Onlineausgabe"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "3:0",
+                "3:1",
+                "3:2",
+                "3:3",
+                "3:4",
+                "3:5",
+                "3:6",
+                "3:7",
+                "3:8",
+                "3:9",
+                "3:10",
+                "3:11"
+            ],
+            "MessageText": "Augenzeugen berichteten von Panzerbewegungen in unbewohnten Regionen im Norden des Gazastreifens .",
+            "STWR": "Speech",
+            "Source": [
+                "3:0"
+            ],
+            "SourceText": "Augenzeugen"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "5:1"
+            ],
+            "CueText": "sagte",
+            "Form": "Indirect",
+            "Frame": [
+                "5:0",
+                "5:1",
+                "5:2"
+            ],
+            "FrameText": "Sie sagte ,",
+            "HasNested": true,
+            "IsNested": false,
+            "Message": [
+                "5:3",
+                "5:4",
+                "5:5",
+                "5:6",
+                "5:7",
+                "5:8",
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "5:14",
+                "5:15",
+                "5:16",
+                "5:17"
+            ],
+            "MessageText": "Ziel der Bodenoffensive sei es , „ die Hamas-Terror-Infrastruktur in der Operationszone “ zu zerstören",
+            "STWR": "Speech",
+            "Source": [
+                "5:0"
+            ],
+            "SourceText": "Sie"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "5:1"
+            ],
+            "CueText": "sagte",
+            "Form": "Direct",
+            "Frame": [
+                "5:0",
+                "5:1",
+                "5:2"
+            ],
+            "FrameText": "Sie sagte ,",
+            "HasNested": false,
+            "IsNested": true,
+            "Message": [
+                "5:9",
+                "5:10",
+                "5:11",
+                "5:12",
+                "5:13",
+                "5:14",
+                "5:15"
+            ],
+            "MessageText": "„ die Hamas-Terror-Infrastruktur in der Operationszone “",
+            "STWR": "Speech",
+            "Source": [
+                "5:0"
+            ],
+            "SourceText": "Sie"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "6:1",
+                "6:2"
+            ],
+            "CueText": "fügte hinzu",
+            "Form": "Direct",
+            "Frame": [
+                "6:0",
+                "6:1",
+                "6:2",
+                "6:3"
+            ],
+            "FrameText": "Sie fügte hinzu .",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "7:0",
+                "7:1",
+                "7:2",
+                "7:3",
+                "7:4",
+                "7:5",
+                "7:6",
+                "7:7",
+                "7:8",
+                "7:9",
+                "7:10",
+                "7:11"
+            ],
+            "MessageText": "„ Wir werden einige Gebiete einnehmen , von denen Raketenangriffe ausgehen “",
+            "STWR": "Speech",
+            "Source": [
+                "6:0"
+            ],
+            "SourceText": "Sie"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "8:7"
+            ],
+            "CueText": "berichtete",
+            "Form": "Indirect",
+            "Frame": [
+                "8:0",
+                "8:1",
+                "8:2",
+                "8:3",
+                "8:4",
+                "8:5",
+                "8:6",
+                "8:7",
+                "8:8"
+            ],
+            "FrameText": "Der israelische Fernsehsender „ Channel 10 “ berichtete ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "8:9",
+                "8:10",
+                "8:11",
+                "8:12",
+                "8:13",
+                "8:14",
+                "8:15",
+                "8:16",
+                "8:17",
+                "8:18",
+                "8:19"
+            ],
+            "MessageText": "das israelische Regierungskabinett habe dem Einberufungsbefehl für weitere zehntausend Reservisten zugestimmt",
+            "STWR": "Speech",
+            "Source": [
+                "8:0",
+                "8:1",
+                "8:2",
+                "8:3",
+                "8:4",
+                "8:5",
+                "8:6"
+            ],
+            "SourceText": "Der israelische Fernsehsender „ Channel 10 “"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "11:1",
+                "11:2",
+                "11:3"
+            ],
+            "CueText": "wiesen darauf hin",
+            "Form": "Indirect",
+            "Frame": [
+                "11:0",
+                "11:1",
+                "11:2",
+                "11:3",
+                "11:4"
+            ],
+            "FrameText": "Beobachter wiesen darauf hin ,",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "11:5",
+                "11:6",
+                "11:7",
+                "11:8",
+                "11:9",
+                "11:10",
+                "11:11",
+                "11:12",
+                "11:13",
+                "11:14",
+                "11:15",
+                "11:16",
+                "11:17",
+                "11:18",
+                "11:19",
+                "11:20",
+                "11:21",
+                "11:22",
+                "11:23"
+            ],
+            "MessageText": "dass die Zahl israelischer Luftangriffe in den letzten Tagen gegenüber dem Anfang der Offensive am letzten Freitag abgenommen habe",
+            "STWR": "Speech",
+            "Source": [
+                "11:0"
+            ],
+            "SourceText": "Beobachter"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "IndirectFreeIndirect",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "12:0",
+                "12:1",
+                "12:2",
+                "12:3",
+                "12:4",
+                "12:5",
+                "12:6",
+                "12:7",
+                "12:8",
+                "12:9",
+                "12:10",
+                "12:11",
+                "12:12",
+                "12:13",
+                "12:14",
+                "12:15",
+                "12:16",
+                "12:17",
+                "12:18",
+                "12:19",
+                "12:20"
+            ],
+            "MessageText": "So habe es den Anschein , dass es kaum noch Ziele gebe , die aus der Luft angegriffen werden könnten .",
+            "STWR": "Speech",
+            "Source": [
+                "11:0"
+            ],
+            "SourceText": "Beobachter"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "13:2"
+            ],
+            "CueText": "nach",
+            "Form": "Indirect",
+            "Frame": [
+                "13:2",
+                "13:3",
+                "13:4"
+            ],
+            "FrameText": "nach israelischen Armeeangaben",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "13:0",
+                "13:1",
+                "13:5",
+                "13:6",
+                "13:7",
+                "13:8"
+            ],
+            "MessageText": "Heute wurden mindestens 40 Ziele angegriffen",
+            "STWR": "Speech",
+            "Source": [
+                "13:3",
+                "13:4"
+            ],
+            "SourceText": "israelischen Armeeangaben"
+        }
+    ],
+    "DocumentName": "55038 - Israel startet Bodenoffensive in den Gazastreifen (2009-01-03)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Israel",
+                "startete",
+                "am",
+                "Samstagabend",
+                "die",
+                "seit",
+                "Tagen",
+                "erwartete",
+                "Bodenoffensive",
+                "in",
+                "den",
+                "Gazastreifen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Das",
+                "meldet",
+                "die",
+                "israelische",
+                "Tageszeitung",
+                "Haaretz",
+                "in",
+                "ihrer",
+                "Onlineausgabe",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Die",
+                "israelische",
+                "Armee",
+                "hatte",
+                "heute",
+                "mit",
+                "dem",
+                "Beschuss",
+                "des",
+                "Gazastreifens",
+                "durch",
+                "ihre",
+                "Artillerie",
+                "begonnen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Augenzeugen",
+                "berichteten",
+                "von",
+                "Panzerbewegungen",
+                "in",
+                "unbewohnten",
+                "Regionen",
+                "im",
+                "Norden",
+                "des",
+                "Gazastreifens",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Die",
+                "Bodenoffensive",
+                "wurde",
+                "von",
+                "einer",
+                "Armeesprecherin",
+                "bestätigt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Sie",
+                "sagte",
+                ",",
+                "Ziel",
+                "der",
+                "Bodenoffensive",
+                "sei",
+                "es",
+                ",",
+                "„",
+                "die",
+                "Hamas-Terror-Infrastruktur",
+                "in",
+                "der",
+                "Operationszone",
+                "“",
+                "zu",
+                "zerstören",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Sie",
+                "fügte",
+                "hinzu",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "„",
+                "Wir",
+                "werden",
+                "einige",
+                "Gebiete",
+                "einnehmen",
+                ",",
+                "von",
+                "denen",
+                "Raketenangriffe",
+                "ausgehen",
+                "“",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Der",
+                "israelische",
+                "Fernsehsender",
+                "„",
+                "Channel",
+                "10",
+                "“",
+                "berichtete",
+                ",",
+                "das",
+                "israelische",
+                "Regierungskabinett",
+                "habe",
+                "dem",
+                "Einberufungsbefehl",
+                "für",
+                "weitere",
+                "zehntausend",
+                "Reservisten",
+                "zugestimmt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Israelische",
+                "Kampfflugzeuge",
+                "bombardierten",
+                "am",
+                "Abend",
+                "die",
+                "Hauptverbindungsstraße",
+                "im",
+                "Gazastreifen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "So",
+                "werden",
+                "Bewegungen",
+                "auf",
+                "dieser",
+                "Straße",
+                "von",
+                "einem",
+                "Teil",
+                "des",
+                "Gazastreifens",
+                "in",
+                "den",
+                "anderen",
+                "nahezu",
+                "unmöglich",
+                "gemacht",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Beobachter",
+                "wiesen",
+                "darauf",
+                "hin",
+                ",",
+                "dass",
+                "die",
+                "Zahl",
+                "israelischer",
+                "Luftangriffe",
+                "in",
+                "den",
+                "letzten",
+                "Tagen",
+                "gegenüber",
+                "dem",
+                "Anfang",
+                "der",
+                "Offensive",
+                "am",
+                "letzten",
+                "Freitag",
+                "abgenommen",
+                "habe",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "So",
+                "habe",
+                "es",
+                "den",
+                "Anschein",
+                ",",
+                "dass",
+                "es",
+                "kaum",
+                "noch",
+                "Ziele",
+                "gebe",
+                ",",
+                "die",
+                "aus",
+                "der",
+                "Luft",
+                "angegriffen",
+                "werden",
+                "könnten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Heute",
+                "wurden",
+                "nach",
+                "israelischen",
+                "Armeeangaben",
+                "mindestens",
+                "40",
+                "Ziele",
+                "angegriffen",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Am",
+                "vergangenen",
+                "Sonntag",
+                "waren",
+                "noch",
+                "mehr",
+                "als",
+                "100",
+                "Ziele",
+                "im",
+                "Gazastreifen",
+                "angegriffen",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "(",
+                "Wikinews",
+                "berichtete",
+                ")",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 16,
+            "Tokens": [
+                "Kleine",
+                "Chronik",
+                "der",
+                "Gaza-Krise"
+            ]
+        },
+        {
+            "SentenceId": 17,
+            "Tokens": [
+                "1.",
+                "Tag",
+                ":",
+                "(",
+                "27.12.2008",
+                ")",
+                "2.",
+                "Tag",
+                ":",
+                "(",
+                "28.12.2008",
+                ")",
+                "3.",
+                "Tag",
+                ":",
+                "(",
+                "29.12.2008",
+                ")",
+                "4.",
+                "Tag",
+                ":",
+                "(",
+                "30.12.2008",
+                ")",
+                "5.",
+                "Tag",
+                ":",
+                "(",
+                "31.12.2008",
+                ")",
+                "6.",
+                "und",
+                "7.",
+                "Tag",
+                ":",
+                "(",
+                "02.01.2009",
+                ")",
+                "8.",
+                "Tag",
+                ":",
+                "(",
+                "03.01.2009",
+                ")"
+            ]
+        }
+    ]
+}

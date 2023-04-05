@@ -1,0 +1,425 @@
+{
+    "Annotations": [
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [
+                "0:10"
+            ],
+            "CueText": "nach",
+            "Form": "Indirect",
+            "Frame": [
+                "0:10",
+                "0:11",
+                "0:12",
+                "0:13",
+                "0:14",
+                "0:15"
+            ],
+            "FrameText": "nach Angaben der italienischen Luftfahrtbehörden Enac",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "0:0",
+                "0:1",
+                "0:2",
+                "0:3",
+                "0:4",
+                "0:5",
+                "0:6",
+                "0:7",
+                "0:8",
+                "0:9",
+                "0:16",
+                "0:17",
+                "0:18"
+            ],
+            "MessageText": "Zum dritten Mal innerhalb weniger Wochen kam es in Italien zu einer Notlandung",
+            "STWR": "SW",
+            "Source": [
+                "0:11",
+                "0:12",
+                "0:13",
+                "0:14",
+                "0:15"
+            ],
+            "SourceText": "Angaben der italienischen Luftfahrtbehörden Enac"
+        },
+        {
+            "Addr": [],
+            "AddrText": "",
+            "Cue": [],
+            "CueText": "",
+            "Form": "Reported",
+            "Frame": [],
+            "FrameText": "",
+            "HasNested": false,
+            "IsNested": false,
+            "Message": [
+                "14:0",
+                "14:1",
+                "14:2",
+                "14:3",
+                "14:4",
+                "14:5",
+                "14:6",
+                "14:7",
+                "14:8",
+                "14:9",
+                "14:10",
+                "14:11",
+                "14:12",
+                "14:13",
+                "14:14",
+                "14:15",
+                "14:16",
+                "14:17",
+                "14:18",
+                "14:19",
+                "14:20",
+                "14:21"
+            ],
+            "MessageText": "Nach dieser dritten Notlandung in kürzester Zeit hat die Enac jetzt umfangreiche Inspektionen für alle ATR-Maschinen im Besitz italienischer Fluggesellschaften angeordnet .",
+            "STWR": "SW",
+            "Source": [
+                "14:8",
+                "14:9"
+            ],
+            "SourceText": "die Enac"
+        }
+    ],
+    "DocumentName": "12611 - Dritte Notlandung eines Flugzeuges in Italien innerhalb weniger Wochen (2005-09-18)",
+    "Sentences": [
+        {
+            "SentenceId": 0,
+            "Tokens": [
+                "Zum",
+                "dritten",
+                "Mal",
+                "innerhalb",
+                "weniger",
+                "Wochen",
+                "kam",
+                "es",
+                "in",
+                "Italien",
+                "nach",
+                "Angaben",
+                "der",
+                "italienischen",
+                "Luftfahrtbehörden",
+                "Enac",
+                "zu",
+                "einer",
+                "Notlandung",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 1,
+            "Tokens": [
+                "Eine",
+                "Fokker",
+                "100",
+                "hatte",
+                "am",
+                "Freitag",
+                ",",
+                "den",
+                "9.",
+                "September",
+                "2005",
+                ",",
+                "Probleme",
+                "mit",
+                "dem",
+                "linken",
+                "Motor",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 2,
+            "Tokens": [
+                "Daraufhin",
+                "entschloss",
+                "sich",
+                "der",
+                "Pilot",
+                "zur",
+                "Notlandung",
+                "in",
+                "Palermo",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 3,
+            "Tokens": [
+                "Die",
+                "Maschine",
+                "mit",
+                "52",
+                "Passagieren",
+                "an",
+                "Bord",
+                "landete",
+                "trotz",
+                "der",
+                "technischen",
+                "Probleme",
+                "sicher",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 4,
+            "Tokens": [
+                "Alle",
+                "Insassen",
+                "überlebten",
+                "die",
+                "Notlandung",
+                "unverletzt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 5,
+            "Tokens": [
+                "Die",
+                "Maschine",
+                "gehört",
+                "der",
+                "italienischen",
+                "Fluggesellschaft",
+                "Alpi",
+                "Eagles",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 6,
+            "Tokens": [
+                "Die",
+                "Bevölkerung",
+                "Italiens",
+                "macht",
+                "sich",
+                "derzeit",
+                "Sorgen",
+                "um",
+                "die",
+                "Sicherheit",
+                "der",
+                "Passagierluftfahrt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 7,
+            "Tokens": [
+                "Erst",
+                "am",
+                "6.",
+                "August",
+                "2005",
+                "war",
+                "eine",
+                "Maschine",
+                "des",
+                "Typs",
+                "„",
+                "Aerospatiale",
+                "ATR",
+                "72",
+                "“",
+                "von",
+                "der",
+                "tunesischen",
+                "Fluggesellschaft",
+                "Tunisair",
+                "vor",
+                "der",
+                "sizilianischen",
+                "Küste",
+                "in",
+                "der",
+                "Nähe",
+                "Palermos",
+                "nach",
+                "einer",
+                "missglückten",
+                "Notlandung",
+                "ins",
+                "Meer",
+                "gestürzt",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 8,
+            "Tokens": [
+                "Bei",
+                "dem",
+                "Unglück",
+                "starben",
+                "16",
+                "Menschen",
+                ",",
+                "23",
+                "kamen",
+                "mit",
+                "Verletzungen",
+                "davon",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 9,
+            "Tokens": [
+                "Am",
+                "Wochenende",
+                "vor",
+                "der",
+                "Fokker-Notlandung",
+                "musste",
+                "eine",
+                "ATR",
+                "42",
+                "auf",
+                "Pantelleria",
+                "notlanden",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 10,
+            "Tokens": [
+                "Pantelleria",
+                "ist",
+                "eine",
+                "Insel",
+                "im",
+                "Süden",
+                "Italiens",
+                ",",
+                "sie",
+                "liegt",
+                "im",
+                "Mittelmeer",
+                ",",
+                "die",
+                "Maschine",
+                "kam",
+                "aus",
+                "Sizilien",
+                "aus",
+                "der",
+                "Stadt",
+                "Trapani",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 11,
+            "Tokens": [
+                "Die",
+                "ATR",
+                "gehört",
+                "der",
+                "italienischen",
+                "Fluggesellschaft",
+                "Italy",
+                "First",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 12,
+            "Tokens": [
+                "Auch",
+                "diese",
+                "Maschine",
+                "landete",
+                "wegen",
+                "Motorproblemen",
+                "vorzeitig",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 13,
+            "Tokens": [
+                "Hier",
+                "gab",
+                "es",
+                "ebenfalls",
+                "keine",
+                "Verletzten",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 14,
+            "Tokens": [
+                "Nach",
+                "dieser",
+                "dritten",
+                "Notlandung",
+                "in",
+                "kürzester",
+                "Zeit",
+                "hat",
+                "die",
+                "Enac",
+                "jetzt",
+                "umfangreiche",
+                "Inspektionen",
+                "für",
+                "alle",
+                "ATR-Maschinen",
+                "im",
+                "Besitz",
+                "italienischer",
+                "Fluggesellschaften",
+                "angeordnet",
+                "."
+            ]
+        },
+        {
+            "SentenceId": 15,
+            "Tokens": [
+                "Die",
+                "tunesische",
+                "Fluggesellschaft",
+                ",",
+                "der",
+                "die",
+                "Maschine",
+                "gehörte",
+                ",",
+                "die",
+                "am",
+                "6.",
+                "August",
+                "ins",
+                "Meer",
+                "stürzte",
+                ",",
+                "hat",
+                "von",
+                "der",
+                "Enac",
+                "in",
+                "Italien",
+                "mittlerweile",
+                "ein",
+                "Flugverbot",
+                "erteilt",
+                "bekommen",
+                "."
+            ]
+        }
+    ]
+}
