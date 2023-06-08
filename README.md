@@ -8,12 +8,13 @@ co-located with [KONVENS 2023](https://www.thi.de/konvens-2023/).
 
 The Shared Task competition is run on [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/10431)
 
-## News: Training and development data are released!
+## News: Evaluation of the dev set is now enabled!
 
 ## Important Dates:
 
  * ~February, 2023 - Trial data release~
  * ~April 1, 2023 - Training and development data release~
+ * ~June 8, 2023 - Evaluation enabled on the dev set~
  * June 15, 2023 - Test data release (blind)
  * July 1, 2023 - Submissions open
  * July 31, 2023 - Submissions close
@@ -37,6 +38,8 @@ Each JSON file has the following format:
             "Cue": ["0:1"],
             "Form": "Indirect",
             "Frame": ["0:0", "0:1"],
+            "HasNested": false,
+            "IsNested": false,
             "Message": ["0:2", "0:3", "0:4", "0:5"],
             "STWR": "Speech",
             "Source": ["0:0"]
@@ -57,6 +60,8 @@ where
 * `Addr`, `Cue`, `Frame`, `Message` and `Source` are an array of `SentenceID:TokenID` offsets.
 * `Form` describes the form of message (what kind of quote it is); one of `Direct|Indirect|FreeIndirect|IndirectFreeIndirect|Reported`
 * `STWR` describes how the message was uttered; one of `Speech|Thought|Writing|ST|SW|TW`. `ST` is Speech+Thought, `SW` is Speech+Writing, `TW` is Thought+Writing
+* `HasNested` is a boolean indicating if there is another annotation nested within this annotation
+* `IsNested` is a boolean indication if this annotation is nested within some other annotation. The subtask 2 (simplified) only considers annotations with `"IsNested": false`
 
 
 
