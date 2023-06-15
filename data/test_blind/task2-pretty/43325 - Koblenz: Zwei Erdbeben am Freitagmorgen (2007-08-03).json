@@ -1,0 +1,270 @@
+{
+  "DocumentName": "43325 - Koblenz: Zwei Erdbeben am Freitagmorgen (2007-08-03)",
+  "Sentences": [
+    {
+      "SentenceId": 0,
+      "Tokens": [
+        "Am",
+        "frühen",
+        "Freitag",
+        "Morgen",
+        "gegen",
+        "5",
+        "Uhr",
+        "wurde",
+        "die",
+        "Region",
+        "um",
+        "das",
+        "rheinland-pfälzische",
+        "Koblenz",
+        "von",
+        "einem",
+        "Erdbeben",
+        "der",
+        "Stärke",
+        "4,0",
+        "auf",
+        "der",
+        "Richterskala",
+        "erschüttert",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 1,
+      "Tokens": [
+        "Nach",
+        "Aussage",
+        "des",
+        "Landesamtes",
+        "für",
+        "Geologie",
+        "und",
+        "Bergbau",
+        "Rheinland-Pfalz",
+        "mit",
+        "Sitz",
+        "in",
+        "Mainz"
+      ]
+    },
+    {
+      "SentenceId": 2,
+      "Tokens": [
+        "lag",
+        "das",
+        "Epizentrum",
+        "im",
+        "nahe",
+        "gelegenen",
+        "Plaidt",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 3,
+      "Tokens": [
+        "Etwa",
+        "30",
+        "Minuten",
+        "später",
+        "wurde",
+        "ein",
+        "Nachbeben",
+        "der",
+        "Stärke",
+        "2,0",
+        "registriert",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 4,
+      "Tokens": [
+        "Rheinland-Pfalz",
+        "sei",
+        "eine",
+        "erdbebengefährdete",
+        "Region",
+        ",",
+        "etwa",
+        "25",
+        "bis",
+        "50",
+        "Beben",
+        "würden",
+        "hier",
+        "jährlich",
+        "verzeichnet",
+        ",",
+        "wobei",
+        "die",
+        "meisten",
+        "im",
+        "Bereich",
+        "der",
+        "Stärke",
+        "1,5",
+        "bis",
+        "3,0",
+        "lägen",
+        "und",
+        "kaum",
+        "bemerkt",
+        "würden",
+        ",",
+        "so",
+        "der",
+        "Direktor",
+        "des",
+        "Landesamtes",
+        ",",
+        "Harald",
+        "Ehses",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 5,
+      "Tokens": [
+        "Lediglich",
+        "alle",
+        "zehn",
+        "Jahre",
+        "komme",
+        "es",
+        "zu",
+        "einem",
+        "Beben",
+        "der",
+        "Stärke",
+        "4,0."
+      ]
+    },
+    {
+      "SentenceId": 6,
+      "Tokens": [
+        "Grund",
+        "für",
+        "diese",
+        "Beben",
+        "sei",
+        "ein",
+        "Riss",
+        "in",
+        "der",
+        "Erdkruste",
+        ",",
+        "an",
+        "dem",
+        "tektonische",
+        "Spannungen",
+        "entstünden",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 7,
+      "Tokens": [
+        "Die",
+        "Druckwellen",
+        "des",
+        "Erdbebens",
+        "waren",
+        "auch",
+        "noch",
+        "im",
+        "Kreis",
+        "Euskirchen",
+        "und",
+        "im",
+        "Rhein-Sieg-Kreis",
+        "zu",
+        "spüren",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 8,
+      "Tokens": [
+        "Der",
+        "Seismologe",
+        "Claus",
+        "Fleischer",
+        "von",
+        "der",
+        "Erbebenwarte",
+        "Bensberg",
+        "bei",
+        "Köln",
+        "sagte",
+        ":",
+        "„",
+        "Das",
+        "Erdbeben",
+        "war",
+        "nicht",
+        "besonders",
+        "stark",
+        ",",
+        "aber",
+        "ziemlich",
+        "nahe",
+        "unter",
+        "der",
+        "Erdoberfläche",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 9,
+      "Tokens": [
+        "Deshalb",
+        "waren",
+        "die",
+        "Stoßwellen",
+        "weithin",
+        "spürbar",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 10,
+      "Tokens": [
+        "“"
+      ]
+    },
+    {
+      "SentenceId": 11,
+      "Tokens": [
+        "Personen-",
+        "oder",
+        "Sachschäden",
+        "wurden",
+        "bei",
+        "dem",
+        "heutigen",
+        "Beben",
+        "bislang",
+        "nicht",
+        "bekannt",
+        ",",
+        "jedoch",
+        "wählten",
+        "viele",
+        "besorgte",
+        "Bürger",
+        "die",
+        "Notrufnummer",
+        "oder",
+        "erkundigten",
+        "sich",
+        "telefonisch",
+        "bei",
+        "Behörden",
+        "."
+      ]
+    }
+  ]
+}

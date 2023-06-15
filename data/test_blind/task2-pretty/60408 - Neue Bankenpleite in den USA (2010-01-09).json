@@ -1,0 +1,83 @@
+{
+  "DocumentName": "60408 - Neue Bankenpleite in den USA (2010-01-09)",
+  "Sentences": [
+    {
+      "SentenceId": 0,
+      "Tokens": [
+        "Die",
+        "erste",
+        "Bank",
+        ",",
+        "die",
+        "in",
+        "diesem",
+        "Jahr",
+        "in",
+        "den",
+        "USA",
+        "pleite",
+        "geht",
+        ",",
+        "ist",
+        "die",
+        "Horizon",
+        "Bank",
+        "aus",
+        "Bellingham",
+        "im",
+        "US-Bundesstaat",
+        "Washington",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 1,
+      "Tokens": [
+        "Den",
+        "Einlagensicherungsfonds",
+        "FDIC",
+        "kostet",
+        "die",
+        "Bankenpleite",
+        "539,1",
+        "Millionen",
+        "US-Dollar",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 2,
+      "Tokens": [
+        "Im",
+        "abgelaufenen",
+        "Jahr",
+        "wurden",
+        "in",
+        "den",
+        "USA",
+        "140",
+        "Banken",
+        "geschlossen",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 3,
+      "Tokens": [
+        "Auch",
+        "in",
+        "diesem",
+        "Jahr",
+        "soll",
+        "die",
+        "Zahl",
+        "der",
+        "Bankenpleiten",
+        "wieder",
+        "Rekordhöhen",
+        "erreichen",
+        "."
+      ]
+    }
+  ]
+}

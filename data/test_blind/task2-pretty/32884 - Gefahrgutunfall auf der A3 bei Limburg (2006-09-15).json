@@ -1,0 +1,333 @@
+{
+  "DocumentName": "32884 - Gefahrgutunfall auf der A3 bei Limburg (2006-09-15)",
+  "Sentences": [
+    {
+      "SentenceId": 0,
+      "Tokens": [
+        "Ein",
+        "Gefahrgutunfall",
+        "auf",
+        "der",
+        "A3",
+        "bei",
+        "Limburg",
+        "(",
+        "Hessen",
+        ")",
+        "am",
+        "Morgen",
+        "des",
+        "5.",
+        "September",
+        "2006",
+        "führte",
+        "zu",
+        "einem",
+        "Verkehrschaos",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 1,
+      "Tokens": [
+        "Ein",
+        "LKW",
+        "einer",
+        "Spedition",
+        "aus",
+        "Dannstadt",
+        "(",
+        "Rheinland-Pfalz",
+        ")",
+        "transportierte",
+        "zwölf",
+        "Fässer",
+        "mit",
+        "je",
+        "200",
+        "Litern",
+        "des",
+        "hochgiftigen",
+        "und",
+        "explosiven",
+        "Solvenon",
+        "sowie",
+        "ein",
+        "für",
+        "Wasserorganismen",
+        "hochgiftiges",
+        "Granulat",
+        "von",
+        "Belgien",
+        "nach",
+        "Bischofsheim",
+        "im",
+        "Kreis",
+        "Groß-Gerau",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 2,
+      "Tokens": [
+        "Dabei",
+        "war",
+        "sein",
+        "Fahrzeug",
+        "nicht",
+        "mit",
+        "dem",
+        "vorgeschriebenen",
+        "Gefahrguthinweis",
+        "versehen",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 3,
+      "Tokens": [
+        "Eigenen",
+        "Angaben",
+        "zufolge",
+        "wusste",
+        "der",
+        "41-jährige",
+        "Fahrer",
+        "auch",
+        "nichts",
+        "von",
+        "der",
+        "Gefährlichkeit",
+        "seiner",
+        "Ladung",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 4,
+      "Tokens": [
+        "Nachdem",
+        "der",
+        "Fahrer",
+        "den",
+        "Brand",
+        "seines",
+        "Aufliegers",
+        "bemerkt",
+        "hatte",
+        ",",
+        "hielt",
+        "er",
+        "auf",
+        "der",
+        "Lahnbrücke",
+        "und",
+        "alarmierte",
+        "die",
+        "Feuerwehr",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 5,
+      "Tokens": [
+        "Sechs",
+        "der",
+        "Fässer",
+        "mit",
+        "dem",
+        "Solvenon",
+        "explodierten",
+        "nach",
+        "Polizeiangaben",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 6,
+      "Tokens": [
+        "Das",
+        "mit",
+        "dem",
+        "giftigen",
+        "Granulat",
+        "verseuchte",
+        "Wasser",
+        "gelangte",
+        "ins",
+        "Erdreich",
+        "und",
+        "in",
+        "die",
+        "Lahn",
+        ",",
+        "da",
+        "das",
+        "Gefahrgut",
+        "für",
+        "die",
+        "Feuerwehr",
+        "zunächst",
+        "nicht",
+        "erkennbar",
+        "war",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 7,
+      "Tokens": [
+        "Was",
+        "den",
+        "Brand",
+        "auslöste",
+        ",",
+        "war",
+        "zunächst",
+        "ungeklärt",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 8,
+      "Tokens": [
+        "Vermutlich",
+        "erhitzten",
+        "sich",
+        "die",
+        "Bremsen",
+        "während",
+        "der",
+        "Fahrt",
+        "so",
+        "stark",
+        ",",
+        "dass",
+        "sich",
+        "der",
+        "Auflieger",
+        "entzündete",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 9,
+      "Tokens": [
+        "Die",
+        "Untere",
+        "Wasserbehörde",
+        "Limburg",
+        "rief",
+        "Gewässeralarm",
+        "aus",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 10,
+      "Tokens": [
+        "Die",
+        "Lahn",
+        "wurde",
+        "für",
+        "die",
+        "Schifffahrt",
+        "gesperrt",
+        ",",
+        "auch",
+        "Baden",
+        "und",
+        "Angeln",
+        "war",
+        "verboten",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 11,
+      "Tokens": [
+        "An",
+        "der",
+        "Einsatzstelle",
+        "bildete",
+        "sich",
+        "vorübergehend",
+        "ein",
+        "20",
+        "Kilometer",
+        "langer",
+        "Stau",
+        "bis",
+        "nach",
+        "Montabaur",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 12,
+      "Tokens": [
+        "Eine",
+        "Gefährdung",
+        "für",
+        "die",
+        "Bevölkerung",
+        "bestand",
+        "angeblich",
+        "nicht",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 13,
+      "Tokens": [
+        "Dennoch",
+        "wurden",
+        "die",
+        "Anwohner",
+        "angehalten",
+        ",",
+        "ihre",
+        "Fenster",
+        "und",
+        "Türen",
+        "geschlossen",
+        "zu",
+        "halten",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 14,
+      "Tokens": [
+        "Der",
+        "Sachschaden",
+        "wurde",
+        "auf",
+        "100.000",
+        "Euro",
+        "beziffert",
+        "."
+      ]
+    },
+    {
+      "SentenceId": 15,
+      "Tokens": [
+        "Der",
+        "Spedition",
+        "droht",
+        "nun",
+        "eine",
+        "hohe",
+        "Geldstrafe",
+        "wegen",
+        "des",
+        "fehlenden",
+        "Hinweises",
+        "auf",
+        "den",
+        "Gefahrstoff",
+        "."
+      ]
+    }
+  ]
+}
