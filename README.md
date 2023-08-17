@@ -16,8 +16,8 @@ The Shared Task competition is run on [CodaLab](https://codalab.lisn.upsaclay.fr
  * ~April 1, 2023 - Training and development data release~
  * ~June 8, 2023 - Evaluation enabled on the dev set~
  * ~June 15, 2023 - Test data release (blind)~
- * July 1, 2023 - Submissions open
- * July 31, 2023 - Submissions close
+ * ~July 1, 2023 - Submissions open~
+ * ~July 31, 2023 - Submissions close~
  * August 14, 2023 - System descriptions due
  * September 7, 2023 - Camera-ready system paper deadline
  * September 18-22, 2023 - Workshop at KONVENS 2023
