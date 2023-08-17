@@ -1,0 +1,2 @@
+command: python $program/score.py $input $output
+description: Compute scores for the competition for Task2 (a) -- full eval
