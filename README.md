@@ -1,6 +1,6 @@
 # SpkAtt-2023
 
-This repository contains the data and supplementary materials for Task 2 of the 
+This repository contains the data and supplementary materials for Task 2 of the
 
 ## 2023 Shared Task on Speaker Attribution (SpkAtt-2023),
 
@@ -18,8 +18,8 @@ The Shared Task competition is run on [CodaLab](https://codalab.lisn.upsaclay.fr
  * ~June 15, 2023 - Test data release (blind)~
  * ~July 1, 2023 - Submissions open~
  * ~July 31, 2023 - Submissions close~
- * August 14, 2023 - System descriptions due
- * September 7, 2023 - Camera-ready system paper deadline
+ * ~August 14, 2023 - System descriptions due~
+ * ~September 7, 2023 - Camera-ready system paper deadline~
  * September 18-22, 2023 - Workshop at KONVENS 2023
 
 ## Task 2 Data
@@ -83,4 +83,4 @@ The data is provided under the [CC BY-NC-SA 4.0](https://creativecommons.org/lic
 
 ## Supplementary Materials
 
-A detailed description of the annotation schema and the annotation guidelines are currently under revision. They will be added here, soon.
+The annotation guidelines (in German) can be found in `doc` directory.
