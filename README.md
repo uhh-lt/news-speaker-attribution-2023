@@ -83,4 +83,5 @@ The data is provided under the [CC BY-NC-SA 4.0](https://creativecommons.org/lic
 
 ## Supplementary Materials
 
+A code skeleton to read and write the data format can be found in the `starter_kit` directory.
 The annotation guidelines (in German) can be found in `doc` directory.
